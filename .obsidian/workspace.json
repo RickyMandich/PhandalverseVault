@@ -66,7 +66,7 @@
                   },
                   "serial": {
                     "columns": 171,
-                    "data": "\r\n\u001b[32mRiccardo@AOC \u001b[35mMINGW64 \u001b[33m~/IdeaProjects/Phandalverse \u001b[36m(main)\r\n\u001b[0m$ bash/cmt.sh",
+                    "data": "\r\n\u001b[32mRiccardo@AOC \u001b[35mMINGW64 \u001b[33m~/IdeaProjects/Phandalverse \u001b[36m(main)\r\n\u001b[0m$ git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\n\u001b[32mRiccardo@AOC \u001b[35mMINGW64 \u001b[33m~/IdeaProjects/Phandalverse \u001b[36m(main)\r\n\u001b[0m$ bash/cmt.sh",
                     "rows": 54
                   }
                 }
