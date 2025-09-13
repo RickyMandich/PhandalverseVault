@@ -1,0 +1,11 @@
+{
+  "terminal:close-terminal": [],
+  "terminal:open-terminal.integrated.root": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
+}
