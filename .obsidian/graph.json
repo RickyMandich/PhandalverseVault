@@ -64,30 +64,44 @@
       }
     },
     {
-      "query": "tag:#saga  ",
+      "query": "tag:#gruppo ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 16689634
       }
     },
     {
-      "query": "tag:#macrosaga  ",
+      "query": "tag:#evento",
       "color": {
         "a": 1,
-        "rgb": 15277220
+        "rgb": 6371865
+      }
+    },
+    {
+      "query": "tag:#saga",
+      "color": {
+        "a": 1,
+        "rgb": 15558399
+      }
+    },
+    {
+      "query": "tag:#macrosaga",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.83541666666667,
+  "nodeSizeMultiplier": 2.14166666666667,
   "lineSizeMultiplier": 3.0859375,
   "collapse-forces": false,
   "centerStrength": 0.770833333333333,
-  "repelStrength": 17.1875,
-  "linkStrength": 0.817708333333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6519546901366741,
+  "scale": 0.483635967308996,
   "close": false
 }

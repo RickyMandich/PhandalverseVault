@@ -4,97 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea598e0972086f1",
-        "type": "split",
+        "id": "2a02b292f5de3402",
+        "type": "tabs",
         "children": [
           {
-            "id": "58fafd79c8f60b86",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b64c3a8eb0238245",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "saghe/Saga di GemGrave.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1f36d12b38bede40",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "saghe/Saga di Suddaria.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dc5b5df7ba22c1d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "universi/phandalmain/phandalmain.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
+            "id": "c2dffc8f5a92487b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
           },
           {
-            "id": "83f5b1679d973515",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4b6b6f9b95c97242",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\Riccardo\\IdeaProjects\\Phandalverse",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
+            "id": "72d228452e5511a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "saghe/Saga di Suddaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saga di Suddaria"
+            }
+          },
+          {
+            "id": "41a09ab059806e1c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\Riccardo\\IdeaProjects\\Phandalverse",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "name": "git bash (integrated)",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "pinned": true
+                  "serial": {
+                    "columns": 171,
+                    "data": "\r\n\u001b[32mRiccardo@AOC \u001b[35mMINGW64 \u001b[33m~/IdeaProjects/Phandalverse \u001b[36m(main)\r\n\u001b[0m$ bash/cmt.sh",
+                    "rows": 54
+                  }
                 }
-              }
-            ]
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: MINGW64:/c/Users/Riccardo/IdeaProjects/Phandalverse"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,8 +96,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
             }
           },
           {
@@ -123,13 +109,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"copilot-command-slash-enabled\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
             }
           },
           {
@@ -137,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
             }
           }
         ]
@@ -167,7 +157,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
             }
           },
           {
@@ -178,7 +170,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -188,8 +182,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequencyReverse",
-                "useHierarchy": true
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
             }
           },
           {
@@ -197,10 +195,41 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "d5d54c7702c698a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "5f336eab4e735bd5",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,54 +238,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4b6b6f9b95c97242",
+  "active": "41a09ab059806e1c",
   "lastOpenFiles": [
+    "saghe/Saga di Suddaria.md",
+    "eventi principali/La frattura.md",
+    "Personaggi/gruppi/la mano bianca.md",
+    "Personaggi/gruppi/prescelti di fandalmein.md",
+    "eventi principali",
+    "saghe/Saga di GemGrave.md",
+    "saghe/macrosaga della chiave.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Senza nome.canvas",
+    "divinità/Krystallō.md",
     "universi/phandalmain/phandalmain.md",
     "universi/phandalmain/Phandalmain.jpg",
-    "saghe/Saga di Suddaria.md",
     "universi/phandalmain/Phandalmain.jpg.crdownload",
     "universi/fandalmein/fandasulend/fandasulend.md",
     "universi/phandalmain/phandanoland/phandanoland.md",
-    "saghe/Saga di GemGrave.md",
     "universi/phandalmain/phandasuland/GemGrave.md",
-    "saghe/macrosaga della chiave.md",
     "universi/fandalmein/fandasulend/GemGreiv.md",
     "divinità/Líthos.md",
-    "universi/fandalmein/fandanolend/Settentrionel.md",
-    "universi/fandalmein/fandanolend/Nordavila.md",
-    "universi/fandalmein/fandanolend/fandanolend.md",
-    "universi/fandalmein/fandanolend/Cristalgreiv.md",
-    "universi/fandalmein/fandasulend/Meridionel.md",
-    "universi/fandalmein/fandasulend/Sudaria.md",
-    "universi/fandalmein/fandalmein.md",
-    "universi/phandalmain/phandanoland/Cristalgrave.md",
-    "universi/phandalmain/phandanoland/Nordavilla.md",
-    "universi/phandalmain/phandanoland/Settentrionelle.md",
-    "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.md",
     "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.png",
-    "universi/phandalmain/phandasuland/suddaria/Suddaria.md",
-    "artefatti/la chiave.md",
-    "divinità/Krystallō.md",
-    "Personaggi/gruppi/la mano bianca.md",
-    "Personaggi/Giocanti/Zylian.md",
     "bash/cmt.sh",
     "bash/pull.sh",
     "bash",
     "Nuova cartella",
     "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.xcf",
     "universi/phandalmain/phandasuland/suddaria",
-    "Senza nome",
-    "Personaggi/gruppi",
-    "saghe/Saga di Suddaria, dungeon con il frammento di chiave.png.crdownload",
-    "Senza nome.canvas"
+    "Personaggi/gruppi"
   ]
 }
