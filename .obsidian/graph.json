@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#universo",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#definizione ",
+      "query": "path:definizioni",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -92,16 +92,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.14166666666667,
   "lineSizeMultiplier": 3.0859375,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.770833333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.483635967308996,
-  "close": false
+  "close": true
 }
