@@ -16,13 +16,13 @@
   "profiles": {
     "07cff632-4b36-4b8a-b5f9-fd750d075993": {
       "args": [],
-      "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "executable": "\"C:\\Program Files\\Git\\git-bash.exe\"",
       "name": "git bash (integrated)",
       "platforms": {
         "win32": true
       },
       "pythonExecutable": "python3",
-      "restoreHistory": true,
+      "restoreHistory": false,
       "rightClickAction": "copyPaste",
       "successExitCodes": [
         "0",
