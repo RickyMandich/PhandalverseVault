@@ -25,16 +25,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "saghe/Saga di GemGrave.md",
+                "file": "eventi/L'incidente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saga di GemGrave"
+              "title": "L'incidente"
+            }
+          },
+          {
+            "id": "c7adc0870fbc2e88",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\RickyMandich\\PROJECT\\phandalverse",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                    "name": "git bash (integrated)",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 131,
+                    "data": "Enumerating objects: 328, done.\r\nCounting objects: 100% (328/328), done.\r\nDelta compression using up to 12 threads\r\nCompressing objects: 100% (188/188), done.\r\nWriting objects: 100% (328/328), 17.68 MiB | 7.72 MiB/s, done.\r\nTotal 328 (delta 124), reused 291 (delta 105), pack-reused 0 (from 0)\r\nremote: Resolving deltas: 100% (124/124), done.\r\nTo https://github.com/RickyMandich/PhandalversePublic.git\r\n * [new branch]      main -> main\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ nano bash/cmt\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ nano bash/cmt.sh\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ ls\r\nPersonaggi  README.md  artefatti  bash  definizioni  entità  eventi  saghe  universi\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ ls bash\r\ncmt.sh  pull.sh\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ nano bash/cmt.sh\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ nano bash/cmt.sh\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$ecmt\r\nbash: cmt: command not found\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$mlssh\u001b[2Cpull.sh\r\nPersonaggi  README.md  artefatti  bash\u001b[2Cdefinizioni  entità  eventi  saghe  universi\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cls bash\r\ncmt.sh\u001b[2Cpull.sh\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$\u001b[1Ccmt\r\nbash: cmt: command not found\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cbash/cmy.sh\r\nbash: bash/cmy.sh: No such file or directory\r\n\r\n\u001b[32mRickyMandich@LAPTOP-SDFHP93O \u001b[35mMINGW64 \u001b[33m~/PROJECT/phandalverse \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cbash/cmy.sh\u001b[4D",
+                    "rows": 47
+                  }
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: MINGW64:/c/Users/RickyMandich/PROJECT/phandalverse"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +251,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2f36d61002062260",
+  "active": "c7adc0870fbc2e88",
   "lastOpenFiles": [
-    "{163953DF-AA74-4DD2-BF70-9AC2BFBC6120}.png",
+    "eventi/L'incidente.md",
     "saghe/Saga di GemGrave.md",
+    "{163953DF-AA74-4DD2-BF70-9AC2BFBC6120}.png",
     "universi/phandalmain/phandasuland/GemGrave.md",
     "Personaggi/gruppi/la mano rossa.md",
     "saghe/macrosaga della chiave.md",
@@ -225,7 +269,6 @@
     "divinità/Krystallō.md",
     "saghe/Saga di Suddaria.md",
     "universi/universo.md",
-    "eventi/La frattura.md",
     "Personaggi/gruppi/prescelti di fandalmein.md",
     "eventi",
     "copilot-custom-prompts/Emojify.md",
