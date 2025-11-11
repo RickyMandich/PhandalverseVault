@@ -9,7 +9,7 @@ NC='\033[0m'
 
 BRANCH=$(git branch --show-current)
 
-echo -e "${YELLOW}Ì≥ù Commit in corso...${NC}"
+echo -e "${YELLOW}ÔøΩÔøΩÔøΩ Commit in corso...${NC}"
 
 # Add e status
 git add .
@@ -20,15 +20,16 @@ nomeCommit=`date "+%Y %m %d %H:%M"`
 nomeCommit="aggiornamento "$nomeCommit
 git commit -m "$nomeCommit"
 
-clear
+echo ""
+echo ""
 
 echo -e "${GREEN}‚úì${NC} Commit completato su branch $BRANCH"
-echo -e "${YELLOW}Ì∫Ä Push al repo privato (origin)...${NC}"
+echo -e "${YELLOW}ÔøΩÔøΩÔøΩ Push al repo privato (origin)...${NC}"
 git push origin $BRANCH
 
 # Sincronizzazione branch pubblico con filtraggio intelligente
-echo -e "${YELLOW}Ìæ≤ Preparazione branch pubblico...${NC}"
-echo -e "${BLUE}Ì¥ç Analisi file per filtraggio...${NC}"
+echo -e "${YELLOW}ÔøΩÔøΩÔøΩ Preparazione branch pubblico...${NC}"
+echo -e "${BLUE}ÔøΩÔøΩÔøΩ Analisi file per filtraggio...${NC}"
 
 # Crea branch temporaneo
 git branch -D public-filtered 2>/dev/null
@@ -71,7 +72,7 @@ else
 fi
 
 # Push al repo pubblico
-echo -e "${YELLOW}Ìºç Push al repo pubblico (public)...${NC}"
+echo -e "${YELLOW}ÔøΩÔøΩÔøΩ Push al repo pubblico (public)...${NC}"
 git push -f public public-filtered:$BRANCH
 
 # Torna al branch originale
@@ -81,11 +82,13 @@ git checkout $BRANCH
 git branch -D public-filtered
 
 sleep 2
-clear
+echo ""
+echo ""
 
 echo -e "${GREEN}‚úÖ Tutto fatto!${NC}"
 echo -e "  ${GREEN}‚úì${NC} Repo privato (origin): aggiornato"
 echo -e "  ${GREEN}‚úì${NC} Repo pubblico (public): aggiornato e filtrato"
 echo -e "  ${BLUE}‚Ñπ${NC}  File nascosti: ${#FILES_TO_REMOVE[@]}"
 sleep 3
-clear
+echo ""
+echo ""
