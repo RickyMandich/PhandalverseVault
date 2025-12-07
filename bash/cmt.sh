@@ -1,94 +1,67 @@
 #!/bin/bash
 
-# Colori per output
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-RED='\033[0;31m'
-BLUE='\033[0;34m'
-NC='\033[0m'
+# Variabile per il messaggio personalizzato
+messaggio=""
 
-BRANCH=$(git branch --show-current)
+# Guarda se ci sono opzioni
+while getopts "m:h" opt; do
+    case $opt in
+        m)
+            messaggio=" - $OPTARG"
+            echo "Messaggio personalizzato: $messaggio"
+            ;;
+        h)
+            echo "Uso: $0 [-m messaggio]"
+            echo "  -m  (messaggio): aggiungi un messaggio personale al commit oltre a quello di default"
+            exit 0
+            ;;
+        \?)
+            echo "Opzione non valida: -$OPTARG" >&2
+            echo "Uso: $0 [-m messaggio]"
+            echo "  -m  (messaggio): aggiungi un messaggio personale al commit oltre a quello di default"
+            exit 1
+            ;;
+    esac
+done
 
-echo -e "${YELLOW}��� Commit in corso...${NC}"
-
-# Add e status
+# Aggiungi tutti i file al commit
 git add .
+# Mostra lo stato dei file
 git status
 
-# Nome commit con timestamp
-nomeCommit=`date "+%Y %m %d %H:%M"`
-nomeCommit="aggiornamento "$nomeCommit
-git commit -m "$nomeCommit"
-
-echo ""
-echo ""
-
-echo -e "${GREEN}✓${NC} Commit completato su branch $BRANCH"
-echo -e "${YELLOW}��� Push al repo privato (origin)...${NC}"
-git push origin $BRANCH
-
-# Sincronizzazione branch pubblico con filtraggio intelligente
-echo -e "${YELLOW}��� Preparazione branch pubblico...${NC}"
-echo -e "${BLUE}��� Analisi file per filtraggio...${NC}"
-
-# Crea branch temporaneo
-git branch -D public-filtered 2>/dev/null
-git checkout -b public-filtered
-
-# Lista per tenere traccia dei file da rimuovere
-FILES_TO_REMOVE=()
-
-# Trova tutti i file .md e controlla se contengono #dm
-echo -e "${BLUE}   Controllo file .md per tag #dm...${NC}"
-while IFS= read -r -d '' file; do
-    if grep -q "#dm" "$file"; then
-        FILES_TO_REMOVE+=("$file")
-        echo -e "${RED}   ✗${NC} Nascondo: $file (contiene #dm)"
-    fi
-done < <(find . -name "*.md" -not -path "./.git/*" -print0)
-
-# Trova tutte le cartelle con "DM" nel nome (case-insensitive)
-echo -e "${BLUE}   Controllo cartelle con 'DM' nel nome...${NC}"
-while IFS= read -r -d '' dir; do
-    # Trova tutti i file (immagini e altri) in queste cartelle
-    while IFS= read -r -d '' file; do
-        FILES_TO_REMOVE+=("$file")
-        echo -e "${RED}   ✗${NC} Nascondo: $file (in cartella DM)"
-    done < <(find "$dir" -type f -not -path "./.git/*" -print0)
-done < <(find . -type d -iname "*dm*" -not -path "./.git/*" -print0)
-
-# Rimuovi i file dall'indice git
-if [ ${#FILES_TO_REMOVE[@]} -gt 0 ]; then
-    echo -e "${YELLOW}   Rimozione di ${#FILES_TO_REMOVE[@]} file segreti...${NC}"
-    for file in "${FILES_TO_REMOVE[@]}"; do
-        git rm --cached "$file" 2>/dev/null || true
-    done
-    
-    # Commit le modifiche
-    git add -A
-    git commit -m "Filtered for players - $nomeCommit" --no-verify 2>/dev/null || true
+# Leggi la versione dall'ultimo messaggio di commit o dalla variabile d'ambiente NEW_VERSION
+if [ -n "$NEW_VERSION" ]; then
+    # Se NEW_VERSION è impostata (da all.sh), usala
+    APP_VERSION="$NEW_VERSION"
 else
-    echo -e "${GREEN}   ✓${NC} Nessun file segreto da nascondere"
+    # Altrimenti leggi dall'ultimo commit
+    lastCommitMessage=$(git log -1 --pretty=%s 2>/dev/null)
+
+    if [ -n "$lastCommitMessage" ]; then
+        # Estrai la versione dal messaggio di commit (formato: [tipo X.Y.Z])
+        APP_VERSION=$(echo "$lastCommitMessage" | grep -oP '\[.*?\]' | sed 's/\[//' | sed 's/\]//')
+
+        if [ -z "$APP_VERSION" ]; then
+            # Se non c'è versione nell'ultimo commit, inizia con v 0.0.0
+            APP_VERSION="v 0.0.0"
+        fi
+    else
+        # Se non ci sono commit, inizia con v 0.0.0
+        APP_VERSION="v 0.0.0"
+    fi
 fi
 
-# Push al repo pubblico
-echo -e "${YELLOW}��� Push al repo pubblico (public)...${NC}"
-git push -f public public-filtered:$BRANCH
+# Debug: mostra la versione trovata
+echo "Versione trovata: '$APP_VERSION'"
 
-# Torna al branch originale
-git checkout $BRANCH
+# Crea il nome del commit con data, ora e versione
+nomeCommit=$(date "+%Y %m %d %H:%M")
+nomeCommit="aggiornamento $nomeCommit [$APP_VERSION]$messaggio"
+echo "Messaggio commit: $nomeCommit"
+git commit -am "$nomeCommit"
 
-# Pulisci branch temporaneo
-git branch -D public-filtered
+# Esegui il push sul repository remoto
+git push
 
-sleep 2
-echo ""
-echo ""
-
-echo -e "${GREEN}✅ Tutto fatto!${NC}"
-echo -e "  ${GREEN}✓${NC} Repo privato (origin): aggiornato"
-echo -e "  ${GREEN}✓${NC} Repo pubblico (public): aggiornato e filtrato"
-echo -e "  ${BLUE}ℹ${NC}  File nascosti: ${#FILES_TO_REMOVE[@]}"
-sleep 3
-echo ""
-echo ""
+sleep 1
+# clear
