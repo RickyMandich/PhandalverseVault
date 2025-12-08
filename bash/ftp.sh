@@ -1,6 +1,6 @@
 # Itera sui file e carica ciascuno di essi (usando while read per gestire spazi nei nomi)
-# Ignora le cartelle .git, .obsidian e .trash
-find . -type f -not -path './.git/*' -not -path './.obsidian/*' -not -path './.trash/*' -not -path './bash/*' | while IFS= read -r file; do
+# Ignora le cartelle .git, bash e .trash
+find . -type f -not -path './.git/*' -not -path './.trash/*' -not -path './bash/*' | while IFS= read -r file; do
     # Salta righe vuote
     [ -z "$file" ] && continue
 

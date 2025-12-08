@@ -1,13 +1,13 @@
 # Funzione per caricare i file su FTP a partire dal commit
 function uploadFilesFromCommit() {
     # Itera sui file modificati e carica ciascuno di essi (usando while read per gestire spazi nei nomi)
-    # Ignora le cartelle .obsidian e .trash
+    # Ignora le cartelle bash e .trash
     git diff-tree --no-commit-id --name-only -r HEAD | while IFS= read -r file; do
         # Salta righe vuote
         [ -z "$file" ] && continue
 
-        # Ignora i file nelle cartelle .obsidian e .trash
-        if [[ "$file" == .obsidian/* ]] || [[ "$file" == .trash/* ]] || [[ "$file" == bash/* ]]; then
+        # Ignora i file nelle cartelle bash e .trash
+        if [[ "$file" == .trash/* ]] || [[ "$file" == bash/* ]]; then
             echo "Ignorato: $file"
             continue
         fi
