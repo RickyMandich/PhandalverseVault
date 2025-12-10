@@ -179,23 +179,23 @@
             }
           },
           {
-            "id": "5f336eab4e735bd5",
+            "id": "95605aa0e6ac9a77",
             "type": "leaf",
             "state": {
-              "type": "github-copilot-chat-view",
+              "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
-            "id": "9dc222c4b8c2188a",
+            "id": "7ebeb019993980aa",
             "type": "leaf",
             "state": {
-              "type": "github-copilot-chat-view",
+              "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           }
         ],
@@ -215,7 +215,6 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Create new base": false,
-      "terminal:Open terminal": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },

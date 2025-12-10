@@ -1,0 +1,68 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-shellcommands:shell-command-ve8j2kjh78",
+      "icon": "lucide-upload-cloud",
+      "name": "Shell commands: Execute: ",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-4w1sm6xb31",
+      "icon": "lucide-git-commit",
+      "name": "Shell commands: Execute: cmt",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-xk4l33ncmo",
+      "icon": "lucide-download",
+      "name": "Shell commands: Execute: pull",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-shellcommands:shell-command-4w1sm6xb31"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-shellcommands:shell-command-ve8j2kjh78"
+        }
+      ],
+      "name": "all",
+      "icon": "lucide-plane-takeoff",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
