@@ -22,6 +22,12 @@
       "icon": "lucide-download",
       "name": "Shell commands: Execute: pull",
       "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-plane-takeoff",
+      "name": "Commander: all",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
@@ -54,7 +60,7 @@
     "statusbar": [],
     "leftRibbon": []
   },
-  "spacing": 8,
+  "spacing": "8",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,

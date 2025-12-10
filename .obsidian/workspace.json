@@ -215,7 +215,10 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Create new base": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "cmdr:Shell commands: Execute: cmt": false,
+      "cmdr:Shell commands: Execute: ": false,
+      "cmdr:Shell commands: Execute: pull": false
     }
   },
   "active": "0e3e54030a07ca1a",
