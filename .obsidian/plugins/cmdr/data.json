@@ -28,6 +28,12 @@
       "icon": "lucide-plane-takeoff",
       "name": "Commander: all",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-e2p22u6n5g",
+      "icon": "lucide-git-fork",
+      "name": "Shell commands: Execute: status",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
