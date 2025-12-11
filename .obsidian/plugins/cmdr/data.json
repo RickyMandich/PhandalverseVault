@@ -24,15 +24,15 @@
       "mode": "any"
     },
     {
-      "id": "cmdr:macro-0",
-      "icon": "lucide-plane-takeoff",
-      "name": "Commander: all",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-shellcommands:shell-command-e2p22u6n5g",
       "icon": "lucide-git-fork",
       "name": "Shell commands: Execute: status",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-m1h205x0l5",
+      "icon": "lucide-plane-takeoff",
+      "name": "Shell commands: Execute: all",
       "mode": "any"
     }
   ],
@@ -40,27 +40,7 @@
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
-  "macros": [
-    {
-      "macro": [
-        {
-          "action": 0,
-          "commandId": "obsidian-shellcommands:shell-command-4w1sm6xb31"
-        },
-        {
-          "action": 1,
-          "delay": "250"
-        },
-        {
-          "action": 0,
-          "commandId": "obsidian-shellcommands:shell-command-ve8j2kjh78"
-        }
-      ],
-      "name": "all",
-      "icon": "lucide-plane-takeoff",
-      "startup": false
-    }
-  ],
+  "macros": [],
   "explorer": [],
   "hide": {
     "statusbar": [],
