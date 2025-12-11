@@ -1,0 +1,1 @@
+un drakkar volante che durante il primo millennio [[nonno Roshi]] ha dotato di un automa per la guida autonoma

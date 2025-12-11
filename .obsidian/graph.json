@@ -57,14 +57,14 @@
       }
     },
     {
-      "query": "tag:#png  tag:#phandalmain",
+      "query": "path:\"personaggi/Non Giocanti\" tag:#phandalmain ",
       "color": {
         "a": 1,
         "rgb": 8026879
       }
     },
     {
-      "query": "tag:#png  tag:#fandalmein",
+      "query": "path:\"personaggi/Non Giocanti\" tag:#fandalmein ",
       "color": {
         "a": 1,
         "rgb": 262266
