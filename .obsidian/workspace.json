@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
-          },
-          {
-            "id": "0e3e54030a07ca1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definizioni/villaggio.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "villaggio"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"copilot-command-slash-enabled\"]",
+                "query": "tag:#città",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,6 +193,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Commander: all": false,
+      "cmdr:Shell commands: Execute: status": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -221,8 +208,25 @@
       "cmdr:Shell commands: Execute: pull": false
     }
   },
-  "active": "0e3e54030a07ca1a",
+  "active": "c2dffc8f5a92487b",
   "lastOpenFiles": [
+    "universi/fandalmein/fandanolend/Cristalgreiv.md",
+    "universi/phandalmain/phandanoland/Cristalgrave.md",
+    "Krystallō.md",
+    "personaggi/Giocanti/pet/Thraal.md",
+    "personaggi/Giocanti/pet/Ren.md",
+    "personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md",
+    "artefatti/la bussola.md",
+    "universi/phandalmain/phandasuland/suddaria/Suddaria.md",
+    "universi/fandalmein/fandasulend/Sudaria.md",
+    "universi/phandalmain/phandanoland/Settentrionelle.md",
+    "universi/fandalmein/fandanolend/Settentrionel.md",
+    "universi/phandalmain/phandanoland/Nordavilla.md",
+    "universi/phandalmain/phandasuland/Meridionelle.md",
+    "universi/fandalmein/fandasulend/Meridionel.md",
+    "universi/fandalmein/fandasulend/GemGreiv.md",
+    "universi/phandalmain/phandasuland/GemGrave.md",
+    "universi/fandalmein/fandanolend/Nordavila.md",
     "definizioni/villaggio.md",
     "definizioni/Villaggio2.md",
     "Personaggi/Giocanti/Vargas (Paladino Nano, 65).md",
@@ -232,27 +236,10 @@
     "Personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md",
     "Personaggi/Giocanti/pet/Thraal.md",
     "Personaggi/gruppi/la mano rossa.md",
-    "saghe/Saga di GemGrave.md",
-    "Personaggi/Non Giocanti/Fumero.md",
-    "Personaggi/Giocanti/pet/Ren.md",
     "Personaggi/Giocanti/pet",
-    "universi/phandalmain/phandasuland/GemGrave.md",
-    "artefatti/il Portale.md",
-    "universi/fandalmein/atalantide.md",
-    "universi/phandalmain/atlantide.md",
-    "artefatti/la chiave.md",
-    "artefatti/la bussola.md",
-    "Personaggi/Non Giocanti/nonno Roshi.md",
-    "Personaggi/Non Giocanti/perrin.md",
     "Personaggi/Non Giocanti/perrin.jpg",
-    "saghe/Saga di Suddaria.md",
-    "saghe/macrosaga della chiave.md",
-    "Untitled.md",
-    "Personaggi/Non Giocanti/Dark Kaia.md",
     "{163953DF-AA74-4DD2-BF70-9AC2BFBC6120}.png",
     "universi/phandalmain/Phandalmain.jpg",
-    "divinità/Líthos.md",
-    "divinità/Krystallō.md",
     "eventi",
     "copilot-custom-prompts",
     "Senza nome.canvas",

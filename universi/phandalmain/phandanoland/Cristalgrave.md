@@ -1,2 +1,2 @@
-#città 
-città costruita sul cadavere di [[Krystallō]]
+#citta  
+città costruita sul cadavere di [[Krystallo]]

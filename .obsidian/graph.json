@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#universo",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#città",
+      "query": "tag:#citta",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#divinità  ",
+      "query": "path:entità  ",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -43,7 +43,14 @@
       }
     },
     {
-      "query": "tag:#pg",
+      "query": "path:personaggi/Giocanti/pet  ",
+      "color": {
+        "a": 1,
+        "rgb": 14002666
+      }
+    },
+    {
+      "query": "path:personaggi/Giocanti  ",
       "color": {
         "a": 1,
         "rgb": 12996095
@@ -90,6 +97,13 @@
         "a": 1,
         "rgb": 15597823
       }
+    },
+    {
+      "query": "path:artefatti  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
     }
   ],
   "collapse-display": true,
@@ -103,5 +117,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.4836359673089951,
-  "close": true
+  "close": false
 }
