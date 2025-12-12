@@ -36,59 +36,17 @@
             }
           },
           {
-            "id": "ad89e459faed4a46",
+            "id": "f2140f110941e5eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personaggi/Non Giocanti/blob.md",
+                "file": "personaggi/Non Giocanti/nonno Roshi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blob"
-            }
-          },
-          {
-            "id": "56508e39c0d8bb47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/Non Giocanti/mussel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mussel"
-            }
-          },
-          {
-            "id": "359d4b31a05d5866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/Non Giocanti/Dark Kaia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dark Kaia"
-            }
-          },
-          {
-            "id": "d49fcd2088c893bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/Non Giocanti/Fumero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fumero"
+              "title": "nonno Roshi"
             }
           },
           {
@@ -104,93 +62,9 @@
               "icon": "lucide-file",
               "title": "irving"
             }
-          },
-          {
-            "id": "a8ca581fb3f924a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/Non Giocanti/Kaia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaia"
-            }
-          },
-          {
-            "id": "f2140f110941e5eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/Non Giocanti/nonno Roshi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nonno Roshi"
-            }
-          },
-          {
-            "id": "09b3c53b9cee44ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definizioni/calendario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "calendario"
-            }
-          },
-          {
-            "id": "624e507f9810e4c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eventi/La frattura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La frattura"
-            }
-          },
-          {
-            "id": "f3e778784f474585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/organizzazioni/la coalizione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "la coalizione"
-            }
-          },
-          {
-            "id": "c470782bcb8f8def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/organizzazioni/gli asmodeici.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gli asmodeici"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -379,38 +253,39 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "c470782bcb8f8def",
+  "active": "3c8e11ad4b69576b",
   "lastOpenFiles": [
-    "personaggi/Giocanti/Than (Warlock tiefling, 30).md",
-    "personaggi/organizzazioni/gli asmodeici.md",
-    "personaggi/organizzazioni/la coalizione.md",
-    "personaggi/organizzazioni",
-    "eventi/La frattura.md",
-    "definizioni/calendario.md",
-    "artefatti/la bussola.md",
-    "personaggi/Non Giocanti/nonno Roshi.md",
-    "saghe/Saga di GemGrave.md",
-    "saghe/macrosaga della chiave.md",
-    "personaggi/Non Giocanti/viper.md",
-    "personaggi/Non Giocanti/perrin cauthon.md",
-    "artefatti/Fyrbrand.md",
-    "personaggi/gruppi magici/fratelli dei lupi.md",
-    "universi/Tel'Aran'Rhiod.md",
-    "universi/Senza nome.md",
-    "personaggi/gruppi magici",
-    "mezzi/Skiblanir.md",
-    "mezzi",
-    "universi/phandalmain/fossa delle marie.md",
     "personaggi/Non Giocanti/blob.md",
     "personaggi/Non Giocanti/mussel.md",
-    "universi/phandalmain/Phandalmain.jpg",
-    "personaggi/Non Giocanti/Kaia.md",
-    "personaggi/Non Giocanti/irving.md",
-    "personaggi/Non Giocanti/Fumero.md",
     "personaggi/Non Giocanti/Dark Kaia.md",
-    "personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md",
-    "universi/fandalmein/fandanolend/Cristalgreiv.md",
-    "universi/phandalmain/phandanoland/Cristalgrave.md",
+    "personaggi/Non Giocanti/Fumero.md",
+    "personaggi/Giocanti/Vargas (Paladino Nano, 65).md",
+    "personaggi/Non Giocanti/irving.md",
+    "personaggi/Non Giocanti/Kaia.md",
+    "personaggi/Non Giocanti/nonno Roshi.md",
+    "definizioni/calendario.md",
+    "artefatti/la bussola.md",
+    "eventi/la purga.md",
+    "eventi/La frattura.md",
+    "universi/phandalmain/atlantide.md",
+    "epoche/epoca terza.md",
+    "epoche/epoca leggendaria.md",
+    "personaggi/organizzazioni/artefici.md",
+    "personaggi/organizzazioni/la coalizione.md",
+    "epoche",
+    "artefatti/Fyrbrand.md",
+    "artefatti/il Portale.md",
+    "artefatti/la chiave.md",
+    "definizioni/villaggio.md",
+    "definizioni/universo.md",
+    "entità/demoni/Asmodeus.md",
+    "entità/divinità/Krystallo.md",
+    "entità/divinità/Líthos.md",
+    "mezzi/Skiblanir.md",
+    "personaggi/organizzazioni",
+    "personaggi/gruppi magici",
+    "mezzi",
+    "universi/phandalmain/Phandalmain.jpg",
     "Personaggi/Giocanti/pet",
     "Personaggi/Non Giocanti/perrin.jpg",
     "{163953DF-AA74-4DD2-BF70-9AC2BFBC6120}.png",
@@ -420,7 +295,6 @@
     "universi/phandalmain/Phandalmain.jpg.crdownload",
     "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.png",
     "bash/cmt.sh",
-    "bash/pull.sh",
-    "bash"
+    "bash/pull.sh"
   ]
 }

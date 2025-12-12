@@ -1,3 +1,4 @@
+#dm
 # stanze
 ## 1) stanza vicino all'ingresso
 elenco dei personaggi presenti:

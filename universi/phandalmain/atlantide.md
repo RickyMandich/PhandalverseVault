@@ -1,0 +1,2 @@
+#dm 
+isola al centro del lago continentale di [[phandalmain]], durante l'[[epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua

@@ -1,4 +1,4 @@
-**Fyrbrand** è il martello da forgiatura donato a Perrin da [[nonno Roshi]].
+**Fyrbrand** è Il martello da forgiatura donato a Perrin da [[nonno Roshi]].
 A prima vista sembra uno strumento semplice, ma chi lo osserva da vicino nota subito che c’è qualcosa di insolito nella sua fattura.
 ## **Aspetto**
 

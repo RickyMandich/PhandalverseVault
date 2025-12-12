@@ -1,5 +1,5 @@
 #gruppo 
-è il gruppo dei protagonisti.
+è il gruppo dei protagonisti, sono i prescelti provenienti da [[phandalmain]].
 ## [[Vargas (Paladino Nano, 65)]]
 ![[Vargas (Paladino Nano, 65)]]
 ## [[Than (Warlock tiefling, 30)]]
