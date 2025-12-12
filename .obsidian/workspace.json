@@ -134,49 +134,63 @@
             }
           },
           {
-            "id": "dc3b7297a96a95a9",
+            "id": "09b3c53b9cee44ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personaggi/Non Giocanti/perrin.md",
+                "file": "definizioni/calendario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "perrin"
+              "title": "calendario"
             }
           },
           {
-            "id": "c24044d81cc4d12a",
+            "id": "624e507f9810e4c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personaggi/Non Giocanti/viper.md",
+                "file": "eventi/La frattura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "viper"
+              "title": "La frattura"
             }
           },
           {
-            "id": "9b0a7108f0e7d38b",
+            "id": "f3e778784f474585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mezzi/Skiblanir.md",
+                "file": "personaggi/organizzazioni/la coalizione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skiblanir"
+              "title": "la coalizione"
+            }
+          },
+          {
+            "id": "c470782bcb8f8def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personaggi/organizzazioni/gli asmodeici.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gli asmodeici"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -350,51 +364,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
+      "switcher:Apri selezione rapida": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Create new base": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "cmdr:Shell commands: Execute: ": false,
+      "cmdr:Shell commands: Execute: status": false,
       "cmdr:Shell commands: Execute: cmt": false,
       "cmdr:Shell commands: Execute: pull": false,
-      "cmdr:Shell commands: Execute: status": false,
-      "cmdr:Shell commands: Execute: all": false
+      "cmdr:Shell commands: Execute: all": false,
+      "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "532292349b9711b7",
+  "active": "c470782bcb8f8def",
   "lastOpenFiles": [
-    "mezzi/Skiblanir.md",
+    "personaggi/Giocanti/Than (Warlock tiefling, 30).md",
+    "personaggi/organizzazioni/gli asmodeici.md",
+    "personaggi/organizzazioni/la coalizione.md",
+    "personaggi/organizzazioni",
+    "eventi/La frattura.md",
+    "definizioni/calendario.md",
+    "artefatti/la bussola.md",
+    "personaggi/Non Giocanti/nonno Roshi.md",
     "saghe/Saga di GemGrave.md",
+    "saghe/macrosaga della chiave.md",
+    "personaggi/Non Giocanti/viper.md",
+    "personaggi/Non Giocanti/perrin cauthon.md",
+    "artefatti/Fyrbrand.md",
+    "personaggi/gruppi magici/fratelli dei lupi.md",
+    "universi/Tel'Aran'Rhiod.md",
+    "universi/Senza nome.md",
+    "personaggi/gruppi magici",
+    "mezzi/Skiblanir.md",
     "mezzi",
     "universi/phandalmain/fossa delle marie.md",
     "personaggi/Non Giocanti/blob.md",
     "personaggi/Non Giocanti/mussel.md",
     "universi/phandalmain/Phandalmain.jpg",
-    "personaggi/Non Giocanti/viper.md",
-    "personaggi/Non Giocanti/perrin.md",
-    "personaggi/Non Giocanti/nonno Roshi.md",
     "personaggi/Non Giocanti/Kaia.md",
     "personaggi/Non Giocanti/irving.md",
     "personaggi/Non Giocanti/Fumero.md",
     "personaggi/Non Giocanti/Dark Kaia.md",
-    "personaggi/gruppi/setta di thun.md",
     "personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md",
     "universi/fandalmein/fandanolend/Cristalgreiv.md",
     "universi/phandalmain/phandanoland/Cristalgrave.md",
-    "Krystallō.md",
-    "personaggi/Giocanti/pet/Thraal.md",
-    "personaggi/Giocanti/pet/Ren.md",
-    "personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md",
-    "artefatti/la bussola.md",
-    "universi/phandalmain/phandasuland/suddaria/Suddaria.md",
-    "universi/fandalmein/fandasulend/Sudaria.md",
-    "universi/phandalmain/phandanoland/Settentrionelle.md",
-    "universi/fandalmein/fandanolend/Settentrionel.md",
-    "universi/phandalmain/phandanoland/Nordavilla.md",
     "Personaggi/Giocanti/pet",
     "Personaggi/Non Giocanti/perrin.jpg",
     "{163953DF-AA74-4DD2-BF70-9AC2BFBC6120}.png",
@@ -405,8 +421,6 @@
     "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.png",
     "bash/cmt.sh",
     "bash/pull.sh",
-    "bash",
-    "Nuova cartella",
-    "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.xcf"
+    "bash"
   ]
 }

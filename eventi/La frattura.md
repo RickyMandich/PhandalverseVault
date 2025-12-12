@@ -1,9 +1,1 @@
-#evento
-
-#startMaster
-
-# roba che vede solo il master
-
-#endMaster
-
-# roba che vedono tutti
+come conseguenza di questo evento ebbe inizio [[La purga]] per ordine della [[la coalizione|coalizione]]

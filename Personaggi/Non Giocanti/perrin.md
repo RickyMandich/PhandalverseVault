@@ -1,1 +1,0 @@
-#phandalmain capovillaggio di [[GemGrave]]![[perrin.jpg]]

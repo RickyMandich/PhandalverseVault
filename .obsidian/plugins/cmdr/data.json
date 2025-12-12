@@ -6,12 +6,6 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "obsidian-shellcommands:shell-command-ve8j2kjh78",
-      "icon": "lucide-upload-cloud",
-      "name": "Shell commands: Execute: ",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-shellcommands:shell-command-4w1sm6xb31",
       "icon": "lucide-git-commit",
       "name": "Shell commands: Execute: cmt",
@@ -33,6 +27,12 @@
       "id": "obsidian-shellcommands:shell-command-m1h205x0l5",
       "icon": "lucide-plane-takeoff",
       "name": "Shell commands: Execute: all",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-ve8j2kjh78",
+      "icon": "lucide-upload-cloud",
+      "name": "Shell commands: Execute: ftp",
       "mode": "any"
     }
   ],
