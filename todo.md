@@ -1,3 +1,4 @@
+#dm 
 - creare un calendario dettagliato (13 mesi)
 - sistemare irving e roshi
 - scrivere moduli futuri
