@@ -1,191 +1,174 @@
 #!/usr/bin/env bash
-set -Eeuo pipefail
+set -euo pipefail
 
-########################
-# CONFIG & ARGUMENTS
-########################
-
-TARGET="."
-DRY_RUN=false
-
-for arg in "$@"; do
-  case "$arg" in
-    -d|--dry-run) DRY_RUN=true ;;
-    *) TARGET="$arg" ;;
-  esac
-done
-
-TIMESTAMP="$(date "+%Y-%m-%d_%H-%M-%S")"
+#######################################
+# CONFIG
+#######################################
+EXCLUDE_DIRS=( ".git" ".normalize" ".obsidian" "bash" )
+TIMESTAMP="$(date +%Y-%m-%d_%H-%M-%S)"
 LOG_DIR=".normalize/$TIMESTAMP"
 ACTION_LOG="$LOG_DIR/actions.log"
 COLLISION_LOG="$LOG_DIR/collisions.log"
+DRY_RUN=false
+TARGET_DIR="."
 
-EXCLUDED_DIRS=(
-  ".git"
-  ".normalize"
-  "bash"
-  ".obsidian"
-)
 
+
+#######################################
+# ARG PARSING
+#######################################
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -d|--dry-run) DRY_RUN=true ;;
+    -h|--help)
+      echo "Usage: ./normalize.sh [options] [directory]"
+      echo "Options:"
+      echo "  -d, --dry-run    Simulate only"
+      echo "  -h, --help       Show help"
+      exit 0
+      ;;
+    *) TARGET_DIR="$1" ;;
+  esac
+  shift
+done
 
 mkdir -p "$LOG_DIR"
 
+#######################################
+# HEADER
+#######################################
 echo "===== Normalize Script ====="
 echo "Timestamp: $TIMESTAMP"
 echo "Dry run: $DRY_RUN"
-echo "Target directory: $TARGET"
+echo "Target directory: $TARGET_DIR"
+echo "Excluded paths: ${EXCLUDE_DIRS[*]}"
 echo "============================"
 echo
 
-########################
-# HELPERS
-########################
-
+#######################################
+# UTILS
+#######################################
 normalize_name() {
-  local name="$1"
-
-  # accenti → base
-  name="$(printf '%s' "$name" | iconv -f UTF-8 -t ASCII//TRANSLIT)"
-
-  # lowercase
-  name="$(printf '%s' "$name" | tr '[:upper:]' '[:lower:]')"
-
-  # safe chars
-  name="$(printf '%s' "$name" \
-    | sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//')"
-
-  printf '%s' "$name"
+  echo "$1" \
+    | tr '[:upper:]' '[:lower:]' \
+    | sed -E '
+        s/[àáâãäå]/a/g;
+        s/[èéêë]/e/g;
+        s/[ìíîï]/i/g;
+        s/[òóôõö]/o/g;
+        s/[ùúûü]/u/g;
+        s/[^a-z0-9._-]+/-/g;
+        s/-+/-/g;
+        s/^-|-$//g
+      '
 }
 
-safe_mv() {
-  local src="$1"
-  local dst="$2"
+log_action()    { echo "$1" | tee -a "$ACTION_LOG"; }
+log_collision() { echo "$1" | tee -a "$COLLISION_LOG"; }
 
-  if [[ "$(realpath "$src")" == "$(realpath "$dst")" ]]; then
-    local tmp="${dst}.tmp-normalize"
-    mv "$src" "$tmp"
-    mv "$tmp" "$dst"
-  else
-    mv "$src" "$dst"
-  fi
+is_text_file() {
+  file --mime-type "$1" | grep -q text/
 }
 
-prompt_choice() {
-  local prompt="$1"
-  local choice
+#######################################
+# FIND
+#######################################
+PRUNE_EXPR=""
+for d in "${EXCLUDE_DIRS[@]}"; do
+  PRUNE_EXPR+=" -path \"$TARGET_DIR/$d\" -o"
+done
+PRUNE_EXPR="${PRUNE_EXPR% -o}"
 
-  while true; do
-    read -rp "$prompt " choice
-    case "$choice" in
-      1|2|s|m) echo "$choice"; return ;;
-      *) echo "Invalid choice. Use 1, 2, s or m." ;;
-    esac
-  done
-}
+eval find "\"$TARGET_DIR\"" -depth \
+  \( $PRUNE_EXPR \) -prune -false \
+  -o -print |
+while read -r path; do
 
-log_collision() {
-  {
-    echo "COLLISION"
-    echo "From: $1"
-    echo "To:   $2"
-    echo "Why:  $3"
-    echo
-  } >> "$COLLISION_LOG"
-}
-
-########################
-# MAIN LOOP
-########################
-
-export -f normalize_name safe_mv prompt_choice log_collision
-
-find "$TARGET" \
-  $(for d in "${EXCLUDED_DIRS[@]}"; do
-      printf -- '-path %q -prune -o ' "$TARGET/$d"
-    done) \
-  -depth -print
-while IFS= read -r path; do
   base="$(basename "$path")"
   dir="$(dirname "$path")"
+  norm="$(normalize_name "$base")"
 
-  normalized="$(normalize_name "$base")"
-  [[ "$base" == "$normalized" ]] && continue
+  [[ "$base" == "$norm" ]] && continue
 
-  new_path="$dir/$normalized"
-  reason="normalization ('$base' → '$normalized')"
+  src="$path"
+  dst="$dir/$norm"
 
-  # no collision
-  if [[ ! -e "$new_path" ]]; then
-    echo "RENAME | $path → $new_path" >> "$ACTION_LOG"
-    echo "✅ Renaming: $path → $new_path"
-    [[ "$DRY_RUN" == false ]] && safe_mv "$path" "$new_path"
-    continue
-  fi
+  ###################################
+  # COLLISION
+  ###################################
+  if [[ -e "$dst" ]]; then
+    echo "⚠️  COLLISION"
+    echo "From: $src"
+    echo "To:   $dst"
+    echo "Why:  normalization ('$base' → '$norm')"
+    echo
 
-  ########################
-  # COLLISION HANDLING
-  ########################
+    echo "--- ls -l ---"
+    ls -l "$src" "$dst"
+    echo
 
-  log_collision "$path" "$new_path" "$reason"
-
-  echo
-  echo "⚠️  COLLISION DETECTED"
-  echo "Original:     $path"
-  echo "Normalized:   $new_path"
-  echo "Reason:       $reason"
-  echo
-
-  echo "--- ls -l ---"
-  ls -l "$path" "$new_path"
-  echo
-
-  if [[ -f "$path" && -f "$new_path" ]]; then
     echo "--- head (existing) ---"
-    head -n 5 "$new_path" || true
+    is_text_file "$dst" && head -n 5 "$dst" || echo "(binary)"
     echo
-    echo "--- head (new) ---"
-    head -n 5 "$path" || true
-    echo
-  fi
 
-  if [[ "$DRY_RUN" == true ]]; then
-    echo "DRY-RUN | collision detected, no action taken"
+    echo "--- head (new) ---"
+    is_text_file "$src" && head -n 5 "$src" || echo "(binary)"
+    echo
+
+    echo "Choose:"
+    echo "  [1] keep existing"
+    echo "  [2] replace"
+    echo "  [m] merge (text only)"
+    echo "  [s] skip"
+    read -r -p "→ " choice
+
+    log_collision "COLLISION: $src -> $dst (reason: normalization)"
+
+    case "$choice" in
+      1)
+        log_action "SKIP (keep existing): $src"
+        ;;
+      2)
+        if [[ "$DRY_RUN" == false ]]; then
+          rm -f "$dst"
+          mv "$src" "$dst"
+        fi
+        log_action "REPLACED: $src -> $dst"
+        ;;
+      m)
+        if is_text_file "$src" && is_text_file "$dst"; then
+          if [[ "$DRY_RUN" == false ]]; then
+            echo -e "\n\n# --- MERGED FROM $src ---\n" >> "$dst"
+            cat "$src" >> "$dst"
+            rm -f "$src"
+          fi
+          log_action "MERGED: $src -> $dst"
+        else
+          log_action "MERGE FAILED (non-text): $src"
+        fi
+        ;;
+      *)
+        log_action "SKIPPED: $src"
+        ;;
+    esac
+
+    echo
     continue
   fi
 
-  echo "Choose:"
-  echo "[1] keep existing"
-  echo "[2] replace with normalized"
-  echo "[s] skip"
-  if [[ -d "$path" && -d "$new_path" ]]; then
-    echo "[m] merge directories"
+  ###################################
+  # NORMAL RENAME
+  ###################################
+  echo "✅ Renaming: $src → $dst"
+  log_action "RENAME: $src -> $dst"
+
+  if [[ "$DRY_RUN" == false ]]; then
+    mv "$src" "$dst"
   fi
-
-  choice="$(prompt_choice "→")"
-
-  case "$choice" in
-    1)
-      echo "KEEP | $path" >> "$ACTION_LOG"
-      rm -rf "$path"
-      ;;
-    2)
-      echo "REPLACE | $path → $new_path" >> "$ACTION_LOG"
-      rm -rf "$new_path"
-      safe_mv "$path" "$new_path"
-      ;;
-    m)
-      echo "MERGE | $path → $new_path" >> "$ACTION_LOG"
-      cp -a "$path/." "$new_path/"
-      rm -rf "$path"
-      ;;
-    s)
-      echo "SKIP | $path → $new_path | $reason" >> "$ACTION_LOG"
-      ;;
-  esac
 
 done
 
 echo
 echo "Normalization complete."
-echo "Action log: $ACTION_LOG"
+echo "Action log:    $ACTION_LOG"
 echo "Collision log: $COLLISION_LOG"
