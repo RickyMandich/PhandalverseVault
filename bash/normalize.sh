@@ -21,7 +21,7 @@ usage() {
   echo "Usage: ./normalize.sh [options] [directory]"
   echo ""
   echo "Options:"
-  echo "  -d, --dry-run    Show what would change (no prompts, no changes)"
+  echo "  -d, --dry-run    Preview only (no prompts, no changes)"
   echo "  -h, --help       Show this help"
 }
 
@@ -86,8 +86,23 @@ is_excluded() {
   return 1
 }
 
+# Safe mv for NTFS / WSL (case-insensitive)
+safe_mv() {
+  local src="$1"
+  local dst="$2"
+
+  # same inode (case-only rename on NTFS)
+  if [[ "$(realpath "$src")" == "$(realpath "$dst")" ]]; then
+    local tmp="${dst}.tmp-normalize"
+    mv "$src" "$tmp"
+    mv "$tmp" "$dst"
+  else
+    mv "$src" "$dst"
+  fi
+}
+
 # =========================
-# MAIN LOOP (NO PIPE!)
+# MAIN LOOP
 # =========================
 while IFS= read -r path; do
   [[ "$path" == "." ]] && continue
@@ -121,7 +136,6 @@ while IFS= read -r path; do
     echo "Why:  $reason"
     echo ""
 
-    echo "--- ls -l ---"
     ls -l "$path" "$new_path"
     echo ""
 
@@ -148,7 +162,7 @@ while IFS= read -r path; do
         ;;
       2)
         echo "REPLACE | $path → $new_path | $reason" >> "$ACTION_LOG"
-        mv "$path" "$new_path"
+        safe_mv "$path" "$new_path"
         ;;
       *)
         echo "SKIP | $path → $new_path | $reason" >> "$COLLISION_LOG"
@@ -163,7 +177,7 @@ while IFS= read -r path; do
   # NORMAL RENAME
   # =========================
   echo "RENAME | $path → $new_path" | tee -a "$ACTION_LOG"
-  [[ "$DRY_RUN" == false ]] && mv "$path" "$new_path"
+  [[ "$DRY_RUN" == false ]] && safe_mv "$path" "$new_path"
 
 done < <(find "$TARGET_DIR" -depth)
 
