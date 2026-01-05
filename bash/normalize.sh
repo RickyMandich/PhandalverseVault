@@ -4,7 +4,7 @@ set -euo pipefail
 # =========================
 # CONFIG
 # =========================
-EXCLUDE_DIRS=(.git .normalize .obsidian bash)
+EXCLUDE_DIRS=(.git .normalize bash .obsidian)
 DATE_FMT="+%Y-%m-%d_%H-%M-%S"
 TIMESTAMP="$(date "$DATE_FMT")"
 LOG_DIR=".normalize/$TIMESTAMP"
@@ -21,8 +21,8 @@ usage() {
   echo "Usage: ./normalize.sh [options] [directory]"
   echo ""
   echo "Options:"
-  echo "  -d, --dry-run    Simulate only, do not rename files"
-  echo "  -h, --help       Show this help message"
+  echo "  -d, --dry-run    Show what would change (no prompts, no changes)"
+  echo "  -h, --help       Show this help"
 }
 
 # =========================
@@ -49,10 +49,8 @@ done
 # PREP
 # =========================
 mkdir -p "$LOG_DIR"
-touch "$ACTION_LOG" "$COLLISION_LOG"
-
-mv_cmd="mv"
-$DRY_RUN && mv_cmd="echo mv"
+: > "$ACTION_LOG"
+: > "$COLLISION_LOG"
 
 echo "===== Normalize Script ====="
 echo "Timestamp: $TIMESTAMP"
@@ -64,11 +62,8 @@ echo ""
 # =========================
 # FUNCTIONS
 # =========================
-
 normalize_name() {
-  local name="$1"
-
-  echo "$name" \
+  echo "$1" \
     | tr '[:upper:]' '[:lower:]' \
     | sed \
       -e 's/[àáâäãå]/a/g' \
@@ -85,24 +80,22 @@ normalize_name() {
 }
 
 is_excluded() {
-  local path="$1"
   for d in "${EXCLUDE_DIRS[@]}"; do
-    [[ "$path" == ./$d* ]] && return 0
+    [[ "$1" == ./$d* ]] && return 0
   done
   return 1
 }
 
 # =========================
-# MAIN LOOP
+# MAIN LOOP (NO PIPE!)
 # =========================
-find "$TARGET_DIR" -depth | while read -r path; do
+while IFS= read -r path; do
   [[ "$path" == "." ]] && continue
   is_excluded "$path" && continue
 
   dir="$(dirname "$path")"
   base="$(basename "$path")"
 
-  # split extension
   if [[ "$base" == *.* && ! -d "$path" ]]; then
     name="${base%.*}"
     ext=".${base##*.}"
@@ -122,15 +115,22 @@ find "$TARGET_DIR" -depth | while read -r path; do
   if [[ -e "$new_path" ]]; then
     reason="normalization ('$base' → '$normalized$ext')"
 
-    echo "⚠️  COLLISION DETECTED"
-    echo "Original:     $path"
-    echo "Normalized:   $new_path"
-    echo "Reason:       $reason"
+    echo "⚠️  COLLISION"
+    echo "From: $path"
+    echo "To:   $new_path"
+    echo "Why:  $reason"
     echo ""
 
     echo "--- ls -l ---"
     ls -l "$path" "$new_path"
     echo ""
+
+    if [[ "$DRY_RUN" == true ]]; then
+      echo "DRY-RUN: collision detected, skipped"
+      echo "SKIP | $path → $new_path | $reason" >> "$COLLISION_LOG"
+      echo ""
+      continue
+    fi
 
     if [[ ! -d "$path" && ! -d "$new_path" ]]; then
       echo "--- head (existing) ---"
@@ -141,17 +141,17 @@ find "$TARGET_DIR" -depth | while read -r path; do
       echo ""
     fi
 
-    read -p "Choose: [1] keep existing  [2] replace with new  [s] skip → " choice
+    read -p "Choose: [1] keep existing  [2] replace  [s] skip → " choice < /dev/tty
     case "$choice" in
       1)
-        echo "KEEP existing | $path → $new_path | $reason" | tee -a "$COLLISION_LOG"
+        echo "KEEP | $path → $new_path | $reason" >> "$COLLISION_LOG"
         ;;
       2)
-        echo "REPLACE | $path → $new_path | $reason" | tee -a "$ACTION_LOG"
-        $mv_cmd "$path" "$new_path"
+        echo "REPLACE | $path → $new_path | $reason" >> "$ACTION_LOG"
+        mv "$path" "$new_path"
         ;;
       *)
-        echo "SKIP | $path → $new_path | $reason" | tee -a "$COLLISION_LOG"
+        echo "SKIP | $path → $new_path | $reason" >> "$COLLISION_LOG"
         ;;
     esac
 
@@ -162,13 +162,15 @@ find "$TARGET_DIR" -depth | while read -r path; do
   # =========================
   # NORMAL RENAME
   # =========================
-  echo "✅ Renaming: $path → $new_path" | tee -a "$ACTION_LOG"
-  $mv_cmd "$path" "$new_path"
+  echo "RENAME | $path → $new_path" | tee -a "$ACTION_LOG"
+  [[ "$DRY_RUN" == false ]] && mv "$path" "$new_path"
 
-done
+done < <(find "$TARGET_DIR" -depth)
 
+# =========================
+# DONE
+# =========================
 echo ""
 echo "Normalization complete."
-echo "Action log: $ACTION_LOG"
+echo "Action log:    $ACTION_LOG"
 echo "Collision log: $COLLISION_LOG"
-
