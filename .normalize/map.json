@@ -5,10 +5,10 @@
     "artefatti": {
       "original": "artefatti",
       "files": {
-        "fyrbrand.md": "fyrbrand",
-        "il-portale.md": "il-portale",
-        "la-bussola.md": "la-bussola",
-        "la-chiave.md": "la-chiave"
+        "fyrbrand.md": "Fyrbrand",
+        "il-portale.md": "il Portale",
+        "la-bussola.md": "la Bussola",
+        "la-chiave.md": "la Chiave"
       },
       "directories": {}
     },
@@ -26,26 +26,26 @@
       "files": {},
       "directories": {
         "dungeon-scrawl": {
-          "original": "dungeon-scrawl",
+          "original": "dungeon scrawl",
           "files": {
-            "dungeon-con-fossato-1.ds": "dungeon-con-fossato-1",
-            "profondo-blu-dungeon-finale.ds": "profondo-blu-dungeon-finale"
+            "dungeon-con-fossato-1.ds": "dungeon con fossato 1",
+            "profondo-blu-dungeon-finale.ds": "profondo blu dungeon finale"
           },
           "directories": {}
         },
         "immagini": {
           "original": "immagini",
           "files": {
-            "arena-allaperto.jpg": "arena-allaperto",
-            "dungeon-con-fossato-1.png": "dungeon-con-fossato-1",
-            "profondo-blu-dungeon-finale.png": "profondo-blu-dungeon-finale"
+            "arena-allaperto.jpg": "arena all'aperto",
+            "dungeon-con-fossato-1.png": "dungeon con fossato 1",
+            "profondo-blu-dungeon-finale.png": "profondo blu dungeon finale"
           },
           "directories": {}
         },
         "incontri-5e-tools-encounter-builder": {
-          "original": "incontri-5e-tools-encounter-builder",
+          "original": "incontri 5e tools encounter builder",
           "files": {
-            "dungeon-goblin-boss-e-minion.json": "dungeon-goblin-boss-e-minion"
+            "dungeon-goblin-boss-e-minion.json": "dungeon goblin boss e minion"
           },
           "directories": {}
         }
@@ -58,15 +58,15 @@
         "demoni": {
           "original": "demoni",
           "files": {
-            "asmodeus.md": "asmodeus"
+            "asmodeus.md": "Asmodeus"
           },
           "directories": {}
         },
         "divinita": {
           "original": "divinita",
           "files": {
-            "krystallo.md": "krystallo",
-            "lithos.md": "lithos"
+            "krystallo.md": "Krystallo",
+            "lithos.md": "Lithos"
           },
           "directories": {}
         }
@@ -75,47 +75,47 @@
     "epoche": {
       "original": "epoche",
       "files": {
-        "epoca-dargento.md": "epoca-dargento",
-        "epoca-leggendaria.md": "epoca-leggendaria",
-        "epoca-terza.md": "epoca-terza"
+        "epoca-dargento.md": "epoca d'argento",
+        "epoca-leggendaria.md": "epoca Leggendaria",
+        "epoca-terza.md": "epoca Terza"
       },
       "directories": {}
     },
     "eventi": {
       "original": "eventi",
       "files": {
-        "la-frattura.md": "la-frattura",
-        "la-purga.md": "la-purga"
+        "la-frattura.md": "la frattura",
+        "la-purga.md": "la purga"
       },
       "directories": {}
     },
     "mezzi": {
       "original": "mezzi",
       "files": {
-        "skiblanir.md": "skiblanir"
+        "skiblanir.md": "Skiblanir"
       },
       "directories": {}
     },
     "personaggi": {
-      "original": "personaggi",
+      "original": "Personaggi",
       "files": {},
       "directories": {
         "giocanti": {
           "original": "Giocanti",
           "files": {
-            "attila-slayer-guerriero-elfo-100.md": "attila-slayer-guerriero-elfo-100",
-            "dontavious-ladro-mezzelfo-25.md": "dontavious-ladro-mezzelfo-25",
-            "morbiarum-paladino-dragonide-24.md": "morbiarum-paladino-dragonide-24",
-            "than-warlock-tiefling-30.md": "than-warlock-tiefling-30",
-            "vargas-paladino-nano-65.md": "vargas-paladino-nano-65"
+            "attila-slayer-guerriero-elfo-100.md": "Attila Slayer Guerriero Elfo 100",
+            "dontavious-ladro-mezzelfo-25.md": "Dontavious Ladro Mezzelfo 25",
+            "morbiarum-paladino-dragonide-24.md": "Morbiarum Paladino Dragonide 24",
+            "than-warlock-tiefling-30.md": "Than Warlock Tiefling 30",
+            "vargas-paladino-nano-65.md": "Vargas Paladino Nano 65"
           },
           "directories": {
             "pet": {
               "original": "pet",
               "files": {
-                "kanye-ovest.md": "kanye-ovest",
-                "ren.md": "ren",
-                "thraal.md": "thraal"
+                "kanye-ovest.md": "Kanye Ovest",
+                "ren.md": "Ren",
+                "thraal.md": "Thraal"
               },
               "directories": {}
             }
@@ -124,29 +124,29 @@
         "gruppi": {
           "original": "gruppi",
           "files": {
-            "la-mano-rossa.md": "la-mano-rossa"
+            "la-mano-rossa.md": "la mano rossa"
           },
           "directories": {}
         },
         "gruppi-magici": {
-          "original": "gruppi-magici",
+          "original": "gruppi magici",
           "files": {
-            "fratelli-dei-lupi.md": "fratelli-dei-lupi"
+            "fratelli-dei-lupi.md": "fratelli dei lupi"
           },
           "directories": {}
         },
         "non-giocanti": {
-          "original": "non-giocanti",
+          "original": "non giocanti",
           "files": {
             "blob.md": "blob",
-            "dark-kaia.md": "dark-kaia",
+            "dark-kaia.md": "dark Kaia",
             "fumero.md": "fumero",
             "irving.md": "irving",
             "kaia.md": "kaia",
             "mussel.md": "mussel",
-            "nonno-roshi.md": "nonno-roshi",
-            "perrin-cauthon.md": "perrin-cauthon",
-            "perrin.jpg": "perrin",
+            "nonno-roshi.md": "nonno Roshi",
+            "perrin-cauthon.md": "Perrin Cauthon",
+            "perrin.jpg": "Perrin",
             "viper.md": "viper"
           },
           "directories": {}
@@ -155,8 +155,8 @@
           "original": "organizzazioni",
           "files": {
             "artefici.md": "artefici",
-            "gli-asmodeici.md": "gli-asmodeici",
-            "la-coalizione.md": "la-coalizione"
+            "gli-asmodeici.md": "gli asmodeici",
+            "la-coalizione.md": "la coalizione"
           },
           "directories": {}
         }
@@ -165,15 +165,15 @@
     "saghe": {
       "original": "saghe",
       "files": {
-        "macrosaga-della-chiave.md": "macrosaga-della-chiave",
-        "saga-di-gemgrave.md": "saga-di-gemgrave"
+        "macrosaga-della-chiave.md": "Macrosaga della Chiave",
+        "saga-di-gemgrave.md": "Saga di Gemgrave"
       },
       "directories": {}
     },
     "universi": {
       "original": "universi",
       "files": {
-        "telaranrhiod.md": "telaranrhiod"
+        "telaranrhiod.md": "Tel'Aran'Rhiod"
       },
       "directories": {
         "fandalmein": {
@@ -235,9 +235,9 @@
                 "suddaria": {
                   "original": "suddaria",
                   "files": {
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello-abbandonato-sul-dirupo-vicino-la-citta",
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello-abbandonato-sul-dirupo-vicino-la-citta",
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello-abbandonato-sul-dirupo-vicino-la-citta",
+                    "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello abbandonato sul dirupo vicino la citta",
+                    "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello abbandonato sul dirupo vicino la citta",
+                    "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello abbandonato sul dirupo vicino la citta",
                     "suddaria.md": "suddaria"
                   },
                   "directories": {}
