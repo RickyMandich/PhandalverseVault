@@ -1,26 +1,26 @@
 {
   "original": "ROOT",
   "files": {
-    "readme.md": "readme.md",
-    "todo.md": "todo.md"
+    "readme.md": "README",
+    "todo.md": "todo"
   },
   "directories": {
     "artefatti": {
       "original": "artefatti",
       "files": {
-        "fyrbrand.md": "fyrbrand.md",
-        "il-portale.md": "il-portale.md",
-        "la-bussola.md": "la-bussola.md",
-        "la-chiave.md": "la-chiave.md"
+        "fyrbrand.md": "Fyrbrand",
+        "il-portale.md": "il-portale",
+        "la-bussola.md": "la-bussola",
+        "la-chiave.md": "la-chiave"
       },
       "directories": {}
     },
     "definizioni": {
       "original": "definizioni",
       "files": {
-        "calendario.md": "calendario.md",
-        "universo.md": "universo.md",
-        "villaggio.md": "villaggio.md"
+        "calendario.md": "calendario",
+        "universo.md": "universo",
+        "villaggio.md": "villaggio"
       },
       "directories": {}
     },
@@ -31,24 +31,24 @@
         "dungeon-scrawl": {
           "original": "dungeon-scrawl",
           "files": {
-            "dungeon-con-fossato-1.ds": "dungeon-con-fossato-1.ds",
-            "profondo-blu-dungeon-finale.ds": "profondo-blu-dungeon-finale.ds"
+            "dungeon-con-fossato-1.ds": "dungeon-con-fossato-1",
+            "profondo-blu-dungeon-finale.ds": "profondo-blu-dungeon-finale"
           },
           "directories": {}
         },
         "immagini": {
           "original": "immagini",
           "files": {
-            "arena-allaperto.jpg": "arena-allaperto.jpg",
-            "dungeon-con-fossato-1.png": "dungeon-con-fossato-1.png",
-            "profondo-blu-dungeon-finale.png": "profondo-blu-dungeon-finale.png"
+            "arena-allaperto.jpg": "arena-allaperto",
+            "dungeon-con-fossato-1.png": "dungeon-con-fossato-1",
+            "profondo-blu-dungeon-finale.png": "profondo-blu-dungeon-finale"
           },
           "directories": {}
         },
         "incontri-5e-tools-encounter-builder": {
           "original": "incontri-5e-tools-encounter-builder",
           "files": {
-            "dungeon-goblin-boss-e-minion.json": "dungeon-goblin-boss-e-minion.json"
+            "dungeon-goblin-boss-e-minion.json": "dungeon-goblin-boss-e-minion"
           },
           "directories": {}
         }
@@ -61,15 +61,15 @@
         "demoni": {
           "original": "demoni",
           "files": {
-            "asmodeus.md": "asmodeus.md"
+            "asmodeus.md": "asmodeus"
           },
           "directories": {}
         },
         "divinita": {
           "original": "divinita",
           "files": {
-            "krystallo.md": "krystallo.md",
-            "lithos.md": "lithos.md"
+            "krystallo.md": "krystallo",
+            "lithos.md": "lithos"
           },
           "directories": {}
         }
@@ -78,24 +78,24 @@
     "epoche": {
       "original": "epoche",
       "files": {
-        "epoca-dargento.md": "epoca d'argento.md",
-        "epoca-leggendaria.md": "epoca-leggendaria.md",
-        "epoca-terza.md": "epoca-terza.md"
+        "epoca-dargento.md": "epoca-dargento",
+        "epoca-leggendaria.md": "epoca-leggendaria",
+        "epoca-terza.md": "epoca-terza"
       },
       "directories": {}
     },
     "eventi": {
       "original": "eventi",
       "files": {
-        "la-frattura.md": "la-frattura.md",
-        "la-purga.md": "la-purga.md"
+        "la-frattura.md": "la-frattura",
+        "la-purga.md": "la-purga"
       },
       "directories": {}
     },
     "mezzi": {
       "original": "mezzi",
       "files": {
-        "skiblanir.md": "skiblanir.md"
+        "skiblanir.md": "Skiblanir"
       },
       "directories": {}
     },
@@ -104,21 +104,21 @@
       "files": {},
       "directories": {
         "giocanti": {
-          "original": "giocanti",
+          "original": "Giocanti",
           "files": {
-            "attila-slayer-guerriero-elfo-100.md": "attila-slayer-guerriero-elfo-100.md",
-            "dontavious-ladro-mezzelfo-25.md": "dontavious-ladro-mezzelfo-25.md",
-            "morbiarum-paladino-dragonide-24.md": "morbiarum-paladino-dragonide-24.md",
-            "than-warlock-tiefling-30.md": "than-warlock-tiefling-30.md",
-            "vargas-paladino-nano-65.md": "vargas-paladino-nano-65.md"
+            "attila-slayer-guerriero-elfo-100.md": "attila-slayer-guerriero-elfo-100",
+            "dontavious-ladro-mezzelfo-25.md": "dontavious-ladro-mezzelfo-25",
+            "morbiarum-paladino-dragonide-24.md": "morbiarum-paladino-dragonide-24",
+            "than-warlock-tiefling-30.md": "than-warlock-tiefling-30",
+            "vargas-paladino-nano-65.md": "vargas-paladino-nano-65"
           },
           "directories": {
             "pet": {
               "original": "pet",
               "files": {
-                "kanye-ovest.md": "kanye-ovest.md",
-                "ren.md": "ren.md",
-                "thraal.md": "thraal.md"
+                "kanye-ovest.md": "kanye-ovest",
+                "ren.md": "Ren",
+                "thraal.md": "Thraal"
               },
               "directories": {}
             }
@@ -127,39 +127,39 @@
         "gruppi": {
           "original": "gruppi",
           "files": {
-            "la-mano-rossa.md": "la-mano-rossa.md"
+            "la-mano-rossa.md": "la-mano-rossa"
           },
           "directories": {}
         },
         "gruppi-magici": {
           "original": "gruppi-magici",
           "files": {
-            "fratelli-dei-lupi.md": "fratelli-dei-lupi.md"
+            "fratelli-dei-lupi.md": "fratelli-dei-lupi"
           },
           "directories": {}
         },
         "non-giocanti": {
           "original": "non-giocanti",
           "files": {
-            "blob.md": "blob.md",
-            "dark-kaia.md": "dark-kaia.md",
-            "fumero.md": "fumero.md",
-            "irving.md": "irving.md",
-            "kaia.md": "kaia.md",
-            "mussel.md": "mussel.md",
-            "nonno-roshi.md": "nonno-roshi.md",
-            "perrin-cauthon.md": "perrin-cauthon.md",
-            "perrin.jpg": "perrin.jpg",
-            "viper.md": "viper.md"
+            "blob.md": "blob",
+            "dark-kaia.md": "dark-kaia",
+            "fumero.md": "fumero",
+            "irving.md": "irving",
+            "kaia.md": "kaia",
+            "mussel.md": "mussel",
+            "nonno-roshi.md": "nonno-roshi",
+            "perrin-cauthon.md": "perrin-cauthon",
+            "perrin.jpg": "perrin",
+            "viper.md": "viper"
           },
           "directories": {}
         },
         "organizzazioni": {
           "original": "organizzazioni",
           "files": {
-            "artefici.md": "artefici.md",
-            "gli-asmodeici.md": "gli-asmodeici.md",
-            "la-coalizione.md": "la-coalizione.md"
+            "artefici.md": "artefici",
+            "gli-asmodeici.md": "gli-asmodeici",
+            "la-coalizione.md": "la-coalizione"
           },
           "directories": {}
         }
@@ -168,41 +168,41 @@
     "saghe": {
       "original": "saghe",
       "files": {
-        "macrosaga-della-chiave.md": "macrosaga-della-chiave.md",
-        "saga-di-gemgrave.md": "saga-di-gemgrave.md"
+        "macrosaga-della-chiave.md": "macrosaga-della-chiave",
+        "saga-di-gemgrave.md": "saga-di-gemgrave"
       },
       "directories": {}
     },
     "universi": {
       "original": "universi",
       "files": {
-        "telaranrhiod.md": "telaranrhiod.md"
+        "telaranrhiod.md": "telaranrhiod"
       },
       "directories": {
         "fandalmein": {
           "original": "fandalmein",
           "files": {
-            "atalantide.md": "atalantide.md",
-            "fandalmein.md": "fandalmein.md"
+            "atalantide.md": "atalantide",
+            "fandalmein.md": "fandalmein"
           },
           "directories": {
             "fandanolend": {
               "original": "fandanolend",
               "files": {
-                "cristalgreiv.md": "cristalgreiv.md",
-                "fandanolend.md": "fandanolend.md",
-                "nordavila.md": "nordavila.md",
-                "settentrionel.md": "settentrionel.md"
+                "cristalgreiv.md": "Cristalgreiv",
+                "fandanolend.md": "fandanolend",
+                "nordavila.md": "nordavila",
+                "settentrionel.md": "Settentrionel"
               },
               "directories": {}
             },
             "fandasulend": {
               "original": "fandasulend",
               "files": {
-                "fandasulend.md": "fandasulend.md",
-                "gemgreiv.md": "gemgreiv.md",
-                "meridionel.md": "meridionel.md",
-                "sudaria.md": "sudaria.md"
+                "fandasulend.md": "fandasulend",
+                "gemgreiv.md": "GemGreiv",
+                "meridionel.md": "meridionel",
+                "sudaria.md": "Sudaria"
               },
               "directories": {}
             }
@@ -211,37 +211,37 @@
         "phandalmain": {
           "original": "phandalmain",
           "files": {
-            "atlantide.md": "atlantide.md",
-            "fossa-delle-marie.md": "fossa-delle-marie.md",
-            "phandalmain.jpg": "phandalmain.jpg",
-            "phandalmain.md": "phandalmain.md"
+            "atlantide.md": "atlantide",
+            "fossa-delle-marie.md": "fossa-delle-marie",
+            "phandalmain.jpg": "phandalmain",
+            "phandalmain.md": "phandalmain"
           },
           "directories": {
             "phandanoland": {
               "original": "phandanoland",
               "files": {
-                "cristalgrave.md": "cristalgrave.md",
-                "nordavilla.md": "nordavilla.md",
-                "phandanoland.md": "phandanoland.md",
-                "settentrionelle.md": "settentrionelle.md"
+                "cristalgrave.md": "Cristalgrave",
+                "nordavilla.md": "nordavilla",
+                "phandanoland.md": "phandanoland",
+                "settentrionelle.md": "Settentrionelle"
               },
               "directories": {}
             },
             "phandasuland": {
               "original": "phandasuland",
               "files": {
-                "gemgrave.md": "gemgrave.md",
-                "meridionelle.md": "meridionelle.md",
-                "phandasuland.md": "phandasuland.md"
+                "gemgrave.md": "GemGrave",
+                "meridionelle.md": "meridionelle",
+                "phandasuland.md": "phandasuland"
               },
               "directories": {
                 "suddaria": {
                   "original": "suddaria",
                   "files": {
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello-abbandonato-sul-dirupo-vicino-la-citta.md",
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello-abbandonato-sul-dirupo-vicino-la-citta.png",
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf",
-                    "suddaria.md": "suddaria.md"
+                    "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello-abbandonato-sul-dirupo-vicino-la-citta",
+                    "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello-abbandonato-sul-dirupo-vicino-la-citta",
+                    "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello-abbandonato-sul-dirupo-vicino-la-citta",
+                    "suddaria.md": "Suddaria"
                   },
                   "directories": {}
                 }

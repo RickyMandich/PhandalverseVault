@@ -185,10 +185,8 @@ process_directory() {
             
             # Add to local files map if it exists (renamed or kept)
             if [ -e "$new_file_path" ]; then
-                 # Original Name is "$name_no_ext" (Title) or "$item_name" (Filename)?
-                 # Use Title for display? Or Filename? Map usually maps Safe -> Original full name?
-                 # Let's map Safe Filename -> Original Filename for now.
-                 files_json=$(echo "$files_json" | jq --arg k "$safe_filename" --arg v "$item_name" '.[$k] = $v')
+                 # Store Original Name WITHOUT extension (Title)
+                 files_json=$(echo "$files_json" | jq --arg k "$safe_filename" --arg v "$name_no_ext" '.[$k] = $v')
             fi
         fi
     done
