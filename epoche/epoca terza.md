@@ -1,1 +1,0 @@
-è l'epoca corrente, inizia nell'anno 0 [[calendario|DP]] con [[La purga]]

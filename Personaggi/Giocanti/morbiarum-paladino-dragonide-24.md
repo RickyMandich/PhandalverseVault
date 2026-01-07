@@ -1,8 +1,8 @@
 Francesco Bellese
 
 # Background
-clan di origine sterminato dalla [[gli asmodeici]] per cui lui la odia e giura vendetta contro la setta.
+clan di origine sterminato dalla [[gli-asmodeici|gli asmodeici]] per cui lui la odia e giura vendetta contro la setta.
 viene adottato da una coppia di halfling che lo crescono con amore e ai suoi 18 anni (maturità) i genitori gli rivelano la sua vera origine e lo sterminio del suo clan, questo il momento in cui giura vendetta
 # Campagna
-ora si è unito a [[la mano rossa]]
-![[Saga di GemGrave]]
+ora si è unito a [[la-mano-rossa|la mano rossa]]
+![[Saga-di-GemGrave]]

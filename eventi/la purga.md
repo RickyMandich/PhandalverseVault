@@ -1,1 +1,0 @@
-questo momento segnò l'inizio dell'[[epoca terza]] e fu uno sterminio operato [[la coalizione|dalla coalizione]] contro agli [[artefici]] e la seguente cancellazione totale delle loro conoscenze e di tutto ciò che attestava la loro esistenza, scritto o orale che fosse.

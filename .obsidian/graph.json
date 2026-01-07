@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#universo",
@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:definizioni",
+      "query": "path:definizioni  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "path:entità  ",
+      "query": "path:entita  ",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -43,28 +43,28 @@
       }
     },
     {
-      "query": "path:personaggi/Giocanti/pet  ",
+      "query": "path:personaggi/giocanti/pet  ",
       "color": {
         "a": 1,
         "rgb": 14002666
       }
     },
     {
-      "query": "path:personaggi/Giocanti  ",
+      "query": "path:personaggi/giocanti  ",
       "color": {
         "a": 1,
         "rgb": 12996095
       }
     },
     {
-      "query": "path:\"personaggi/Non Giocanti\" tag:#phandalmain ",
+      "query": "path:personaggi/non-giocanti tag:#phandalmain  ",
       "color": {
         "a": 1,
         "rgb": 8026879
       }
     },
     {
-      "query": "path:\"personaggi/Non Giocanti\" tag:#fandalmein ",
+      "query": "path:personaggi/non-giocanti tag:#fandalmein  ",
       "color": {
         "a": 1,
         "rgb": 262266
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4836359673089951,
-  "close": false
+  "scale": 0.4836359673089938,
+  "close": true
 }

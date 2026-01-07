@@ -8,5 +8,5 @@ Lavora spesso come fabbro, arte che gli sembra calzare addosso come una seconda 
 Nonostante la sua natura pacifica, Perrin porta negli occhi un’ombra antica, come se osservasse sempre qualcosa che gli altri non possono vedere.
 
 #startMaster
-è un [[fratelli dei lupi|fratello dei lupi]]  
+è un [[fratelli-dei-lupi|fratello dei lupi]]
 #endMaster

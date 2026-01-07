@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "9f412d1ad0ae070e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "saghe/saga-di-gemgrave.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "saga-di-gemgrave"
+            }
+          },
+          {
             "id": "c2dffc8f5a92487b",
             "type": "leaf",
             "pinned": true,
@@ -34,39 +50,9 @@
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
-          },
-          {
-            "id": "532292349b9711b7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/Saga di GemGrave.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Saga di GemGrave"
-            }
-          },
-          {
-            "id": "7da3f7a1f7a8ae33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/Saga di GemGrave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saga di GemGrave"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,10 +114,91 @@
   "right": {
     "id": "1933adafaa71d301",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "de66e1b823192482",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbe15ca08aaf52c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "9dc95d79c94de12d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "f1ce41b5c33ddf52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "4464d0482ee3dc61",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "8ce16f2c1975d305",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,56 +210,61 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Create new base": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "cmdr:Shell commands: Execute: status": false,
       "cmdr:Shell commands: Execute: cmt": false,
       "cmdr:Shell commands: Execute: pull": false,
+      "cmdr:Shell commands: Execute: status": false,
       "cmdr:Shell commands: Execute: all": false,
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "7da3f7a1f7a8ae33",
+  "active": "c2dffc8f5a92487b",
   "lastOpenFiles": [
-    "artefatti/il Portale.md",
-    "saghe/Saga di GemGrave.md",
-    "personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md",
+    "universi/phandalmain/phandasuland/gemgrave.md",
+    "saghe/macrosaga-della-chiave.md",
+    "artefatti/la-bussola.md",
     "artefatti/fyrbrand.md",
-    "dungeon/immagini/arena all'aperto.jpg",
-    "entità/demoni/Asmodeus.md",
-    "personaggi/Giocanti/Than (Warlock tiefling, 30).md",
-    "personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md",
-    "personaggi/Giocanti/pet/Kanye ovest.md",
-    "personaggi/Giocanti/Vargas (Paladino Nano, 65).md",
-    "personaggi/Giocanti/Morbiarum (Paladino Dragonide, 24).md",
-    "todo.md",
-    "entità/divinità/Krystallo.md",
-    "personaggi/organizzazioni/la coalizione.md",
-    "personaggi/non giocanti/irving.md",
-    "personaggi/non giocanti/nonno Roshi.md",
-    "README.md",
-    "eventi/la purga.md",
-    "personaggi/non giocanti/blob.md",
-    "personaggi/non giocanti/mussel.md",
-    "personaggi/non giocanti/Dark Kaia.md",
-    "personaggi/non giocanti/Fumero.md",
-    "personaggi/non giocanti/Kaia.md",
-    "definizioni/calendario.md",
-    "artefatti/la bussola.md",
-    "eventi/La frattura.md",
+    "personaggi/giocanti/attila-slayer-guerriero-elfo-100.md",
+    "nonno Roshi.md",
+    "mezzi/skiblanir.md",
+    "personaggi/non-giocanti/kaia.md",
+    "fratelli dei lupi.md",
+    "personaggi/non-giocanti/perrin-cauthon.md",
+    "personaggi/non-giocanti/viper.md",
+    "artefatti/la-chiave.md",
+    "personaggi/non-giocanti/fumero.md",
+    "Vargas (Paladino Nano, 65).md",
+    "personaggi/giocanti/vargas-paladino-nano-65.md",
+    "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
+    "personaggi/giocanti/morbiarum-paladino-dragonide-24.md",
+    "gli asmodeici.md",
     "universi/phandalmain/atlantide.md",
-    "epoche",
+    "definizioni/calendario.md",
+    "universi/fandalmein/fandasulend/gemgreiv.md",
+    "epoche/epoca-terza.md",
+    "eventi/la-frattura.md",
+    "eventi/la-purga.md",
+    "personaggi/organizzazioni/artefici.md",
+    "epoche/epoca-dargento.md",
+    "personaggi/non-giocanti/perrin.jpg",
+    "personaggi/giocanti/pet",
     "personaggi/organizzazioni",
-    "personaggi/gruppi magici",
-    "mezzi",
+    "personaggi/non-giocanti",
+    "personaggi/gruppi-magici",
+    "personaggi/gruppi",
+    "personaggi/giocanti",
+    "personaggi",
+    "Personaggi/giocanti/pet",
+    "Personaggi/giocanti",
+    "universi/phandalmain/phandasuland/suddaria/suddaria.md.tmp",
+    "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
+    "universi/phandalmain/phandalmain.jpg",
+    "Personaggi/non-giocanti/perrin.jpg",
+    "dungeon/immagini/profondo-blu-dungeon-finale.png",
+    "dungeon/immagini/dungeon-con-fossato-1.png",
+    "dungeon/immagini/arena-allaperto.jpg",
+    "dungeon/immagini/arena all'aperto.jpg",
     "universi/phandalmain/Phandalmain.jpg",
-    "Personaggi/Giocanti/pet",
     "Personaggi/Non Giocanti/perrin.jpg",
-    "{163953DF-AA74-4DD2-BF70-9AC2BFBC6120}.png",
-    "eventi",
-    "copilot-custom-prompts",
-    "Senza nome.canvas",
-    "universi/phandalmain/Phandalmain.jpg.crdownload",
-    "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la città.png",
-    "bash/cmt.sh",
-    "bash/pull.sh"
+    "Senza nome.canvas"
   ]
 }
