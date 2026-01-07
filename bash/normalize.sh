@@ -5,7 +5,7 @@ VAULT_ROOT=$(pwd)
 NORMALIZE_DIR="$VAULT_ROOT/.normalize"
 FINAL_MAP_FILE="$NORMALIZE_DIR/map.json"
 # Excluded Names (Files or Dirs) - Basenames only
-EXCLUDE_NAMES=("bash" ".git" ".obsidian" ".trash" ".normalize")
+EXCLUDE_NAMES=("bash" ".git" ".obsidian" ".trash" ".normalize" "README.md" "TODO.md")
 
 # Logging Setup
 DATE_STR=$(date +%Y-%m-%d_%H-%M-%S)

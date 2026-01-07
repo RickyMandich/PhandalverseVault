@@ -1,9 +1,6 @@
 {
   "original": "ROOT",
-  "files": {
-    "readme.md": "readme",
-    "todo.md": "todo"
-  },
+  "files": {},
   "directories": {
     "artefatti": {
       "original": "artefatti",
