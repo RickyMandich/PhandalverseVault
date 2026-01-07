@@ -1,14 +1,14 @@
 {
   "original": "ROOT",
   "files": {
-    "readme.md": "README",
+    "readme.md": "readme",
     "todo.md": "todo"
   },
   "directories": {
     "artefatti": {
       "original": "artefatti",
       "files": {
-        "fyrbrand.md": "Fyrbrand",
+        "fyrbrand.md": "fyrbrand",
         "il-portale.md": "il-portale",
         "la-bussola.md": "la-bussola",
         "la-chiave.md": "la-chiave"
@@ -95,7 +95,7 @@
     "mezzi": {
       "original": "mezzi",
       "files": {
-        "skiblanir.md": "Skiblanir"
+        "skiblanir.md": "skiblanir"
       },
       "directories": {}
     },
@@ -117,8 +117,8 @@
               "original": "pet",
               "files": {
                 "kanye-ovest.md": "kanye-ovest",
-                "ren.md": "Ren",
-                "thraal.md": "Thraal"
+                "ren.md": "ren",
+                "thraal.md": "thraal"
               },
               "directories": {}
             }
@@ -189,10 +189,10 @@
             "fandanolend": {
               "original": "fandanolend",
               "files": {
-                "cristalgreiv.md": "Cristalgreiv",
+                "cristalgreiv.md": "cristalgreiv",
                 "fandanolend.md": "fandanolend",
                 "nordavila.md": "nordavila",
-                "settentrionel.md": "Settentrionel"
+                "settentrionel.md": "settentrionel"
               },
               "directories": {}
             },
@@ -200,9 +200,9 @@
               "original": "fandasulend",
               "files": {
                 "fandasulend.md": "fandasulend",
-                "gemgreiv.md": "GemGreiv",
+                "gemgreiv.md": "gemgreiv",
                 "meridionel.md": "meridionel",
-                "sudaria.md": "Sudaria"
+                "sudaria.md": "sudaria"
               },
               "directories": {}
             }
@@ -220,17 +220,17 @@
             "phandanoland": {
               "original": "phandanoland",
               "files": {
-                "cristalgrave.md": "Cristalgrave",
+                "cristalgrave.md": "cristalgrave",
                 "nordavilla.md": "nordavilla",
                 "phandanoland.md": "phandanoland",
-                "settentrionelle.md": "Settentrionelle"
+                "settentrionelle.md": "settentrionelle"
               },
               "directories": {}
             },
             "phandasuland": {
               "original": "phandasuland",
               "files": {
-                "gemgrave.md": "GemGrave",
+                "gemgrave.md": "gemgrave",
                 "meridionelle.md": "meridionelle",
                 "phandasuland.md": "phandasuland"
               },
@@ -241,7 +241,7 @@
                     "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello-abbandonato-sul-dirupo-vicino-la-citta",
                     "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello-abbandonato-sul-dirupo-vicino-la-citta",
                     "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello-abbandonato-sul-dirupo-vicino-la-citta",
-                    "suddaria.md": "Suddaria"
+                    "suddaria.md": "suddaria"
                   },
                   "directories": {}
                 }
