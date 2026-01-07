@@ -58,4 +58,3 @@ function uploadFilesFromCommit() {
 uploadFilesFromCommit
 
 sleep 1
-clear
