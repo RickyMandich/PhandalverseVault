@@ -3,6 +3,15 @@
 # Ottieni il percorso completo della directory in cui si trova lo script corrente
 SCRIPT_DIR="$(dirname "$(readlink -f "$0")")"
 
+# Assicura formattazione unix per tutti gli script
+if command -v dos2unix &> /dev/null; then
+    for file in "$SCRIPT_DIR"/*; do
+        if [ -f "$file" ]; then
+            dos2unix "$file" &> /dev/null
+        fi
+    done
+fi
+
 # Ottieni il percorso della directory del progetto (parent directory dello script)
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 
