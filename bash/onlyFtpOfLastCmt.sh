@@ -8,7 +8,7 @@ function uploadFilesFromCommit() {
 
         # Ignora i file nelle cartelle bash e .trash
         if [[ "$file" == .trash/* ]] || [[ "$file" == bash/* ]]; then
-            echo "Ignorato: $file"
+            echo "Ignorato: $file"all
             continue
         fi
 
