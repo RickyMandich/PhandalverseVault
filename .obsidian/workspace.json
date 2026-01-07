@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "c2dffc8f5a92487b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
             "id": "9f412d1ad0ae070e",
             "type": "leaf",
             "pinned": true,
@@ -37,18 +49,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "saga-di-gemgrave"
-            }
-          },
-          {
-            "id": "c2dffc8f5a92487b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "c2dffc8f5a92487b",
   "lastOpenFiles": [
+    "saghe/saga-di-gemgrave.md",
     "universi/phandalmain/phandasuland/gemgrave.md",
     "saghe/macrosaga-della-chiave.md",
     "artefatti/la-bussola.md",
@@ -244,7 +245,6 @@
     "eventi/la-frattura.md",
     "eventi/la-purga.md",
     "personaggi/organizzazioni/artefici.md",
-    "epoche/epoca-dargento.md",
     "personaggi/non-giocanti/perrin.jpg",
     "personaggi/giocanti/pet",
     "personaggi/organizzazioni",
