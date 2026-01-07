@@ -80,6 +80,7 @@ process_directory() {
         items+=("$item")
     done < <(find "$current_dir" -mindepth 1 -maxdepth 1 -print0)
     
+    local item_path
     for item_path in "${items[@]}"; do
         local item_name=$(basename "$item_path")
         
@@ -90,48 +91,8 @@ process_directory() {
         if [ -d "$item_path" ]; then
             # DIRECTORY: Recurse
             # Logic: 
-            # 1. Call process_directory on it. target will output .node.json inside itself.
-            process_directory "$item_path"
-            
-            # The directory might have been renamed inside process_directory!
-            # But process_directory takes the path as argument. 
-            # Wait, if we rename the directory INSIDE the recursive call (at the end of it), 
-            # the path we have here '$item_path' is still valid until the RETURN of the function?
-            # Yes, because the rename happens as the last step of the child call.
-            
-            # However, we need to know the NEW name to add to our 'dirs_json'.
-            # The child should output its new name or we can find the .node.json.
-            # actually, if the child renames itself, '$item_path' no longer exists!
-            # So looking for $item_path/.node.json will fail.
-            
-            # Better approach:
-            # The child call returns the new path or writes it to a known location?
-            # Or: The child call does NOT rename itself? 
-            # No, user wants directory normalization.
-            
-            # Let's rely on the child leaving a specific artifact or simpler:
-            # We assume the child *renames itself* and leaves the map file inside.
-            # But we don't know the new name to look for!
-            # UNLESS: We decide the new name HERE, pass it to the child?
-            # No, recursion usually implies the child handles itself.
-            
-            # Solution: The child will write ".node.json" inside the NEW directory.
-            # But we need to find the directory.
-            # Maybe the child prints "RENAMED: old -> new" to stdout (captured)?
-            # Or we look for the only directory that matches? (Too risky).
-            
-            # REVISED LOGIC: Directory renaming happens in the PARENT (Caller).
-            # 1. Recurse into "$item_path" (using original name).
-            #    Inside, it processes *its* children. It produces ".node.json".
-            #    It does NOT rename itself.
-            # 2. Return to Parent.
-            # 3. Parent (Here) calculates safe name for "$item_name".
-            # 4. Parent renames "$item_path" -> "$safe_path".
-            # 5. Parent reads "$safe_path/.node.json", adds to map, rm ".node.json".
-            
-            # This works! Renaming happens after processing content.
-            
             # Step 1: Recurse
+            # (Duplicate call removed)
             process_directory "$item_path"
                      
             # Step 2: Normalize Directory Name
