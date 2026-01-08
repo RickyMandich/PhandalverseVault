@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "TODO"
             }
           },
           {
@@ -33,20 +33,6 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "ba7adcf7350ce4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mezzi/skiblandir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "skiblandir"
             }
           },
           {
@@ -64,9 +50,37 @@
               "icon": "lucide-file",
               "title": "saga-di-gemgrave"
             }
+          },
+          {
+            "id": "aba1ddd45e2d6520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/non-giocanti/irving.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "irving"
+            }
+          },
+          {
+            "id": "3da643d235ec9a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eventi/la-frattura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "la-frattura"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mezzi/skiblandir.md",
+                "file": "Personaggi/non-giocanti/irving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da skiblandir"
+              "title": "Collegamenti in uscita da irving"
             }
           },
           {
@@ -232,10 +246,14 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "ba7adcf7350ce4c3",
+  "active": "aba1ddd45e2d6520",
   "lastOpenFiles": [
+    "eventi/la-frattura.md",
+    "Personaggi/non-giocanti/irving.md",
     "saghe/saga-di-gemgrave.md",
+    "Personaggi/non-giocanti/blob.md",
     "TODO.md",
+    "mezzi/skiblandir.md",
     "Personaggi/organizzazioni/la-coalizione.md",
     "Personaggi/gruppi-magici/fratelli-dei-lupi.md",
     "bash/d2utmpUillcj",
@@ -251,7 +269,6 @@
     "artefatti/fyrbrand.md",
     "personaggi/giocanti/attila-slayer-guerriero-elfo-100.md",
     "nonno Roshi.md",
-    "mezzi/skiblandir.md",
     "personaggi/non-giocanti/kaia.md",
     "fratelli dei lupi.md",
     "personaggi/non-giocanti/perrin-cauthon.md",
@@ -263,9 +280,6 @@
     "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
     "personaggi/giocanti/morbiarum-paladino-dragonide-24.md",
     "gli asmodeici.md",
-    "universi/phandalmain/atlantide.md",
-    "definizioni/calendario.md",
-    "universi/fandalmein/fandasulend/gemgreiv.md",
     "personaggi/non-giocanti/perrin.jpg",
     "personaggi/giocanti/pet",
     "personaggi/organizzazioni",
