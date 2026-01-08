@@ -1,7 +1,3 @@
----
-tags:
-  - saga
----
 #saga
 
 | saga precedente | saga successiva |     macrosaga di appartenenza      |
