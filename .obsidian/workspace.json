@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ba7adcf7350ce4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mezzi/skiblandir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "skiblandir"
+            }
+          },
+          {
             "id": "9f412d1ad0ae070e",
             "type": "leaf",
             "pinned": true,
@@ -158,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "saghe/saga-di-gemgrave.md",
+                "file": "mezzi/skiblandir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da saga-di-gemgrave"
+              "title": "Collegamenti in uscita da skiblandir"
             }
           },
           {
@@ -218,17 +232,26 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "f1ce41b5c33ddf52",
+  "active": "ba7adcf7350ce4c3",
   "lastOpenFiles": [
-    "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
     "saghe/saga-di-gemgrave.md",
+    "TODO.md",
+    "Personaggi/organizzazioni/la-coalizione.md",
+    "Personaggi/gruppi-magici/fratelli-dei-lupi.md",
+    "bash/d2utmpUillcj",
+    "bash/d2utmpkMkYL3",
+    "bash/d2utmpkCuxy2",
+    "bash/d2utmpHyz4fL",
+    "bash/d2utmphcg9Uz",
+    "bash/d2utmpv86nBc",
+    "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
     "universi/phandalmain/phandasuland/gemgrave.md",
     "saghe/macrosaga-della-chiave.md",
     "artefatti/la-bussola.md",
     "artefatti/fyrbrand.md",
     "personaggi/giocanti/attila-slayer-guerriero-elfo-100.md",
     "nonno Roshi.md",
-    "mezzi/skiblanir.md",
+    "mezzi/skiblandir.md",
     "personaggi/non-giocanti/kaia.md",
     "fratelli dei lupi.md",
     "personaggi/non-giocanti/perrin-cauthon.md",
@@ -243,20 +266,11 @@
     "universi/phandalmain/atlantide.md",
     "definizioni/calendario.md",
     "universi/fandalmein/fandasulend/gemgreiv.md",
-    "epoche/epoca-terza.md",
-    "eventi/la-frattura.md",
-    "eventi/la-purga.md",
     "personaggi/non-giocanti/perrin.jpg",
     "personaggi/giocanti/pet",
     "personaggi/organizzazioni",
     "personaggi/non-giocanti",
     "personaggi/gruppi-magici",
-    "personaggi/gruppi",
-    "personaggi/giocanti",
-    "personaggi",
-    "Personaggi/giocanti/pet",
-    "Personaggi/giocanti",
-    "universi/phandalmain/phandasuland/suddaria/suddaria.md.tmp",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",
     "Personaggi/non-giocanti/perrin.jpg",
