@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "saga-di-gemgrave"
             }
+          },
+          {
+            "id": "c6420707cc1c0e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "attila-slayer-guerriero-elfo-100"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,11 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da attila-slayer-guerriero-elfo-100"
             }
           },
           {
@@ -217,7 +232,7 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "c2dffc8f5a92487b",
+  "active": "c6420707cc1c0e17",
   "lastOpenFiles": [
     "saghe/saga-di-gemgrave.md",
     "universi/phandalmain/phandasuland/gemgrave.md",
