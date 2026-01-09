@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#città",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personaggi/non-giocanti/irving.md",
+                "file": "eventi/la-frattura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da irving"
+              "title": "Collegamenti in uscita da la-frattura"
             }
           },
           {
@@ -246,10 +247,20 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "aba1ddd45e2d6520",
+  "active": "3da643d235ec9a1a",
   "lastOpenFiles": [
-    "eventi/la-frattura.md",
+    "bash/d2utmpoWPjuq",
+    "bash/d2utmpoy2Isy",
+    "bash/d2utmp1gJe8V",
+    "bash/d2utmpIJisIw",
+    "bash/d2utmpxHmVOn",
+    "bash/d2utmpAcv0m3",
+    "bash/d2utmpu5X19D",
+    "bash/d2utmploTgP8",
+    "universi/phandalmain/phandalmain.md",
+    "universi/fandalmein/fandalmein.md",
     "Personaggi/non-giocanti/irving.md",
+    "eventi/la-frattura.md",
     "saghe/saga-di-gemgrave.md",
     "Personaggi/non-giocanti/blob.md",
     "TODO.md",
@@ -259,9 +270,6 @@
     "bash/d2utmpUillcj",
     "bash/d2utmpkMkYL3",
     "bash/d2utmpkCuxy2",
-    "bash/d2utmpHyz4fL",
-    "bash/d2utmphcg9Uz",
-    "bash/d2utmpv86nBc",
     "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
     "universi/phandalmain/phandasuland/gemgrave.md",
     "saghe/macrosaga-della-chiave.md",
@@ -277,14 +285,7 @@
     "personaggi/non-giocanti/fumero.md",
     "Vargas (Paladino Nano, 65).md",
     "personaggi/giocanti/vargas-paladino-nano-65.md",
-    "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
-    "personaggi/giocanti/morbiarum-paladino-dragonide-24.md",
-    "gli asmodeici.md",
     "personaggi/non-giocanti/perrin.jpg",
-    "personaggi/giocanti/pet",
-    "personaggi/organizzazioni",
-    "personaggi/non-giocanti",
-    "personaggi/gruppi-magici",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",
     "Personaggi/non-giocanti/perrin.jpg",
