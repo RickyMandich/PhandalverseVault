@@ -1,5 +1,5 @@
 #phandalmain 
-# origini
+# Origini
 ## [[epoca-leggendaria|epoca leggendaria]]
 è un nano nato nel **200 [[calendario|AP]]**. al momento della [[la-frattura|frattura]] aveva circa **70 anni umani**, trovandosi già nella fase iniziale della vecchiaia.
 
