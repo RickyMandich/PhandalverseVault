@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "saga-di-gemgrave"
             }
+          },
+          {
+            "id": "4b6e3eee99f9b451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/gruppi/la-mano-rossa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "la-mano-rossa"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "saghe/saga-di-gemgrave.md",
+                "file": "Personaggi/gruppi/la-mano-rossa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da saga-di-gemgrave"
+              "title": "Collegamenti in uscita da la-mano-rossa"
             }
           },
           {
@@ -218,8 +232,9 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "9f412d1ad0ae070e",
+  "active": "4b6e3eee99f9b451",
   "lastOpenFiles": [
+    "saghe/saga-di-gemgrave.md",
     "bash/d2utmpDimYYR",
     "bash/d2utmp9Wnfu3",
     "bash/d2utmpEUAUPl",
@@ -230,12 +245,10 @@
     "bash/d2utmpJsSlky",
     "bash/d2utmpNmjZk6",
     "bash/d2utmpoNLU9b",
-    "bash/d2utmp5zNgCP",
     "Personaggi/non-giocanti/irving.md",
     "Personaggi/organizzazioni/artefici.md",
     "Personaggi/gruppi/i-purgatori.md",
     "Personaggi/non-giocanti/nonno-roshi.md",
-    "saghe/saga-di-gemgrave.md",
     "definizioni/calendario.md",
     "eventi/la-purga.md",
     "eventi/la-frattura.md",
