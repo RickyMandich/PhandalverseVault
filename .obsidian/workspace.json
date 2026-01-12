@@ -113,12 +113,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artefatti/artefatto-necromante.md",
+                "file": "definizioni/template/incantesimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artefatto-necromante"
+              "title": "incantesimi"
             }
           }
         ],
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artefatti/artefatto-necromante.md",
+                "file": "definizioni/template/incantesimi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da artefatto-necromante"
+              "title": "Collegamenti in uscita da incantesimi"
             }
           },
           {
@@ -290,22 +290,23 @@
   },
   "active": "61eec5bb25f6540b",
   "lastOpenFiles": [
+    "bash/d2utmpSLBTjM",
+    "bash/d2utmpvtupvM",
+    "bash/d2utmpYvSJH2",
+    "bash/d2utmpRfuMLu",
+    "bash/d2utmpQYXlgX",
+    "bash/d2utmpjhFxKR",
+    "bash/d2utmptLtvYr",
+    "bash/d2utmphvhUcj",
+    "definizioni/template",
+    "artefatti/artefatto-necromante.md",
+    "definizioni/template/incantesimi.md",
     "bash/d2utmp1eqA1z",
     "bash/d2utmppg5CrZ",
-    "bash/d2utmpnUAgye",
-    "bash/d2utmppBOXUN",
-    "bash/d2utmpofjg5o",
-    "bash/d2utmp4XZ4iM",
-    "bash/d2utmp2hj4gR",
-    "bash/d2utmpmYB6Be",
     "Personaggi/Giocanti/than-warlock-tiefling-30.md",
-    "artefatti/artefatto-necromante.md",
     "artefatti/artefatto-dellombra.md",
     "artefatti/artefatto-artefice.md",
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
-    "bash/d2utmpug0hIE",
-    "bash/d2utmp5gV9Pz",
-    "bash/d2utmphZ1fok",
     "test.md",
     "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
     "Personaggi/gruppi/la-mano-rossa.md",
@@ -325,7 +326,6 @@
     "Personaggi/non-giocanti/blob.md",
     "TODO.md",
     "mezzi/skiblandir.md",
-    "Personaggi/gruppi-magici/fratelli-dei-lupi.md",
     "personaggi/non-giocanti/perrin.jpg",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",

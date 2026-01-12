@@ -22,7 +22,15 @@
         "universo.md": "universo",
         "villaggio.md": "villaggio"
       },
-      "directories": {}
+      "directories": {
+        "template": {
+          "original": "Template",
+          "files": {
+            "incantesimi.md": "incantesimi"
+          },
+          "directories": {}
+        }
+      }
     },
     "dungeon": {
       "original": "dungeon",
