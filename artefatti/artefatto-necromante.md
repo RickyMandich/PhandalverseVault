@@ -13,7 +13,8 @@ On subsequent turns, you can direct the swarm to attack another creature within 
 **Ai livelli superiori.** When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
 
 **Classi**: Wizard
-https://homebrewery.naturalcrit.com/share/rybU2vXOQB
+[https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
+
 ---
 # SCYTHE OF HADES
 *2° livello, Necromanzia*
@@ -30,7 +31,8 @@ A humanoid that dies to this damage has its flesh stripped from its bones and ri
 **Ai livelli superiori:** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 **Classi**: Wizard
-https://homebrewery.naturalcrit.com/share/rybU2vXOQB
+[https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
+
 ---
 
 # PUTRID PLAGUE
@@ -48,7 +50,8 @@ Any creature within 10ft of the corpse must succeed on a Dexterity Saving Throw,
 If the host is killed while infected, its corpse can, after one hour, spread the disease as if this spell had been cast on it. Burning the corpse, disintegrating it or killing the infected creature with radiant damage prevents this.
 
 **Classi**:
-https://homebrewery.naturalcrit.com/share/rybU2vXOQB
+[https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
+
 ---
 # BONE BLADE
 *trucchetto, trasmutazione*
@@ -64,7 +67,8 @@ if it broke it vanish
 **Ai livelli superiori:** At 5th level, the bone weapon is magical, with a +1 bonus to hit and damage. This increases to +2 at 11th level and +3 at 17th level.
 
 **Classi**:
-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+
 ---
 # CALCIFIC SPIKES
 *trucchetto, trasmutazione*
@@ -79,7 +83,8 @@ You project spikes out of your knees, elbows, and shoulders, causing any creatur
 **Ai livelli superiori:** This spell's damage increases by 1d6 when you reach 5th level (3d6), 11th level (4d6), and 17th level (5d6).
 
 **Classi**:
-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+
 ---
 # SENSE BONE
 *1° livello, Divinazione*
@@ -92,7 +97,8 @@ https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
 When you cast this spell, you can sense skeletons (in living creatures or undead alike), as well as objects made of bone, within a 30' radius. You have know the direction and distance to these creatures and objects, but cannot discern fine details such as what species a medium-sized skeleton belongs to aside from general height, nor the details of what actions a skeleton, or the flesh wrapped around it, may be taking.
 
 **Classi**:
-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+
 ---
 # TRANSIENT EXOSKELETON
 *1° livello, Trasmutazione*
@@ -105,7 +111,8 @@ https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
 When struck by an attack that you can see or sense, you manifest bone plates over the impact site, gaining resistance to bludgeoning, piercing, or slashing damage until the beginning of your next turn.
 
 **Classi:**
-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+
 ---
 # OSTEIC BARRIER
 *2° livello, Trasmutazione*
@@ -120,7 +127,8 @@ When you cast this spell, your radius and ulna grow rib-like projections that ra
 **Ai livelli superiori:** When cast with a higher-level spell slot, the shield's AC bonus increases by 1 per 2 levels.
 
 **Classi:**
-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+
 ---
 # SKELETAL SPROUTING
 *3° livello, Trasmutazione*
@@ -149,6 +157,6 @@ You afflict up to 3 targets which possess skeletons. and are within a 20' cube. 
 The bone dagger in your hand sprouts four copies of itself out of its blade, which then sprout their own copies until you momentarily hold a hundred bone daggers joined together by thin rods of bone. They then fling themselves at your foes all at once, dealing 8d6 piercing damage in a 45' cone or in a 60'×10' line.A successful Dexterity save halves the damage.
 
 **Classi:**   
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells]
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
