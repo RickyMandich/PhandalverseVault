@@ -20,22 +20,22 @@ in questo modo. Se il bersaglio possiede un'Intelligenza
 pari o superiore a 8, dispone di vantaggio al tiro salvezza.  
 Se fallisce il tiro salvezza e possiede un'Intelligenza pari o superiore a 12, può ripetere il tiro salvezza alla fine di ogni ora, finché non lo supera e si libera.  
 Questa capacità può essere utilizzata anche per controllare costrutti, ma questi dispongono di vantaggio ai tiri salvezza per evitare il controllo o liberarsene.
-# incantesimi ottenuto dall'artefatto
-## SWARM PEST
+# INCANTESIMI
+## sciame di parassiti
 *1° livello, necromanzia*  
 
-- **Tempo di lancio:** 1 action
+- **Tempo di lancio:** 1 azione
 - **Gittata:** 9m
 - **Componenti:** V, S
-- **Durata:** Concentration, up to 1 minute
+- **Durata:** Concentrazione, fino a 1 minute
 
-A swarm of insects springs to life at your fingertips and flies to a creature within range. A creature that fails on a dexterity saving throw takes 1d6 poison damage, or half as much on a success.
+Uno sciame di insetti prende vita dalla punta delle tue dita e vola verso una creatura entro gittata. Una creatura che fallisce un tiro salvezza su Destrezza subisce 1d6 danni da veleno, o la metà in caso di successo.
 
-On subsequent turns, you can direct the swarm to attack another creature within range, or move back to you, as a bonus action. If the swarm ever leaves the range, the spell ends.
+Nei turni successivi, puoi dirigere lo sciame ad attaccare un'altra creatura entro gittata, o tornare verso di te, come azione bonus. Se lo sciame esce dalla gittata, l'incantesimo termina.
 
-**Ai livelli superiori.** When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
+**Ai livelli superiori.** quando lanci questo incantesimo con uno slot di livello 2 o superiore il danno aumenta di 1d6 per ogni livello superiore al 1
 
-**Classi**: Wizard
+**Classi**: Mago
 [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
 
 ---
@@ -221,29 +221,3 @@ se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggior
 ---
 
 # appunti da inserire
-RACCOLTO MACABRO
-Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi incantesimi.  
-Una volta per turno, quando uccide una o più creature con  un incantesimo di livello pari o superiore al 1°, il warlock recupera un ammontare di punti ferita pari al doppio del livello dell'incantesimo, o al triplo del livello se l'incantesimo appartiene alla Scuola di Necromanzia. 
-Se uccide una o più creature con un trucchetto recupera 1 punto ferita.
-Non ottiene questo beneficio se uccide dei costrutti o dei non morti.
-
-SERVITORI NON MORTI
-Conosce l'incantesimo "animare morti".  
-Quando lancia animare morti, può bersagliare un cadavere  o un cumulo di ossa aggiuntivo per creare un altro scheletro o zombi, come appropriato.  
-Ogni volta che crea un non morto usando un incantesimo di necromanzia, quella creatura ottiene i benefici seguenti:  
-• Il massimo dei punti ferita della creatura aumenta di un ammontare pari al livello del warlock.  
-• La creatura aggiunge il bonus di competenza del warlock ai suoi tiri per i danni con le armi.
-
-IMPERVIO ALLA NON MORTE
-Dispone di resistenza ai danni necrotici e il suo massimo dei punti ferita non può essere ridotto. 
-
-COMANDARE I SENZ'ANIMA
-Può usare la magia per condurre sotto il suo controllo anche i non morti creati da altri maghi. Con un'azione può scegliere un non morto situato entro 18 metri da lui e che egli sia in grado di vedere. 
-Quella creatura deve superare un tiro salvezza su Carisma contro la CD degli incantesimi del warlock. Se lo supera, il mago non può più utilizzare questo privilegio contro di lei. Se lo fallisce, la creatura diventa amichevole  
-nei confronti del warlock e obbedisce ai suoi comandi finché il warlock non utilizza di nuovo questo privilegio.  
-I non morti intelligenti sono più difficili da controllare 
-in questo modo. Se il bersaglio possiede un'Intelligenza 
-pari o superiore a 8, dispone di vantaggio al tiro salvezza. 
-Se fallisce il tiro salvezza e possiede un'Intelligenza pari o  superiore a 12, può ripetere il tiro salvezza alla fine di ogni  
-ora, finché non lo supera e si libera.
-Questa capacità può essere utilizzata anche per controllare costrutti, ma questi dispongono di vantaggio ai tiri salvezza per evitare il controllo o liberarsene
