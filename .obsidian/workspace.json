@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1933adafaa71d301",
@@ -269,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,20 +292,22 @@
   },
   "active": "61eec5bb25f6540b",
   "lastOpenFiles": [
-    "Personaggi/non-giocanti/nonno-roshi.md",
-    "artefatti/artefatto-necromante.md",
-    "bash/d2utmpewSLXP",
-    "bash/d2utmputbRZn",
-    "bash/d2utmpvX0fFZ",
-    "bash/d2utmp6Gby9p",
-    "bash/d2utmpkin5Cm",
-    "bash/d2utmpHkDFlG",
+    "bash/d2utmpIKwEWU",
+    "bash/d2utmpKmKG7F",
+    "bash/d2utmppQ4K7j",
+    "bash/d2utmpuv41yg",
+    "bash/d2utmptXfnJp",
+    "bash/d2utmpYgI5EO",
+    "bash/d2utmpqyNEpS",
+    "bash/d2utmp6SAPjV",
     "definizioni/template/incantesimi.md",
+    "TODO.md",
+    "artefatti/artefatto-necromante.md",
+    "bash/d2utmpckw3iR",
+    "bash/d2utmp6TLfE7",
+    "bash/d2utmpm8PNv5",
+    "Personaggi/non-giocanti/nonno-roshi.md",
     "Personaggi/Giocanti/than-warlock-tiefling-30.md",
-    "bash/d2utmpSLBTjM",
-    "bash/d2utmpvtupvM",
-    "bash/d2utmpYvSJH2",
-    "bash/d2utmpRfuMLu",
     "artefatti/artefatto-dellombra.md",
     "artefatti/artefatto-artefice.md",
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
@@ -323,7 +327,6 @@
     "universi/phandalmain/phandalmain.md",
     "universi/fandalmein/fandalmein.md",
     "Personaggi/non-giocanti/blob.md",
-    "TODO.md",
     "mezzi/skiblandir.md",
     "personaggi/non-giocanti/perrin.jpg",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",

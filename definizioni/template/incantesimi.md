@@ -1,5 +1,5 @@
-[nome incantesimo]
-*[livello]° livello, [scuola dimagia]*
+# [nome incantesimo]
+*[livello]° livello, [scuola di magia]*
 
 - **Tempo di lancio:**
 - **Gittata:**
@@ -11,3 +11,5 @@
 **Ai livelli superiori:**
 
 **Classi**:
+
+---
