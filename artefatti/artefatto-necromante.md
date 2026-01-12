@@ -136,6 +136,7 @@ You afflict up to 3 targets which possess skeletons. and are within a 20' cube. 
 
 **Classi:** 
 https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+
 ---
 # SHOWER OF SHARDS
 *4° livello, Evocazione*
@@ -148,5 +149,6 @@ https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
 The bone dagger in your hand sprouts four copies of itself out of its blade, which then sprout their own copies until you momentarily hold a hundred bone daggers joined together by thin rods of bone. They then fling themselves at your foes all at once, dealing 8d6 piercing damage in a 45' cone or in a 60'×10' line.A successful Dexterity save halves the damage.
 
 **Classi:**   
-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
+(https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+
 ---
