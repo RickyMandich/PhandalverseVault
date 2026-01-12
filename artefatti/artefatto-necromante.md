@@ -209,6 +209,7 @@ La creatura rimane sotto il controllo dell'incantatore per 24 ore, dopodiché sm
 - **Raggio d'azione:** 18m
 - **Componenti:** S
 - **Durata:** Istantaneo
+
 Come schiocchi le dita una creatura morta entro gittata esplode con energia necrotica. ogni creatura in una sfera con un raggio di 4.5m con centro sulla creatura bersaglio deve fare un tiro salvezza su destrezza. subisce 2d8 danni necrotici se fallisce e la metà se ha successo. se riduci una creatura a 0 HP con questo incantesimo la creatura esplode ripetendo lo stesso effetto di questo incantesimo. se una creatura non morta è vittima di questo incantesimo o della sua esplosione deve avere successo su un tiro salvezza su costituzione o esplodere ripetendo lo stesso effetto di questo incantesimo un numero di volte pari a metà del suo grado sfida (minimo 1)
 se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggiorata di 5 su di un bersagio che non controlli o con la cd normale su di un bersagio che controlli per convincerlo ad andare dove vuoi e farti usare questo incantesimo su di lui, continuano a valere le regole del privilegio (in caso di dubbi o incertezze il tutto è a discrezione del DM seguendo la rule of coolness)
 
