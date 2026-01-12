@@ -1,15 +1,135 @@
-# Vampiric Touch
-*3rd-level, Necromancy*  
+# appunti da inserire
+SWARM PEST
+1st-Level Necromancy
 
-- **Casting time:** 1 action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+Casting Time: 1 Action
+Range: 30ft
+Components: V, S
+Duration: Concentration, up to 1 minute
 
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes `3d6` necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.
+A swarm of insects springs to life at your fingertips and flies to a creature within range. A creature that fails on a dexterity saving throw takes 1d6 poison damage, or half as much on a success.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+On subsequent turns, you can direct the swarm to attack another creature within range, or move back to you, as a bonus action. If the swarm ever leaves the range, the spell ends.
 
-**Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
+At higher Levels. When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
 
-*Source: SRD / Basic Rules*
+
+SCYTHE OF HADES
+2nd-Level Necromancy
+
+Casting Time: 1 Action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+
+You form a scythe of necrotic energy and swing it at a creature within range. That creature must make a Dexterity saving throw, taking 4d6 necrotic damage on a failure or half as much on a success.
+
+A humanoid that dies to this damage has its flesh stripped from its bones and rises again as a skeleton under your control. The skeleton rolls its own initiative and becomes inanimate after one hour or when it drops to zero hitpoints.
+
+At higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+
+PUTRID PLAGUE
+3rd-Level Necromancy (ritual)
+
+Casting Time: 1 Hour
+Range: Touch
+Components: V, S, M (a cup of blood, a parasite egg and herbs worth 150gp, all of which the spell consumes)
+Duration: Instantaneous
+
+
+You touch the corpse of a large or smaller creature, giving life to a myriad of parasites and maggots feasting on the corpse that collect in the corpses chest cavity. If the corpse is somehow disturbed, its chest blows open.
+
+Any creature within 10ft of the corpse must succeed on a Dexterity Saving Throw, taking 4d6 piercing damage and become infested with a parasite. The parasite counts as a disease and deals 2d6 poison damage to its host every hour. It can be removed by another creature using an 30 minute long operation, a cutting implement and a successful DC 15 (Dexterity) Medicine check. On a failure, the creature takes 2d6 slashing damage.
+
+If the host is killed while infected, its corpse can, after one hour, spread the disease as if this spell had been cast on it. Burning the corpse, disintegrating it or killing the infected creature with radiant damage prevents this.
+
+
+https://homebrewery.naturalcrit.com/share/rybU2vXOQB
+
+
+BONE BLADE
+Cantrip transmutation
+
+Casting Time: 1 bonus action
+Range: Self
+Compnents: M (the caster's skeleton or exoskeleton)
+Duration: 10 minutes.
+
+When you cast this spell, you grow claws from your fingertips or extend a short-sword like projection from your wrist. You can attack with these as a melee weapon you are proficient with, dealing 1d8 piercing or slashing damage (+ STR or DEX). At 5th level, the bone weapon is magical, with a +1 bonus to hit and damage. This increases to +2 at 11th level and +3 at 17th level.
+
+CALCIFIC SPIKES
+Cantrip transmutation
+
+Casting Time: 1 action
+Range: Self
+Components: M (the caster's skeleton or
+exoskeleton)
+Duration: 1 minute
+
+You project spikes out of your knees, elbows, and shoulders, causing any creature that grapples or swallows you to take 2d6 points of piercing damage at the beginning of its turn.
+
+This spell's damage increases by 1d6 when you reach 5th level (3d6), 11th level (4d6), and 17th level (5d6).
+
+
+
+SENSE BONE
+1st level divination
+
+Casting Time: 1 action
+Range: Self (30' radius)
+Components: V, M (a small shard of bone)
+Duration: 1 minute
+
+When you cast this spell, you can sense skeletons (in living creatures or undead alike), as well as objects made of bone, within a 30' radius. You have know the direction and distance to these creatures and objects, but cannot discern fine details such as what species a medium-sized skeleton belongs to aside from general height, nor the details of what actions a skeleton, or the flesh wrapped around it, may be taking.
+
+
+TRANSIENT EXOSKELETON
+1st level transmutation
+
+Casting Time: 1 reaction
+Range: Self
+Components: V
+Duration: Instantaneous
+
+When struck by an attack that you can see or sense, you manifest bone plates over the impact site, gaining resistance to bludgeoning, piercing, or slashing damage until the beginning of your next turn.
+
+
+OSTEIC BARRIER
+2nd level transmutation
+
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 1 hour
+
+When you cast this spell, your radius and ulna grow rib-like projections that rapidly sprout, spread, and fuse into a full-sized shield, granting you a +2 bonus to your armor class as though wielding a shield. When wielding the shield, you cannot effectively use a two-handed weapon, but may use the shield hand to perform somatic gestures for spellcasting.
+
+When cast with a higher-level spell slot, the shield's AC bonus increases by 1 per 2 levels.
+
+
+SKELETAL SPROUTING
+3rd level transmutation
+
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a fingerbone)
+Duration: Instantaneous
+
+You afflict up to 3 targets which possess skeletons. and are within a 20' cube. Their bones quiver and sprout random projections within their body. causing crippling pain and injury. Targets of this spell take 4d6 slashing damage and are Restrained. A successful Constitution save reduces the damage by half and negates the Restrained condition. A Restrained target may save again at the end of each of its turn to end the restraint effect. Casting this spell with a higher level spell slot increases the number of targets affected by 1 per level.
+
+
+
+SHOWER OF SHARDS
+4th level evocation
+
+Casting Time: 1 action
+Range: 60 feet
+Compnents: V, S, M (a bone knife).
+Duration: Instantaneous
+
+The bone dagger in your hand sprouts four copies of itself out of its blade, which then sprout their own copies until you momentarily hold a hundred bone daggers joined together by thin rods of bone. They then fling themselves at your foes all at once, dealing 8d6 piercing damage in a 45' cone or in a 60'×10' line. 
+A successful Dexterity save halves the damage.
+
+
+https://it.scribd.com/document/578830707/5e-Osteomancy-Spells
