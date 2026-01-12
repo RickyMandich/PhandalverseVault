@@ -1,6 +1,8 @@
 {
   "original": "ROOT",
-  "files": {},
+  "files": {
+    "test.md": "Test"
+  },
   "directories": {
     "artefatti": {
       "original": "artefatti",

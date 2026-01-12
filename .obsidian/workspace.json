@@ -106,9 +106,23 @@
               "icon": "lucide-file",
               "title": "than-warlock-tiefling-30"
             }
+          },
+          {
+            "id": "7b8bffc318368186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personaggi/Giocanti/than-warlock-tiefling-30.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da than-warlock-tiefling-30"
+              "title": "Collegamenti in uscita da test"
             }
           },
           {
@@ -274,23 +288,25 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "79de41e0329601c1",
+  "active": "7b8bffc318368186",
   "lastOpenFiles": [
+    "bash/d2utmpXtKpTa",
+    "bash/d2utmpZq2WBa",
+    "bash/d2utmpJZeWOv",
+    "bash/d2utmpCAwruM",
+    "bash/d2utmp3XVm0G",
+    "bash/d2utmp8sdP3X",
+    "bash/d2utmpnItYKZ",
+    "bash/d2utmpn1iwRh",
+    "Personaggi/Giocanti/than-warlock-tiefling-30.md",
+    "test.md",
     "bash/d2utmpZxrJOy",
     "bash/d2utmpzV6nAT",
     "bash/d2utmp8AtdsT",
-    "bash/d2utmpTzh0jA",
-    "bash/d2utmpJgqny5",
-    "bash/d2utmpnK9R2w",
-    "bash/d2utmpFxSdwr",
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
     "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
     "Personaggi/gruppi/la-mano-rossa.md",
     "saghe/saga-di-gemgrave.md",
-    "bash/d2utmpDimYYR",
-    "bash/d2utmp9Wnfu3",
-    "bash/d2utmpEUAUPl",
-    "bash/d2utmp8ahmXN",
     "Personaggi/non-giocanti/irving.md",
     "Personaggi/organizzazioni/artefici.md",
     "Personaggi/gruppi/i-purgatori.md",
@@ -310,8 +326,6 @@
     "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
     "universi/phandalmain/phandasuland/gemgrave.md",
     "saghe/macrosaga-della-chiave.md",
-    "artefatti/la-bussola.md",
-    "artefatti/fyrbrand.md",
     "personaggi/non-giocanti/perrin.jpg",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",
