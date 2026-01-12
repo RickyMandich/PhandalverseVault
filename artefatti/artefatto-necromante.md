@@ -1,4 +1,4 @@
-# SWARM PEST
+## SWARM PEST
 *1° livello, necromanzia*  
 
 - **Tempo di lancio:** 1 action
@@ -16,7 +16,7 @@ On subsequent turns, you can direct the swarm to attack another creature within 
 [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
 
 ---
-# SCYTHE OF HADES
+## SCYTHE OF HADES
 *2° livello, Necromanzia*
 
 - **Tempo di lancio:** 1 azione
@@ -35,7 +35,7 @@ A humanoid that dies to this damage has its flesh stripped from its bones and ri
 
 ---
 
-# PUTRID PLAGUE
+## PUTRID PLAGUE
 *3° livello, necromanzia*
 
 - **Tempo di lancio:** 1 ora
@@ -53,7 +53,7 @@ If the host is killed while infected, its corpse can, after one hour, spread the
 [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
 
 ---
-# BONE BLADE
+## BONE BLADE
 *trucchetto, trasmutazione*
 
 - **Tempo di lancio:** 1 azione bonus
@@ -70,7 +70,7 @@ if it broke it vanish
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-# CALCIFIC SPIKES
+## CALCIFIC SPIKES
 *trucchetto, trasmutazione*
 
 - **Tempo di lancio:** 1 azione
@@ -86,7 +86,7 @@ You project spikes out of your knees, elbows, and shoulders, causing any creatur
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-# SENSE BONE
+## SENSE BONE
 *1° livello, Divinazione*
 
 - **Tempo di lancio:** 1 azione
@@ -100,7 +100,7 @@ When you cast this spell, you can sense skeletons (in living creatures or undead
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-# TRANSIENT EXOSKELETON
+## TRANSIENT EXOSKELETON
 *1° livello, Trasmutazione*
 
 - **Tempo di lancio:** 1 reazione
@@ -114,7 +114,7 @@ When struck by an attack that you can see or sense, you manifest bone plates ove
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-# OSTEIC BARRIER
+## OSTEIC BARRIER
 *2° livello, Trasmutazione*
 
 - **Tempo di lancio:** 1 azione
@@ -130,7 +130,7 @@ When you cast this spell, your radius and ulna grow rib-like projections that ra
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-# SKELETAL SPROUTING
+## SKELETAL SPROUTING
 *3° livello, Trasmutazione*
 
 - **Tempo di lancio:** 1 azione
@@ -146,7 +146,7 @@ You afflict up to 3 targets which possess skeletons. and are within a 20' cube. 
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-# SHOWER OF SHARDS
+## SHOWER OF SHARDS
 *4° livello, Evocazione*
 
 - **Tempo di lancio:** 1 azione
