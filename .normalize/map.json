@@ -1,12 +1,13 @@
 {
   "original": "ROOT",
-  "files": {
-    "test.md": "Test"
-  },
+  "files": {},
   "directories": {
     "artefatti": {
       "original": "artefatti",
       "files": {
+	"artefatto-necromante": "Artefatto Da Necromante",
+	"artefatto-artefice": "Artefatto Da Armaiolo",
+	"artefatto-dellombra": "Artefatto Da Via Dell'Ombra",
         "fyrbrand.md": "Fyrbrand",
         "il-portale.md": "il Portale",
         "la-bussola.md": "la Bussola",
