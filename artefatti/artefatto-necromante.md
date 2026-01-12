@@ -13,6 +13,7 @@ On subsequent turns, you can direct the swarm to attack another creature within 
 **Ai livelli superiori.** When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
 
 **Classi**: Wizard
+
 ---
 [nome incantesimo]
 *[livello]° livello, [scuola dimagia]*
@@ -45,6 +46,7 @@ On subsequent turns, you can direct the swarm to attack another creature within 
 
 At higher Levels. When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
 
+---
 
 SCYTHE OF HADES
 2nd-Level Necromancy
@@ -60,6 +62,7 @@ A humanoid that dies to this damage has its flesh stripped from its bones and ri
 
 At higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
+---
 
 PUTRID PLAGUE
 3rd-Level Necromancy (ritual)
@@ -79,6 +82,7 @@ If the host is killed while infected, its corpse can, after one hour, spread the
 
 https://homebrewery.naturalcrit.com/share/rybU2vXOQB
 
+---
 
 BONE BLADE
 Cantrip transmutation
@@ -89,6 +93,8 @@ Compnents: M (the caster's skeleton or exoskeleton)
 Duration: 10 minutes.
 
 When you cast this spell, you grow claws from your fingertips or extend a short-sword like projection from your wrist. You can attack with these as a melee weapon you are proficient with, dealing 1d8 piercing or slashing damage (+ STR or DEX). At 5th level, the bone weapon is magical, with a +1 bonus to hit and damage. This increases to +2 at 11th level and +3 at 17th level.
+
+---
 
 CALCIFIC SPIKES
 Cantrip transmutation
@@ -103,7 +109,7 @@ You project spikes out of your knees, elbows, and shoulders, causing any creatur
 
 This spell's damage increases by 1d6 when you reach 5th level (3d6), 11th level (4d6), and 17th level (5d6).
 
-
+---
 
 SENSE BONE
 1st level divination
@@ -115,6 +121,7 @@ Duration: 1 minute
 
 When you cast this spell, you can sense skeletons (in living creatures or undead alike), as well as objects made of bone, within a 30' radius. You have know the direction and distance to these creatures and objects, but cannot discern fine details such as what species a medium-sized skeleton belongs to aside from general height, nor the details of what actions a skeleton, or the flesh wrapped around it, may be taking.
 
+---
 
 TRANSIENT EXOSKELETON
 1st level transmutation
@@ -126,6 +133,7 @@ Duration: Instantaneous
 
 When struck by an attack that you can see or sense, you manifest bone plates over the impact site, gaining resistance to bludgeoning, piercing, or slashing damage until the beginning of your next turn.
 
+---
 
 OSTEIC BARRIER
 2nd level transmutation
@@ -139,6 +147,7 @@ When you cast this spell, your radius and ulna grow rib-like projections that ra
 
 When cast with a higher-level spell slot, the shield's AC bonus increases by 1 per 2 levels.
 
+---
 
 SKELETAL SPROUTING
 3rd level transmutation
@@ -150,7 +159,7 @@ Duration: Instantaneous
 
 You afflict up to 3 targets which possess skeletons. and are within a 20' cube. Their bones quiver and sprout random projections within their body. causing crippling pain and injury. Targets of this spell take 4d6 slashing damage and are Restrained. A successful Constitution save reduces the damage by half and negates the Restrained condition. A Restrained target may save again at the end of each of its turn to end the restraint effect. Casting this spell with a higher level spell slot increases the number of targets affected by 1 per level.
 
-
+---
 
 SHOWER OF SHARDS
 4th level evocation
