@@ -39,55 +39,56 @@ Nei turni successivi, puoi dirigere lo sciame ad attaccare un'altra creatura ent
 [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
 
 ---
-## SCYTHE OF HADES
+## falce di ade
 *2° livello, Necromanzia*
 
 - **Tempo di lancio:** 1 azione
-- **Gittata:** tocco
+- **Gittata:** 1.5m
 - **Componenti:** V, S
 - **Durata:** Istantaneo
 
-You form a scythe of necrotic energy and swing it at a creature within range. That creature must make a Dexterity saving throw, taking 4d6 necrotic damage on a failure or half as much on a success.
+Crei una Falce di energia necrotica e la usi per colpire una creatura entro gittata. fai un tiro per colpire in mischia (è comunque un'arma magica quindi usi il tuo bonus da incantatore) e se colpisci sono 4d6 danni necrotici.
+A un essere umanoide che muore di conseguenza a questo incantesimo la cane viene strappata dalle ossa e sorge come scheletro sotto il tuo controllo. lo scheletro tira la sua iniziativa e può combattere indipendentemente 
 
-A humanoid that dies to this damage has its flesh stripped from its bones and rises again as a skeleton under your control. The skeleton rolls its own initiative and becomes inanimate after one hour or when it drops to zero hit points.
+**Ai livelli superiori:** quando lanci questo incantesimo con uno slot di 3 livello o superiore il danno aumenta di 1d6 per ogni livello sopra al 2. la gittata aumenta di 0.5 m per ogni slot sopra al 2, da quando raggiunge i 3m prende i nemici su un cono di 90° ma può creare un numero di scheletri per attacco pari al proprio bonus da incantatore
 
-**Ai livelli superiori:** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 1st.
-
-**Classi**: Wizard
+**Classi**: Mago
 [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
 
 ---
 
-## PUTRID PLAGUE
+## Peste putrida
 *3° livello, necromanzia*
 
-- **Tempo di lancio:** 1 ora
+- **Tempo di lancio:** 1 ora (si riduce a 1 minuto se lanciato durante il combattimento mentre i compagni ti coprono, non puoi fare altre azioni o azioni bonus in questo minuto)
 - **Gittata:** tocco
-- **Componenti:** V, S, M (a cup of blood, a parasite egg and herbs worth 150gp, all of which the spell consumes)
+- **Componenti:** V, S, M (una tazza di sangue, un uovo di parassita ed erbe del valore di 150gp, tutti vengono consumati dall'incantesimo)
 - **Durata:** Istantaneo
 
-You touch the corpse of a large or smaller creature, giving life to a myriad of parasites and maggots feasting on the corpse that collect in the corpses chest cavity. If the corpse is somehow disturbed, its chest blows open.
+Tocca il cadavere di una creatura di taglia grande o minore, dando vita a una miriade di parassiti e vermi che si nutrono del cadavere e che si accumulano nella sua cavità toracica. se il cadavere viene disturbato la suo cassa toracica si aprirà.
+Ogni creatura entro 3m dal cadavere deve avere successo su un tiro salvezza su destrezza o prendere 4d6 danni perforanti e venire infestato con un parassita. il parassita conta come una malattia e fa 2d6 danni da veleno ogni ora (se l'incantesimo viene lanciato con il tempo ridotto il tempo si riduce anche per questo effetto). Può essere rimosso da un'altra creatura con un'operazione della durata di 30 minuti, un attrezzo da taglio e una prova di Medicina (Destrezza) con CD 15. In caso di fallimento, la creatura subisce 2d6 danni taglienti.
+se l'ospite muore mentre è infetto, il suo cadavere può, dopo un ora (se l'incantesimo viene lanciato con il tempo ridotto il tempo si riduce anche per questo effetto) diffondere la malattia come se l'incantesimo fosse stato lanciato su questo cadavere. bruciare, disintegrare, o uccidere la creatura con danni radianti evita che il cadavere diventi contagioso.
 
-Any creature within 10ft of the corpse must succeed on a Dexterity Saving Throw, taking 4d6 piercing damage and become infested with a parasite. The parasite counts as a disease and deals 2d6 poison damage to its host every hour. It can be removed by another creature using an 30 minute long operation, a cutting implement and a successful DC 15 (Dexterity) Medicine check. On a failure, the creature takes 2d6 slashing damage.
-
-If the host is killed while infected, its corpse can, after one hour, spread the disease as if this spell had been cast on it. Burning the corpse, disintegrating it or killing the infected creature with radiant damage prevents this.
-
-**Classi**:
+**Classi**: Mago
 [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
 
 ---
-## BONE BLADE
+## Lama d'Osso
 *trucchetto, trasmutazione*
 
 - **Tempo di lancio:** 1 azione bonus
 - **Gittata:** se stesso
-- **Componenti:** M (the caster skeleton or exeskeleton)
+- **Componenti:** M (lo scheletro dell'incantatore o un esoscheletro)
 - **Durata:** fino a che ti serve
 
-When you cast this spell, you grow claws from your fingertips or extend a short-sword like projection from your wrist. You can attack with these as a melee weapon you are proficient with, dealing 1d8 piercing or slashing damage (+ STR or DEX).
-if it broke it vanish
+Quando lanci questo incantesimo, ti spuntano degli artigli dalla punta delle dita o estendi una protuberanza simile a una spada corta dal polso. Puoi attaccare con queste armi come se fossero un'arma da mischia in cui sei competente.
+le armi fanno i seguenti danni:
+la spada corta: 1d8 + (FOR o DES, deve essere concorde a quella aggiunta al tiro per colpire)
+gli artigli: 1d6 + (FOR o DES, deve essere concorde a quella aggiunta al tiro per colpire), ogni mano è un'arma a se stante, ma se usi la tua azione di attacco per una delle mani puoi attaccare con l'altra come azione bonus.
+Se l'osso si rompe, svanisce.
+se l'arma cresce dal braccio scheletrico hai vantaggio per colpire.
 
-**Ai livelli superiori:** At 5th level, the bone weapon is magical, with a +1 bonus to hit and damage. This increases to +2 at 11th level and +3 at 17th level.
+**Ai livelli superiori:** dal 5° livello l'arma diventa magica e ottieni +1 per colpire e per i danni, all'11° diventa +2 e al 17° +3.
 
 **Classi**:
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
@@ -202,7 +203,7 @@ La creatura rimane sotto il controllo dell'incantatore per 24 ore, dopodiché sm
 [https://dungeonsanddragons.fandom.com/it/wiki/Animare_Morti](https://dungeonsanddragons.fandom.com/it/wiki/Animare_Morti)
 
 ---
-## esplosione di cadavere (anche se il DM proporrebbe esplosione cadaverica)
+## esplosione cadaverica
 *2° livello, Necromanzia*
 
 - **Tempo di lancio:** 1 azione

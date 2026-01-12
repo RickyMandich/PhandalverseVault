@@ -120,6 +120,20 @@
               "icon": "lucide-file",
               "title": "artefatto-necromante"
             }
+          },
+          {
+            "id": "36876f06dbb7052a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://homebrewery.naturalcrit.com/share/rybU2vXOQB",
+                "title": "Necromancy Expanded - The Homebrewery",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Necromancy Expanded - The Homebrewery"
+            }
           }
         ],
         "currentTab": 7
@@ -291,19 +305,19 @@
   },
   "active": "aa9bef441eb8b9d2",
   "lastOpenFiles": [
+    "bash/d2utmpl7EgYs",
+    "bash/d2utmpOHyAdD",
+    "bash/d2utmpAB4wGH",
+    "bash/d2utmpePaC6n",
+    "bash/d2utmpjtIRWX",
+    "bash/d2utmphJ4Fmb",
+    "bash/d2utmp13boeq",
+    "bash/d2utmpDQU6qR",
+    "artefatti/artefatto-necromante.md",
     "bash/d2utmpw0MHj6",
     "bash/d2utmpQciEft",
     "bash/d2utmpFRVgST",
-    "bash/d2utmpdI5PqH",
-    "bash/d2utmpDTNRh6",
-    "bash/d2utmpwbWC7y",
-    "bash/d2utmpWYM5w4",
-    "bash/d2utmptzam4L",
     "TODO.md",
-    "artefatti/artefatto-necromante.md",
-    "bash/d2utmpZn4dr3",
-    "bash/d2utmpYwkLxK",
-    "bash/d2utmptCMqMQ",
     "saghe/saga-di-gemgrave.md",
     "Personaggi/gruppi/la-mano-rossa.md",
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
