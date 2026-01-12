@@ -64,9 +64,51 @@
               "icon": "lucide-file",
               "title": "la-mano-rossa"
             }
+          },
+          {
+            "id": "091fff77eccd0ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dontavious-ladro-mezzelfo-25"
+            }
+          },
+          {
+            "id": "43e9a6adc468f065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/Giocanti/vargas-paladino-nano-65.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vargas-paladino-nano-65"
+            }
+          },
+          {
+            "id": "79de41e0329601c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/Giocanti/than-warlock-tiefling-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "than-warlock-tiefling-30"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personaggi/gruppi/la-mano-rossa.md",
+                "file": "Personaggi/Giocanti/than-warlock-tiefling-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da la-mano-rossa"
+              "title": "Collegamenti in uscita da than-warlock-tiefling-30"
             }
           },
           {
@@ -232,19 +274,23 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "4b6e3eee99f9b451",
+  "active": "79de41e0329601c1",
   "lastOpenFiles": [
+    "bash/d2utmpZxrJOy",
+    "bash/d2utmpzV6nAT",
+    "bash/d2utmp8AtdsT",
+    "bash/d2utmpTzh0jA",
+    "bash/d2utmpJgqny5",
+    "bash/d2utmpnK9R2w",
+    "bash/d2utmpFxSdwr",
+    "Personaggi/Giocanti/vargas-paladino-nano-65.md",
+    "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
+    "Personaggi/gruppi/la-mano-rossa.md",
     "saghe/saga-di-gemgrave.md",
     "bash/d2utmpDimYYR",
     "bash/d2utmp9Wnfu3",
     "bash/d2utmpEUAUPl",
     "bash/d2utmp8ahmXN",
-    "bash/d2utmpScAxZ6",
-    "bash/d2utmpZY9z0R",
-    "bash/d2utmpfyNq0X",
-    "bash/d2utmpJsSlky",
-    "bash/d2utmpNmjZk6",
-    "bash/d2utmpoNLU9b",
     "Personaggi/non-giocanti/irving.md",
     "Personaggi/organizzazioni/artefici.md",
     "Personaggi/gruppi/i-purgatori.md",
@@ -266,9 +312,6 @@
     "saghe/macrosaga-della-chiave.md",
     "artefatti/la-bussola.md",
     "artefatti/fyrbrand.md",
-    "personaggi/giocanti/attila-slayer-guerriero-elfo-100.md",
-    "nonno Roshi.md",
-    "personaggi/non-giocanti/kaia.md",
     "personaggi/non-giocanti/perrin.jpg",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",
