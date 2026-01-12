@@ -1,3 +1,5 @@
+
+# incantesimi ottenuto dall'artefatto
 ## SWARM PEST
 *1° livello, necromanzia*  
 
@@ -160,3 +162,31 @@ The bone dagger in your hand sprouts four copies of itself out of its blade, whi
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
+
+# appunti da inserire
+RACCOLTO MACABRO
+Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi incantesimi.  
+Una volta per turno, quando uccide una o più creature con  un incantesimo di livello pari o superiore al 1°, il warlock recupera un ammontare di punti ferita pari al doppio del livello dell'incantesimo, o al triplo del livello se l'incantesimo appartiene alla Scuola di Necromanzia. 
+Se uccide una o più creature con un trucchetto recupera 1 punto ferita.
+Non ottiene questo beneficio se uccide dei costrutti o dei non morti.
+
+SERVITORI NON MORTI
+Conosce l'incantesimo "animare morti".  
+Quando lancia animare morti, può bersagliare un cadavere  o un cumulo di ossa aggiuntivo per creare un altro scheletro o zombi, come appropriato.  
+Ogni volta che crea un non morto usando un incantesimo di necromanzia, quella creatura ottiene i benefici seguenti:  
+• Il massimo dei punti ferita della creatura aumenta di un ammontare pari al livello del warlock.  
+• La creatura aggiunge il bonus di competenza del warlock ai suoi tiri per i danni con le armi.
+
+IMPERVIO ALLA NON MORTE
+Dispone di resistenza ai danni necrotici e il suo massimo dei punti ferita non può essere ridotto. 
+
+COMANDARE I SENZ'ANIMA
+Può usare la magia per condurre sotto il suo controllo anche i non morti creati da altri maghi. Con un'azione può scegliere un non morto situato entro 18 metri da lui e che egli sia in grado di vedere. 
+Quella creatura deve superare un tiro salvezza su Carisma contro la CD degli incantesimi del warlock. Se lo supera, il mago non può più utilizzare questo privilegio contro di lei. Se lo fallisce, la creatura diventa amichevole  
+nei confronti del warlock e obbedisce ai suoi comandi finché il warlock non utilizza di nuovo questo privilegio.  
+I non morti intelligenti sono più difficili da controllare 
+in questo modo. Se il bersaglio possiede un'Intelligenza 
+pari o superiore a 8, dispone di vantaggio al tiro salvezza. 
+Se fallisce il tiro salvezza e possiede un'Intelligenza pari o  superiore a 12, può ripetere il tiro salvezza alla fine di ogni  
+ora, finché non lo supera e si libera.
+Questa capacità può essere utilizzata anche per controllare costrutti, ma questi dispongono di vantaggio ai tiri salvezza per evitare il controllo o liberarsene
