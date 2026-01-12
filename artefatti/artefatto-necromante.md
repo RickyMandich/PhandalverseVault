@@ -1,18 +1,32 @@
 SWARM PEST
-*1rd-level, Necromancy*  
+*1° livello, necromanzia*  
 
-- **Casting time:** 1 action
-- **Range:** 9m
-- **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+- **Tempo di lancio:** 1 action
+- **Gittata:** 9m
+- **Componenti:** V, S
+- **Durata:** Concentration, up to 1 minute
 
 A swarm of insects springs to life at your fingertips and flies to a creature within range. A creature that fails on a dexterity saving throw takes 1d6 poison damage, or half as much on a success.
 
 On subsequent turns, you can direct the swarm to attack another creature within range, or move back to you, as a bonus action. If the swarm ever leaves the range, the spell ends.
 
-**At Higher Levels.** When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
+**Ai livelli superiori.** When cast using a 2nd level Spell-slot, the damage increases by 1d6 for every level above 2nd.
 
-**Classes**: Wizard
+**Classi**: Wizard
+---
+[nome incantesimo]
+*[livello]° livello, [scuola dimagia]*
+
+- **Tempo di lancio:**
+- **Gittata:**
+- **Componenti:**
+- **Durata:**
+
+[descrizione]
+
+**Ai livelli superiori:**
+
+**Classi**:
 
 *Source: SRD / Basic Rules*
 ---

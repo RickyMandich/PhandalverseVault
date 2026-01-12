@@ -113,12 +113,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definizioni/template/incantesimi.md",
+                "file": "artefatti/artefatto-necromante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "incantesimi"
+              "title": "artefatto-necromante"
             }
           }
         ],
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definizioni/template/incantesimi.md",
+                "file": "artefatti/artefatto-necromante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da incantesimi"
+              "title": "Collegamenti in uscita da artefatto-necromante"
             }
           },
           {
@@ -290,20 +290,20 @@
   },
   "active": "61eec5bb25f6540b",
   "lastOpenFiles": [
+    "bash/d2utmpewSLXP",
+    "bash/d2utmputbRZn",
+    "bash/d2utmpvX0fFZ",
+    "bash/d2utmp6Gby9p",
+    "bash/d2utmpkin5Cm",
+    "bash/d2utmpHkDFlG",
+    "definizioni/template/incantesimi.md",
+    "artefatti/artefatto-necromante.md",
+    "Personaggi/Giocanti/than-warlock-tiefling-30.md",
     "bash/d2utmpSLBTjM",
     "bash/d2utmpvtupvM",
     "bash/d2utmpYvSJH2",
     "bash/d2utmpRfuMLu",
     "bash/d2utmpQYXlgX",
-    "bash/d2utmpjhFxKR",
-    "bash/d2utmptLtvYr",
-    "bash/d2utmphvhUcj",
-    "definizioni/template",
-    "artefatti/artefatto-necromante.md",
-    "definizioni/template/incantesimi.md",
-    "bash/d2utmp1eqA1z",
-    "bash/d2utmppg5CrZ",
-    "Personaggi/Giocanti/than-warlock-tiefling-30.md",
     "artefatti/artefatto-dellombra.md",
     "artefatti/artefatto-artefice.md",
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
