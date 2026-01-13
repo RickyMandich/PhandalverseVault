@@ -265,6 +265,7 @@ tabella esplicativa:
 		</tr>
 	</tbody>
 </table>
+
 ## Folata di Vento
 *2° livello, Invocazione*
 
