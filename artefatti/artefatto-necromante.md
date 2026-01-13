@@ -88,6 +88,9 @@ gli artigli: 1d6 + (FOR o DES, deve essere concorde a quella aggiunta al tiro pe
 Se l'osso si rompe, svanisce.
 se l'arma cresce dal braccio scheletrico hai vantaggio per colpire.
 
+alternativamente puoi usare questo trucchetto per creare una qualsiasi arma d'osso dalla durata temporanea.
+se non sei tu a usare quest'arma ogni volta che viene usata l'utilizzatore farà un tiro salvezza su costituzione e, in caso di fallimento, l'arma si romperà.
+
 **Ai livelli superiori:** dal 5° livello l'arma diventa magica e ottieni +1 per colpire e per i danni, all'11° diventa +2 e al 17° +3.
 
 **Classi**:
@@ -127,35 +130,38 @@ Proietti degli spini di osso dalle ginocchia, dai gomiti e dalle spalle, facendo
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-## SENSE BONE
+## radar osseo
 *1° livello, Divinazione*
 
 - **Tempo di lancio:** 1 azione
 - **Gittata:** se stesso (9m)
-- **Componenti:** V, M (a small shard of bone)
+- **Componenti:** V, M (un piccolo frammento di ossa)
 - **Durata:** 1 minuto
 
-When you cast this spell, you can sense skeletons (in living creatures or undead alike), as well as objects made of bone, within a 30' radius. You have know the direction and distance to these creatures and objects, but cannot discern fine details such as what species a medium-sized skeleton belongs to aside from general height, nor the details of what actions a skeleton, or the flesh wrapped around it, may be taking.
+quando lanci questo incantesimo puoi percepire scheletri (sia di creature morte che di creature vive, anche costrutti a patto che siano fatti di ossa) e oggetti fatti di ossa entro 9m. conosci distanza e direzione da tutto ciò che trovi ma non puoi distinguere i dettagli, ad esempio di una creatura umanoide non potrai capire la razza e nemmeno, se si tratta di una creatura, che azione stia facendo.
 
-**Classi**:
+**Classi**: Mago, Stregone
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-## TRANSIENT EXOSKELETON
-*1° livello, Trasmutazione*
+## esoscheletro transitorio
+*trucchetto, Trasmutazione*
 
 - **Tempo di lancio:** 1 reazione
 - **Raggio d'azione:** se stesso
 - **Componenti:** V
 - **Durata:** Istantaneo
 
-When struck by an attack that you can see or sense, you manifest bone plates over the impact site, gaining resistance to bludgeoning, piercing, or slashing damage until the beginning of your next turn.
+quando vieni colpito da un incantesimo che puoi vedere o percepire in altro modo crei una protezione d'osso che copre il punto in cui arriverà il colpo che ti fa ottenere, per questo attacco, resistenza ai danni: contundenti, perforanti, e taglienti.
+puoi usare questo incantesimo solo una volta per round
 
-**Classi:**
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+**Ai livelli superiori:** gli usi di questo incantesimo aumentano di 1 quando raggiungi il 5° (2 usi a round), l'11° (3 usi a round) e il 17° livello (4 usi a round)
+
+**Classi:** Mago, Warlock
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells) (modificato)
 
 ---
-## OSTEIC BARRIER
+## barriera ossea
 *2° livello, Trasmutazione*
 
 - **Tempo di lancio:** 1 azione
@@ -163,41 +169,41 @@ When struck by an attack that you can see or sense, you manifest bone plates ove
 - **Componenti:** V, S
 - **Durata:** 1 ora
 
-When you cast this spell, your radius and ulna grow rib-like projections that rapidly sprout, spread, and fuse into a full-sized shield, granting you a +2 bonus to your armor class as though wielding a shield. When wielding the shield, you cannot effectively use a two-handed weapon, but may use the shield hand to perform somatic gestures for spellcasting.
+quando lanci questo incantesimo dal tuo radio e ulna crescono delle protuberanza simili a costole che rapidamente si diffondono e si fondono in uno scudo di dimensioni normali, facendoti ottenere +2 di CA come se stessi tenendo uno scudo, finchè è attivo lo scudo non puoi usare armi a due mani ma puoi usare la mano dello scudo per fare gesti come componenti di un incantesimo. nella mano puoi tenere oggetti a meno che non ingombrino la manovrabilità dello scudo.
 
-**Ai livelli superiori:** When cast with a higher-level spell slot, the shield's AC bonus increases by 1 per 2 levels.
+**Ai livelli superiori:** quando lanciato con uno slot di livello 4 o superiore il bonus di CA aumenta di 1 per ogni 2 livelli superiori al 2
 
-**Classi:**
+**Classi:** Mago, Warlock
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-## SKELETAL SPROUTING
+## ricrescita scheletrica
 *3° livello, Trasmutazione*
 
 - **Tempo di lancio:** 1 azione
 - **Raggio d'azione:** 18m
-- **Componenti:** V, S, M (a fingerbone)
+- **Componenti:** V, S, M (una falange)
 - **Durata:** Istantaneo
 
-You afflict up to 3 targets which possess skeletons. and are within a 20' cube. Their bones quiver and sprout random projections within their body. causing crippling pain and injury. Targets of this spell take 4d6 slashing damage and are Restrained. A successful Constitution save reduces the damage by half and negates the Restrained condition. A Restrained target may save again at the end of each of its turn to end the restraint effect.
+scegli fino a 3 creature provviste di scheletro all'interno di un cubo con lo spigolo di 6m. le loro ossa tremano e crescono in protuberanze casuali all'interno del loro corpo causando un dolore paralizzante e ferite. i bersagli di questo incantesimo subiscono 4d6 danni taglienti e sono trattenuti. un successo su un tiro salvezza su costituzione riduce i danni della metà e annulla la condizione trattenuto. una creatura trattenuta potrà riprovare il tiro salvezza alla fine di ogni suo turno per liberarsi della condizione trattenuto.
 
-**Ai livelli superiori:** Casting this spell with a higher level spell slot increases the number of targets affected by 1 per level.
+**Ai livelli superiori:** lanciare questo incantesimo con uno slot di livello 4 o superiore aumenterà il numero di persagli o i danni: per ogni livello sopra al terzo scegli se aumentare di 1 i bersagli o di aggiungere 1d6 di danni
 
-**Classi:** 
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
+**Classi:** Mago
+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells) (modificato)
 
 ---
-## SHOWER OF SHARDS
+## pioggia di frammenti
 *4° livello, Evocazione*
 
 - **Tempo di lancio:** 1 azione
 - **Raggio d'azione:** 18m
-- **Componenti:** V, S, M (a bone knife).
+- **Componenti:** V, S, M (un pugnale d'ossa).
 - **Durata:** Istantaneo
 
-The bone dagger in your hand sprouts four copies of itself out of its blade, which then sprout their own copies until you momentarily hold a hundred bone daggers joined together by thin rods of bone. They then fling themselves at your foes all at once, dealing 8d6 piercing damage in a 45' cone or in a 60'×10' line.A successful Dexterity save halves the damage.
+Il pugnale d'osso che tieni in mano fa spuntare quattro copie di se stesso dalla lama, che poi ne fanno spuntare altrettante finché non ne stringi momentaneamente un centinaio, uniti tra loro da sottili aste d'osso. Poi si scagliano contro i tuoi nemici tutti insieme, infliggendo 8d6 danni perforanti in un cono di 13,5 m o in una linea di 18 x 3 m. Un tiro salvezza su Destrezza riuscito dimezza i danni.
 
-**Classi:**   
+**Classi:**   Mago, Warlock
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
