@@ -33,7 +33,7 @@ Una volta entrato in ira per il numero di volte indicato dal suo livello di barb
 |   17    |      6       |       +4       |
 |   18    |      6       |       +4       |
 |   19    |      6       |       +4       |
-|   20    |   $\infty$   |       +4       |
+|   20    |   &infin;    |       +4       |
 
 ## attacco irruento
 Un barbaro può ignorare ogni preoccupazione per la sua difesa e attaccare in preda a una feroce disperazione. Quando effettua il suo primo attacco nel suo turno, può decidere di sferrare un attacco irruento. Così facondo dispone di vantaggio ai tiri per colpire in mischia che usano Forza durante questo turno, ma i tiri per colpire contro di lui dispongono di vantaggio fino al suo turno successivo.
