@@ -1,3 +1,4 @@
+richiede sintonia
 # privilegi comuni a tutti i cammini
 ## Ira
 In battaglia, un barbaro combatte animato da ferocia primordiale. Nel suo turno, può entrare in ira con un’azione bonus. Finché è in ira, ottiene i seguenti benefici:

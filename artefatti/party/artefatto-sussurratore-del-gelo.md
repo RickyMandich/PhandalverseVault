@@ -1,3 +1,4 @@
+richiede sintonia
 # magia gelida
 questo artefatto garantisce al portatore un numero di slot incantesimo di 9° livello in base alla tabella da ranger seguendo queste regole:
 - salendo di livello il numero di slot non può diminuire

@@ -1,3 +1,4 @@
+richiede sintonia
 # raccolto macabro
 Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi [[incantesimi]].  
 Una volta per turno, quando uccide una o più creature con un incantesimo di livello pari o superiore al 1°, il warlock recupera un ammontare di punti ferita pari al doppio del livello dell'incantesimo, o al triplo del livello se l'incantesimo appartiene alla Scuola di Necromanzia.  
