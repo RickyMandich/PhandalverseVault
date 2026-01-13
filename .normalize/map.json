@@ -24,7 +24,7 @@
       },
       "directories": {
         "template": {
-          "original": "Template",
+          "original": "template",
           "files": {
             "incantesimi.md": "incantesimi"
           },
@@ -101,18 +101,18 @@
       "directories": {}
     },
     "mezzi": {
-      "original": "Mezzi",
+      "original": "mezzi",
       "files": {
         "skiblanir.md": "Skiblanir"
       },
       "directories": {}
     },
     "personaggi": {
-      "original": "Personaggi",
+      "original": "personaggi",
       "files": {},
       "directories": {
         "giocanti": {
-          "original": "Giocanti",
+          "original": "giocanti",
           "files": {
             "attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo-100)",
             "dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo-25)",
@@ -190,14 +190,14 @@
       },
       "directories": {
         "fandalmein": {
-          "original": "Fandalmein",
+          "original": "fandalmein",
           "files": {
             "atalantide.md": "Atalantide",
             "fandalmein.md": "Fandalmein"
           },
           "directories": {
             "fandanolend": {
-              "original": "Fandanolend",
+              "original": "fandanolend",
               "files": {
                 "cristalgreiv.md": "Cristalgreiv",
                 "fandanolend.md": "Fandanolend",
@@ -207,7 +207,7 @@
               "directories": {}
             },
             "fandasulend": {
-              "original": "Fandasulend",
+              "original": "fandasulend",
               "files": {
                 "fandasulend.md": "Fandasulend",
                 "gemgreiv.md": "Gemgreiv",
@@ -219,7 +219,7 @@
           }
         },
         "phandalmain": {
-          "original": "Phandalmain",
+          "original": "phandalmain",
           "files": {
             "atlantide.md": "Atlantide",
             "fossa-delle-marie.md": "fossa delle Marie",
@@ -238,7 +238,7 @@
               "directories": {}
             },
             "phandasuland": {
-              "original": "Phandasuland",
+              "original": "phandasuland",
               "files": {
                 "gemgrave.md": "Gemgrave",
                 "meridionelle.md": "Meridionelle",
@@ -246,7 +246,7 @@
               },
               "directories": {
                 "suddaria": {
-                  "original": "Sddaria",
+                  "original": "suddaria",
                   "files": {
                     "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello abbandonato sul dirupo vicino la città",
                     "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello abbandonato sul dirupo vicino la città",
