@@ -25,7 +25,7 @@ questo artefatto garantisce al portatore un numero di slot incantesimo di 9° li
 - salendo di livello il numero di slot non può diminuire
 - il numero di slot sarà uguale al numero di slot del livello massimo nella tabella del mago al livello totale attuale del personaggio + il livello di quegli slot
 tabella esplicativa:
-<table class="fandom-table">
+<table>
 	<thead>
 		<tr>
 			<th rowspan="3"><b>Livello</b>
@@ -767,6 +767,13 @@ se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggior
 
 **Classi:** Chierico, Stregone, Warlock, Mago
 [https://www.dandwiki.com/wiki/Corpse_Explosion_(5e_Spell)](https://www.dandwiki.com/wiki/Corpse_Explosion_(5e_Spell))
+
+---
+## lista necromante
+inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)
+se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM
+
+---
 # portatori
 a capodanno dell'anno 1312 [[than-warlock-tiefling-30|than]] diventa il portatore di questo artefatto
 # intervento di [[asmodeus]]
