@@ -1,3 +1,5 @@
+2d8    o      `2d8`
+
 # raccolto macabro
 Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi incantesimi.  
 Una volta per turno, quando uccide una o più creature con un incantesimo di livello pari o superiore al 1°, il warlock recupera un ammontare di punti ferita pari al doppio del livello dell'incantesimo, o al triplo del livello se l'incantesimo appartiene alla Scuola di Necromanzia.  
@@ -116,14 +118,14 @@ fatto da noi
 
 - **Tempo di lancio:** 1 azione
 - **Gittata:** se stesso
-- **Componenti:** M (the caster skeleton or exeskeleton)
+- **Componenti:** M (lo scheletro dell'incantatore o un esoscheletro)
 - **Durata:** 1 minuto
 
-You project spikes out of your knees, elbows, and shoulders, causing any creature that grapples or swallows you to take 2d6 points of piercing damage at the beginning of its turn.
+Proietti degli spini di osso dalle ginocchia, dai gomiti e dalle spalle, facendo sì che qualsiasi creatura che ti afferri o ti inghiotta subisca 2d6 danni perforanti all'inizio di ogni suo turno.
 
-**Ai livelli superiori:** This spell's damage increases by 1d6 when you reach 5th level (3d6), 11th level (4d6), and 17th level (5d6).
+**Ai livelli superiori:** il danno di questo incantesimo aumenta di 1d6 quando raggiungi il 5° (3d6), l'11° (4d6) e il 17° livello (5d6)
 
-**Classi**:
+**Classi**: Mago, Warlock
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
