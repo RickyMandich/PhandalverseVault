@@ -120,20 +120,6 @@
               "icon": "lucide-file",
               "title": "artefatto-necromante"
             }
-          },
-          {
-            "id": "da6a5bdf1110e5d7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://it.scribd.com/document/578830707/5e-Osteomancy-Spells",
-                "title": "5e Osteomancy Spells | PDF | Wizards Of The Coast",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "5e Osteomancy Spells | PDF | Wizards Of The Coast"
-            }
           }
         ],
         "currentTab": 7
@@ -283,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,23 +290,25 @@
   },
   "active": "aa9bef441eb8b9d2",
   "lastOpenFiles": [
+    "bash/d2utmpqz2rk9",
+    "bash/d2utmp6tGHex",
+    "bash/d2utmpicFlgm",
+    "bash/d2utmp8JFRT5",
+    "bash/d2utmprM0WOn",
+    "bash/d2utmpPENklU",
+    "bash/d2utmpdPUxjv",
+    "bash/d2utmpOjtdyn",
+    "definizioni/calendario.md",
+    "artefatti/artefatto-necromante.md",
+    "entita/demoni/asmodeus.md",
+    "Personaggi/Giocanti/than-warlock-tiefling-30.md",
     "bash/d2utmp48Kuy6",
     "bash/d2utmpObBFpk",
     "bash/d2utmp6TNYd9",
-    "bash/d2utmp5wrBTu",
-    "bash/d2utmpBRIw6f",
-    "bash/d2utmpKcdx6h",
-    "bash/d2utmpuxhPzv",
-    "bash/d2utmpa26toB",
-    "artefatti/artefatto-necromante.md",
-    "bash/d2utmpWRDr8B",
-    "bash/d2utmpd3x6tO",
-    "bash/d2utmpi1dKC9",
     "TODO.md",
     "saghe/saga-di-gemgrave.md",
     "Personaggi/gruppi/la-mano-rossa.md",
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
-    "Personaggi/Giocanti/than-warlock-tiefling-30.md",
     "definizioni/template/incantesimi.md",
     "Personaggi/non-giocanti/nonno-roshi.md",
     "artefatti/artefatto-dellombra.md",
@@ -331,7 +318,6 @@
     "Personaggi/non-giocanti/irving.md",
     "Personaggi/organizzazioni/artefici.md",
     "Personaggi/gruppi/i-purgatori.md",
-    "definizioni/calendario.md",
     "eventi/la-purga.md",
     "eventi/la-frattura.md",
     "Personaggi/organizzazioni/la-coalizione.md",
@@ -340,7 +326,6 @@
     "universi/phandalmain/phandalmain.md",
     "universi/fandalmein/fandalmein.md",
     "Personaggi/non-giocanti/blob.md",
-    "mezzi/skiblandir.md",
     "personaggi/non-giocanti/perrin.jpg",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",

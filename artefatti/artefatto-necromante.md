@@ -1,5 +1,5 @@
 # raccolto macabro
-Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi incantesimi.  
+Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi [[incantesimi]].  
 Una volta per turno, quando uccide una o più creature con un incantesimo di livello pari o superiore al 1°, il warlock recupera un ammontare di punti ferita pari al doppio del livello dell'incantesimo, o al triplo del livello se l'incantesimo appartiene alla Scuola di Necromanzia.  
 Se uccide una o più creature con un trucchetto recupera 1 punto ferita, 2 se il trucchetto appartiene alla Scuola Necromanzia.  
 Non ottiene questo beneficio se uccide dei costrutti o dei non morti.
@@ -13,14 +13,15 @@ Ogni volta che crea un non morto usando un incantesimo di necromanzia, quella cr
 Dispone di resistenza ai danni necrotici e il suo massimo dei punti ferita non può essere ridotto.
 # COMANDARE I SENZ'ANIMA
 Può usare la magia per condurre sotto il suo controllo anche i non morti creati da altri maghi. Con un'azione può scegliere un non morto situato entro 18 metri da lui e che egli sia in grado di vedere.  
-Quella creatura deve superare un tiro salvezza su Carisma contro la CD degli incantesimi del warlock. Se lo supera, il mago non può più utilizzare questo privilegio contro di lei. Se lo fallisce, la creatura diventa amichevole  
+Quella creatura deve superare un tiro salvezza su Carisma contro la CD degli [[incantesimi]] del warlock. Se lo supera, il mago non può più utilizzare questo privilegio contro di lei. Se lo fallisce, la creatura diventa amichevole  
 nei confronti del warlock e obbedisce ai suoi comandi finché il warlock non utilizza di nuovo questo privilegio.  
 I non morti intelligenti sono più difficili da controllare  
 in questo modo. Se il bersaglio possiede un'Intelligenza  
 pari o superiore a 8, dispone di vantaggio al tiro salvezza.  
 Se fallisce il tiro salvezza e possiede un'Intelligenza pari o superiore a 12, può ripetere il tiro salvezza alla fine di ogni ora, finché non lo supera e si libera.  
 Questa capacità può essere utilizzata anche per controllare costrutti, ma questi dispongono di vantaggio ai tiri salvezza per evitare il controllo o liberarsene.
-# INCANTESIMI
+# [[INCANTESIMI]]
+
 ## sciame di parassiti
 *1° livello, necromanzia*  
 
@@ -241,7 +242,9 @@ se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggior
 
 **Classi:** Chierico, Stregone, Warlock, Mago
 [https://www.dandwiki.com/wiki/Corpse_Explosion_(5e_Spell)](https://www.dandwiki.com/wiki/Corpse_Explosion_(5e_Spell))
-
----
-
-# appunti da inserire
+# portatori
+a capodanno dell'anno 1312 [[than-warlock-tiefling-30|than]] diventa il portatore di questo artefatto
+# intervento di [[asmodeus]]
+dopo che than muore [[Asmodeus]] lo salva modificando un po' l'artefatto
+#startMaster 
+#endMaster 
