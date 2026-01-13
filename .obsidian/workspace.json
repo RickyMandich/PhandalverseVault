@@ -99,15 +99,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personaggi/Giocanti/than-warlock-tiefling-30.md",
+                "file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "than-warlock-tiefling-30"
+              "title": "artefatto-sussurratore-del-gelo"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da TODO"
+              "title": "Collegamenti in uscita da artefatto-sussurratore-del-gelo"
             }
           },
           {
@@ -273,23 +274,25 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "d9d5bf4da739f4e9",
+  "active": "79de41e0329601c1",
   "lastOpenFiles": [
+    "bash/d2utmpXikpmX",
+    "bash/d2utmpPH5LwF",
+    "bash/d2utmpZxSdqq",
+    "bash/d2utmpUHcICg",
+    "bash/d2utmpXh4f3P",
+    "bash/d2utmpzjt7Vk",
+    "artefatti/Senza nome.md",
+    "artefatti/party/artefatto-sussurratore-del-gelo.md",
+    "artefatti/party",
+    "TODO.md",
     "bash/d2utmpW7CxXa",
     "bash/d2utmpwpR1yt",
     "bash/d2utmpQZkOrJ",
     "bash/d2utmpdSMf6Y",
-    "bash/d2utmpkJ2PV0",
-    "bash/d2utmpFbBlh2",
-    "bash/d2utmpf28s77",
-    "bash/d2utmpE1yFwd",
     "Personaggi/Giocanti/than-warlock-tiefling-30.md",
-    "artefatti/artefatto-necromante.md",
-    "bash/d2utmpYqw9in",
-    "bash/d2utmpoWTRhi",
-    "bash/d2utmp3z60Vw",
+    "artefatti/party/artefatto-necromante.md",
     "Personaggi/non-giocanti/atos.md",
-    "TODO.md",
     "definizioni/calendario.md",
     "entita/demoni/asmodeus.md",
     "saghe/saga-di-gemgrave.md",
@@ -297,8 +300,8 @@
     "Personaggi/Giocanti/vargas-paladino-nano-65.md",
     "definizioni/template/incantesimi.md",
     "Personaggi/non-giocanti/nonno-roshi.md",
-    "artefatti/artefatto-dellombra.md",
-    "artefatti/artefatto-artefice.md",
+    "artefatti/party/artefatto-dellombra.md",
+    "artefatti/party/artefatto-artefice.md",
     "test.md",
     "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
     "Personaggi/non-giocanti/irving.md",
@@ -309,8 +312,6 @@
     "Personaggi/organizzazioni/la-coalizione.md",
     "epoche/epoca-dargento.md",
     "epoche/epoca-leggendaria.md",
-    "universi/phandalmain/phandalmain.md",
-    "universi/fandalmein/fandalmein.md",
     "personaggi/non-giocanti/perrin.jpg",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandalmain.jpg",

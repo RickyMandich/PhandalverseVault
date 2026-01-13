@@ -5,15 +5,22 @@
     "artefatti": {
       "original": "artefatti",
       "files": {
-	"artefatto-necromante.md": "Occhio di Atos",
-	"artefatto-artefice.md": "Artefatto Da Armaiolo",
-	"artefatto-dellombra.md": "Artefatto Da Via Dell'Ombra",
         "fyrbrand.md": "Fyrbrand",
         "il-portale.md": "il Portale",
         "la-bussola.md": "la Bussola",
         "la-chiave.md": "la Chiave"
       },
-      "directories": {}
+      "directories": {
+        "party": {
+          "original": "party",
+          "files": {
+	    "artefatto-necromante.md": "Occhio di Atos",
+	    "artefatto-artefice.md": "Artefatto Da Armaiolo",
+	    "artefatto-dellombra.md": "Artefatto Da Via Dell'Ombra",
+	    "artefatto-sussurratore-del-gelo": "Kṓkȳtos"
+          },
+          "directories": {}
+        }
     },
     "definizioni": {
       "original": "definizioni",
