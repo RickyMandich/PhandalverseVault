@@ -103,7 +103,6 @@ tabella esplicativa:
 			</td>
 			<td>4(2+2)</td>
 		</tr>
-		
 		<tr>
 			<td>6°
 			</td>
@@ -252,7 +251,7 @@ tabella esplicativa:
 			<td>3</td>
 			<td>3</td>
 			<td>2</td>
-			<td>7/2+5)</td>
+			<td>7(2+5)</td>
 		</tr>
 		<tr>
 			<td>20°
