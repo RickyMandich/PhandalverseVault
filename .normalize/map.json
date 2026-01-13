@@ -1,272 +1,273 @@
 {
-  "original": "ROOT",
-  "files": {},
-  "directories": {
-    "artefatti": {
-      "original": "artefatti",
-      "files": {
-        "fyrbrand.md": "Fyrbrand",
-        "il-portale.md": "il Portale",
-        "la-bussola.md": "la Bussola",
-        "la-chiave.md": "la Chiave"
-      },
-      "directories": {
-        "party": {
-          "original": "party",
-          "files": {
-	    "artefatto-necromante.md": "Occhio di Atos",
-	    "artefatto-artefice.md": "Artefatto Da Armaiolo",
-	    "artefatto-dellombra.md": "Artefatto Da Via Dell'Ombra",
-	    "artefatto-sussurratore-del-gelo": "Kṓkȳtos"
-          },
-          "directories": {}
-        }
-    },
-    "definizioni": {
-      "original": "definizioni",
-      "files": {
-        "calendario.md": "calendario",
-        "universo.md": "universo",
-        "villaggio.md": "villaggio"
-      },
-      "directories": {
-        "template": {
-          "original": "template",
-          "files": {
-            "incantesimi.md": "incantesimi"
-          },
-          "directories": {}
-        }
-      }
-    },
-    "dungeon": {
-      "original": "dungeon",
-      "files": {},
-      "directories": {
-        "dungeon-scrawl": {
-          "original": "dungeon scrawl",
-          "files": {
-            "dungeon-con-fossato-1.ds": "dungeon con fossato 1",
-            "profondo-blu-dungeon-finale.ds": "profondo blu dungeon finale"
-          },
-          "directories": {}
-        },
-        "immagini": {
-          "original": "immagini",
-          "files": {
-            "arena-allaperto.jpg": "arena all'aperto",
-            "dungeon-con-fossato-1.png": "dungeon con fossato 1",
-            "profondo-blu-dungeon-finale.png": "profondo blu dungeon finale"
-          },
-          "directories": {}
-        },
-        "incontri-5e-tools-encounter-builder": {
-          "original": "incontri 5e tools encounter builder",
-          "files": {
-            "dungeon-goblin-boss-e-minion.json": "dungeon goblin boss e minion"
-          },
-          "directories": {}
-        }
-      }
-    },
-    "entita": {
-      "original": "entità",
-      "files": {},
-      "directories": {
-        "demoni": {
-          "original": "demoni",
-          "files": {
-            "asmodeus.md": "Asmodeus"
-          },
-          "directories": {}
-        },
-        "divinita": {
-          "original": "divinità",
-          "files": {
-            "krystallo.md": "Krystallo",
-            "lithos.md": "Lithos"
-          },
-          "directories": {}
-        }
-      }
-    },
-    "epoche": {
-      "original": "epoche",
-      "files": {
-        "epoca-dargento.md": "Epoca d'Argento",
-        "epoca-leggendaria.md": "Epoca Leggendaria",
-        "epoca-terza.md": "Epoca Terza"
-      },
-      "directories": {}
-    },
-    "eventi": {
-      "original": "eventi",
-      "files": {
-        "la-frattura.md": "la Frattura",
-        "la-purga.md": "la Purga"
-      },
-      "directories": {}
-    },
-    "mezzi": {
-      "original": "mezzi",
-      "files": {
-        "skiblanir.md": "Skiblanir"
-      },
-      "directories": {}
-    },
-    "personaggi": {
-      "original": "personaggi",
-      "files": {},
-      "directories": {
-        "giocanti": {
-          "original": "giocanti",
-          "files": {
-            "attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo-100)",
-            "dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo-25)",
-            "morbiarum-paladino-dragonide-24.md": "Morbiarum (Paladino Dragonide -4)",
-            "than-warlock-tiefling-30.md": "Than (Warlock Tiefling-30)",
-            "vargas-paladino-nano-65.md": "Vargas (Paladino Nano-65)"
-          },
-          "directories": {
-            "pet": {
-              "original": "pet",
-              "files": {
-                "kanye-ovest.md": "Kanye Ovest",
-                "ren.md": "Ren",
-                "thraal.md": "Thraal"
-              },
-              "directories": {}
-            }
-          }
-        },
-        "gruppi": {
-          "original": "gruppi",
-          "files": {
-            "la-mano-rossa.md": "la Mano Rossa",
-            "i-purgatori.md": "I Purgatori"
-          },
-          "directories": {}
-        },
-        "gruppi-magici": {
-          "original": "gruppi magici",
-          "files": {
-            "fratelli-dei-lupi.md": "Fratelli dei Lupi"
-          },
-          "directories": {}
-        },
-        "non-giocanti": {
-          "original": "non giocanti",
-          "files": {
-            "blob.md": "blob",
-            "dark-kaia.md": "dark Kaia",
-            "fumero.md": "Fumero",
-            "irving.md": "Irving",
-            "kaia.md": "Kaia",
-            "mussel.md": "Mussel",
-            "nonno-roshi.md": "nonno Roshi",
-            "perrin-cauthon.md": "Perrin Cauthon",
-            "perrin.jpg": "Perrin",
-            "viper.md": "Viper",
-	    "atos.md": "Atos"
-          },
-          "directories": {}
-        },
-        "organizzazioni": {
-          "original": "organizzazioni",
-          "files": {
-            "artefici.md": "Artefici",
-            "gli-asmodeici.md": "gli Asmodeici",
-            "la-coalizione.md": "la Coalizione"
-          },
-          "directories": {}
-        }
-      }
-    },
-    "saghe": {
-      "original": "saghe",
-      "files": {
-        "macrosaga-della-chiave.md": "Macrosaga della Chiave",
-        "saga-di-gemgrave.md": "Saga di Gemgrave"
-      },
-      "directories": {}
-    },
-    "universi": {
-      "original": "universi",
-      "files": {
-        "telaranrhiod.md": "Tel'Aran'Rhiod"
-      },
-      "directories": {
-        "fandalmein": {
-          "original": "fandalmein",
-          "files": {
-            "atalantide.md": "Atalantide",
-            "fandalmein.md": "Fandalmein"
-          },
-          "directories": {
-            "fandanolend": {
-              "original": "fandanolend",
-              "files": {
-                "cristalgreiv.md": "Cristalgreiv",
-                "fandanolend.md": "Fandanolend",
-                "nordavila.md": "Nordavila",
-                "settentrionel.md": "Settentrionel"
-              },
-              "directories": {}
-            },
-            "fandasulend": {
-              "original": "fandasulend",
-              "files": {
-                "fandasulend.md": "Fandasulend",
-                "gemgreiv.md": "Gemgreiv",
-                "meridionel.md": "Meridionel",
-                "sudaria.md": "Sudaria"
-              },
-              "directories": {}
-            }
-          }
-        },
-        "phandalmain": {
-          "original": "phandalmain",
-          "files": {
-            "atlantide.md": "Atlantide",
-            "fossa-delle-marie.md": "fossa delle Marie",
-            "phandalmain.jpg": "Phandalmain",
-            "phandalmain.md": "Phandalmain"
-          },
-          "directories": {
-            "phandanoland": {
-              "original": "phandanoland",
-              "files": {
-                "cristalgrave.md": "Cristalgrave",
-                "nordavilla.md": "Nordavilla",
-                "phandanoland.md": "Phandanoland",
-                "settentrionelle.md": "Settentrionelle"
-              },
-              "directories": {}
-            },
-            "phandasuland": {
-              "original": "phandasuland",
-              "files": {
-                "gemgrave.md": "Gemgrave",
-                "meridionelle.md": "Meridionelle",
-                "phandasuland.md": "Phandasuland"
-              },
-              "directories": {
-                "suddaria": {
-                  "original": "suddaria",
-                  "files": {
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello abbandonato sul dirupo vicino la città",
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello abbandonato sul dirupo vicino la città",
-                    "castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello abbandonato sul dirupo vicino la città",
-                    "suddaria.md": "Suddaria"
-                  },
-                  "directories": {}
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
+	"original": "ROOT",
+	"files": {},
+	"directories": {
+		"artefatti": {
+			"original": "artefatti",
+			"files": {
+				"fyrbrand.md": "Fyrbrand",
+				"il-portale.md": "il Portale",
+				"la-bussola.md": "la Bussola",
+				"la-chiave.md": "la Chiave"
+			},
+			"directories": {
+				"party": {
+					"original": "party",
+					"files": {
+						"artefatto-necromante.md": "Occhio di Atos",
+						"artefatto-artefice.md": "Artefatto Da Armaiolo",
+						"artefatto-dellombra.md": "Artefatto Da Via Dell'Ombra",
+						"artefatto-sussurratore-del-gelo": "Kṓkȳtos"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"definizioni": {
+			"original": "definizioni",
+			"files": {
+				"calendario.md": "calendario",
+				"universo.md": "universo",
+				"villaggio.md": "villaggio"
+			},
+			"directories": {
+				"template": {
+					"original": "template",
+					"files": {
+						"incantesimi.md": "incantesimi"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"dungeon": {
+			"original": "dungeon",
+			"files": {},
+			"directories": {
+				"dungeon-scrawl": {
+					"original": "dungeon scrawl",
+					"files": {
+						"dungeon-con-fossato-1.ds": "dungeon con fossato 1",
+						"profondo-blu-dungeon-finale.ds": "profondo blu dungeon finale"
+					},
+					"directories": {}
+				},
+				"immagini": {
+					"original": "immagini",
+					"files": {
+						"arena-allaperto.jpg": "arena all'aperto",
+						"dungeon-con-fossato-1.png": "dungeon con fossato 1",
+						"profondo-blu-dungeon-finale.png": "profondo blu dungeon finale"
+					},
+					"directories": {}
+				},
+				"incontri-5e-tools-encounter-builder": {
+					"original": "incontri 5e tools encounter builder",
+					"files": {
+						"dungeon-goblin-boss-e-minion.json": "dungeon goblin boss e minion"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"entita": {
+			"original": "entità",
+			"files": {},
+			"directories": {
+				"demoni": {
+					"original": "demoni",
+					"files": {
+						"asmodeus.md": "Asmodeus"
+					},
+					"directories": {}
+				},
+				"divinita": {
+					"original": "divinità",
+					"files": {
+						"krystallo.md": "Krystallo",
+						"lithos.md": "Lithos"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"epoche": {
+			"original": "epoche",
+			"files": {
+				"epoca-dargento.md": "Epoca d'Argento",
+				"epoca-leggendaria.md": "Epoca Leggendaria",
+				"epoca-terza.md": "Epoca Terza"
+			},
+			"directories": {}
+		},
+		"eventi": {
+			"original": "eventi",
+			"files": {
+				"la-frattura.md": "la Frattura",
+				"la-purga.md": "la Purga"
+			},
+			"directories": {}
+		},
+		"mezzi": {
+			"original": "mezzi",
+			"files": {
+				"skiblanir.md": "Skiblanir"
+			},
+			"directories": {}
+		},
+		"personaggi": {
+			"original": "personaggi",
+			"files": {},
+			"directories": {
+				"giocanti": {
+					"original": "giocanti",
+					"files": {
+						"attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo-100)",
+						"dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo-25)",
+						"morbiarum-paladino-dragonide-24.md": "Morbiarum (Paladino Dragonide -4)",
+						"than-warlock-tiefling-30.md": "Than (Warlock Tiefling-30)",
+						"vargas-paladino-nano-65.md": "Vargas (Paladino Nano-65)"
+					},
+					"directories": {
+						"pet": {
+							"original": "pet",
+							"files": {
+								"kanye-ovest.md": "Kanye Ovest",
+								"ren.md": "Ren",
+								"thraal.md": "Thraal"
+							},
+							"directories": {}
+						}
+					}
+				},
+				"gruppi": {
+					"original": "gruppi",
+					"files": {
+						"la-mano-rossa.md": "la Mano Rossa",
+						"i-purgatori.md": "I Purgatori"
+					},
+					"directories": {}
+				},
+				"gruppi-magici": {
+					"original": "gruppi magici",
+					"files": {
+						"fratelli-dei-lupi.md": "Fratelli dei Lupi"
+					},
+					"directories": {}
+				},
+				"non-giocanti": {
+					"original": "non giocanti",
+					"files": {
+						"blob.md": "blob",
+						"dark-kaia.md": "dark Kaia",
+						"fumero.md": "Fumero",
+						"irving.md": "Irving",
+						"kaia.md": "Kaia",
+						"mussel.md": "Mussel",
+						"nonno-roshi.md": "nonno Roshi",
+						"perrin-cauthon.md": "Perrin Cauthon",
+						"perrin.jpg": "Perrin",
+						"viper.md": "Viper",
+						"atos.md": "Atos"
+					},
+					"directories": {}
+				},
+				"organizzazioni": {
+					"original": "organizzazioni",
+					"files": {
+						"artefici.md": "Artefici",
+						"gli-asmodeici.md": "gli Asmodeici",
+						"la-coalizione.md": "la Coalizione"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"saghe": {
+			"original": "saghe",
+			"files": {
+				"macrosaga-della-chiave.md": "Macrosaga della Chiave",
+				"saga-di-gemgrave.md": "Saga di Gemgrave"
+			},
+			"directories": {}
+		},
+		"universi": {
+			"original": "universi",
+			"files": {
+				"telaranrhiod.md": "Tel'Aran'Rhiod"
+			},
+			"directories": {
+				"fandalmein": {
+					"original": "fandalmein",
+					"files": {
+						"atalantide.md": "Atalantide",
+						"fandalmein.md": "Fandalmein"
+					},
+					"directories": {
+						"fandanolend": {
+							"original": "fandanolend",
+							"files": {
+								"cristalgreiv.md": "Cristalgreiv",
+								"fandanolend.md": "Fandanolend",
+								"nordavila.md": "Nordavila",
+								"settentrionel.md": "Settentrionel"
+							},
+							"directories": {}
+						},
+						"fandasulend": {
+							"original": "fandasulend",
+							"files": {
+								"fandasulend.md": "Fandasulend",
+								"gemgreiv.md": "Gemgreiv",
+								"meridionel.md": "Meridionel",
+								"sudaria.md": "Sudaria"
+							},
+							"directories": {}
+						}
+					}
+				},
+				"phandalmain": {
+					"original": "phandalmain",
+					"files": {
+						"atlantide.md": "Atlantide",
+						"fossa-delle-marie.md": "fossa delle Marie",
+						"phandalmain.jpg": "Phandalmain",
+						"phandalmain.md": "Phandalmain"
+					},
+					"directories": {
+						"phandanoland": {
+							"original": "phandanoland",
+							"files": {
+								"cristalgrave.md": "Cristalgrave",
+								"nordavilla.md": "Nordavilla",
+								"phandanoland.md": "Phandanoland",
+								"settentrionelle.md": "Settentrionelle"
+							},
+							"directories": {}
+						},
+						"phandasuland": {
+							"original": "phandasuland",
+							"files": {
+								"gemgrave.md": "Gemgrave",
+								"meridionelle.md": "Meridionelle",
+								"phandasuland.md": "Phandasuland"
+							},
+							"directories": {
+								"suddaria": {
+									"original": "suddaria",
+									"files": {
+										"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello abbandonato sul dirupo vicino la città",
+										"castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello abbandonato sul dirupo vicino la città",
+										"castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello abbandonato sul dirupo vicino la città",
+										"suddaria.md": "Suddaria"
+									},
+									"directories": {}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
 }
