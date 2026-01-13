@@ -28,7 +28,9 @@ tabella esplicativa:
 <table class="fandom-table">
 	<thead>
 		<tr>
-			<td colspan="10">
+			<th rowspan="3"><b>Livello</b>
+			</th>
+			<td colspan="9">
 				<b>tabella da mago</b>
 			</td>
 			<td>
@@ -36,8 +38,6 @@ tabella esplicativa:
 			</td>
 		</tr>
 		<tr>
-			<th rowspan="2"><b>Livello</b>
-			</th>
 			<th colspan="9"><b>Slot Incantesimo per Livello di Incantesimo</b>
 			</th>
 			<th rowspan="2">slot incantesimo di nono livello (qt slot + lvl)
