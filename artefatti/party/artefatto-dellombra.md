@@ -1,4 +1,4 @@
-si pronuncia Murkvadinn, richiede sintonia
+si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord
 # descrizione
 
 # arti dell'ombra

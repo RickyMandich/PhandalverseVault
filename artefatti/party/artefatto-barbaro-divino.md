@@ -1,4 +1,4 @@
-richiede sintonia
+richiede sintonia, localizzazione geografica: sud
 # tutti i cammini
 ## descrizione
 è un `per ankh`

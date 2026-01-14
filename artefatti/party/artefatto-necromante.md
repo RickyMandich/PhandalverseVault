@@ -1,4 +1,4 @@
-richiede sintonia
+richiede sintonia, localizzazione geografica: 
 # descrizione
 
 # raccolto macabro
