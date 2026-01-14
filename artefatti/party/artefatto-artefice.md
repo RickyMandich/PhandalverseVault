@@ -1,3 +1,230 @@
 richiede sintonia, localizzazione geografica: Nord
 # descrizione
 questo artefatto è un set di strumenti da artefice
+![[artefice.jpeg]]
+
+---
+# strumenti del mestiere
+Il proprietario ottiene competenza nelle armature pesanti. Ottiene anche competenza negli strumenti da fabbro. Se ha già questa competenza, acquisisce un’altra competenza in un altro tipo di strumento da artigiano a sua scelta.
+
+---
+# incantesimi
+questo artefatto garantisce al portatore un numero di slot incantesimo di 9° livello in base alla tabella da artefice seguendo queste regole:
+- salendo di livello il numero di slot non può diminuire
+- il numero di slot sarà uguale al numero di slot del livello massimo nella tabella del mago al livello totale attuale del personaggio + il livello di quegli slot
+tabella esplicativa:
+<table>
+	<thead>
+		<tr>
+			<th rowspan="3"><b>Livello</b>
+			</th>
+			<td colspan="5">
+				<b>tabella da artefice</b>
+			</td>
+			<td>
+				<b>tabella dell'artefatto</b>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="5"><b>Slot Incantesimo per Livello di Incantesimo</b>
+			</th>
+			<th rowspan="2">slot incantesimo di nono livello (qt slot + lvl)
+			</th>
+		</tr>
+		<tr>
+			<td><b>1°</b>
+			</td>
+			<td><b>2°</b>
+			</td>
+			<td><b>3°</b>
+			</td>
+			<td><b>4°</b>
+			</td>
+			<td><b>5°</b>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>01°</td>
+			<td>2</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>3(2+1)</td>
+		</tr>
+		<tr>
+			<td>02°</td>
+			<td>2</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>3(2+1)</td>
+		</tr>
+		<tr>
+			<td>03°</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>4(3+1)</td>
+		</tr>
+		<tr>
+			<td>04°</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>4(3+1)</td>
+		</tr>
+		<tr>
+			<td>05°</td>
+			<td>4</td>
+			<td>2</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>4(2+2)</td>
+		</tr>
+		<tr>
+			<td>06°</td>
+			<td>4</td>
+			<td>2</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>4(2+2)</td>
+		</tr>
+		<tr>
+			<td>07°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>5(3+2)</td>
+		</tr>
+		<tr>
+			<td>08°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>5(3+2)</td>
+		</tr>
+		<tr>
+			<td>09°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>2</td>
+			<td>-</td>
+			<td>-</td>
+			<td>5(2+3)</td>
+		</tr>
+		<tr>
+			<td>10°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>6(3+3)</td>
+		</tr>
+		<tr>
+			<td>11°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>6(3+3)</td>
+		</tr>
+		<tr>
+			<td>12°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>-</td>
+			<td>-</td>
+			<td>6(3+3)</td>
+		</tr>
+		<tr>
+			<td>13°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1</td>
+			<td>-</td>
+			<td>6(1+4, ma il livello prima ne avevo di più, tengo quelli)</td>
+		</tr>
+		<tr>
+			<td>14°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1</td>
+			<td>-</td>
+			<td>6(1+4, ma il livello prima ne avevo di più, tengo quelli)</td>
+		</tr>
+		<tr>
+			<td>15°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>2</td>
+			<td>-</td>
+			<td>6(2+4)</td>
+		</tr>
+		<tr>
+			<td>16°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>2</td>
+			<td>-</td>
+			<td>6(2+4)</td>
+		</tr>
+		<tr>
+			<td>17°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1</td>
+			<td>6(1+5)</td>
+		</tr>
+		<tr>
+			<td>18°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>1</td>
+			<td>6(1+5)</td>
+		</tr>
+		<tr>
+			<td>19°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>2</td>
+			<td>7(2+5)</td>
+		</tr>
+		<tr>
+			<td>20°</td>
+			<td>4</td>
+			<td>3</td>
+			<td>3</td>
+			<td>3</td>
+			<td>2</td>
+			<td>7(2+5)</td>
+		</tr>
+	</tbody>
+</table>
+
