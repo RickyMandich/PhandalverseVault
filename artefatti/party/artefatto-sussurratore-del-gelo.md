@@ -1,6 +1,6 @@
 richiede sintonia
 # descrizione
-questo artefatto è un per hank
+
 
 ---
 # magia gelida
