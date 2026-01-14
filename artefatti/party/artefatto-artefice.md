@@ -232,7 +232,7 @@ tabella esplicativa:
 ![[incantesimi/artefice/OndaTonante]]
 ![[incantesimi/artefice/Frantumare]]
 ![[incantesimi/artefice/ImmagineSpeculare]] ![[incantesimi/artefice/Fulmine]]
-![[incantesimi/artefice/TramaIpnotica]]![[incantesimi/artefice/InvisibilitàSuperiore]]![[incantesimi/artefice/ScudoDiFuoco]]![[incantesimi/artefice/MuroDiForza]]![[incantesimi/artefice/Passapareti]]
+![[incantesimi/artefice/TramaIpnotica]]![[incantesimi/artefice/InvisibilitaSuperiore]]![[incantesimi/artefice/ScudoDiFuoco]]![[incantesimi/artefice/MuroDiForza]]![[incantesimi/artefice/Passapareti]]
 
 ---
 
