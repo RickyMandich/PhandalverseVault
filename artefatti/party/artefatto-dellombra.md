@@ -1,6 +1,8 @@
 si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord
 # descrizione
+![[Myrkvathinn.png]]
 
+---
 # arti dell'ombra
 il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gli incantesimi [Oscurità](https://dungeonsanddragons.fandom.com/it/wiki/Oscurit%C3%A0), [Passare Senza Tracce](https://dungeonsanddragons.fandom.com/it/wiki/Passare_Senza_Tracce "Passare Senza Tracce"), [Scurovisione](https://dungeonsanddragons.fandom.com/it/wiki/Scurovisione "Scurovisione") o [Silenzio](https://dungeonsanddragons.fandom.com/it/wiki/Silenzio "Silenzio") una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [Illusione Minore](https://dungeonsanddragons.fandom.com/it/wiki/Illusione_Minore "Illusione Minore"), se già non lo conosceva.
 ## Oscurità
