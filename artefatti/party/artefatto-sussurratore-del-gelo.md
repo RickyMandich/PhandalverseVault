@@ -1,7 +1,7 @@
 richiede sintonia, localizzazione geografica: Est
 # descrizione
 è una spilla a forma di stella alpina fatta di un cristallo molto resistente (ma non indistruttibile)
-![[Kṓkȳtos.avif]]
+![[Kokytos.avif]]
 
 ---
 # magia gelida

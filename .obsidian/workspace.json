@@ -106,9 +106,21 @@
               "icon": "lucide-file",
               "title": "artefatto-sussurratore-del-gelo"
             }
+          },
+          {
+            "id": "5d16edee9f25f4e1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "artefatti/party/Kokytos.avif"
+              },
+              "icon": "lucide-image",
+              "title": "Kokytos"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
+                "file": "artefatti/party/Kokytos.avif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da artefatto-sussurratore-del-gelo"
+              "title": "Collegamenti in uscita da Kokytos"
             }
           },
           {
@@ -274,25 +286,25 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "161025d55cf18d9c",
+  "active": "4a0168f4c436222b",
   "lastOpenFiles": [
-    "bash/d2utmpYIWoPb",
-    "bash/d2utmp165hdV",
-    "bash/d2utmpAYyEy4",
-    "bash/d2utmpPBpv2X",
-    "bash/d2utmpM2VWeS",
-    "bash/d2utmp5Oahgj",
-    "bash/d2utmpLabra6",
-    "bash/d2utmpcHaMbU",
+    "bash/d2utmpNS11DH",
+    "bash/d2utmpoPhzpY",
+    "bash/d2utmpuDrmfl",
+    "bash/d2utmpguf7fr",
+    "bash/d2utmpJkjEp6",
+    "bash/d2utmpm7JNYj",
+    "bash/d2utmpSCH5D0",
+    "bash/d2utmpv6kjXj",
+    "bash/d2utmpRqPK8A",
+    "bash/d2utmp7QEPoy",
+    "bash/d2utmpIoax2d",
     "artefatti/party/artefatto-barbaro-divino.md",
     "artefatti/party/artefatto-sussurratore-del-gelo.md",
-    "artefatti/party/Kṓkȳtos.avif",
-    "artefatti/party/Kṓkȳtos.avif.crdownload",
+    "artefatti/party/Kokytos.avif",
     "artefatti/party/artefatto-necromante.md",
     "artefatti/party/artefatto-dellombra.md",
     "artefatti/party/artefatto-artefice.md",
-    "bash/d2utmpIbAgNv",
-    "bash/d2utmpRXLRMl",
     "artefatti/party/NetjerhekaDiOsiride.png",
     "artefatti/party/Netjerheka.png",
     "artefatti/party/NetjerhekaByChatGpt.png",
