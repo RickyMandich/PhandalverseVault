@@ -35,3 +35,5 @@ tutti i giocatori prendono 125 punti esperienza lasciando in conto comune 0 xp
 Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la-mano-rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[kanye-ovest|cucciolo]] con cui [[dontavious-ladro-mezzelfo-25|dontavious]] fa amicizia . Nella stanza dopo trovano il pezzo della [[la-chiave|chiave]] e il draghetto uccide [[irving]]
 
 ## sessione di giovedì 2025 12 18
+
+![[incantesimi/artefice/DardoIncantato]]

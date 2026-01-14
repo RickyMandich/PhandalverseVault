@@ -228,7 +228,6 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-![[incantesimi/artefice/DardoIncantato]]
 ![[incantesimi/artefice/OndaTonante]]
 ![[incantesimi/artefice/Frantumare]]
 ![[incantesimi/artefice/ImmagineSpeculare]] ![[incantesimi/artefice/Fulmine]]
