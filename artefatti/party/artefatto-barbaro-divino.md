@@ -1,5 +1,8 @@
 richiede sintonia
-# privilegi comuni a tutti i cammini
+# tutti i cammini
+## descrizione
+è un `per ankh`
+![[Netjerheka.png]]
 ## Ira
 In battaglia, un barbaro combatte animato da ferocia primordiale. Nel suo turno, può entrare in ira con un’azione bonus. Finché è in ira, ottiene i seguenti benefici:
 
@@ -53,6 +56,9 @@ quando sei infuriato, la tempesta di Set ti protegge. Quando una creatura ti col
 ## benedizione del dio egizio
 mentre sei in ira, Set ti concede il suo potere divino. Ottieni resistenza ai danni da tuono e fulmine. Una volta per turno, il tuo attacco con l'arma infligge un danno extra da tuono pari a tre volte il tuo danno d'ira e mette il bersaglio a terra se la tua prova di atletica supera la prova di atletica del tuo bersaglio.
 # **Netjerheka** di Osiride
+# descrizione
+è un `per ankh` con il geroglifico `il pilastro di Djed` (simbolo di osiride) in centro all'Ankh
+![[NetjerhekaDiOsiride.png]]
 ## sentiero del dio egizio
 mentre sei infuriato, diventi desideroso di consumare le forze vitali con la magia di Osiride che ti circonda. I tuoi attacchi con le armi infliggono un danno necrotico aggiuntivo pari al tuo modificatore di costituzione; con un colpo critico, ottieni punti ferita temporanei pari a tre volte quel danno necrotico extra.
 ## favore del dio egizio
