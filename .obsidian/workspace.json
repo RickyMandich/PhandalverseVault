@@ -50,23 +50,9 @@
               "icon": "lucide-file",
               "title": "saga-di-gemgrave"
             }
-          },
-          {
-            "id": "6fe0e39e1560bf50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "artefatti/party/artefatto-artefice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "artefatto-artefice"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artefatti/party/artefatto-artefice.md",
+                "file": "saghe/saga-di-gemgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da artefatto-artefice"
+              "title": "Collegamenti in uscita da saga-di-gemgrave"
             }
           },
           {
@@ -232,54 +218,54 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "6fe0e39e1560bf50",
+  "active": "9f412d1ad0ae070e",
   "lastOpenFiles": [
+    "bash/d2utmpQWsqbM",
+    "bash/d2utmpg3ojwj",
+    "bash/d2utmpC1UA9h",
+    "bash/d2utmpUOTJft",
+    "bash/d2utmpxhp6pn",
+    "bash/d2utmpIJpuXT",
+    "bash/d2utmppgdvT0",
+    "artefatti/party/artefatto-artefice.md",
+    "saghe/saga-di-gemgrave.md",
+    "incantesimi/artefice/MuroDiForza.md",
+    "incantesimi/artefice/Fulmine.md",
+    "incantesimi/artefice/ScudoDiFuoco.md",
+    "incantesimi/artefice/Passapareti.md",
+    "incantesimi/artefice/ImmagineSpeculare.md",
+    "incantesimi/artefice/InvisibilitàSuperiore.md",
+    "incantesimi/artefice/OndaTonante.md",
+    "incantesimi/artefice/DardoIncantato.md",
+    "incantesimi/artefice/TramaIpnotica.md",
+    "incantesimi/artefice/Frantumare.md",
+    "incantesimi/artefice",
+    "incantesimi/tutti/TempestaDiGhiaccio.md",
+    "incantesimi/tutti/MuroDiForza.md",
+    "incantesimi/tutti/Fulmine.md",
+    "incantesimi/tutti/Silenzio.md",
+    "incantesimi/tutti/Passapareti.md",
+    "incantesimi/tutti/PassareSenzaTracce.md",
+    "incantesimi/tutti/TempestaDiNevischio.md",
+    "incantesimi/tutti/DardoIncantato.md",
+    "incantesimi/tutti/IllusioneMinore.md",
+    "incantesimi/tutti/FolataDiVento.md",
+    "incantesimi/tutti/ToccoDelVampiroOccultista.md",
+    "incantesimi/tutti/ScudoDiFuoco.md",
+    "incantesimi/tutti/OndaTonante.md",
+    "incantesimi/tutti",
+    "incantesimi",
     "bash/d2utmpgNU475",
     "artefatti/party/artefice (1).jpeg",
     "artefatti/party/artefice.jpeg",
-    "artefatti/party/artefatto-necromante.md",
-    "artefatti/party/artefatto-artefice.md",
-    "artefatti/party/artefatto-dellombra.md",
-    "saghe/saga-di-gemgrave.md",
-    "bash/d2utmpq61K3D",
-    "bash/d2utmpQYSRaT",
-    "bash/d2utmpEHTcnu",
-    "bash/d2utmp5bjpbl",
-    "bash/d2utmpmXq4JK",
-    "bash/d2utmpMotBT4",
-    "bash/d2utmpsA6Izq",
-    "bash/d2utmp5Ap1w1",
     "artefatti/party/Myrkvathinn.png",
-    "artefatti/party/Myrkvathinn.png.crdownload",
     "artefatti/party/Myrkvathinn.webp",
-    "artefatti/party/Myrkvathinn.webp.crdownload",
     "artefatti/party/occhioDiAtos (1).jpeg",
     "artefatti/party/occhioDiAtos.jpeg",
-    "artefatti/party/artefatto-sussurratore-del-gelo.md",
     "artefatti/party/Kokytos.avif",
     "artefatti/party/Kokytos.png",
-    "artefatti/party/artefatto-barbaro-divino.md",
     "artefatti/party/NetjerhekaDiOsiride.png",
     "artefatti/party/Netjerheka.png",
-    "TODO.md",
-    "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
-    "Personaggi/Giocanti/vargas-paladino-nano-65.md",
-    "artefatti/Senza nome.md",
-    "Personaggi/Giocanti/than-warlock-tiefling-30.md",
-    "Personaggi/non-giocanti/atos.md",
-    "definizioni/calendario.md",
-    "entita/demoni/asmodeus.md",
-    "Personaggi/gruppi/la-mano-rossa.md",
-    "definizioni/template/incantesimi.md",
-    "Personaggi/non-giocanti/nonno-roshi.md",
-    "test.md",
-    "Personaggi/non-giocanti/irving.md",
-    "Personaggi/organizzazioni/artefici.md",
-    "Personaggi/gruppi/i-purgatori.md",
-    "eventi/la-purga.md",
-    "eventi/la-frattura.md",
-    "Personaggi/organizzazioni/la-coalizione.md",
-    "epoche/epoca-dargento.md",
     "Senza nome.canvas"
   ]
 }
