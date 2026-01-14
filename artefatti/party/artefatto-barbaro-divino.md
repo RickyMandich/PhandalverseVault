@@ -4,17 +4,17 @@ richiede sintonia, localizzazione geografica: sud
 è un `per ankh`
 ![[Netjerheka.png]]
 ## Ira
-In battaglia, un barbaro combatte animato da ferocia primordiale. Nel suo turno, può entrare in ira con un’azione bonus. Finché è in ira, ottiene i seguenti benefici:
+In battaglia, il proprietario combatte animato da ferocia primordiale. Nel suo turno, può entrare in ira con un’azione bonus. Finché è in ira, ottiene i seguenti benefici:
 
 - Dispone di vantaggio alle prove di Forza e ai Tiri Salvezza su Forza.
-- Quando effettua un attacco con arma da mischia usando Forza, ottiene un bonus al tiro per i danni che aumenta man mano che egli ottiene nuovi livelli da barbaro, come indicato nella colonna "Danni dell'Ira" nella tabella "Barbaro".
-- Un barbaro dispone di resistenza ai danni contundenti, perforanti e taglienti.
+- Quando effettua un attacco con arma da mischia usando Forza, ottiene un bonus al tiro per i danni che aumenta man mano che egli sale di livello, come indicato nella colonna "Danni dell'Ira" nella tabella "Barbaro".
+- Il proprietario dispone di resistenza ai danni contundenti, perforanti e taglienti.
 
-Se un barbaro è in grado di lanciare incantesimi, non può lanciarli o concentrarsi su di essi quando è in ira.
+Se il proprietario è in grado di lanciare incantesimi, non può lanciarli o concentrarsi su di essi quando è in ira (a eccezione di punizione divina e simili: incantesimi che accentuano la sua violenza).
 
-L'Ira del barbaro dura 1 minuto. Termina anticipatamente se cade [Privo di Sensi](https://dungeonsanddragons.fandom.com/it/wiki/Condizioni "Condizioni") o se il suo turno termina e non ha attaccato alcuna creatura ostile dal suo ultimo turno o non ha subito danni da allora. Un barbaro può anche porre fine alla sua ira nel proprio turno, come un’azione bonus.
+L'Ira del personaggio dura 1 minuto. Termina anticipatamente se cade [Privo di Sensi](https://dungeonsanddragons.fandom.com/it/wiki/Condizioni "Condizioni") o se il suo turno termina e non ha attaccato alcuna creatura ostile dal suo ultimo turno o non ha subito danni da allora. Il personaggio può anche porre fine alla sua ira nel proprio turno, come un’azione bonus.
 
-Una volta entrato in ira per il numero di volte indicato dal suo livello di barbaro nella colonna "Ira" nella tabella "Barbaro", un barbaro deve completare un riposo lungo prima di poter entrare di nuovo in ira.
+Una volta entrato in ira per il numero di volte indicato dal suo livello nella colonna "Ira" nella tabella "Barbaro", il personaggio deve completare un riposo lungo prima di poter entrare di nuovo in ira.
 
 | livello | usi dell'ira | danni dell'ira |
 | :-----: | :----------: | :------------: |
@@ -40,7 +40,7 @@ Una volta entrato in ira per il numero di volte indicato dal suo livello di barb
 |   20    |   &infin;    |       +4       |
 
 ## attacco irruento
-Un barbaro può ignorare ogni preoccupazione per la sua difesa e attaccare in preda a una feroce disperazione. Quando effettua il suo primo attacco nel suo turno, può decidere di sferrare un attacco irruento. Così facondo dispone di vantaggio ai tiri per colpire in mischia che usano Forza durante questo turno, ma i tiri per colpire contro di lui dispongono di vantaggio fino al suo turno successivo.
+Il proprietario può ignorare ogni preoccupazione per la sua difesa e attaccare in preda a una feroce disperazione. Quando effettua il suo primo attacco nel suo turno, può decidere di sferrare un attacco irruento. Così facondo dispone di vantaggio ai tiri per colpire in mischia che usano Forza durante questo turno, ma i tiri per colpire contro di lui dispongono di vantaggio fino al suo turno successivo.
 # **Netjerheka** di Ra
 ## sentiero del dio egizio
 Quando sei infuriato, la forza e l'aggressività di Ra ti circonda. Guadagni un bonus di +2 ai tiri per colpire e ai tiri per i danni. Questo bonus guadagna un +1 se usi un attacco temerario.
@@ -62,6 +62,6 @@ mentre sei in ira, Set ti concede il suo potere divino. Ottieni resistenza ai da
 ## sentiero del dio egizio
 mentre sei infuriato, diventi desideroso di consumare le forze vitali con la magia di Osiride che ti circonda. I tuoi attacchi con le armi infliggono un danno necrotico aggiuntivo pari al tuo modificatore di costituzione; con un colpo critico, ottieni punti ferita temporanei pari a tre volte quel danno necrotico extra.
 ## favore del dio egizio
-mentre sei infuriato, il potere oscuro di Osiride sulla morte ti circonda. Riuscirai automaticamente a superare i tiri salvezza per la morte, se prendi danni che normalmente ti uccidono all'istante mentre sei infuriato, cadrai invece incosciente per 8 ore. Ogni attacco che ti riduce a 0 punti ferita infligge all'attaccante danni necrotici pari a 1d10 più il tuo livello da barbaro.
+mentre sei infuriato, il potere oscuro di Osiride sulla morte ti circonda. Riuscirai automaticamente a superare i tiri salvezza per la morte, se prendi danni che normalmente ti uccidono all'istante mentre sei infuriato, cadrai invece incosciente per 8 ore. Ogni attacco che ti riduce a 0 punti ferita infligge all'attaccante danni necrotici pari a 1d10 più il tuo livello.
 ## benedizione del dio egizio
 mentre sei in preda all'ira, Osiride ti concede il suo potere divino. Otterrai resistenza al veleno e ai danni necrotici. Inoltre, otterrai un vantaggio contro i tiri salvezza forzati di non morti e demoni.

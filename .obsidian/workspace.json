@@ -50,149 +50,9 @@
               "icon": "lucide-file",
               "title": "saga-di-gemgrave"
             }
-          },
-          {
-            "id": "26d88c0b562ccc07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/DardoIncantato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DardoIncantato"
-            }
-          },
-          {
-            "id": "0ef6cf563582185f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/Frantumare.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frantumare"
-            }
-          },
-          {
-            "id": "6cb916f0c888183e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/Fulmine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fulmine"
-            }
-          },
-          {
-            "id": "b28fa62f9d3c9c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/ImmagineSpeculare.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ImmagineSpeculare"
-            }
-          },
-          {
-            "id": "de9a25aa933cd12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/InvisibilitaSuperiore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "InvisibilitaSuperiore"
-            }
-          },
-          {
-            "id": "87bc98b5adabe162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/MuroDiForza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MuroDiForza"
-            }
-          },
-          {
-            "id": "1fbc10ec4f25391f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/OndaTonante.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OndaTonante"
-            }
-          },
-          {
-            "id": "e64d7101c021cda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/Passapareti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passapareti"
-            }
-          },
-          {
-            "id": "254c701f53429a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/ScudoDiFuoco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ScudoDiFuoco"
-            }
-          },
-          {
-            "id": "dec2c51ea384f8de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incantesimi/artefice/TramaIpnotica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TramaIpnotica"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "incantesimi/artefice/TramaIpnotica.md",
+                "file": "saghe/saga-di-gemgrave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da TramaIpnotica"
+              "title": "Collegamenti in uscita da saga-di-gemgrave"
             }
           },
           {
@@ -339,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,31 +219,35 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "dec2c51ea384f8de",
+  "active": "9f412d1ad0ae070e",
   "lastOpenFiles": [
+    "bash/d2utmp8geKzE",
+    "bash/d2utmp9J1yrg",
+    "bash/d2utmp7DFhIX",
+    "bash/d2utmpSIifMC",
+    "bash/d2utmppgtGuf",
+    "bash/d2utmppnWQgQ",
+    "bash/d2utmpUvmv3p",
+    "bash/d2utmpRdCkCl",
+    "artefatti/party/artefatto-artefice.md",
+    "artefatti/party/artefatto-barbaro-divino.md",
+    "artefatti/party/artefatto-dellombra.md",
+    "artefatti/party/artefatto-necromante.md",
+    "artefatti/party/artefatto-sussurratore-del-gelo.md",
+    "saghe/saga-di-gemgrave.md",
+    "incantesimi/artefice/DardoIncantato.md",
+    "incantesimi/artefice/Frantumare.md",
+    "incantesimi/artefice/Fulmine.md",
+    "incantesimi/artefice/ImmagineSpeculare.md",
+    "incantesimi/artefice/InvisibilitaSuperiore.md",
+    "incantesimi/artefice/MuroDiForza.md",
+    "incantesimi/artefice/OndaTonante.md",
+    "incantesimi/artefice/Passapareti.md",
+    "incantesimi/artefice/ScudoDiFuoco.md",
+    "incantesimi/artefice/TramaIpnotica.md",
     "bash/d2utmphFkaDK",
     "bash/d2utmpQ4ONvA",
     "bash/d2utmp0ryOSH",
-    "bash/d2utmpqFwYDd",
-    "bash/d2utmptAEOvJ",
-    "bash/d2utmpm7Hy8d",
-    "artefatti/party/artefatto-artefice.md",
-    "bash/d2utmpNoBLyh",
-    "bash/d2utmpoCw0SA",
-    "bash/d2utmpSA2gCG",
-    "bash/d2utmpRhLcDs",
-    "incantesimi/artefice/TramaIpnotica.md",
-    "incantesimi/artefice/ScudoDiFuoco.md",
-    "incantesimi/artefice/Passapareti.md",
-    "incantesimi/artefice/OndaTonante.md",
-    "incantesimi/artefice/MuroDiForza.md",
-    "incantesimi/artefice/InvisibilitaSuperiore.md",
-    "incantesimi/artefice/ImmagineSpeculare.md",
-    "incantesimi/artefice/Fulmine.md",
-    "incantesimi/artefice/Frantumare.md",
-    "incantesimi/artefice/DardoIncantato.md",
-    "saghe/saga-di-gemgrave.md",
-    "bash/d2utmpQWsqbM",
     "incantesimi/tutti/TempestaDiGhiaccio.md",
     "incantesimi/tutti/MuroDiForza.md",
     "incantesimi/tutti/Fulmine.md",
@@ -392,10 +257,6 @@
     "incantesimi/tutti/TempestaDiNevischio.md",
     "incantesimi/tutti/DardoIncantato.md",
     "incantesimi/tutti/IllusioneMinore.md",
-    "incantesimi/tutti/FolataDiVento.md",
-    "incantesimi/tutti/ToccoDelVampiroOccultista.md",
-    "incantesimi/tutti/ScudoDiFuoco.md",
-    "incantesimi/tutti/OndaTonante.md",
     "artefatti/party/artefice (1).jpeg",
     "artefatti/party/artefice.jpeg",
     "artefatti/party/Myrkvathinn.png",

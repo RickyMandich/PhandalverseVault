@@ -7,7 +7,7 @@ richiede sintonia, localizzazione geografica: Est
 # magia gelida
 questo artefatto garantisce al portatore un numero di slot incantesimo di 9° livello in base alla tabella da ranger seguendo queste regole:
 - salendo di livello il numero di slot non può diminuire
-- il numero di slot sarà uguale al numero di slot del livello massimo nella tabella del mago al livello totale attuale del personaggio + il livello di quegli slot
+- il numero di slot sarà uguale al numero di slot del livello massimo nella tabella del Ranger al livello totale attuale del personaggio + il livello di quegli slot
 tabella esplicativa:
 <table>
 	<thead>

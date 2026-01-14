@@ -96,7 +96,7 @@ il proprietario è in grado di diventare tutt'uno con le ombre. Quando si trova 
 
 ---
 # opportunista
-il proprietario impara ad approfittare della momentanea distrazione che una creatura subisce quando è colpita da un attacco. Ogni volta che una creatura entro 1,5 metri dal monaco è colpita da un attacco effettuato da una creatura diversa dal proprietario, quest'ultimo può usare la sua reazione per effettuare un attacco in mischia contro quella creatura.
+il proprietario impara ad approfittare della momentanea distrazione che una creatura subisce quando è colpita da un attacco. Ogni volta che una creatura entro 1,5 metri dal proprietario è colpita da un attacco effettuato da una creatura diversa dal proprietario, quest'ultimo può usare la sua reazione per effettuare un attacco in mischia contro quella creatura.
 
 ---
 # inventario oscuro
