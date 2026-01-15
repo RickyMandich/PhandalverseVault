@@ -1,0 +1,197 @@
+2026-01-15 12:49:52 Starting normalization process (Recursive Tree Mode)...
+2026-01-15 12:49:52 Autofixed Case: 'Fyrbrand.md' -> 'fyrbrand.md'
+2026-01-15 12:49:52 File 'il-portale.md' is ok
+2026-01-15 12:49:52 File 'la-bussola.md' is ok
+2026-01-15 12:49:52 File 'la-chiave.md' is ok
+2026-01-15 12:49:52 File 'artefatto-artefice.md' is ok
+2026-01-15 12:49:52 File 'artefatto-barbaro-divino.md' is ok
+2026-01-15 12:49:53 File 'artefatto-dellombra.md' is ok
+2026-01-15 12:49:53 File 'artefatto-necromante.md' is ok
+2026-01-15 12:49:53 File 'artefatto-sussurratore-del-gelo.md' is ok
+2026-01-15 12:49:53 File 'artefice.jpeg' is ok
+2026-01-15 12:49:53 Autofixed Case: 'Kokytos.avif' -> 'kokytos.avif'
+2026-01-15 12:49:53 Autofixed Case: 'Kokytos.png' -> 'kokytos.png'
+2026-01-15 12:49:53 Autofixed Case: 'Myrkvathinn.png' -> 'myrkvathinn.png'
+2026-01-15 12:49:53 Autofixed Case: 'Myrkvathinn.webp' -> 'myrkvathinn.webp'
+2026-01-15 12:49:53 Autofixed Case: 'Netjerheka.png' -> 'netjerheka.png'
+2026-01-15 12:49:54 Autofixed Case: 'NetjerhekaByChatGpt.png' -> 'netjerhekabychatgpt.png'
+2026-01-15 12:49:54 Autofixed Case: 'NetjerhekaDiOsiride.png' -> 'netjerhekadiosiride.png'
+2026-01-15 12:49:54 Autofixed Case: 'occhioDiAtos.jpeg' -> 'occhiodiatos.jpeg'
+mv: cannot move './artefatti/party' to a subdirectory of itself, './artefatti/party/party'
+2026-01-15 12:49:54 Dir 'party' is ok (or case fixed).
+mv: cannot move './artefatti' to a subdirectory of itself, './artefatti/artefatti'
+2026-01-15 12:49:54 Dir 'artefatti' is ok (or case fixed).
+2026-01-15 12:49:54 File 'calendario.md' is ok
+2026-01-15 12:49:54 File 'incantesimi.md' is ok
+mv: cannot move './definizioni/template' to a subdirectory of itself, './definizioni/template/template'
+2026-01-15 12:49:55 Dir 'template' is ok (or case fixed).
+2026-01-15 12:49:55 File 'universo.md' is ok
+2026-01-15 12:49:55 File 'villaggio.md' is ok
+mv: cannot move './definizioni' to a subdirectory of itself, './definizioni/definizioni'
+2026-01-15 12:49:55 Dir 'definizioni' is ok (or case fixed).
+2026-01-15 12:49:55 File 'dungeon-con-fossato-1.ds' is ok
+2026-01-15 12:49:55 File 'profondo-blu-dungeon-finale.ds' is ok
+mv: cannot move './dungeon/dungeon-scrawl' to a subdirectory of itself, './dungeon/dungeon-scrawl/dungeon-scrawl'
+2026-01-15 12:49:55 Dir 'dungeon-scrawl' is ok (or case fixed).
+2026-01-15 12:49:55 File 'arena-allaperto.jpg' is ok
+2026-01-15 12:49:55 File 'dungeon-con-fossato-1.png' is ok
+2026-01-15 12:49:55 File 'profondo-blu-dungeon-finale.png' is ok
+mv: cannot move './dungeon/immagini' to a subdirectory of itself, './dungeon/immagini/immagini'
+2026-01-15 12:49:56 Dir 'immagini' is ok (or case fixed).
+2026-01-15 12:49:56 File 'dungeon-goblin-boss-e-minion.json' is ok
+mv: cannot move './dungeon/incontri-5e-tools-encounter-builder' to a subdirectory of itself, './dungeon/incontri-5e-tools-encounter-builder/incontri-5e-tools-encounter-builder'
+2026-01-15 12:49:56 Dir 'incontri-5e-tools-encounter-builder' is ok (or case fixed).
+mv: cannot move './dungeon' to a subdirectory of itself, './dungeon/dungeon'
+2026-01-15 12:49:56 Dir 'dungeon' is ok (or case fixed).
+2026-01-15 12:49:56 File 'asmodeus.md' is ok
+mv: cannot move './entita/demoni' to a subdirectory of itself, './entita/demoni/demoni'
+2026-01-15 12:49:56 Dir 'demoni' is ok (or case fixed).
+mv: cannot move './entita/divinita' to a subdirectory of itself, './entita/divinita/divinita'
+2026-01-15 12:49:56 Dir 'divinita' is ok (or case fixed).
+mv: cannot move './entita' to a subdirectory of itself, './entita/entita'
+2026-01-15 12:49:57 Dir 'entita' is ok (or case fixed).
+2026-01-15 12:49:57 File 'epoca-dargento.md' is ok
+2026-01-15 12:49:57 File 'epoca-leggendaria.md' is ok
+2026-01-15 12:49:57 File 'epoca-terza.md' is ok
+mv: cannot move './epoche' to a subdirectory of itself, './epoche/epoche'
+2026-01-15 12:49:57 Dir 'epoche' is ok (or case fixed).
+2026-01-15 12:49:57 File 'la-frattura.md' is ok
+2026-01-15 12:49:57 File 'la-purga.md' is ok
+mv: cannot move './eventi' to a subdirectory of itself, './eventi/eventi'
+2026-01-15 12:49:57 Dir 'eventi' is ok (or case fixed).
+2026-01-15 12:49:58 Autofixed Case: 'DardoIncantato.md' -> 'dardoincantato.md'
+2026-01-15 12:49:58 Autofixed Case: 'Frantumare.md' -> 'frantumare.md'
+2026-01-15 12:49:58 Autofixed Case: 'Fulmine.md' -> 'fulmine.md'
+2026-01-15 12:49:58 Autofixed Case: 'ImmagineSpeculare.md' -> 'immaginespeculare.md'
+2026-01-15 12:49:58 Autofixed Case: 'InvisibilitaSuperiore.md' -> 'invisibilitasuperiore.md'
+2026-01-15 12:49:58 Autofixed Case: 'MuroDiForza.md' -> 'murodiforza.md'
+2026-01-15 12:49:59 Autofixed Case: 'OndaTonante.md' -> 'ondatonante.md'
+2026-01-15 12:49:59 Autofixed Case: 'Passapareti.md' -> 'passapareti.md'
+2026-01-15 12:49:59 Autofixed Case: 'ScudoDiFuoco.md' -> 'scudodifuoco.md'
+2026-01-15 12:49:59 Autofixed Case: 'TramaIpnotica.md' -> 'tramaipnotica.md'
+mv: cannot move './incantesimi/artefice' to a subdirectory of itself, './incantesimi/artefice/artefice'
+2026-01-15 12:49:59 Dir 'artefice' is ok (or case fixed).
+2026-01-15 12:49:59 Renamed: 'Animare Morti.md' -> 'animare-morti.md'
+2026-01-15 12:50:00 Autofixed Case: 'CorpseExplosion.md' -> 'corpseexplosion.md'
+2026-01-15 12:50:00 Autofixed Case: 'DardoIncantato.md' -> 'dardoincantato.md'
+2026-01-15 12:50:00 Autofixed Case: 'EvocaPioggiaDiArmi.md' -> 'evocapioggiadiarmi.md'
+2026-01-15 12:50:00 Autofixed Case: 'FolataDiVento.md' -> 'folatadivento.md'
+2026-01-15 12:50:00 Autofixed Case: 'Frantumare.md' -> 'frantumare.md'
+2026-01-15 12:50:00 Autofixed Case: 'Fulmine.md' -> 'fulmine.md'
+2026-01-15 12:50:00 Autofixed Case: 'IllusioneMinore.md' -> 'illusioneminore.md'
+2026-01-15 12:50:01 Autofixed Case: 'ImmagineSpeculare.md' -> 'immaginespeculare.md'
+2026-01-15 12:50:01 Autofixed Case: 'InvisibilitaSuperiore.md' -> 'invisibilitasuperiore.md'
+2026-01-15 12:50:01 Autofixed Case: 'MuroDiForza.md' -> 'murodiforza.md'
+2026-01-15 12:50:01 Autofixed Case: 'OndaTonante.md' -> 'ondatonante.md'
+2026-01-15 12:50:01 Renamed: 'Oscurità.md' -> 'oscurita.md'
+2026-01-15 12:50:01 Autofixed Case: 'Passapareti.md' -> 'passapareti.md'
+2026-01-15 12:50:02 Autofixed Case: 'PassareSenzaTracce.md' -> 'passaresenzatracce.md'
+2026-01-15 12:50:02 Autofixed Case: 'ScudoDiFuoco.md' -> 'scudodifuoco.md'
+2026-01-15 12:50:02 Autofixed Case: 'Scurovisione.md' -> 'scurovisione.md'
+2026-01-15 12:50:02 Autofixed Case: 'Silenzio.md' -> 'silenzio.md'
+2026-01-15 12:50:02 Autofixed Case: 'TempestaDiGhiaccio.md' -> 'tempestadighiaccio.md'
+2026-01-15 12:50:02 Autofixed Case: 'TempestaDiNevischio.md' -> 'tempestadinevischio.md'
+2026-01-15 12:50:03 Autofixed Case: 'ToccoDelVampiroOccultista.md' -> 'toccodelvampirooccultista.md'
+2026-01-15 12:50:03 Autofixed Case: 'TramaIpnotica.md' -> 'tramaipnotica.md'
+mv: cannot move './incantesimi/tutti' to a subdirectory of itself, './incantesimi/tutti/tutti'
+2026-01-15 12:50:03 Dir 'tutti' is ok (or case fixed).
+mv: cannot move './incantesimi' to a subdirectory of itself, './incantesimi/incantesimi'
+2026-01-15 12:50:03 Dir 'incantesimi' is ok (or case fixed).
+2026-01-15 12:50:03 File 'skiblandir.md' is ok
+mv: cannot move './mezzi' to a subdirectory of itself, './mezzi/mezzi'
+2026-01-15 12:50:03 Dir 'mezzi' is ok (or case fixed).
+2026-01-15 12:50:04 File 'attila-slayer-guerriero-elfo-100.md' is ok
+2026-01-15 12:50:04 File 'dontavious-ladro-mezzelfo-25.md' is ok
+2026-01-15 12:50:04 File 'morbiarum-paladino-dragonide-24.md' is ok
+2026-01-15 12:50:04 File 'kanye-ovest.md' is ok
+2026-01-15 12:50:04 Autofixed Case: 'Ren.md' -> 'ren.md'
+2026-01-15 12:50:04 Autofixed Case: 'Thraal.md' -> 'thraal.md'
+mv: cannot move './Personaggi/Giocanti/pet' to a subdirectory of itself, './Personaggi/Giocanti/pet/pet'
+2026-01-15 12:50:04 Dir 'pet' is ok (or case fixed).
+2026-01-15 12:50:04 File 'than-warlock-tiefling-30.md' is ok
+2026-01-15 12:50:05 File 'vargas-paladino-nano-65.md' is ok
+mv: cannot move './Personaggi/Giocanti' to a subdirectory of itself, './Personaggi/giocanti/Giocanti'
+2026-01-15 12:50:05 Renamed Dir: 'Giocanti' -> 'giocanti'
+2026-01-15 12:50:05 File 'i-purgatori.md' is ok
+2026-01-15 12:50:05 File 'la-mano-rossa.md' is ok
+mv: cannot move './Personaggi/gruppi' to a subdirectory of itself, './Personaggi/gruppi/gruppi'
+2026-01-15 12:50:05 Dir 'gruppi' is ok (or case fixed).
+2026-01-15 12:50:05 File 'fratelli-dei-lupi.md' is ok
+mv: cannot move './Personaggi/gruppi-magici' to a subdirectory of itself, './Personaggi/gruppi-magici/gruppi-magici'
+2026-01-15 12:50:05 Dir 'gruppi-magici' is ok (or case fixed).
+2026-01-15 12:50:05 File 'atos.md' is ok
+2026-01-15 12:50:06 File 'blob.md' is ok
+2026-01-15 12:50:06 File 'dark-kaia.md' is ok
+2026-01-15 12:50:06 File 'fumero.md' is ok
+2026-01-15 12:50:06 File 'irving.md' is ok
+2026-01-15 12:50:06 File 'kaia.md' is ok
+2026-01-15 12:50:06 File 'mussel.md' is ok
+2026-01-15 12:50:06 File 'nonno-roshi.md' is ok
+2026-01-15 12:50:06 File 'perrin-cauthon.md' is ok
+2026-01-15 12:50:06 File 'perrin.jpg' is ok
+2026-01-15 12:50:06 File 'viper.md' is ok
+mv: cannot move './Personaggi/non-giocanti' to a subdirectory of itself, './Personaggi/non-giocanti/non-giocanti'
+2026-01-15 12:50:06 Dir 'non-giocanti' is ok (or case fixed).
+2026-01-15 12:50:07 File 'artefici.md' is ok
+2026-01-15 12:50:07 File 'gli-asmodeici.md' is ok
+2026-01-15 12:50:07 File 'la-coalizione.md' is ok
+mv: cannot move './Personaggi/organizzazioni' to a subdirectory of itself, './Personaggi/organizzazioni/organizzazioni'
+2026-01-15 12:50:07 Dir 'organizzazioni' is ok (or case fixed).
+mv: cannot move './Personaggi' to a subdirectory of itself, './personaggi/Personaggi'
+2026-01-15 12:50:07 Renamed Dir: 'Personaggi' -> 'personaggi'
+2026-01-15 12:50:07 File 'macrosaga-della-chiave.md' is ok
+2026-01-15 12:50:07 File 'capodanno1.md' is ok
+mv: cannot move './saghe/moduli-non-usati' to a subdirectory of itself, './saghe/moduli-non-usati/moduli-non-usati'
+2026-01-15 12:50:07 Dir 'moduli-non-usati' is ok (or case fixed).
+mv: cannot move './saghe/moduli-usati' to a subdirectory of itself, './saghe/moduli-usati/moduli-usati'
+2026-01-15 12:50:07 Dir 'moduli-usati' is ok (or case fixed).
+2026-01-15 12:50:08 File 'saga-di-gemgrave.md' is ok
+mv: cannot move './saghe' to a subdirectory of itself, './saghe/saghe'
+2026-01-15 12:50:08 Dir 'saghe' is ok (or case fixed).
+2026-01-15 12:50:08 File 'todo.md' is ok
+2026-01-15 12:50:08 File 'atalantide.md' is ok
+2026-01-15 12:50:08 File 'fandalmein.md' is ok
+2026-01-15 12:50:08 Autofixed Case: 'Cristalgreiv.md' -> 'cristalgreiv.md'
+2026-01-15 12:50:08 File 'fandanolend.md' is ok
+2026-01-15 12:50:08 Autofixed Case: 'Nordavila.md' -> 'nordavila.md'
+2026-01-15 12:50:09 Autofixed Case: 'Settentrionel.md' -> 'settentrionel.md'
+mv: cannot move './universi/fandalmein/fandanolend' to a subdirectory of itself, './universi/fandalmein/fandanolend/fandanolend'
+2026-01-15 12:50:09 Dir 'fandanolend' is ok (or case fixed).
+2026-01-15 12:50:09 File 'fandasulend.md' is ok
+2026-01-15 12:50:09 Autofixed Case: 'GemGreiv.md' -> 'gemgreiv.md'
+2026-01-15 12:50:09 Autofixed Case: 'Meridionel.md' -> 'meridionel.md'
+2026-01-15 12:50:10 Autofixed Case: 'Sudaria.md' -> 'sudaria.md'
+mv: cannot move './universi/fandalmein/fandasulend' to a subdirectory of itself, './universi/fandalmein/fandasulend/fandasulend'
+2026-01-15 12:50:10 Dir 'fandasulend' is ok (or case fixed).
+mv: cannot move './universi/fandalmein' to a subdirectory of itself, './universi/fandalmein/fandalmein'
+2026-01-15 12:50:10 Dir 'fandalmein' is ok (or case fixed).
+2026-01-15 12:50:10 File 'atlantide.md' is ok
+2026-01-15 12:50:10 File 'fossa-delle-marie.md' is ok
+2026-01-15 12:50:10 Autofixed Case: 'Phandalmain.jpg' -> 'phandalmain.jpg'
+2026-01-15 12:50:10 File 'phandalmain.md' is ok
+2026-01-15 12:50:11 Autofixed Case: 'Cristalgrave.md' -> 'cristalgrave.md'
+2026-01-15 12:50:11 Autofixed Case: 'Nordavilla.md' -> 'nordavilla.md'
+2026-01-15 12:50:11 File 'phandanoland.md' is ok
+2026-01-15 12:50:11 Autofixed Case: 'Settentrionelle.md' -> 'settentrionelle.md'
+mv: cannot move './universi/phandalmain/phandanoland' to a subdirectory of itself, './universi/phandalmain/phandanoland/phandanoland'
+2026-01-15 12:50:11 Dir 'phandanoland' is ok (or case fixed).
+2026-01-15 12:50:12 Autofixed Case: 'GemGrave.md' -> 'gemgrave.md'
+2026-01-15 12:50:12 Autofixed Case: 'Meridionelle.md' -> 'meridionelle.md'
+2026-01-15 12:50:12 File 'phandasuland.md' is ok
+2026-01-15 12:50:12 File 'castello-abbandonato-sul-dirupo-vicino-la-citta.md' is ok
+2026-01-15 12:50:12 File 'castello-abbandonato-sul-dirupo-vicino-la-citta.png' is ok
+2026-01-15 12:50:12 File 'castello-abbandonato-sul-dirupo-vicino-la-citta.xcf' is ok
+2026-01-15 12:50:12 Autofixed Case: 'Suddaria.md' -> 'suddaria.md'
+mv: cannot move './universi/phandalmain/phandasuland/suddaria' to a subdirectory of itself, './universi/phandalmain/phandasuland/suddaria/suddaria'
+2026-01-15 12:50:12 Dir 'suddaria' is ok (or case fixed).
+mv: cannot move './universi/phandalmain/phandasuland' to a subdirectory of itself, './universi/phandalmain/phandasuland/phandasuland'
+2026-01-15 12:50:13 Dir 'phandasuland' is ok (or case fixed).
+2026-01-15 12:50:13 File 'sacra-biblioteca-perduta-salvata-di-atlantide.md' is ok
+mv: cannot move './universi/phandalmain' to a subdirectory of itself, './universi/phandalmain/phandalmain'
+2026-01-15 12:50:13 Dir 'phandalmain' is ok (or case fixed).
+2026-01-15 12:50:13 File 'telaranrhiod.md' is ok
+mv: cannot move './universi' to a subdirectory of itself, './universi/universi'
+2026-01-15 12:50:13 Dir 'universi' is ok (or case fixed).
+2026-01-15 12:50:13 Map generated at /mnt/c/Users/RickyMandich/PROJECT/Phandalverse/phandalverseVault/.normalize/map.json
+2026-01-15 12:50:13 Generating flat map for link updates...
+2026-01-15 12:50:13 Normalization Done. Content Link Update is pending (Complex with tree structure). Please verify filenames first.

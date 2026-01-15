@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#universo",
@@ -99,6 +99,13 @@
       }
     },
     {
+      "query": "path:artefatti/party  ",
+      "color": {
+        "a": 1,
+        "rgb": 11256626
+      }
+    },
+    {
       "query": "path:artefatti  ",
       "color": {
         "a": 1,
@@ -116,6 +123,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3449656683231745,
-  "close": false
+  "scale": 0.31595320796091847,
+  "close": true
 }
