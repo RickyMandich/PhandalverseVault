@@ -242,7 +242,9 @@
 				"moduli-non-usati": {
 					"original": "Moduli non usati",
 					"files": {
-						"capodanno1": "Capodanno 1"
+						"capodanno1": "Capodanno 1",
+						"capodanno1-minion": "Capodanno 1 – Minion",
+						"capodanno1-boss": "Capodanno 1 – Boss"
 					},
 					"directories": {}
 				},
