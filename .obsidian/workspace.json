@@ -52,20 +52,6 @@
             }
           },
           {
-            "id": "5ddb45faa52052d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personaggi/gruppi/la-mano-rossa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "la-mano-rossa"
-            }
-          },
-          {
             "id": "34b4ac565bbafd57",
             "type": "leaf",
             "state": {
@@ -85,16 +71,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+                "file": "Personaggi/non-giocanti/giorgia-rossato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sacra-biblioteca-perduta-salvata-di-atlantide"
+              "title": "giorgia-rossato"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -261,14 +247,24 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "5ddb45faa52052d2",
+  "active": "2076817afe648272",
   "lastOpenFiles": [
+    "bash/d2utmp946PO5",
+    "bash/d2utmpCkM9Ky",
+    "bash/d2utmpceU7nR",
+    "bash/d2utmp1ruxl3",
+    "bash/d2utmpqLR6pC",
+    "bash/d2utmpaDb9MZ",
+    "bash/d2utmpQJbYaY",
+    "bash/d2utmpdXeUvr",
+    "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+    "Personaggi/non-giocanti/giorgia-rossato.md",
+    "saghe/saga-di-gemgrave.md",
+    "saghe/moduli-non-usati/capodanno1.md",
+    "Personaggi/gruppi/la-mano-rossa.md",
     "bash/d2utmpJCtPyp",
     "bash/d2utmpQGr18w",
     "bash/d2utmpvl8zRx",
-    "saghe/saga-di-gemgrave.md",
-    "saghe/moduli-non-usati/capodanno1.md",
-    "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
     "artefatti/party/artefatto-artefice.md",
     "incantesimi/artefice/dardoincantato.md",
     "incantesimi/artefice/frantumare.md",
@@ -280,14 +276,6 @@
     "incantesimi/artefice/passapareti.md",
     "incantesimi/artefice/scudodifuoco.md",
     "incantesimi/artefice/tramaipnotica.md",
-    "bash/d2utmpCAEDB2",
-    "bash/d2utmprAC5fs",
-    "bash/d2utmp1uZcLn",
-    "bash/d2utmpSE4qEt",
-    "bash/d2utmpyjfF3T",
-    "bash/d2utmpn2cmvS",
-    "bash/d2utmpvPs0vE",
-    "bash/d2utmplxseQs",
     "bash/normalizeREADME.md",
     "universi/phandalmain/phandasuland/suddaria/suddaria.md",
     "universi/phandalmain/phandasuland/meridionelle.md",
@@ -298,8 +286,6 @@
     "universi/phandalmain/phandalmain.jpg",
     "universi/fandalmein/fandasulend/sudaria.md",
     "universi/fandalmein/fandasulend/meridionel.md",
-    "universi/fandalmein/fandasulend/gemgreiv.md",
-    "universi/fandalmein/fandanolend/settentrionel.md",
     "artefatti/party/occhiodiatos.jpeg",
     "artefatti/party/netjerhekadiosiride.png",
     "artefatti/party/netjerhekabychatgpt.png",
