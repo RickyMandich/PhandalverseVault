@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +247,21 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "4a0168f4c436222b",
+  "active": "9f412d1ad0ae070e",
   "lastOpenFiles": [
+    "saghe/moduli-non-usati/capodanno1.md",
+    "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+    "artefatti/party/artefatto-artefice.md",
+    "incantesimi/artefice/dardoincantato.md",
+    "incantesimi/artefice/frantumare.md",
+    "incantesimi/artefice/fulmine.md",
+    "incantesimi/artefice/immaginespeculare.md",
+    "incantesimi/artefice/invisibilitasuperiore.md",
+    "incantesimi/artefice/murodiforza.md",
+    "incantesimi/artefice/ondatonante.md",
+    "incantesimi/artefice/passapareti.md",
+    "incantesimi/artefice/scudodifuoco.md",
+    "incantesimi/artefice/tramaipnotica.md",
     "bash/d2utmpCAEDB2",
     "bash/d2utmprAC5fs",
     "bash/d2utmp1uZcLn",
@@ -258,10 +271,8 @@
     "bash/d2utmpvPs0vE",
     "bash/d2utmplxseQs",
     "bash/normalizeREADME.md",
-    "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
     "bash/d2utmptK6J0u",
     "bash/d2utmpieQYsT",
-    "bash/d2utmpYhDFdG",
     "universi/phandalmain/phandasuland/suddaria/suddaria.md",
     "universi/phandalmain/phandasuland/meridionelle.md",
     "universi/phandalmain/phandasuland/gemgrave.md",
@@ -275,17 +286,6 @@
     "universi/fandalmein/fandanolend/settentrionel.md",
     "universi/fandalmein/fandanolend/nordavila.md",
     "universi/fandalmein/fandanolend/cristalgreiv.md",
-    "Personaggi/Giocanti/pet/thraal.md",
-    "Personaggi/Giocanti/pet/ren.md",
-    "incantesimi/tutti/tramaipnotica.md",
-    "incantesimi/tutti/toccodelvampirooccultista.md",
-    "incantesimi/tutti/tempestadinevischio.md",
-    "incantesimi/tutti/tempestadighiaccio.md",
-    "incantesimi/tutti/silenzio.md",
-    "incantesimi/tutti/scurovisione.md",
-    "incantesimi/tutti/scudodifuoco.md",
-    "incantesimi/tutti/passaresenzatracce.md",
-    "incantesimi/tutti/passapareti.md",
     "artefatti/party/occhiodiatos.jpeg",
     "artefatti/party/netjerhekadiosiride.png",
     "artefatti/party/netjerhekabychatgpt.png",

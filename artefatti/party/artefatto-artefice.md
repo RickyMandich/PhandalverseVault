@@ -228,10 +228,10 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-![[incantesimi/artefice/OndaTonante]]
-![[incantesimi/artefice/Frantumare]]
-![[incantesimi/artefice/ImmagineSpeculare]] ![[incantesimi/artefice/Fulmine]]
-![[incantesimi/artefice/TramaIpnotica]]![[incantesimi/artefice/InvisibilitaSuperiore]]![[incantesimi/artefice/ScudoDiFuoco]]![[incantesimi/artefice/MuroDiForza]]![[incantesimi/artefice/Passapareti]]
+![[incantesimi/tutti/OndaTonante]]
+![[incantesimi/tutti/Frantumare]]
+![[incantesimi/tutti/ImmagineSpeculare]] ![[incantesimi/tutti/Fulmine]]
+![[incantesimi/tutti/TramaIpnotica]]![[incantesimi/tutti/InvisibilitaSuperiore]]![[incantesimi/tutti/ScudoDiFuoco]]![[incantesimi/tutti/MuroDiForza]]![[incantesimi/tutti/Passapareti]]
 
 ---
 
