@@ -1,0 +1,197 @@
+2026-01-15 13:04:39 Starting normalization process (Recursive Tree Mode)...
+2026-01-15 13:04:39 File 'fyrbrand.md' is ok
+2026-01-15 13:04:39 File 'il-portale.md' is ok
+2026-01-15 13:04:40 File 'la-bussola.md' is ok
+2026-01-15 13:04:40 File 'la-chiave.md' is ok
+2026-01-15 13:04:40 File 'artefatto-artefice.md' is ok
+2026-01-15 13:04:40 File 'artefatto-barbaro-divino.md' is ok
+2026-01-15 13:04:40 File 'artefatto-dellombra.md' is ok
+2026-01-15 13:04:40 File 'artefatto-necromante.md' is ok
+2026-01-15 13:04:40 File 'artefatto-sussurratore-del-gelo.md' is ok
+2026-01-15 13:04:40 File 'artefice.jpeg' is ok
+2026-01-15 13:04:40 File 'kokytos.avif' is ok
+2026-01-15 13:04:40 File 'kokytos.png' is ok
+2026-01-15 13:04:40 File 'myrkvathinn.png' is ok
+2026-01-15 13:04:40 File 'myrkvathinn.webp' is ok
+2026-01-15 13:04:40 File 'netjerheka.png' is ok
+2026-01-15 13:04:40 File 'netjerhekabychatgpt.png' is ok
+2026-01-15 13:04:40 File 'netjerhekadiosiride.png' is ok
+2026-01-15 13:04:40 File 'occhiodiatos.jpeg' is ok
+mv: cannot move './artefatti/party' to a subdirectory of itself, './artefatti/party/party'
+2026-01-15 13:04:40 Dir 'party' is ok (or case fixed).
+mv: cannot move './artefatti' to a subdirectory of itself, './artefatti/artefatti'
+2026-01-15 13:04:41 Dir 'artefatti' is ok (or case fixed).
+2026-01-15 13:04:41 File 'calendario.md' is ok
+2026-01-15 13:04:41 File 'incantesimi.md' is ok
+mv: cannot move './definizioni/template' to a subdirectory of itself, './definizioni/template/template'
+2026-01-15 13:04:41 Dir 'template' is ok (or case fixed).
+2026-01-15 13:04:41 File 'universo.md' is ok
+2026-01-15 13:04:41 File 'villaggio.md' is ok
+mv: cannot move './definizioni' to a subdirectory of itself, './definizioni/definizioni'
+2026-01-15 13:04:41 Dir 'definizioni' is ok (or case fixed).
+2026-01-15 13:04:41 File 'dungeon-con-fossato-1.ds' is ok
+2026-01-15 13:04:41 File 'profondo-blu-dungeon-finale.ds' is ok
+mv: cannot move './dungeon/dungeon-scrawl' to a subdirectory of itself, './dungeon/dungeon-scrawl/dungeon-scrawl'
+2026-01-15 13:04:42 Dir 'dungeon-scrawl' is ok (or case fixed).
+2026-01-15 13:04:42 File 'arena-allaperto.jpg' is ok
+2026-01-15 13:04:42 File 'dungeon-con-fossato-1.png' is ok
+2026-01-15 13:04:42 File 'profondo-blu-dungeon-finale.png' is ok
+mv: cannot move './dungeon/immagini' to a subdirectory of itself, './dungeon/immagini/immagini'
+2026-01-15 13:04:42 Dir 'immagini' is ok (or case fixed).
+2026-01-15 13:04:42 File 'dungeon-goblin-boss-e-minion.json' is ok
+mv: cannot move './dungeon/incontri-5e-tools-encounter-builder' to a subdirectory of itself, './dungeon/incontri-5e-tools-encounter-builder/incontri-5e-tools-encounter-builder'
+2026-01-15 13:04:42 Dir 'incontri-5e-tools-encounter-builder' is ok (or case fixed).
+mv: cannot move './dungeon' to a subdirectory of itself, './dungeon/dungeon'
+2026-01-15 13:04:42 Dir 'dungeon' is ok (or case fixed).
+2026-01-15 13:04:42 File 'asmodeus.md' is ok
+mv: cannot move './entita/demoni' to a subdirectory of itself, './entita/demoni/demoni'
+2026-01-15 13:04:43 Dir 'demoni' is ok (or case fixed).
+mv: cannot move './entita/divinita' to a subdirectory of itself, './entita/divinita/divinita'
+2026-01-15 13:04:43 Dir 'divinita' is ok (or case fixed).
+mv: cannot move './entita' to a subdirectory of itself, './entita/entita'
+2026-01-15 13:04:43 Dir 'entita' is ok (or case fixed).
+2026-01-15 13:04:43 File 'epoca-dargento.md' is ok
+2026-01-15 13:04:43 File 'epoca-leggendaria.md' is ok
+2026-01-15 13:04:43 File 'epoca-terza.md' is ok
+mv: cannot move './epoche' to a subdirectory of itself, './epoche/epoche'
+2026-01-15 13:04:43 Dir 'epoche' is ok (or case fixed).
+2026-01-15 13:04:43 File 'la-frattura.md' is ok
+2026-01-15 13:04:43 File 'la-purga.md' is ok
+mv: cannot move './eventi' to a subdirectory of itself, './eventi/eventi'
+2026-01-15 13:04:43 Dir 'eventi' is ok (or case fixed).
+2026-01-15 13:04:44 File 'dardoincantato.md' is ok
+2026-01-15 13:04:44 File 'frantumare.md' is ok
+2026-01-15 13:04:44 File 'fulmine.md' is ok
+2026-01-15 13:04:44 File 'immaginespeculare.md' is ok
+2026-01-15 13:04:44 File 'invisibilitasuperiore.md' is ok
+2026-01-15 13:04:44 File 'murodiforza.md' is ok
+2026-01-15 13:04:44 File 'ondatonante.md' is ok
+2026-01-15 13:04:44 File 'passapareti.md' is ok
+2026-01-15 13:04:44 File 'scudodifuoco.md' is ok
+2026-01-15 13:04:44 File 'tramaipnotica.md' is ok
+mv: cannot move './incantesimi/artefice' to a subdirectory of itself, './incantesimi/artefice/artefice'
+2026-01-15 13:04:44 Dir 'artefice' is ok (or case fixed).
+2026-01-15 13:04:44 File 'animare-morti.md' is ok
+2026-01-15 13:04:44 File 'corpseexplosion.md' is ok
+2026-01-15 13:04:45 File 'dardoincantato.md' is ok
+2026-01-15 13:04:45 File 'evocapioggiadiarmi.md' is ok
+2026-01-15 13:04:45 File 'folatadivento.md' is ok
+2026-01-15 13:04:45 File 'frantumare.md' is ok
+2026-01-15 13:04:45 File 'fulmine.md' is ok
+2026-01-15 13:04:45 File 'illusioneminore.md' is ok
+2026-01-15 13:04:45 File 'immaginespeculare.md' is ok
+2026-01-15 13:04:45 File 'invisibilitasuperiore.md' is ok
+2026-01-15 13:04:45 File 'murodiforza.md' is ok
+2026-01-15 13:04:45 File 'ondatonante.md' is ok
+2026-01-15 13:04:45 File 'oscurita.md' is ok
+2026-01-15 13:04:45 File 'passapareti.md' is ok
+2026-01-15 13:04:45 File 'passaresenzatracce.md' is ok
+2026-01-15 13:04:45 File 'scudodifuoco.md' is ok
+2026-01-15 13:04:45 File 'scurovisione.md' is ok
+2026-01-15 13:04:45 File 'silenzio.md' is ok
+2026-01-15 13:04:46 File 'tempestadighiaccio.md' is ok
+2026-01-15 13:04:46 File 'tempestadinevischio.md' is ok
+2026-01-15 13:04:46 File 'toccodelvampirooccultista.md' is ok
+2026-01-15 13:04:46 File 'tramaipnotica.md' is ok
+mv: cannot move './incantesimi/tutti' to a subdirectory of itself, './incantesimi/tutti/tutti'
+2026-01-15 13:04:46 Dir 'tutti' is ok (or case fixed).
+mv: cannot move './incantesimi' to a subdirectory of itself, './incantesimi/incantesimi'
+2026-01-15 13:04:46 Dir 'incantesimi' is ok (or case fixed).
+2026-01-15 13:04:46 File 'skiblandir.md' is ok
+mv: cannot move './mezzi' to a subdirectory of itself, './mezzi/mezzi'
+2026-01-15 13:04:46 Dir 'mezzi' is ok (or case fixed).
+2026-01-15 13:04:46 File 'attila-slayer-guerriero-elfo-100.md' is ok
+2026-01-15 13:04:47 File 'dontavious-ladro-mezzelfo-25.md' is ok
+2026-01-15 13:04:47 File 'morbiarum-paladino-dragonide-24.md' is ok
+2026-01-15 13:04:47 File 'kanye-ovest.md' is ok
+2026-01-15 13:04:47 File 'ren.md' is ok
+2026-01-15 13:04:47 File 'thraal.md' is ok
+mv: cannot move './Personaggi/Giocanti/pet' to a subdirectory of itself, './Personaggi/Giocanti/pet/pet'
+2026-01-15 13:04:47 Dir 'pet' is ok (or case fixed).
+2026-01-15 13:04:47 File 'than-warlock-tiefling-30.md' is ok
+2026-01-15 13:04:47 File 'vargas-paladino-nano-65.md' is ok
+mv: cannot move './Personaggi/Giocanti' to a subdirectory of itself, './Personaggi/giocanti/Giocanti'
+2026-01-15 13:04:47 Renamed Dir: 'Giocanti' -> 'giocanti'
+2026-01-15 13:04:48 File 'i-purgatori.md' is ok
+2026-01-15 13:04:48 File 'la-mano-rossa.md' is ok
+mv: cannot move './Personaggi/gruppi' to a subdirectory of itself, './Personaggi/gruppi/gruppi'
+2026-01-15 13:04:48 Dir 'gruppi' is ok (or case fixed).
+2026-01-15 13:04:48 File 'fratelli-dei-lupi.md' is ok
+mv: cannot move './Personaggi/gruppi-magici' to a subdirectory of itself, './Personaggi/gruppi-magici/gruppi-magici'
+2026-01-15 13:04:48 Dir 'gruppi-magici' is ok (or case fixed).
+2026-01-15 13:04:48 File 'atos.md' is ok
+2026-01-15 13:04:48 File 'blob.md' is ok
+2026-01-15 13:04:48 File 'dark-kaia.md' is ok
+2026-01-15 13:04:48 File 'fumero.md' is ok
+2026-01-15 13:04:48 File 'irving.md' is ok
+2026-01-15 13:04:48 File 'kaia.md' is ok
+2026-01-15 13:04:49 File 'mussel.md' is ok
+2026-01-15 13:04:49 File 'nonno-roshi.md' is ok
+2026-01-15 13:04:49 File 'perrin-cauthon.md' is ok
+2026-01-15 13:04:49 File 'perrin.jpg' is ok
+2026-01-15 13:04:49 File 'viper.md' is ok
+mv: cannot move './Personaggi/non-giocanti' to a subdirectory of itself, './Personaggi/non-giocanti/non-giocanti'
+2026-01-15 13:04:49 Dir 'non-giocanti' is ok (or case fixed).
+2026-01-15 13:04:49 File 'artefici.md' is ok
+2026-01-15 13:04:49 File 'gli-asmodeici.md' is ok
+2026-01-15 13:04:49 File 'la-coalizione.md' is ok
+mv: cannot move './Personaggi/organizzazioni' to a subdirectory of itself, './Personaggi/organizzazioni/organizzazioni'
+2026-01-15 13:04:49 Dir 'organizzazioni' is ok (or case fixed).
+mv: cannot move './Personaggi' to a subdirectory of itself, './personaggi/Personaggi'
+2026-01-15 13:04:49 Renamed Dir: 'Personaggi' -> 'personaggi'
+2026-01-15 13:04:50 File 'macrosaga-della-chiave.md' is ok
+2026-01-15 13:04:50 File 'capodanno1.md' is ok
+mv: cannot move './saghe/moduli-non-usati' to a subdirectory of itself, './saghe/moduli-non-usati/moduli-non-usati'
+2026-01-15 13:04:50 Dir 'moduli-non-usati' is ok (or case fixed).
+mv: cannot move './saghe/moduli-usati' to a subdirectory of itself, './saghe/moduli-usati/moduli-usati'
+2026-01-15 13:04:50 Dir 'moduli-usati' is ok (or case fixed).
+2026-01-15 13:04:50 File 'saga-di-gemgrave.md' is ok
+mv: cannot move './saghe' to a subdirectory of itself, './saghe/saghe'
+2026-01-15 13:04:50 Dir 'saghe' is ok (or case fixed).
+2026-01-15 13:04:50 File 'todo.md' is ok
+2026-01-15 13:04:51 File 'atalantide.md' is ok
+2026-01-15 13:04:51 File 'fandalmein.md' is ok
+2026-01-15 13:04:51 File 'cristalgreiv.md' is ok
+2026-01-15 13:04:51 File 'fandanolend.md' is ok
+2026-01-15 13:04:51 File 'nordavila.md' is ok
+2026-01-15 13:04:51 File 'settentrionel.md' is ok
+mv: cannot move './universi/fandalmein/fandanolend' to a subdirectory of itself, './universi/fandalmein/fandanolend/fandanolend'
+2026-01-15 13:04:51 Dir 'fandanolend' is ok (or case fixed).
+2026-01-15 13:04:51 File 'fandasulend.md' is ok
+2026-01-15 13:04:51 File 'gemgreiv.md' is ok
+2026-01-15 13:04:51 File 'meridionel.md' is ok
+2026-01-15 13:04:51 File 'sudaria.md' is ok
+mv: cannot move './universi/fandalmein/fandasulend' to a subdirectory of itself, './universi/fandalmein/fandasulend/fandasulend'
+2026-01-15 13:04:52 Dir 'fandasulend' is ok (or case fixed).
+mv: cannot move './universi/fandalmein' to a subdirectory of itself, './universi/fandalmein/fandalmein'
+2026-01-15 13:04:52 Dir 'fandalmein' is ok (or case fixed).
+2026-01-15 13:04:52 File 'atlantide.md' is ok
+2026-01-15 13:04:52 File 'fossa-delle-marie.md' is ok
+2026-01-15 13:04:52 File 'phandalmain.jpg' is ok
+2026-01-15 13:04:52 File 'phandalmain.md' is ok
+2026-01-15 13:04:52 File 'cristalgrave.md' is ok
+2026-01-15 13:04:52 File 'nordavilla.md' is ok
+2026-01-15 13:04:52 File 'phandanoland.md' is ok
+2026-01-15 13:04:53 File 'settentrionelle.md' is ok
+mv: cannot move './universi/phandalmain/phandanoland' to a subdirectory of itself, './universi/phandalmain/phandanoland/phandanoland'
+2026-01-15 13:04:53 Dir 'phandanoland' is ok (or case fixed).
+2026-01-15 13:04:53 File 'gemgrave.md' is ok
+2026-01-15 13:04:53 File 'meridionelle.md' is ok
+2026-01-15 13:04:53 File 'phandasuland.md' is ok
+2026-01-15 13:04:53 File 'castello-abbandonato-sul-dirupo-vicino-la-citta.md' is ok
+2026-01-15 13:04:53 File 'castello-abbandonato-sul-dirupo-vicino-la-citta.png' is ok
+2026-01-15 13:04:53 File 'castello-abbandonato-sul-dirupo-vicino-la-citta.xcf' is ok
+2026-01-15 13:04:53 File 'suddaria.md' is ok
+mv: cannot move './universi/phandalmain/phandasuland/suddaria' to a subdirectory of itself, './universi/phandalmain/phandasuland/suddaria/suddaria'
+2026-01-15 13:04:53 Dir 'suddaria' is ok (or case fixed).
+mv: cannot move './universi/phandalmain/phandasuland' to a subdirectory of itself, './universi/phandalmain/phandasuland/phandasuland'
+2026-01-15 13:04:54 Dir 'phandasuland' is ok (or case fixed).
+2026-01-15 13:04:54 File 'sacra-biblioteca-perduta-salvata-di-atlantide.md' is ok
+mv: cannot move './universi/phandalmain' to a subdirectory of itself, './universi/phandalmain/phandalmain'
+2026-01-15 13:04:54 Dir 'phandalmain' is ok (or case fixed).
+2026-01-15 13:04:54 File 'telaranrhiod.md' is ok
+mv: cannot move './universi' to a subdirectory of itself, './universi/universi'
+2026-01-15 13:04:54 Dir 'universi' is ok (or case fixed).
+2026-01-15 13:04:54 Map generated at /mnt/c/Users/RickyMandich/PROJECT/Phandalverse/phandalverseVault/.normalize/map.json
+2026-01-15 13:04:54 Generating flat map for link updates...
+2026-01-15 13:04:54 Normalization Done. Content Link Update is pending (Complex with tree structure). Please verify filenames first.
