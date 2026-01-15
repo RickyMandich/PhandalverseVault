@@ -84,10 +84,7 @@
 				},
 				"divinita": {
 					"original": "divinità",
-					"files": {
-						"krystallo.md": "Krystallo",
-						"lithos.md": "Lithos"
-					},
+					"files": {},
 					"directories": {}
 				}
 			}
