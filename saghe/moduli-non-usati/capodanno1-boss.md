@@ -3,10 +3,10 @@
 ## Il Cuore dell’Anno Vecchio
 
 ---
-name: Il Cuore dell’Anno Vecchio
-type: costrutto magico grande
-alignment: Neutrale
-cr: 6
+nome: Il Cuore dell’Anno Vecchio
+tipo: costrutto magico grande
+allineamento: Neutrale
+Grado sfida: 6
 ---
 
 **Classe Armatura** 13  

@@ -3,10 +3,10 @@
 ## Creature dell’Anno Vecchio
 
 ---
-name: Creatura dell’Anno Vecchio
-type: creatura magica media
-alignment: Neutrale
-cr: 1
+nome: Creatura dell’Anno Vecchio
+tipo: creatura magica media
+allineamento: Neutrale
+Grado Sfida: 1
 ---
 
 **Classe Armatura** 12  
