@@ -43,4 +43,4 @@ Se impegnata nel rituale:
 
 ***Colpo Residuo.***  
 *Attacco con arma da mischia:* +4 a colpire, portata 1,5 m.  
-**Colpito:** 1d8 + 2 danni contundenti o necrotici.
+**Colpito:** 2d8 + 2 danni contundenti o necrotici.

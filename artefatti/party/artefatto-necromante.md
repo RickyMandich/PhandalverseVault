@@ -552,6 +552,7 @@ tabella esplicativa:
 		</tr>
 	</tbody>
 </table>
+
 ## sciame di parassiti
 *1° livello, necromanzia*  
 
