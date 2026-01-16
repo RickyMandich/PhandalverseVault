@@ -1,6 +1,6 @@
 richiede sintonia, localizzazione geografica: 
 # descrizione
-![[occhioDiAtos.jpeg]]
+![[occhio-di-atos.jpeg]]
 
 ---
 # raccolto macabro

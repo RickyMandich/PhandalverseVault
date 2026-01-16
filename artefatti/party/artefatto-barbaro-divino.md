@@ -58,7 +58,7 @@ mentre sei in ira, Set ti concede il suo potere divino. Ottieni resistenza ai da
 # **Netjerheka** di Osiride
 # descrizione
 è un `per ankh` con il geroglifico `il pilastro di Djed` (simbolo di osiride) in centro all'Ankh
-![[NetjerhekaDiOsiride.png]]
+![[netjerheka-di-osiride.png]]
 ## sentiero del dio egizio
 mentre sei infuriato, diventi desideroso di consumare le forze vitali con la magia di Osiride che ti circonda. I tuoi attacchi con le armi infliggono un danno necrotico aggiuntivo pari al tuo modificatore di costituzione; con un colpo critico, ottieni punti ferita temporanei pari a tre volte quel danno necrotico extra.
 ## favore del dio egizio
