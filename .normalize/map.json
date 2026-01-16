@@ -1,6 +1,9 @@
 {
 	"original": "ROOT",
-	"files": {},
+	"files": {
+		"readme.md": "README",
+		"todo.md": "todo"
+	},
 	"directories": {
 		"artefatti": {
 			"original": "artefatti",
@@ -18,7 +21,16 @@
 						"artefatto-artefice.md": "Tól Niðavalla",
 						"artefatto-dellombra.md": "Myrkvaðinn",
 						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos",
-						"artefatto-barbaro-divino.md": "Netjerheka"
+						"artefatto-barbaro-divino.md": "Netjerheka",
+						"artefice.jpeg": "Artefice",
+						"kokytos.avif": "Kṓkȳtos (AVIF)",
+						"kokytos.png": "Kṓkȳtos (PNG)",
+						"myrkvathinn.png": "Myrkvaðinn (PNG)",
+						"myrkvathinn.webp": "Myrkvaðinn (WEBP)",
+						"netjerheka.png": "Netjerheka (PNG)",
+						"netjerhekabychatgpt.png": "Netjerheka by ChatGPT",
+						"netjerhekadiosiride.png": "Netjerheka Dio Isiride",
+						"occhiodiatos.jpeg": "Occhio di Atos (JPEG)"
 					},
 					"directories": {}
 				}
@@ -164,11 +176,11 @@
 			"directories": {}
 		},
 		"personaggi": {
-			"original": "personaggi",
+			"original": "Personaggi",
 			"files": {},
 			"directories": {
 				"giocanti": {
-					"original": "giocanti",
+					"original": "Giocanti",
 					"files": {
 						"attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo-100)",
 						"dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo-25)",
@@ -205,21 +217,51 @@
 				},
 				"non-giocanti": {
 					"original": "non giocanti",
-					"files": {
-						"blob.md": "blob",
-						"dark-kaia.md": "dark Kaia",
-						"fumero.md": "Fumero",
-						"irving.md": "Irving",
-						"kaia.md": "Kaia",
-						"mussel.md": "Mussel",
-						"nonno-roshi.md": "nonno Roshi",
-						"perrin-cauthon.md": "Perrin Cauthon",
-						"perrin.jpg": "Perrin",
-						"viper.md": "Viper",
-						"atos.md": "Atos",
-						"giorgia-rossato.md": "Giorgia Rossato"
-					},
-					"directories": {}
+					"files": {},
+					"directories": {
+						"artefatti": {
+							"original": "artefatti",
+							"files": {
+								"atos.md": "Atos"
+							},
+							"directories": {}
+						},
+						"background-pg": {
+							"original": "background pg",
+							"files": {
+								"fumero.md": "Fumero"
+							},
+							"directories": {}
+						},
+						"gemgrave": {
+							"original": "gemgrave",
+							"files": {
+								"kaia.md": "Kaia",
+								"perrin-cauthon.md": "Perrin Cauthon",
+								"perrin.jpg": "Perrin"
+							},
+							"directories": {}
+						},
+						"macrotrama": {
+							"original": "macrotrama",
+							"files": {
+								"dark-kaia.md": "dark Kaia",
+								"giorgia-rossato.md": "Giorgia Rossato",
+								"nonno-roshi.md": "nonno Roshi"
+							},
+							"directories": {}
+						},
+						"saga-di-merfolk": {
+							"original": "saga di merfolk",
+							"files": {
+								"blob.md": "blob",
+								"irving.md": "Irving",
+								"mussel.md": "Mussel",
+								"viper.md": "Viper"
+							},
+							"directories": {}
+						}
+					}
 				},
 				"organizzazioni": {
 					"original": "organizzazioni",
@@ -242,9 +284,9 @@
 				"moduli-non-usati": {
 					"original": "Moduli non usati",
 					"files": {
-						"capodanno1": "Capodanno 1",
-						"capodanno1-minion": "Capodanno 1 – Minion",
-						"capodanno1-boss": "Capodanno 1 – Boss"
+						"capodanno1.md": "Capodanno 1",
+						"capodanno1-minion.md": "Capodanno 1 – Minion",
+						"capodanno1-boss.md": "Capodanno 1 – Boss"
 					},
 					"directories": {}
 				},

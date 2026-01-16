@@ -1,3 +1,4 @@
+#dm
 ### ATTO 1 – Presentazione
 
 _Una notte di Capodanno, il villaggio è avvolto da fuochi d'artificio, canti e un'atmosfera di gioia. I personaggi si trovano al centro della festa, circondati da amici, cibo e musica, ma un'ombra si aggira ai margini, portando un presagio di pericolo._
