@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9d5bf4da739f4e9",
+            "id": "3e6228d859635414",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "todo"
             }
           },
           {
@@ -52,17 +52,17 @@
             }
           },
           {
-            "id": "2076817afe648272",
+            "id": "b1476f154bd09b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personaggi/non-giocanti/giorgia-rossato.md",
+                "file": "saghe/macrosaga-della-chiave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "giorgia-rossato"
+              "title": "macrosaga-della-chiave"
             }
           }
         ],
@@ -233,24 +233,31 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "2076817afe648272",
+  "active": "b1476f154bd09b7f",
   "lastOpenFiles": [
+    "bash/d2utmpddmZjo",
+    "bash/d2utmpoP7OZl",
+    "bash/d2utmpOfFBgq",
+    "bash/d2utmpvahF2F",
+    "bash/d2utmpUtdayq",
+    "bash/d2utmpNPWvNg",
+    "bash/d2utmpr5SIDq",
+    "bash/d2utmpc6y1Gu",
+    "saghe/saga-di-gemgrave.md",
+    "saghe/macrosaga-della-chiave.md",
+    "saghe/saga-della-biblioteca.md",
+    "saghe/saga-di-capodanno-1312.md",
+    "todo.md",
+    "saghe/saga-di-merfolk.md",
+    "saghe/saga-della-magione.md",
     "saghe/moduli-non-usati/capodanno1.md",
     "saghe/moduli-non-usati/capodanno1-boss.md",
     "bash/d2utmp2SgbQ9",
     "bash/d2utmpFa5Z3G",
     "bash/d2utmpISX36i",
-    "bash/d2utmpozeFg9",
-    "bash/d2utmpRg8EgL",
-    "bash/d2utmpS6QufH",
-    "bash/d2utmpxU1zLo",
     "saghe/moduli-non-usati/capodanno1-minion.md",
     "Personaggi/non-giocanti/giorgia-rossato.md",
-    "bash/d2utmpJdPgnp",
-    "bash/d2utmpwHPFnC",
-    "bash/d2utmp8cxmdw",
     "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
-    "saghe/saga-di-gemgrave.md",
     "Personaggi/gruppi/la-mano-rossa.md",
     "artefatti/party/artefatto-artefice.md",
     "incantesimi/artefice/dardoincantato.md",
@@ -264,12 +271,6 @@
     "incantesimi/artefice/scudodifuoco.md",
     "incantesimi/artefice/tramaipnotica.md",
     "bash/normalizeREADME.md",
-    "universi/phandalmain/phandasuland/suddaria/suddaria.md",
-    "universi/phandalmain/phandasuland/meridionelle.md",
-    "universi/phandalmain/phandasuland/gemgrave.md",
-    "universi/phandalmain/phandanoland/settentrionelle.md",
-    "universi/phandalmain/phandanoland/nordavilla.md",
-    "universi/phandalmain/phandanoland/cristalgrave.md",
     "universi/phandalmain/phandalmain.jpg",
     "artefatti/party/occhiodiatos.jpeg",
     "artefatti/party/netjerhekadiosiride.png",

@@ -278,7 +278,11 @@
 			"original": "saghe",
 			"files": {
 				"macrosaga-della-chiave.md": "Macrosaga della Chiave",
-				"saga-di-gemgrave.md": "Saga di Gemgrave"
+				"saga-di-gemgrave.md": "Saga di Gemgrave",
+				"saga-della-magione.md": "Saga della Magione",
+				"saga-di-merfolk.md": "Saga di Merfolk",
+				"saga-della-biblioteca.md": "Saga della Biblioteca",
+				"saga-di-capodanno-1312.md": "Saga di Capodanno 1312"
 			},
 			"directories": {
 				"moduli-non-usati": {
