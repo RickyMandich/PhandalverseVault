@@ -5,4 +5,4 @@ Andrea rallo
 in questo villaggio i membri del circo muoiono e conosce [[than-warlock-tiefling-30|Than]] con cui scapperà assieme.
 # Campagna
 ora si è unito a [[la-mano-rossa]]
-![[Saga-di-GemGrave]]
+![[macrosaga-della-chiave]]
