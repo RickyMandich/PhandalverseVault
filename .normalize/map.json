@@ -129,6 +129,14 @@
 					},
 					"directories": {}
 				},
+				"necromante": {
+					"original": "Necromante",
+					"files": {
+						"falce-di-ade.md": "Falce di Ade",
+						"sciamediparassiti.md": "Sciame di Parassiti"
+					},
+					"directories": {}
+				},
 				"tutti": {
 					"original": "Tutti",
 					"files": {
@@ -136,6 +144,7 @@
 						"corpseexplosion.md": "Esplosione Cadaverica",
 						"dardoincantato.md": "Dardo Incantato",
 						"evocapioggiadiarmi.md": "Evoca Pioggia di Armi",
+						"falce-di-ade.md": "Falce di Ade",
 						"folatadivento.md": "Folata di Vento",
 						"frantumare.md": "Frantumare",
 						"fulmine.md": "Fulmine",
@@ -147,6 +156,7 @@
 						"oscurita.md": "Oscurita",
 						"passapareti.md": "Passapareti",
 						"passaresenzatracce.md": "Passare Senza Tracce",
+						"sciamediparassiti.md": "Sciame di Parassiti",
 						"scudodifuoco.md": "Scudo di Fuoco",
 						"scurovisione.md": "Scurovisione",
 						"silenzio.md": "Silenzio",
