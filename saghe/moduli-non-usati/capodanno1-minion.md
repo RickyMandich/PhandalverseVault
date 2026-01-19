@@ -44,3 +44,7 @@ Se impegnata nel rituale:
 ***Colpo Residuo.***  
 *Attacco con arma da mischia:* +4 a colpire, portata 1,5 m.  
 **Colpito:** 2d8 + 2 danni contundenti o necrotici.
+
+***l'ultimo anno.***  
+*esplosione con tiro salvezza:* portata 4,5 m.  
+**Colpito:** 2d8 danni necrotici (3d8 se si avvolge intorno al nemico, in quel caso il nemico fallisce in automatico il tiro salvezza su destrezza), la metà in caso di successo al tiro salvezza.
