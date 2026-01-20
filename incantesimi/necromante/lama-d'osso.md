@@ -1,1 +1,0 @@
-![[tutti/lama-d'osso]]

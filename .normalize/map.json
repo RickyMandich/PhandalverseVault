@@ -27,17 +27,6 @@
 				}
 			}
 		},
-		"data": {
-			"original": "Data",
-			"files": {},
-			"directories": {
-				"incantesimi": {
-					"original": "Incantesimi",
-					"files": {},
-					"directories": {}
-				}
-			}
-		},
 		"definizioni": {
 			"original": "definizioni",
 			"files": {
@@ -139,7 +128,7 @@
 						"barriera-ossea.md": "Barriera Ossea",
 						"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 						"falce-di-ade.md": "Falce di Ade",
-						"lama-d'osso.md": "Lama D'osso",
+						"lama-dosso.md": "Lama",
 						"peste-putrida.md": "Peste Putrida",
 						"radar-osseo.md": "Radar Osseo",
 						"sciame-di-parassiti.md": "Sciame Di Parassiti",
@@ -164,7 +153,7 @@
 						"illusione-minore.md": "Illusione Minore",
 						"immagine-speculare.md": "Immagine Speculare",
 						"invisibilita-superiore.md": "Invisibilita Superiore",
-						"lama-d'osso.md": "Lama D'osso",
+						"lama-dosso.md": "Lama",
 						"muro-di-forza.md": "Muro Di Forza",
 						"onda-tonante.md": "Onda Tonante",
 						"oscurita.md": "Oscurita",
