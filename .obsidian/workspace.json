@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "051799c036fb5488",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://phandalverse.altervista.org/vault",
+                "title": "Vault",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "Vault"
+            }
+          },
+          {
             "id": "a745e6ed58a9babd",
             "type": "leaf",
             "pinned": true,
@@ -80,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +263,9 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "42a57ffcf343c6f6",
+  "active": "a745e6ed58a9babd",
   "lastOpenFiles": [
+    "saghe/moduli-non-usati/capodanno1-minion.md",
     "bash/d2utmp6rRkkj",
     "bash/d2utmp77Mim8",
     "bash/d2utmpa5OEGA",
@@ -259,7 +276,6 @@
     "bash/d2utmpqG4sml",
     "bash/d2utmpdzAR9F",
     "bash/d2utmpjrlxRB",
-    "bash/d2utmp8vre2w",
     "personaggi/giocanti/pet/thraal.md",
     "personaggi/giocanti/pet/ren.md",
     "personaggi/giocanti/pet/kanye-ovest.md",
