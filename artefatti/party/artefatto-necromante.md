@@ -553,65 +553,12 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-![[incantesimi/tutti/sciamediparassiti]]
+![[incantesimi/tutti/sciame-di-parassiti]]
 ![[incantesimi/tutti/falce-di-ade]]
 
-## Peste putrida
-*3° livello, necromanzia*
-
-- **Tempo di lancio:** 1 ora (si riduce a 1 minuto se lanciato durante il combattimento mentre i compagni ti coprono, non puoi fare altre azioni o azioni bonus in questo minuto)
-- **Gittata:** tocco
-- **Componenti:** V, S, M (una tazza di sangue, un uovo di parassita ed erbe del valore di 150gp, tutti vengono consumati dall'incantesimo)
-- **Durata:** Istantaneo
-
-Tocca il cadavere di una creatura di taglia grande o minore, dando vita a una miriade di parassiti e vermi che si nutrono del cadavere e che si accumulano nella sua cavità toracica. se il cadavere viene disturbato la suo cassa toracica si aprirà.
-Ogni creatura entro 3m dal cadavere deve avere successo su un tiro salvezza su destrezza o prendere 4d6 danni perforanti e venire infestato con un parassita. il parassita conta come una malattia e fa 2d6 danni da veleno ogni ora (se l'incantesimo viene lanciato con il tempo ridotto il tempo si riduce anche per questo effetto). Può essere rimosso da un'altra creatura con un'operazione della durata di 30 minuti, un attrezzo da taglio e una prova di Medicina (Destrezza) con CD 15. In caso di fallimento, la creatura subisce 2d6 danni taglienti.
-se l'ospite muore mentre è infetto, il suo cadavere può, dopo un ora (se l'incantesimo viene lanciato con il tempo ridotto il tempo si riduce anche per questo effetto) diffondere la malattia come se l'incantesimo fosse stato lanciato su questo cadavere. bruciare, disintegrare, o uccidere la creatura con danni radianti evita che il cadavere diventi contagioso.
-
-**Classi**: Mago
-[https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)
-
----
-## Lama d'Osso
-*trucchetto, trasmutazione*
-
-- **Tempo di lancio:** 1 azione bonus
-- **Gittata:** se stesso
-- **Componenti:** M (lo scheletro dell'incantatore o un esoscheletro)
-- **Durata:** fino a che ti serve
-
-Quando lanci questo incantesimo, ti spuntano degli artigli dalla punta delle dita o estendi una protuberanza simile a una spada corta dal polso. Puoi attaccare con queste armi come se fossero un'arma da mischia in cui sei competente.
-le armi fanno i seguenti danni:
-la spada corta: 1d8 + (FOR o DES, deve essere concorde a quella aggiunta al tiro per colpire)
-gli artigli: 1d6 + (FOR o DES, deve essere concorde a quella aggiunta al tiro per colpire), ogni mano è un'arma a se stante, ma se usi la tua azione di attacco per una delle mani puoi attaccare con l'altra come azione bonus.
-Se l'osso si rompe, svanisce.
-se l'arma cresce dal braccio scheletrico hai vantaggio per colpire.
-
-alternativamente puoi usare questo trucchetto per creare una qualsiasi arma d'osso dalla durata temporanea.
-se non sei tu a usare quest'arma ogni volta che viene usata l'utilizzatore farà un tiro salvezza su costituzione e, in caso di fallimento, l'arma si romperà.
-
-**Ai livelli superiori:** dal 5° livello l'arma diventa magica e ottieni +1 per colpire e per i danni, all'11° diventa +2 e al 17° +3.
-
-**Classi**:
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
-
----
-## Tocco del Vampiro Occultista
-*Trucchetto, Necromanzia*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** tocco
-- **Componenti:** V, S
-- **Durata:** Istantaneo
-
-Il tocco della mano dell'incantatore, avviluppata in una cortina d'ombra, può risucchiare l'energia vitale delle altre creature per curare le proprie ferite. L'incantatore effettua un attacco con incantesimo in mischia contro una creatura entro portata. Se colpisce, il bersaglio subisce 2d6 danni necrotici e l'incantatore recupera un ammontare di punti ferita pari alla metà dei danni necrotici inflitti.
-
-**Ai livelli superiori:** fa 4d6 al 5° livello, 6d6 all'11° livello e 8d6 al 17° livello.
-
-**Classi:** Warlock
-fatto da noi
-
----
+![[incantesimi/tutti/peste-putrida]]
+![[lama-dosso]]
+![[tutti/tocco-del-vampiro-occultista]]
 
 ## spine ossee
 *trucchetto, trasmutazione*
@@ -654,7 +601,7 @@ quando lanci questo incantesimo puoi percepire scheletri (sia di creature morte 
 quando vieni colpito da un incantesimo che puoi vedere o percepire in altro modo crei una protezione d'osso che copre il punto in cui arriverà il colpo che ti fa ottenere, per questo attacco, resistenza ai danni: contundenti, perforanti, e taglienti.
 puoi usare questo incantesimo solo una volta per round
 
-**Ai livelli superiori:** gli usi di questo incantesimo aumentano di 1 quando raggiungi il 5° (2 usi a round), l'11° (3 usi a round) e il 17° livello (4 usi a round)
+**Ai livelli superiori:** gli usi di questo incantesimo aumentano di 1 quando raggiungi il 5° (2 usi a round), l'11° (3 usi a round) e il 17° livello (4 usi a round), inoltre dopo che lanci 10 incantesimi ottieni anche la resistenza ai danni magici e dopo che ne lanci 10 di scuola necromanzia ottieni resistenza ai danni necrotici, al 11° livello queste resistenze diventano immunità
 
 **Classi:** Mago, Warlock
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells) (modificato)
@@ -706,25 +653,7 @@ Il pugnale d'osso che tieni in mano fa spuntare quattro copie di se stesso dalla
 [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
 
 ---
-## Animare Morti
-
-*3° livello, Necromanzia*
-
-- **Tempo di lancio:** 1 minuto
-- **Raggio d'azione:** 3 m
-- **Componenti:** V, S, M (una goccia di sangue, un brandello di carne, un pizzico di polvere d'osso)
-- **Durata:** Istantanea
-
-Questo incantesimo crea un servitore non morto, scegliendo un cadavere di umanoide Medio o Piccolo entro gittata. Il suo incantesimo infonde nel bersaglio un'empia parvenza di vita, animandolo come creatura non morta. Il bersaglio diventa uno [scheletro](https://dungeonsanddragons.fandom.com/it/wiki/Scheletro "Scheletro") se l'incantatore ha scelto le ossa o uno [zombi](https://dungeonsanddragons.fandom.com/it/wiki/Zombi "Zombi") se ha scelto un cadavere. (Il GM possiede le statistiche di gioco di queste creature).  
-A ogni suo turno l'incantatore può usare un'azione bonus per comandare mentalmente qualsiasi creatura da lui creata tramite questo incantesimo e situata entro 18 metri da lui (se controlla più creature, può comandarle tutte o nessuna allo stesso tempo, impartendo lo stesso comando a ogni creatura). L'incantatore decide quale azione effettuerà la creatura e dove si muoverà durante il suo turno successivo, oppure può impartire un comando generale, come per esempio vigilare su una camera o un corridoio in particolare. Se l'incantatore non impartisce alcun comando, la creatura si limita a difendersi dalle creature ostili. Una volta ricevuto un ordine, la creatura continua a seguirlo finché non ha portato a termine il compito.  
-La creatura rimane sotto il controllo dell'incantatore per 24 ore, dopodiché smette di obbedire ai comandi che l'incantatore le ha impartito. Per mantenere il controllo della creatura per altre 24 ore, l'incantatore deve lanciare di nuovo questo incantesimo su di essa prima che l'attuate periodo di 24 ore termini. Questo uso dell'incantesimo gli permette di ristabilire il controllo su un massimo di quattro creature da lui animate tramite questo incantesimo, anziché animarne una nuova.
-
-**Ai livelli superiori:** Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 4° livello o superiore, anima o ristabilisce il controllo su due creature non morte aggiuntive per ogni slot di livello superiore al 3°. Ognuna di queste creature deve provenire da un cumulo di ossa o da un cadavere diverso.
-
-**Classi:** Mago, Chierico, Warlock
-[https://dungeonsanddragons.fandom.com/it/wiki/Animare_Morti](https://dungeonsanddragons.fandom.com/it/wiki/Animare_Morti)
-
----
+![[incantesimi/tutti/animare-morti]]
 ## esplosione cadaverica
 *2° livello, Necromanzia*
 

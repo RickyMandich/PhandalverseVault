@@ -27,6 +27,17 @@
 				}
 			}
 		},
+		"data": {
+			"original": "Data",
+			"files": {},
+			"directories": {
+				"incantesimi": {
+					"original": "Incantesimi",
+					"files": {},
+					"directories": {}
+				}
+			}
+		},
 		"definizioni": {
 			"original": "definizioni",
 			"files": {
@@ -108,24 +119,32 @@
 				"artefice": {
 					"original": "Artefice",
 					"files": {
-						"dardoincantato.md": "Dardo Incantato",
+						"dardo-incantato.md": "Dardo Incantato",
 						"frantumare.md": "Frantumare",
 						"fulmine.md": "Fulmine",
-						"immaginespeculare.md": "Immagine Speculare",
-						"invisibilitasuperiore.md": "Invisibilita Superiore",
-						"murodiforza.md": "Muro di Forza",
-						"ondatonante.md": "Onda Tonante",
+						"immagine-speculare.md": "Immagine Speculare",
+						"invisibilita-superiore.md": "Invisibilita Superiore",
+						"muro-di-forza.md": "Muro Di Forza",
+						"onda-tonante.md": "Onda Tonante",
 						"passapareti.md": "Passapareti",
-						"scudodifuoco.md": "Scudo di Fuoco",
-						"tramaipnotica.md": "Trama Ipnotica"
+						"scudo-di-fuoco.md": "Scudo Di Fuoco",
+						"trama-ipnotica.md": "Trama Ipnotica"
 					},
 					"directories": {}
 				},
 				"necromante": {
 					"original": "Necromante",
 					"files": {
+						"animare-morti.md": "Animare Morti",
+						"barriera-ossea.md": "Barriera Ossea",
+						"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 						"falce-di-ade.md": "Falce di Ade",
-						"sciamediparassiti.md": "Sciame di Parassiti"
+						"lama-d'osso.md": "Lama D'osso",
+						"peste-putrida.md": "Peste Putrida",
+						"radar-osseo.md": "Radar Osseo",
+						"sciame-di-parassiti.md": "Sciame Di Parassiti",
+						"spine-ossee.md": "Spine Ossee",
+						"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista"
 					},
 					"directories": {}
 				},
@@ -133,29 +152,35 @@
 					"original": "Tutti",
 					"files": {
 						"animare-morti.md": "Animare Morti",
-						"corpseexplosion.md": "Esplosione Cadaverica",
-						"dardoincantato.md": "Dardo Incantato",
-						"evocapioggiadiarmi.md": "Evoca Pioggia di Armi",
+						"barriera-ossea.md": "Barriera Ossea",
+						"corpse-explosion.md": "Corpse Explosion",
+						"dardo-incantato.md": "Dardo Incantato",
+						"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
+						"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
 						"falce-di-ade.md": "Falce di Ade",
-						"folatadivento.md": "Folata di Vento",
+						"folata-di-vento.md": "Folata Di Vento",
 						"frantumare.md": "Frantumare",
 						"fulmine.md": "Fulmine",
-						"illusioneminore.md": "Illusione Minore",
-						"immaginespeculare.md": "Immagine Speculare",
-						"invisibilitasuperiore.md": "Invisibilita Superiore",
-						"murodiforza.md": "Muro di Forza",
-						"ondatonante.md": "Onda Tonante",
+						"illusione-minore.md": "Illusione Minore",
+						"immagine-speculare.md": "Immagine Speculare",
+						"invisibilita-superiore.md": "Invisibilita Superiore",
+						"lama-d'osso.md": "Lama D'osso",
+						"muro-di-forza.md": "Muro Di Forza",
+						"onda-tonante.md": "Onda Tonante",
 						"oscurita.md": "Oscurita",
 						"passapareti.md": "Passapareti",
-						"passaresenzatracce.md": "Passare Senza Tracce",
-						"sciamediparassiti.md": "Sciame di Parassiti",
-						"scudodifuoco.md": "Scudo di Fuoco",
+						"passare-senza-tracce.md": "Passare Senza Tracce",
+						"peste-putrida.md": "Peste Putrida",
+						"radar-osseo.md": "Radar Osseo",
+						"sciame-di-parassiti.md": "Sciame Di Parassiti",
+						"scudo-di-fuoco.md": "Scudo Di Fuoco",
 						"scurovisione.md": "Scurovisione",
 						"silenzio.md": "Silenzio",
-						"tempestadighiaccio.md": "Tempesta di Ghiaccio",
-						"tempestadinevischio.md": "Tempesta di Nevischio",
-						"toccodelvampirooccultista.md": "Tocco del Vampiro Occultista",
-						"tramaipnotica.md": "Trama Ipnotica"
+						"spine-ossee.md": "Spine Ossee",
+						"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
+						"tempesta-di-nevischio.md": "Tempesta Di Nevischio",
+						"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
+						"trama-ipnotica.md": "Trama Ipnotica"
 					},
 					"directories": {}
 				}
