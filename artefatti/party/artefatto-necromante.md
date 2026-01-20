@@ -557,72 +557,13 @@ tabella esplicativa:
 ![[incantesimi/tutti/falce-di-ade]]
 
 ![[incantesimi/tutti/peste-putrida]]
-![[tutti/lama-dosso]]
-![[tutti/tocco-del-vampiro-occultista]]
+![[incantesimi/tutti/lama-dosso]]
+![[incantesimi/tutti/tocco-del-vampiro-occultista]]
 ![[incantesimi/tutti/spine-ossee]]
-## radar osseo
-*1° livello, Divinazione*
-
-- **Tempo di lancio:** 1 azione
-- **Gittata:** se stesso (9m)
-- **Componenti:** V, M (un piccolo frammento di ossa)
-- **Durata:** 1 minuto
-
-quando lanci questo incantesimo puoi percepire scheletri (sia di creature morte che di creature vive, anche costrutti a patto che siano fatti di ossa) e oggetti fatti di ossa entro 9m. conosci distanza e direzione da tutto ciò che trovi ma non puoi distinguere i dettagli, ad esempio di una creatura umanoide non potrai capire la razza e nemmeno, se si tratta di una creatura, che azione stia facendo.
-
-**Classi**: Mago, Stregone
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
-
----
-## esoscheletro transitorio
-*trucchetto, Trasmutazione*
-
-- **Tempo di lancio:** 1 reazione
-- **Raggio d'azione:** se stesso
-- **Componenti:** V
-- **Durata:** Istantaneo
-
-quando vieni colpito da un incantesimo che puoi vedere o percepire in altro modo crei una protezione d'osso che copre il punto in cui arriverà il colpo che ti fa ottenere, per questo attacco, resistenza ai danni: contundenti, perforanti, e taglienti.
-puoi usare questo incantesimo solo una volta per round
-
-**Ai livelli superiori:** gli usi di questo incantesimo aumentano di 1 quando raggiungi il 5° (2 usi a round), l'11° (3 usi a round) e il 17° livello (4 usi a round), inoltre dopo che lanci 10 incantesimi ottieni anche la resistenza ai danni magici e dopo che ne lanci 10 di scuola necromanzia ottieni resistenza ai danni necrotici, al 11° livello queste resistenze diventano immunità
-
-**Classi:** Mago, Warlock
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells) (modificato)
-
----
-## barriera ossea
-*2° livello, Trasmutazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** se stesso
-- **Componenti:** V, S
-- **Durata:** 1 ora
-
-quando lanci questo incantesimo dal tuo radio e ulna crescono delle protuberanza simili a costole che rapidamente si diffondono e si fondono in uno scudo di dimensioni normali, facendoti ottenere +2 di CA come se stessi tenendo uno scudo, finchè è attivo lo scudo non puoi usare armi a due mani ma puoi usare la mano dello scudo per fare gesti come componenti di un incantesimo. nella mano puoi tenere oggetti a meno che non ingombrino la manovrabilità dello scudo.
-
-**Ai livelli superiori:** quando lanciato con uno slot di livello 4 o superiore il bonus di CA aumenta di 1 per ogni 2 livelli superiori al 2
-
-**Classi:** Mago, Warlock
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
-
----
-## ricrescita scheletrica
-*3° livello, Trasmutazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 18m
-- **Componenti:** V, S, M (una falange)
-- **Durata:** Istantaneo
-
-scegli fino a 3 creature provviste di scheletro all'interno di un cubo con lo spigolo di 6m. le loro ossa tremano e crescono in protuberanze casuali all'interno del loro corpo causando un dolore paralizzante e ferite. i bersagli di questo incantesimo subiscono 4d6 danni taglienti e sono trattenuti. un successo su un tiro salvezza su costituzione riduce i danni della metà e annulla la condizione trattenuto. una creatura trattenuta potrà riprovare il tiro salvezza alla fine di ogni suo turno per liberarsi della condizione trattenuto.
-
-**Ai livelli superiori:** lanciare questo incantesimo con uno slot di livello 4 o superiore aumenterà il numero di persagli o i danni: per ogni livello sopra al terzo scegli se aumentare di 1 i bersagli o di aggiungere 1d6 di danni
-
-**Classi:** Mago
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells) (modificato)
-
----
+![[incantesimi/tutti/radar-osseo]]
+![[incantesimi/tutti/esoscheletro-transitorio]]
+![[incantesimi/tutti/barriera-ossea]]
+![[incantesimi/tutti/ricrescita-scheletrica]]
 ## pioggia di frammenti
 *4° livello, Evocazione*
 
