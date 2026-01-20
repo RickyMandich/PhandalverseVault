@@ -126,6 +126,22 @@ increment_version() {
 # Incrementa la versione prima di fare commit e deploy
 increment_version
 
+# Aggiorna map.json con i nuovi file (modalità non interattiva)
+echo ""
+echo "=========================================="
+echo "Aggiornamento map.json..."
+echo "=========================================="
+cd "$PROJECT_DIR" || exit 1
+bash "$SCRIPT_DIR/normalize.sh"
+
+if [ $? -ne 0 ]; then
+    echo "Errore durante l'aggiornamento di map.json"
+    exit 1
+fi
+
+echo "map.json aggiornato con successo"
+echo ""
+
 # Esegui gli script usando il percorso completo
 # Passa il messaggio personalizzato a cmt.sh se presente
 if [ -n "$COMMIT_MESSAGE" ]; then

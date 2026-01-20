@@ -1,7 +1,7 @@
 {
 	"original": "ROOT",
 	"files": {
-		"readme.md": "README",
+		"README.md": "README",
 		"todo.md": "todo"
 	},
 	"directories": {
@@ -17,11 +17,11 @@
 				"party": {
 					"original": "party",
 					"files": {
-						"artefatto-necromante.md": "Occhio di Atos",
 						"artefatto-artefice.md": "Tól Niðavalla",
+						"artefatto-barbaro-divino.md": "Netjerheka",
 						"artefatto-dellombra.md": "Myrkvaðinn",
-						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos",
-						"artefatto-barbaro-divino.md": "Netjerheka"
+						"artefatto-necromante.md": "Occhio di Atos",
+						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos"
 					},
 					"directories": {}
 				}
@@ -50,26 +50,17 @@
 			"directories": {
 				"dungeon-scrawl": {
 					"original": "dungeon scrawl",
-					"files": {
-						"dungeon-con-fossato-1.ds": "dungeon con fossato 1",
-						"profondo-blu-dungeon-finale.ds": "profondo blu dungeon finale"
-					},
+					"files": {},
 					"directories": {}
 				},
 				"immagini": {
 					"original": "immagini",
-					"files": {
-						"arena-allaperto.jpg": "arena all'aperto",
-						"dungeon-con-fossato-1.png": "dungeon con fossato 1",
-						"profondo-blu-dungeon-finale.png": "profondo blu dungeon finale"
-					},
+					"files": {},
 					"directories": {}
 				},
 				"incontri-5e-tools-encounter-builder": {
 					"original": "incontri 5e tools encounter builder",
-					"files": {
-						"dungeon-goblin-boss-e-minion.json": "dungeon goblin boss e minion"
-					},
+					"files": {},
 					"directories": {}
 				}
 			}
@@ -81,6 +72,7 @@
 				"demoni": {
 					"original": "demoni",
 					"files": {
+						"anubius.md": "Anubius",
 						"asmodeus.md": "Asmodeus"
 					},
 					"directories": {}
@@ -204,8 +196,8 @@
 				"gruppi": {
 					"original": "gruppi",
 					"files": {
-						"la-mano-rossa.md": "la Mano Rossa",
-						"i-purgatori.md": "I Purgatori"
+						"i-purgatori.md": "I Purgatori",
+						"la-mano-rossa.md": "la Mano Rossa"
 					},
 					"directories": {}
 				},
@@ -238,8 +230,7 @@
 							"original": "gemgrave",
 							"files": {
 								"kaia.md": "Kaia",
-								"perrin-cauthon.md": "Perrin Cauthon",
-								"perrin.jpg": "Perrin"
+								"perrin-cauthon.md": "Perrin Cauthon"
 							},
 							"directories": {}
 						},
@@ -279,19 +270,19 @@
 			"original": "saghe",
 			"files": {
 				"macrosaga-della-chiave.md": "Macrosaga della Chiave",
-				"saga-di-gemgrave.md": "Saga di Gemgrave",
-				"saga-della-magione.md": "Saga della Magione",
-				"saga-di-merfolk.md": "Saga di Merfolk",
 				"saga-della-biblioteca.md": "Saga della Biblioteca",
-				"saga-di-capodanno-1312.md": "Saga di Capodanno 1312"
+				"saga-della-magione.md": "Saga della Magione",
+				"saga-di-capodanno-1312.md": "Saga di Capodanno 1312",
+				"saga-di-gemgrave.md": "Saga di Gemgrave",
+				"saga-di-merfolk.md": "Saga di Merfolk"
 			},
 			"directories": {
 				"moduli-non-usati": {
 					"original": "Moduli non usati",
 					"files": {
-						"capodanno1.md": "Capodanno 1",
+						"capodanno1-boss.md": "Capodanno 1 – Boss",
 						"capodanno1-minion.md": "Capodanno 1 – Minion",
-						"capodanno1-boss.md": "Capodanno 1 – Boss"
+						"capodanno1.md": "Capodanno 1"
 					},
 					"directories": {}
 				},
@@ -342,7 +333,6 @@
 					"files": {
 						"atlantide.md": "Atlantide",
 						"fossa-delle-marie.md": "fossa delle Marie",
-						"phandalmain.jpg": "Phandalmain",
 						"phandalmain.md": "Phandalmain",
 						"sacra-biblioteca-perduta-salvata-di-atlantide.md": "Sacra Biblioteca Perduta e Salvata di Atlantide"
 					},
@@ -369,8 +359,6 @@
 									"original": "suddaria",
 									"files": {
 										"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello abbandonato sul dirupo vicino la città",
-										"castello-abbandonato-sul-dirupo-vicino-la-citta.png": "castello abbandonato sul dirupo vicino la città",
-										"castello-abbandonato-sul-dirupo-vicino-la-citta.xcf": "castello abbandonato sul dirupo vicino la città",
 										"suddaria.md": "Suddaria"
 									},
 									"directories": {}
