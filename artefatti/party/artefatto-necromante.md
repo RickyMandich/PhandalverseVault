@@ -555,7 +555,6 @@ tabella esplicativa:
 
 ![[incantesimi/tutti/sciame-di-parassiti]]
 ![[incantesimi/tutti/falce-di-ade]]
-
 ![[incantesimi/tutti/peste-putrida]]
 ![[incantesimi/tutti/lama-dosso]]
 ![[incantesimi/tutti/tocco-del-vampiro-occultista]]
@@ -564,38 +563,9 @@ tabella esplicativa:
 ![[incantesimi/tutti/esoscheletro-transitorio]]
 ![[incantesimi/tutti/barriera-ossea]]
 ![[incantesimi/tutti/ricrescita-scheletrica]]
-## pioggia di frammenti
-*4° livello, Evocazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 18m
-- **Componenti:** V, S, M (un pugnale d'ossa).
-- **Durata:** Istantaneo
-
-Il pugnale d'osso che tieni in mano fa spuntare quattro copie di se stesso dalla lama, che poi ne fanno spuntare altrettante finché non ne stringi momentaneamente un centinaio, uniti tra loro da sottili aste d'osso. Poi si scagliano contro i tuoi nemici tutti insieme, infliggendo 8d6 danni perforanti in un cono di 13,5 m o in una linea di 18 x 3 m. Un tiro salvezza su Destrezza riuscito dimezza i danni.
-
-**Classi:**   Mago, Warlock
-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)
-
----
+![[incantesimi/tutti/pioggia-di-frammenti]]
 ![[incantesimi/tutti/animare-morti]]
-## esplosione cadaverica
-*2° livello, Necromanzia*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 18m
-- **Componenti:** S
-- **Durata:** Istantaneo
-
-Come schiocchi le dita una creatura morta entro gittata esplode con energia necrotica. ogni creatura in una sfera con un raggio di 4.5m con centro sulla creatura bersaglio deve fare un tiro salvezza su destrezza. subisce 2d8 danni necrotici se fallisce e la metà se ha successo. se riduci una creatura a 0 HP con questo incantesimo la creatura esplode ripetendo lo stesso effetto di questo incantesimo. se una creatura non morta è vittima di questo incantesimo o della sua esplosione deve avere successo su un tiro salvezza su costituzione o esplodere ripetendo lo stesso effetto di questo incantesimo un numero di volte pari a metà del suo grado sfida (minimo 1)
-se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggiorata di 5 su di un bersagio che non controlli o con la cd normale su di un bersagio che controlli per convincerlo ad andare dove vuoi e farti usare questo incantesimo su di lui, continuano a valere le regole del privilegio (in caso di dubbi o incertezze il tutto è a discrezione del DM seguendo la rule of coolness)
-
-**Ai livelli superiori:** quando lanci questo incantesimo usando uno slot incantesimo di livello 3 o superiore il danno aumenta di 1d8 per ogni slot sopra al secondo e la sfera dell'esplosione può avere un diametro variabile: va da un minimo di 4.5 metri a un massimo di 4.5 m + 0.5m * livello dello slot sopra al 2
-
-**Classi:** Chierico, Stregone, Warlock, Mago
-[https://www.dandwiki.com/wiki/Corpse_Explosion_(5e_Spell)](https://www.dandwiki.com/wiki/Corpse_Explosion_(5e_Spell))
-
----
+![[incantesimi/tutti/esplosione-cadaverica]]
 ## lista necromante
 inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)
 se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM

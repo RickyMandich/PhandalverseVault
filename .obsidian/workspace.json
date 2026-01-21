@@ -30,13 +30,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://phandalverse.altervista.org/vault",
-                "title": "Vault",
+                "url": "http://phandalverse.altervista.org/vault/artefatti/party/artefatto-necromante.md",
+                "title": "Occhio di Atos",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Vault"
+              "title": "Occhio di Atos"
             }
           },
           {
@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,31 +277,32 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "4a0168f4c436222b",
+  "active": "051799c036fb5488",
   "lastOpenFiles": [
-    "bash/d2utmppW6gOw",
-    "bash/d2utmpEjdXV1",
-    "bash/d2utmpqeBu8T",
-    "bash/d2utmp7o5JYC",
-    "bash/d2utmpT4RAF5",
-    "bash/d2utmpWzPI5Y",
-    "bash/d2utmpgkV6Jr",
+    "artefatti/party/artefatto-necromante.md",
+    "bash/d2utmpyWVChI",
+    "bash/d2utmpoC4aZY",
+    "bash/d2utmpk9CGxw",
+    "bash/d2utmpIypQse",
+    "bash/d2utmpka4Vi3",
+    "bash/d2utmpghlsv3",
+    "bash/d2utmpl6EP5s",
+    "bash/d2utmpXcYSPD",
+    "incantesimi/necromante/esplosione-cadaverica.md",
+    "incantesimi/tutti/esplosione-cadaverica.md",
+    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/necromante",
+    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/tutti",
+    "incantesimi/tutti/ricrescita-scheletrica.md",
     "incantesimi/tutti/test.md",
     "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/tutti/test.md",
-    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/tutti",
-    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi",
-    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault",
-    "C/Users/RickyMandich/PROJECT/Phandalverse",
     "incantesimi/necromante/ricresita-scheletrica.md",
     "incantesimi/necromante/pioggia-di-frammenti.md",
-    "incantesimi/tutti/ricresita-scheletrica.md",
     "incantesimi/tutti/pioggia-di-frammenti.md",
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/necromante/pioggia-di-frammenti.md",
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/tutti/pioggia-di-frammenti.md",
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/necromante/ricresita-scheletrica.md",
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/tutti/ricresita-scheletrica.md",
     "incantesimi/tutti/lama-dosso.md",
-    "artefatti/party/artefatto-necromante.md",
     "incantesimi/tutti/radar-osseo.md",
     "incantesimi/tutti/esoscheletro-transitorio.md",
     "incantesimi/tutti/barriera-ossea.md",
@@ -313,8 +314,6 @@
     "data/incantesimi/necromante/radar-osseo.md",
     "data/incantesimi/necromante/barriera-ossea.md",
     "data/incantesimi/barriera-ossea.md",
-    "data/incantesimi/tutti/barriera-ossea.md",
-    "data/incantesimi/necromante/esoscheletro-transitorio.md",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",
     "artefatti/party/occhio-di-atos.jpeg",

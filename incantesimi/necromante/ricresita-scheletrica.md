@@ -1,1 +1,1 @@
-![[tutti/ricresita-scheletrica]]
+![[ricrescita-scheletrica]]

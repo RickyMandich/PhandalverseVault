@@ -1,0 +1,1 @@
+![[tutti/esplosione-cadaverica]]
