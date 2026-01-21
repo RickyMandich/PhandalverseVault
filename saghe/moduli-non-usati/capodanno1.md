@@ -43,7 +43,7 @@ _Le luci della festa si spengono improvvisamente. Le creature dell'Anno Vecchio 
 
 _Roshi consegna gli artefatti al party, spiegando che sono pericolosi ma indispensabili per affrontare il Cuore dell'Anno Vecchio._
 
-#### Artefatti disponibili (da [`artefatti/party`](phandalverse.altervista.org/vault/artefatti/party))
+#### Artefatti disponibili (da [`artefatti/party`](https://phandalverse.altervista.org/vault/artefatti/party))
 - [[artefatti/party/artefatto-artefice.md]] – Set di strumenti da artefice, fornisce competenza in armature pesanti e slot incantesimo aggiuntivi (per [[vargas-paladino-nano-65]]).
 - [[artefatti/party/artefatto-barbaro-divino.md]] – Potenzia i danni da barbaro e aggiunge resistenze (per [[morbiarum-paladino-dragonide-24]]).
 - [[artefatti/party/artefatto-dellombra.md]] – Concede invisibilità temporanea e bonus alle prove di furtività (per [[dontavious-ladro-mezzelfo-25]]).
