@@ -1,0 +1,46 @@
+2026-01-21 15:58:26 Starting map.json update process (Read-Only Filesystem Mode)...
+2026-01-21 15:58:26 Loaded existing map.json
+2026-01-21 15:58:26 First pass: Scanning filesystem...
+2026-01-21 15:58:28 New file found: 'illusione-minore.md' -> 'Illusione Minore'
+2026-01-21 15:58:28 New file found: 'oscurita.md' -> 'Oscurita'
+2026-01-21 15:58:28 New file found: 'passare-senza-tracce.md' -> 'Passare Senza Tracce'
+2026-01-21 15:58:28 New file found: 'scurovisione.md' -> 'Scurovisione'
+2026-01-21 15:58:28 New file found: 'silenzio.md' -> 'Silenzio'
+2026-01-21 15:58:28 New directory found: 'dellombra' -> 'Dellombra'
+2026-01-21 15:58:28 New file found: 'evoca-pioggia-di-armi.md' -> 'Evoca Pioggia Di Armi'
+2026-01-21 15:58:28 New file found: 'folata-di-vento.md' -> 'Folata Di Vento'
+2026-01-21 15:58:28 New file found: 'silenzio.md' -> 'Silenzio'
+2026-01-21 15:58:28 New file found: 'tempesta-di-ghiaccio.md' -> 'Tempesta Di Ghiaccio'
+2026-01-21 15:58:28 New file found: 'tempesta-di-nevischio.md' -> 'Tempesta Di Nevischio'
+2026-01-21 15:58:28 New directory found: 'sussurratore-del-gelo' -> 'Sussurratore Del Gelo'
+2026-01-21 15:58:31 Found 10 new file(s) and 2 new directory(ies)
+2026-01-21 15:58:31 Opening editor for customization...
+2026-01-21 15:59:18 Custom name set: 'incantesimi/sussurratore-del-gelo/tempesta-di-nevischio.md' -> 'Tempesta di Nevischio'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/dellombra/illusione-minore.md' -> 'Illusione Minore'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/sussurratore-del-gelo/silenzio.md' -> 'Silenzio'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/sussurratore-del-gelo/folata-di-vento.md' -> 'Folata di Vento'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/dellombra/passare-senza-tracce.md' -> 'Passare Senza Tracce'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/dellombra/scurovisione.md' -> 'Scurovisione'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/sussurratore-del-gelo/evoca-pioggia-di-armi.md' -> 'Evoca Pioggia di Armi'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/dellombra/silenzio.md' -> 'Silenzio'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/dellombra/oscurita.md' -> 'Oscurita'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/sussurratore-del-gelo/tempesta-di-ghiaccio.md' -> 'Tempesta di Ghiaccio'
+2026-01-21 15:59:18 Custom name set: 'incantesimi/sussurratore-del-gelo' -> 'Sussurratore Del Gelo'
+xargs: unmatched single quote; by default quotes are special to xargs unless you use the -0 option
+2026-01-21 15:59:18 Custom name set: 'incantesimi/dellombra' -> ''
+2026-01-21 15:59:18 Applying customized names...
+2026-01-21 15:59:19 Second pass: Rebuilding map with custom names...
+2026-01-21 15:59:21 Using custom name for 'illusione-minore.md': 'Illusione Minore'
+2026-01-21 15:59:21 Using custom name for 'oscurita.md': 'Oscurita'
+2026-01-21 15:59:21 Using custom name for 'passare-senza-tracce.md': 'Passare Senza Tracce'
+2026-01-21 15:59:21 Using custom name for 'scurovisione.md': 'Scurovisione'
+2026-01-21 15:59:21 Using custom name for 'silenzio.md': 'Silenzio'
+2026-01-21 15:59:21 New directory found: 'dellombra' -> 'Dellombra'
+2026-01-21 15:59:21 Using custom name for 'evoca-pioggia-di-armi.md': 'Evoca Pioggia di Armi'
+2026-01-21 15:59:21 Using custom name for 'folata-di-vento.md': 'Folata di Vento'
+2026-01-21 15:59:21 Using custom name for 'silenzio.md': 'Silenzio'
+2026-01-21 15:59:21 Using custom name for 'tempesta-di-ghiaccio.md': 'Tempesta di Ghiaccio'
+2026-01-21 15:59:21 Using custom name for 'tempesta-di-nevischio.md': 'Tempesta di Nevischio'
+2026-01-21 15:59:21 Using custom name for directory 'sussurratore-del-gelo': 'Sussurratore Del Gelo'
+2026-01-21 15:59:24 Map updated at /mnt/c/Users/RickyMandich/PROJECT/Phandalverse/phandalverseVault/.normalize/map.json
+2026-01-21 15:59:24 Map update complete. No files were renamed.

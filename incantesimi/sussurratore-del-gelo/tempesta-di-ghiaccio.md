@@ -1,0 +1,1 @@
+![[incantesimi/tutti/tempesta-di-ghiaccio]]

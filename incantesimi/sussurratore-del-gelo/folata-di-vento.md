@@ -1,0 +1,1 @@
+![[incantesimi/tutti/folata-di-vento]]

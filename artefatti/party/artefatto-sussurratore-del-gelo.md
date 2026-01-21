@@ -272,87 +272,11 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-## Folata di Vento
-*2° livello, Invocazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** Incantatore (linea di 18 metri)
-- **Componenti:** V, S, M (il seme di un legume)
-- **Durata:** Concentrazione, fino a 1 minuto
-
-Una linea di vento forte lunga 18 metri e larga 3 metri si diffonde dall'incantatore in una direzione a sua scelta per la durata dell'incantesimo. Ogni creatura che inizia il suo turno su quella linea deve superare un tiro salvezza su Forza, altrimenti sarà spinta di 4,5 metri più lontana dall'incantatore, nella stessa direzione della linea.
-Ogni creatura sulla linea deve spendere 60 cm di movimento per ogni 30 cm di cui si muove quando cerca di avvicinarsi all'incantatore.
-La folata disperde i gas e i vapori ed estingue candele, torce e simili fiamme prive di protezione nell'area. Fa tremolare le fiamme protette come quelle delle lanterne e ha una probabilità del 50% di spegnerle.
-Con un'azione bonus in ogni suo turno prima che l'incantesimo termini, l'incantatore può cambiare la direzione in cui la linea si diffonde da sé.
-
-**Ai livelli superiori:** quando viene lanciato con uno slot di 3 livello o superiore ottiene 0.5m in più di spinta, 5% di possibilità in più di spegnere fiamme protette e 5 cm in meno di movimento effettivo per le creature che cercano di avvicinarsi all'incantatore lungo questa linea per ogni livello sopra al 2°
-
-**Classi:** Druido, Stregone, Mago, Ranger
-https://dungeonsanddragons.fandom.com/it/wiki/Folata_di_Vento
-
----
-## Silenzio
-*2° livello, Illusione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 36 metri
-- **Componenti:** V, S
-- **Durata:** Concentrazione, fino a 10 minuti
-
-L'incantatore genera una sfera del raggio di 6 metri centrata su un punto a sua scelta situato entro gittata. Per la durata dell'incantesimo, nessun suono può essere creato all'interno di quella sfera o attraversarla. Ogni creatura o oggetto interamente all'interno della sfera è immune ai danni da tuono e ogni creatura interamente all'interno della sfera è assordata. All'interno dell'area è impossibile lanciare un incantesimo che includa una componente verbale.
-
-**Classi:** Bardo, Chierico, Ranger
-https://dungeonsanddragons.fandom.com/it/wiki/Silenzio
-
----
-## Tempesta di nevischio
-*3° livello, Evocazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 45m
-- **Componenti:** V, S, M (un pizzico di polvere e alcune gocce d'acqua)
-- **Durata:** Concentrazione, fino a 1 minuto
-
-Finché l'incantesimo non termina, una gelida pioggia di nevischio cade in un cilindro del raggio di 12 metri e alto 6 metri, centrato su un punto a scelta dell'incantatore e situato entro gittata. L'area è pesantemente oscurata e le fiamme scoperte vengono estinte.
-Il terreno entro l'area è coperto di ghiaccio scivoloso e diventa terreno difficile. Quando una creatura entra nell'area dell'incantesimo per la prima volta in un turno o vi inizia il proprio turno, deve effettuare un tiro salvezza su Destrezza. Se lo fallisce, cade a terra prona.
-Se una creatura inizia il proprio turno nell'area dell'incantesimo e cerca di concentrarsi su un incantesimo,, deve superare un tiro salvezza su Costituzione contro la CD del tiro salvezza dell'incantesimo lanciato dall'incantatore, altrimenti perderà la concentrazione.
-
-**Classi:** Druido, Stregone, Mago
-https://dungeonsanddragons.fandom.com/it/wiki/Tempesta_di_Nevischio
-
----
-## Tempesta di ghiaccio
-*4° livello, Invocazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 90m
-- **Componenti:** V, S, M (un pizzico di polvere e alcune gocce d'acqua)
-- **Durata:** Istantanea
-
-Chicchi di grandine duri quanto pietre piovono sul terreno all'interno di un cilindro del raggio di 6 metri e alto 12 metri centrato su un punto entro gittata. Ogni creatura entro il cilindro deve effettuare un tiro salvezza su Destrezza. Se lo fallisce, subisce 2d8 danni contundenti e 4d6 danni da freddo, mentre se lo supera, subisce soltanto la metà di quei danni.
-La grandine trasforma l'area di effetto della tempesta in terreno difficile fino alla fine del turno successivo dell'incantatore.
-
-**Ai livelli superiori:** Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 5° livello o superiore, i danni contundenti aumentano di 1d8 per ogni slot di livello superiore al 4°.
-
-**Classi:** Druido, Stregone, Mago
-https://dungeonsanddragons.fandom.com/it/wiki/Tempesta_di_Ghiaccio
-
----
-## Evoca Pioggia di Armi
-*5° livello, Evocazione*
-
-- **Tempo di lancio:** 1 azione
-- **Raggio d'azione:** 45m
-- **Componenti:** V, S, M (un qualsiasi proiettile o arma da lancio)
-- **Durata:** Istantanea
-
-L'incantatore lancia in aria un proiettile non-magico da un'arma a distanza o un'arma da lancio non-magica e sceglie uno spazio entro gittata. Centinaia di copie del proiettile o dell'arma cadono come pioggia dall'alto per poi scomparire.
-Ogni creatura all'interno di un cilindro con raggio di 12 metri e alto 6 metri centrato su quello spazio deve effettuare un tiro salvezza Destrezza. Se lo fallisce, una creatura subisce 8d8 danni mentre se lo supera subisce solo la metà di quei danni. Il tipo di danno è lo stesso di quello dell'arma o proiettile utilizzato come componente.
-
-**Classi:** Ranger
-https://dungeonsanddragons.fandom.com/it/wiki/Evoca_Pioggia_di_Armi
-
----
+![[incantesimi/tutti/folata-di-vento]]
+![[incantesimi/tutti/silenzio]]
+![[tempesta-di-nevischio]]
+![[incantesimi/tutti/tempesta-di-ghiaccio]]
+![[incantesimi/tutti/evoca-pioggia-di-armi]]
 ## lista ranger
 inoltre disponi di tutti gli incantesimi presenti nella lista del [ranger](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)
 se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM

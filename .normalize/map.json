@@ -121,6 +121,17 @@
 					},
 					"directories": {}
 				},
+				"dellombra": {
+					"original": "Dellombra",
+					"files": {
+						"illusione-minore.md": "Illusione Minore",
+						"oscurita.md": "Oscurita",
+						"passare-senza-tracce.md": "Passare Senza Tracce",
+						"scurovisione.md": "Scurovisione",
+						"silenzio.md": "Silenzio"
+					},
+					"directories": {}
+				},
 				"necromante": {
 					"original": "Necromante",
 					"files": {
@@ -137,6 +148,17 @@
 						"sciame-di-parassiti.md": "Sciame Di Parassiti",
 						"spine-ossee.md": "Spine Ossee",
 						"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista"
+					},
+					"directories": {}
+				},
+				"sussurratore-del-gelo": {
+					"original": "Sussurratore Del Gelo",
+					"files": {
+						"evoca-pioggia-di-armi.md": "Evoca Pioggia di Armi",
+						"folata-di-vento.md": "Folata di Vento",
+						"silenzio.md": "Silenzio",
+						"tempesta-di-ghiaccio.md": "Tempesta di Ghiaccio",
+						"tempesta-di-nevischio.md": "Tempesta di Nevischio"
 					},
 					"directories": {}
 				},
