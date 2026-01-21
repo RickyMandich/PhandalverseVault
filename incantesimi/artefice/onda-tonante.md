@@ -1,1 +1,1 @@
-![[incantesimi/tutti/ondatonante]]
+![[incantesimi/tutti/onda-tonante]]

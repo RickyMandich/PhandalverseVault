@@ -1,1 +1,0 @@
-![[ricrescita-scheletrica]]

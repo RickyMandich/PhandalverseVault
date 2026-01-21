@@ -1,1 +1,1 @@
-![[incantesimi/tutti/scudodifuoco]]
+![[incantesimi/tutti/scudo-di-fuoco]]

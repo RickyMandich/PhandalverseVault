@@ -1,1 +1,1 @@
-![[incantesimi/tutti/invisibilitasuperiore]]
+![[incantesimi/tutti/invisibilita-superiore]]

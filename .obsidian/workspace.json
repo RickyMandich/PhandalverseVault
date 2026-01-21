@@ -30,7 +30,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "http://phandalverse.altervista.org/vault/artefatti/party/artefatto-necromante.md",
+                "url": "http://phandalverse.altervista.org/vault/artefatti/party/artefatto-necromante",
                 "title": "Occhio di Atos",
                 "mode": "webview"
               },
@@ -94,23 +94,9 @@
               "icon": "lucide-file",
               "title": "capodanno1-minion"
             }
-          },
-          {
-            "id": "329fe03034417bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "artefatti/party/artefatto-necromante.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "artefatto-necromante"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,25 +263,37 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "051799c036fb5488",
+  "active": "a745e6ed58a9babd",
   "lastOpenFiles": [
+    "bash/d2utmpsuBTIz",
+    "bash/d2utmphMH00p",
+    "bash/d2utmpnzY72k",
+    "bash/d2utmpBdhrQo",
+    "bash/d2utmpGCYooh",
+    "bash/d2utmpvlzvtf",
+    "bash/d2utmpuM0mXk",
+    "bash/d2utmpyTnoDJ",
+    "saghe/saga-di-capodanno-1312.md",
+    "incantesimi/tutti/corpse-explosion.md",
+    "incantesimi/artefice/immagine-speculare.md",
+    "incantesimi/artefice/muro-di-forza.md",
+    "incantesimi/artefice/onda-tonante.md",
+    "incantesimi/artefice/scudo-di-fuoco.md",
+    "artefatti/party/artefatto-artefice.md",
+    "incantesimi/artefice/trama-ipnotica.md",
+    "incantesimi/tutti/tramaipnotica.md",
+    "incantesimi/artefice/invisibilita-superiore.md",
+    "saghe/moduli-non-usati/capodanno1-minion.md",
     "artefatti/party/artefatto-necromante.md",
     "bash/d2utmpyWVChI",
     "bash/d2utmpoC4aZY",
     "bash/d2utmpk9CGxw",
-    "bash/d2utmpIypQse",
-    "bash/d2utmpka4Vi3",
-    "bash/d2utmpghlsv3",
-    "bash/d2utmpl6EP5s",
-    "bash/d2utmpXcYSPD",
     "incantesimi/necromante/esplosione-cadaverica.md",
     "incantesimi/tutti/esplosione-cadaverica.md",
-    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/necromante",
-    "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/tutti",
     "incantesimi/tutti/ricrescita-scheletrica.md",
     "incantesimi/tutti/test.md",
     "C/Users/RickyMandich/PROJECT/Phandalverse/PhandalverseVault/incantesimi/tutti/test.md",
-    "incantesimi/necromante/ricresita-scheletrica.md",
+    "incantesimi/necromante/ricrescita-scheletrica.md",
     "incantesimi/necromante/pioggia-di-frammenti.md",
     "incantesimi/tutti/pioggia-di-frammenti.md",
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/necromante/pioggia-di-frammenti.md",
@@ -303,17 +301,6 @@
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/necromante/ricresita-scheletrica.md",
     "CUsersRickyMandichPROJECTPhandalversePhandalverseVault/incantesimi/tutti/ricresita-scheletrica.md",
     "incantesimi/tutti/lama-dosso.md",
-    "incantesimi/tutti/radar-osseo.md",
-    "incantesimi/tutti/esoscheletro-transitorio.md",
-    "incantesimi/tutti/barriera-ossea.md",
-    "incantesimi/necromante/spine-ossee.md",
-    "incantesimi/necromante/radar-osseo.md",
-    "incantesimi/necromante/esoscheletro-transitorio.md",
-    "incantesimi/necromante/barriera-ossea.md",
-    "data/incantesimi/necromante/spine-ossee.md",
-    "data/incantesimi/necromante/radar-osseo.md",
-    "data/incantesimi/necromante/barriera-ossea.md",
-    "data/incantesimi/barriera-ossea.md",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",
     "artefatti/party/occhio-di-atos.jpeg",

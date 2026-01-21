@@ -1,1 +1,1 @@
-![[incantesimi/tutti/immaginespeculare]]
+![[incantesimi/tutti/immagine-speculare]]

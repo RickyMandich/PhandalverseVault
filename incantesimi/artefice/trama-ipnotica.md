@@ -1,1 +1,1 @@
-![[incantesimi/tutti/tramaipnotica]]
+![[incantesimi/tutti/trama-ipnotica]]

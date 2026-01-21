@@ -228,13 +228,10 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-![[incantesimi/tutti/OndaTonante]]
+![[incantesimi/tutti/onda-tonante]]
 ![[incantesimi/tutti/Frantumare]]
-![[incantesimi/tutti/ImmagineSpeculare]] ![[incantesimi/tutti/Fulmine]]
-![[incantesimi/tutti/TramaIpnotica]]![[incantesimi/tutti/InvisibilitaSuperiore]]![[incantesimi/tutti/ScudoDiFuoco]]![[incantesimi/tutti/MuroDiForza]]![[incantesimi/tutti/Passapareti]]
-
----
-
+![[incantesimi/tutti/Immagine-Speculare]] ![[incantesimi/tutti/Fulmine]]
+![[incantesimi/tutti/trama-ipnotica]]![[incantesimi/tutti/invisibilita-superiore]]![[incantesimi/tutti/scudo-di-fuoco]]![[incantesimi/tutti/muro-di-forza]]![[incantesimi/tutti/Passapareti]]
 # Armatura arcana
 le ricerche metallurgiche portate avanti dal proprietario gli hanno permesso di trasformare l’armatura in un canale per la sua magia. Con un’azione, può trasformare l’armatura che indossa in un’armatura arcana.
 

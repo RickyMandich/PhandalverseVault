@@ -1,1 +1,1 @@
-![[incantesimi/tutti/murodiforza]]
+![[incantesimi/tutti/muro-di-forza]]
