@@ -123,8 +123,8 @@ _Il rituale è una prova di resistenza e coordinazione. Il Cuore richiede almeno
 Questa è la leva principale di bilanciamento.
 
 ---
-![[capodanno1-minion.md]]
+![[capodanno1-minion]]
 
 ---
 
-![[capodanno1-boss.md]]
+![[capodanno1-boss]]

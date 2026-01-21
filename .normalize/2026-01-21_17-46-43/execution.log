@@ -1,0 +1,21 @@
+2026-01-21 17:46:43 Starting map.json update process (Read-Only Filesystem Mode)...
+2026-01-21 17:46:43 Loaded existing map.json
+2026-01-21 17:46:43 First pass: Scanning filesystem...
+2026-01-21 17:46:47 New file found: 'capodanno1-boss.md' -> 'Capodanno1 Boss'
+2026-01-21 17:46:47 New file found: 'capodanno1-minion.md' -> 'Capodanno1 Minion'
+2026-01-21 17:46:47 New file found: 'capodanno1.md' -> 'Capodanno1'
+2026-01-21 17:46:47 New directory found: 'capodanno1' -> 'Capodanno1'
+2026-01-21 17:46:48 Found 3 new file(s) and 1 new directory(ies)
+2026-01-21 17:46:48 Opening editor for customization...
+2026-01-21 17:47:14 Custom name set: 'saghe/moduli-non-usati/capodanno1/capodanno1.md' -> 'Capodanno1'
+2026-01-21 17:47:14 Custom name set: 'saghe/moduli-non-usati/capodanno1/capodanno1-boss.md' -> 'Capodanno1 Boss'
+2026-01-21 17:47:14 Custom name set: 'saghe/moduli-non-usati/capodanno1/capodanno1-minion.md' -> 'Capodanno1 Minion'
+2026-01-21 17:47:14 Custom name set: 'saghe/moduli-non-usati/capodanno1' -> 'Capodanno 1'
+2026-01-21 17:47:14 Applying customized names...
+2026-01-21 17:47:16 Second pass: Rebuilding map with custom names...
+2026-01-21 17:47:19 Using custom name for 'capodanno1-boss.md': 'Capodanno1 Boss'
+2026-01-21 17:47:19 Using custom name for 'capodanno1-minion.md': 'Capodanno1 Minion'
+2026-01-21 17:47:19 Using custom name for 'capodanno1.md': 'Capodanno1'
+2026-01-21 17:47:19 Using custom name for directory 'capodanno1': 'Capodanno 1'
+2026-01-21 17:47:20 Map updated at /mnt/c/Users/RickyMandich/PROJECT/Phandalverse/phandalverseVault/.normalize/map.json
+2026-01-21 17:47:20 Map update complete. No files were renamed.
