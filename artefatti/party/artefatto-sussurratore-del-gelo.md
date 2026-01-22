@@ -274,7 +274,7 @@ tabella esplicativa:
 
 ![[incantesimi/tutti/folata-di-vento]]
 ![[incantesimi/tutti/silenzio]]
-![[incantesimi/tutti/tempesta-di-nevischio|tempesta-di-nevischio]]
+![[incantesimi/tutti/tempesta-di-nevischio]]
 ![[incantesimi/tutti/tempesta-di-ghiaccio]]
 ![[incantesimi/tutti/evoca-pioggia-di-armi]]
 ## lista ranger
