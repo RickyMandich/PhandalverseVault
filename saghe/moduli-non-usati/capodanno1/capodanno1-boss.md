@@ -40,18 +40,14 @@ Il Cuore non può morire definitivamente finché l’anno non termina.
 Due *Colpi del Tempo Stagnante*.
 
 ***Colpo del Tempo Stagnante.***  
-+7 a colpire, portata 3 m.  
-**Danni:** 2d10 + 4 contundenti + 1d6 necrotici. *Tiro salvezza di Destrezza (DC 13) per dimezzare i danni.*
+portata 3 m.  
+**Danni:** 2d10 + for (4) contundenti + 1d6 necrotici. *Tiro salvezza di Destrezza (DC 13) per dimezzare i danni.*
 
 ***Evocazione dell’Anno Vecchio.***  
-Il Cuore evoca **5–6 Creature dell’Anno Vecchio**.  
-Se usa questa azione, **non può attaccare** questo turno.
+Il Cuore evoca **5–6 Creature dell’Anno Vecchio**.
 
 ---
 
 ### Suggerimenti di movimento
 
 - **Volo fluttuante**: Il Cuore può muoversi sopra il terreno, ignorando ostacoli a bassa altezza. Usa la sua velocità di 6 m per spostarsi in 3 m di altezza e 3 m in orizzontale per turno.
-- **Teletrasporto rituale**: Una volta ogni 3 round, può teletrasportarsi entro 12 m verso un punto visibile, forzando i minion a seguirlo.
-- **Attacco a distanza**: Quando è circondato da più di 4 minion, preferisce mantenere la distanza (6 m) e usare il *Colpo del Tempo Stagnante*.
-- **Interazione con il rituale**: Se il rituale è attivo, il Cuore può rimanere immobile per mantenere il progresso, ma può comunque volare per evitare attacchi a distanza.
