@@ -1,4 +1,4 @@
-richiede sintonia, localizzazione geografica: 
+richiede sintonia, localizzazione geografica: Est
 # descrizione
 ![[occhio-di-atos.jpeg]]
 
