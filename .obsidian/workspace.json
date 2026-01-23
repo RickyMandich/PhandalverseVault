@@ -66,37 +66,9 @@
               "icon": "lucide-file",
               "title": "saga-di-capodanno-1312"
             }
-          },
-          {
-            "id": "2462502640ccf447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/moduli-non-usati/capodanno1/capodanno1-boss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "capodanno1-boss"
-            }
-          },
-          {
-            "id": "4975d927b416f2ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/moduli-non-usati/capodanno1/capodanno1-minion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "capodanno1-minion"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,8 +235,12 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "2462502640ccf447",
+  "active": "d688fa0d08b91dad",
   "lastOpenFiles": [
+    "saghe/moduli-non-usati/capodanno1/capodanno1.md",
+    "saghe/moduli-non-usati/capodanno1/capodanno1-minion.md",
+    "TODO.pdf",
+    "saghe/moduli-non-usati/capodanno1/capodanno1-boss.md",
     "bash/d2utmpGFldIw",
     "bash/d2utmpNJDSm9",
     "bash/d2utmptpdlmD",
@@ -274,16 +250,11 @@
     "bash/d2utmp0B8bgA",
     "bash/d2utmpAibOEC",
     "artefatti/party/artefatto-necromante.md",
-    "saghe/moduli-non-usati/capodanno1/capodanno1-boss.md",
     "artefatti/party/artefatto-dellombra.md",
     "saghe/saga-di-capodanno-1312.md",
-    "saghe/moduli-non-usati/capodanno1/capodanno1-minion.md",
     "todo.md",
     "bash/d2utmpFLFAMk",
-    "bash/d2utmpBn4c6B",
-    "bash/d2utmp89OCDe",
     "artefatti/party/artefatto-sussurratore-del-gelo.md",
-    "saghe/moduli-non-usati/capodanno1/capodanno1.md",
     "vault/artefatti/party.md",
     "phandalverse.altervista.org/vault/artefatti/party.md",
     "artefatti/party.md",
