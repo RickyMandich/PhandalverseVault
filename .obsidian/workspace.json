@@ -67,8 +67,7 @@
               "title": "saga-di-capodanno-1312"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +234,14 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "d688fa0d08b91dad",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
+    "bash/d2utmpwcVN3D",
+    "bash/d2utmpzqapsJ",
+    "bash/d2utmpJmVaHK",
+    "bash/d2utmpUZ5Hue",
+    "bash/d2utmpbAdDex",
+    "saghe/saga-di-capodanno-1312.md",
     "saghe/moduli-non-usati/capodanno1/capodanno1.md",
     "saghe/moduli-non-usati/capodanno1/capodanno1-minion.md",
     "TODO.pdf",
@@ -246,14 +251,9 @@
     "bash/d2utmptpdlmD",
     "bash/d2utmpCmD7XX",
     "bash/d2utmpf5vId9",
-    "bash/d2utmpgLzlnp",
-    "bash/d2utmp0B8bgA",
-    "bash/d2utmpAibOEC",
     "artefatti/party/artefatto-necromante.md",
     "artefatti/party/artefatto-dellombra.md",
-    "saghe/saga-di-capodanno-1312.md",
     "todo.md",
-    "bash/d2utmpFLFAMk",
     "artefatti/party/artefatto-sussurratore-del-gelo.md",
     "vault/artefatti/party.md",
     "phandalverse.altervista.org/vault/artefatti/party.md",
