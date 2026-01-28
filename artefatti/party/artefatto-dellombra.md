@@ -10,11 +10,14 @@ il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gl
 ![[incantesimi/tutti/scurovisione]]
 ![[incantesimi/tutti/silenzio]]
 ![[incantesimi/tutti/illusione-minore]]
+# visione dell'ombra
+quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.
 
+---
 # passo dell'ombra
-il proprietario ottiene la capacità di passare da un'ombra all'altra. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità
+il proprietario ottiene la capacità di entrare e uscire dal [[mondo dell'ombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo dell'ombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità
 
-inoltre, quando lancia l'incantesimo [Scurovisione](https://dungeonsanddragons.fandom.com/it/wiki/Scurovisione "Scurovisione") su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con il privilegio Arti dell'Ombra. Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.
+Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.
 
 inoltre può far viaggiare nell'ombra anche altre creature per un massimo di creature di taglia media pari al suo livello totale. per una creatura di taglia dovrà "usare" 3 livelli, e moltiplicare per 3 per ogni taglia in su. per 3 creature di taglia piccola dovrà "usare" 1 livello, e dividere per 3 per ogni taglia in giù.
 
