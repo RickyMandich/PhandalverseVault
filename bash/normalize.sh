@@ -43,6 +43,23 @@ fi
 
 log_message "Starting map.json update process (Read-Only Filesystem Mode)..."
 
+# Check if git work tree is clean (only .md files matter)
+if command -v git &> /dev/null; then
+    # Check for untracked, modified, or deleted .md files
+    MD_CHANGES=$(git status --porcelain | grep '\.md$' || true)
+
+    if [ -z "$MD_CHANGES" ]; then
+        log_message "No .md file changes detected in git work tree. Skipping map update."
+        echo "No .md file changes detected. Skipping map update."
+        exit 0
+    else
+        log_message "Detected .md file changes in work tree:"
+        echo "$MD_CHANGES" | while read line; do
+            log_message "  $line"
+        done
+    fi
+fi
+
 # Load existing map.json if it exists
 OLD_MAP="{}"
 if [ -f "$OLD_MAP_FILE" ]; then

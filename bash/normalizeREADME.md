@@ -129,6 +129,7 @@ Uses auto-generated Title Case names without opening vim. Perfect for use in `al
 5. **Only `.md` Files**: Only Markdown files are tracked in the map
 6. **Interactive Editing**: Customize display names for new files/directories via vim
 7. **Automation-Friendly**: Use `--no-edit` flag to skip interactive editing
+8. **Smart Skip**: Automatically skips execution if no `.md` files have changed in git work tree
 
 ## Integration with Laravel
 
@@ -207,10 +208,12 @@ sudo apt-get update && sudo apt-get install jq
 ## Technical Details
 
 - **Language**: Pure Bash (no Python dependencies)
-- **Dependencies**: `jq`, standard Unix utilities
+- **Dependencies**: `jq`, `git`, standard Unix utilities
 - **Operation**: Read-only filesystem scan, only `map.json` is modified
 - **Title Case Conversion**: Kebab-case → Title Case (e.g., `hello-world` → `Hello World`)
 - **Preservation Logic**: Existing mappings in `map.json` are never overwritten
+- **Git Integration**: Checks for `.md` file changes before running; skips if work tree is clean
+- **Logging**: Execution logs stored in `.normalize/YYYY-MM-DD_HH-MM-SS/execution.log` (not tracked in git)
 
 ---
 
