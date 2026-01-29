@@ -1,5 +1,5 @@
 #dm 
-**Tel'Aran'Rhiod** è il nome dato a un **reame onirico primordiale**, un luogo sospeso tra sogno e realtà. Non è un piano parallelo vero e proprio, ma una **dimensione riflessa**, dove il mondo materiale viene percepito come attraverso la superficie increspata di un lago: riconoscibile, ma mutevole, instabile e soggetto alla volontà, alla memoria e agli impulsi di chi vi cammina.
+**Tel'Aran'Rhiod** è il nome dato a un **reame onirico primordiale**, un luogo sospeso tra sogno e realtà. È un piano parallelo vero e proprio dove il piano originale del segnatore viene percepito come attraverso la superficie increspata di un lago: riconoscibile, ma mutevole, instabile e soggetto alla volontà, alla memoria e agli impulsi di chi vi cammina.
 
 In Tel'Aran'Rhiod esistono solo due categorie di presenze:
 

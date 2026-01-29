@@ -149,4 +149,20 @@ if [ -n "$COMMIT_MESSAGE" ]; then
 else
     "$SCRIPT_DIR/cmt.sh"
 fi
+
+# Genera il changelog per questa versione
+echo ""
+echo "=========================================="
+echo "Generazione changelog..."
+echo "=========================================="
+bash "$SCRIPT_DIR/generate-changelog.sh"
+
+if [ $? -ne 0 ]; then
+    echo "Errore durante la generazione del changelog"
+    exit 1
+fi
+
+echo "Changelog generato con successo"
+echo ""
+
 "$SCRIPT_DIR/onlyFtpOfLastCmt.sh"

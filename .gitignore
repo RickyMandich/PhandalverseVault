@@ -1,3 +1,1 @@
-# Normalize directory - ignore all except map.json
-.normalize/*
-!.normalize/map.json
+.normalize/logs

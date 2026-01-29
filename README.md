@@ -16,7 +16,8 @@ Lo script principale che gestisce l'intero processo di deploy:
 1. **Normalizzazione**: Aggiorna `map.json` con i nuovi file `.md` (modalità non interattiva)
 2. **Versioning**: Incrementa automaticamente la versione del progetto
 3. **Commit**: Esegue commit su git con la nuova versione
-4. **Deploy**: Carica i file modificati via FTP su Altervista
+4. **Changelog**: Genera automaticamente il changelog JSON per questa versione
+5. **Deploy**: Carica i file modificati via FTP su Altervista
 
 ### Utilizzo
 ```bash
@@ -42,3 +43,20 @@ Il sistema mantiene un mapping tra i nomi dei file normalizzati (kebab-case) e i
 Il mapping è gestito automaticamente in `.normalize/map.json`.
 
 Per maggiori dettagli, vedi `bash/normalizeREADME.md`.
+
+### Sistema di Changelog
+
+Il sistema traccia automaticamente tutte le modifiche ai file `.md` per ogni versione:
+
+- **File generati**: `.normalize/changelogs/`
+  - `index.json`: Indice di tutte le versioni
+  - `v_X_Y_Z.json`: Dettagli delle modifiche per ogni versione
+- **Contenuto**: Per ogni versione vengono tracciati:
+  - Lista dei file `.md` modificati
+  - Tipo di modifica (Added/Modified/Deleted)
+  - Diff completo delle modifiche
+  - Data, commit hash e messaggio
+
+I file di changelog sono in formato JSON e pronti per essere integrati nella web app.
+
+Per la documentazione completa e l'integrazione backend, vedi `bash/CHANGELOG_SYSTEM.md`.
