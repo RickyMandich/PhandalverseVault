@@ -60,8 +60,8 @@ nomeCommit="aggiornamento $nomeCommit [$APP_VERSION]$messaggio"
 echo "Messaggio commit: $nomeCommit"
 git commit -am "$nomeCommit"
 
-# Esegui il push sul repository remoto
-git push
+# NON fare il push qui - verrà fatto da all.sh dopo l'aggiornamento del changelog
+# Il push è stato spostato in all.sh
 
 sleep 1
 # clear

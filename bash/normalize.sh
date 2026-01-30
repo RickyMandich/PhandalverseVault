@@ -17,7 +17,7 @@ fi
 
 # Logging Setup
 DATE_STR=$(date +%Y-%m-%d_%H-%M-%S)
-LOG_DIR="$NORMALIZE_DIR/$DATE_STR"
+LOG_DIR="$NORMALIZE_DIR/logs/$DATE_STR"
 LOG_FILE="$LOG_DIR/execution.log"
 
 mkdir -p "$LOG_DIR"

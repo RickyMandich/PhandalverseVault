@@ -142,15 +142,7 @@ fi
 echo "map.json aggiornato con successo"
 echo ""
 
-# Esegui gli script usando il percorso completo
-# Passa il messaggio personalizzato a cmt.sh se presente
-if [ -n "$COMMIT_MESSAGE" ]; then
-    "$SCRIPT_DIR/cmt.sh" -m "$COMMIT_MESSAGE"
-else
-    "$SCRIPT_DIR/cmt.sh"
-fi
-
-# Genera il changelog per questa versione
+# Genera il changelog per questa versione PRIMA del commit
 echo ""
 echo "=========================================="
 echo "Generazione changelog..."
@@ -163,6 +155,42 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "Changelog generato con successo"
+echo ""
+
+# Esegui gli script usando il percorso completo
+# Passa il messaggio personalizzato a cmt.sh se presente
+if [ -n "$COMMIT_MESSAGE" ]; then
+    "$SCRIPT_DIR/cmt.sh" -m "$COMMIT_MESSAGE"
+else
+    "$SCRIPT_DIR/cmt.sh"
+fi
+
+# Aggiorna il commit hash nel changelog e fai amend del commit
+echo ""
+echo "=========================================="
+echo "Aggiornamento commit hash nel changelog..."
+echo "=========================================="
+bash "$SCRIPT_DIR/update-changelog-hash.sh"
+
+if [ $? -ne 0 ]; then
+    echo "Errore durante l'aggiornamento del commit hash"
+    echo "Continuando comunque..."
+fi
+
+echo ""
+
+# Esegui il push sul repository remoto
+echo "=========================================="
+echo "Push su repository remoto..."
+echo "=========================================="
+git push --force-with-lease
+
+if [ $? -ne 0 ]; then
+    echo "Errore durante il push"
+    exit 1
+fi
+
+echo "Push completato con successo"
 echo ""
 
 "$SCRIPT_DIR/onlyFtpOfLastCmt.sh"
