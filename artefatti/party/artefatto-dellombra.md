@@ -15,7 +15,7 @@ quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su
 
 ---
 # passo dell'ombra
-il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità. 
+il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità.
 
 Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.
 
