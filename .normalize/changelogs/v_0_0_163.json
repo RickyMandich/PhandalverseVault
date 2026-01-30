@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.163",
+	"date": "2026-01-30 16:43:14",
+	"commit_hash": "59938ba2c91b679535072103a057b660ad9abced",
+	"commit_message": "aggiornamento 2026 01 30 16:43 [v 0.0.163]",
+	"changes": [
+		{
+			"file": "universi/mondo-dellombra.md",
+			"display_name": "Mondo dell'Ombra",
+			"status": "Modified",
+			"diff": "diff --git a/universi/mondo-dellombra.md b/universi/mondo-dellombra.md\nindex e69de29..380a618 100644\n--- a/universi/mondo-dellombra.md\n+++ b/universi/mondo-dellombra.md\n@@ -0,0 +1,22 @@\n+**Tel'Aran'Rhiod** è il nome dato a un **reame onirico primordiale**, un luogo sospeso tra sogno e realtà. È un piano parallelo vero e proprio dove il piano originale del segnatore viene percepito come attraverso la superficie increspata di un lago: riconoscibile, ma mutevole, instabile e soggetto alla volontà, alla memoria e agli impulsi di chi vi cammina.\n+\n+In Tel'Aran'Rhiod esistono solo due categorie di presenze:\n+\n+- **i sognatori inconsapevoli**, che appaiono come ombre prive di coscienza;\n+- **i camminatori**, individui capaci di entrarvi vigili e consapevoli.\n+\n+Il tempo non scorre in modo uniforme: può rallentare, accelerare o spezzarsi.  \n+Le leggi fisiche sono deboli e possono essere piegate dal pensiero, ma chi tenta di intervenire senza disciplina rischia di destabilizzare la propria forma, venendo trascinato nel caos del reame.\n+\n+Per i _Fratelli dei Lupi_, Tel'Aran'Rhiod rappresenta la **sfera spirituale del branco e dell’istinto**. Lì, i lupi si mostrano per ciò che sono veramente: creature dallo spirito antico, custodi di percorsi che non appartengono al mondo dei mortali. È anche il luogo dove la loro trasformazione trova piena espressione; è facile per loro entrarvi, ma pericolosamente facile anche **perdersi**, lasciando che la parte ferina prenda il sopravvento.\n+\n+Chi vi cammina deve imparare tre regole fondamentali:\n+\n+1. **La volontà plasma la forma.**  \n+    Ogni esitazione diventa vulnerabilità.\n+2. **Il pericolo è reale.**  \n+    Ferite, traumi e morte nel reame dei sogni si riflettono sul corpo reale.\n+3. **La memoria è un’ancora.**  \n+    Senza di essa, l'identità può svanire tra le correnti fluide del mondo-sogno.\n+\n+Tel'Aran'Rhiod è, al tempo stesso, un dono e un rischio: un luogo dove si possono trovare risposte impossibili o perdere se stessi per sempre.\n\\ No newline at end of file\n"
+		}
+	]
+}
