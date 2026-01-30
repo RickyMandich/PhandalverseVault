@@ -4,7 +4,7 @@ si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord
 
 ---
 # arti dell'ombra
-il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gli incantesimi [[oscurita]], ,[[passare-senza-tracce]], [[incantesimi/tutti/scurovisione]] o [[incantesimi/tutti/silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[incantesimi/tutti/illusione-minore]], se già non lo conosceva.
+il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare gli incantesimi [[incantesimi/tutti/oscurita|oscurita]],[[incantesimi/tutti/passare-senza-tracce|passare-senza-tracce]], [[incantesimi/tutti/scurovisione|scurovisione]] o [[incantesimi/tutti/silenzio|silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[incantesimi/tutti/illusione-minore|illusione minore]], se già non lo conosceva.
 ![[incantesimi/tutti/oscurita]]
 ![[incantesimi/tutti/passare-senza-tracce]]
 ![[incantesimi/tutti/scurovisione]]

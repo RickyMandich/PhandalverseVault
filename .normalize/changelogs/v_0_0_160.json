@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.160",
+	"date": "2026-01-30 15:34:02",
+	"commit_hash": "e69e43ac3d9be98a6fe345a6fa6fecee1eb414d8",
+	"commit_message": "aggiornamento 2026 01 30 15:34 [v 0.0.160]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 17dbc60..3d4236b 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -4,7 +4,7 @@ si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord\n \n ---\n # arti dell'ombra\n-il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gli incantesimi [[oscurita]], ,[[passare-senza-tracce]], [[incantesimi/tutti/scurovisione]] o [[incantesimi/tutti/silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[incantesimi/tutti/illusione-minore]], se già non lo conosceva.\n+il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare gli incantesimi [[incantesimi/tutti/oscurita|oscurita]],[[incantesimi/tutti/passare-senza-tracce|passare-senza-tracce]], [[incantesimi/tutti/scurovisione|scurovisione]] o [[incantesimi/tutti/silenzio|silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[incantesimi/tutti/illusione-minore|illusione minore]], se già non lo conosceva.\n ![[incantesimi/tutti/oscurita]]\n ![[incantesimi/tutti/passare-senza-tracce]]\n ![[incantesimi/tutti/scurovisione]]\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "todo",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex 2145c46..d6b76ea 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -1,8 +1,8 @@\n #dm \n # fatte\n-- scrivere sessione di capodanno\n+- [X] scrivere sessione di capodanno\n+- [X]rendere il viaggio nell'ombra di rallo non istantaneo ma che passa per un piano delle ombre che è un albero (magari una versione dell'ombra di yggdrasil)\n # da fare\n-- rendere il viaggio nell'ombra di rallo non istantaneo ma che passa per un piano delle ombre che è un albero (magari una versione dell'ombra di yggdrasil)\n-- creare la stat block del drago di rallo\n-- decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n-- scrivere moduli futuri\n\\ No newline at end of file\n+- [] creare la stat block del drago di rallo\n+- [] decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n+- [] scrivere moduli futuri\n"
+		},
+		{
+			"file": "universi/mondo-dellombra.md",
+			"display_name": "Mondo dell'Ombra",
+			"status": "Modified",
+			"diff": "diff --git a/universi/mondo-dellombra.md b/universi/mondo-dellombra.md\nindex 8b13789..e69de29 100644\n--- a/universi/mondo-dellombra.md\n+++ b/universi/mondo-dellombra.md\n@@ -1 +0,0 @@\n-\n"
+		}
+	]
+}

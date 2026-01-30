@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,19 +263,20 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "caec8662fea2dd43",
+  "active": "5552fa7f995e5762",
   "lastOpenFiles": [
+    "bash/d2utmpdUzcuu",
+    "bash/d2utmp9HOwNQ",
+    "bash/d2utmp7u3XOd",
+    "bash/d2utmpbIFMtQ",
+    "bash/d2utmpQBSZkX",
+    "bash/d2utmpu0B16C",
+    "bash/d2utmpTDI8En",
+    "bash/d2utmpJ6GWuS",
+    "bash/d2utmpb4cTa9",
+    "bash/d2utmpG2xBv5",
+    "universi/mondo-dellombra.md",
     "bash/d2utmpwgP2a6",
-    "bash/d2utmppggXu6",
-    "bash/d2utmpLy3TzL",
-    "bash/d2utmpnfmxpN",
-    "bash/d2utmp5eYaPM",
-    "bash/d2utmpvyCTwd",
-    "bash/d2utmpyykbWL",
-    "bash/d2utmpYNGRQY",
-    "bash/d2utmpY3GcJV",
-    "bash/d2utmpoBRJg4",
-    "bash/d2utmp5rwOMh",
     "artefatti/party/artefatto-dellombra.md",
     "CHANGELOG_QUICK_START.md",
     "bash/CHANGELOG_EXAMPLES.md",
@@ -284,7 +285,6 @@
     "saghe/saga-di-capodanno-1312.md",
     "universi/telaranrhiod.md",
     "todo copy.md",
-    "universi/mondo-dellombra.md",
     "todo.md",
     "saghe/moduli-non-usati/capodanno1/capodanno1.md",
     "saghe/moduli-non-usati/capodanno1/capodanno1-minion.md",
