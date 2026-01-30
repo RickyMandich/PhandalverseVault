@@ -20,7 +20,7 @@ Tel’Murk'vadinn appare come un intreccio infinito di:
 Il piano è silenzioso, ma **mai inerte**.
 
 ---
-
+#startMaster 
 ### **Regole del Piano**
 
 1. **La luce recide i rami**  
@@ -29,3 +29,4 @@ Il piano è silenzioso, ma **mai inerte**.
     Ogni attraversamento lascia una traccia; il piano riconosce chi lo usa spesso.
 3. **La profondità è pericolosa**  
     Scendere troppo equivale a perdere forma, identità o corpo.
+#endMaster 

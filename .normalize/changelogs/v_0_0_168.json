@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.168",
+	"date": "2026-01-30 17:55:33",
+	"commit_hash": "d06a99d04da3dd042d28dda6b1becf6bb99d5a9f",
+	"commit_message": "aggiornamento 2026 01 30 17:55 [v 0.0.168]",
+	"changes": [
+		{
+			"file": "universi/telmurkvadinn.md",
+			"display_name": "Tel'Murk'Vadinn",
+			"status": "Modified",
+			"diff": "diff --git a/universi/telmurkvadinn.md b/universi/telmurkvadinn.md\nindex c05f041..f29c01f 100644\n--- a/universi/telmurkvadinn.md\n+++ b/universi/telmurkvadinn.md\n@@ -20,7 +20,7 @@ Tel’Murk'vadinn appare come un intreccio infinito di:\n Il piano è silenzioso, ma **mai inerte**.\n \n ---\n-\n+#startMaster \n ### **Regole del Piano**\n \n 1. **La luce recide i rami**  \n@@ -28,4 +28,5 @@ Il piano è silenzioso, ma **mai inerte**.\n 2. **L’Ombra ricorda**  \n     Ogni attraversamento lascia una traccia; il piano riconosce chi lo usa spesso.\n 3. **La profondità è pericolosa**  \n-    Scendere troppo equivale a perdere forma, identità o corpo.\n\\ No newline at end of file\n+    Scendere troppo equivale a perdere forma, identità o corpo.\n+#endMaster \n\\ No newline at end of file\n"
+		}
+	]
+}
