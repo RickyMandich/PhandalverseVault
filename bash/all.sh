@@ -195,5 +195,5 @@ echo ""
 
 "$SCRIPT_DIR/onlyFtpOfLastCmt.sh"
 
-TOKEN=$(grep "^JOB_TOKEN=" /mnt/c/Users/Ricky/PROJECT/Phandalverse/Phandalverse/.env | cut -d '=' -f2-)
+TOKEN=$(grep "^JOB_TOKEN=" /mnt/c/Users/RickyMandich/PROJECT/Phandalverse/Phandalverse/.env | cut -d '=' -f2-)
 curl "https://phandalverse.altervista.org/api/notify-update?token=$TOKEN"

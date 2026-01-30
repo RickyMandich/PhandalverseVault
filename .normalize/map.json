@@ -1,8 +1,6 @@
 {
 	"original": "ROOT",
 	"files": {
-		"CHANGELOG_IMPLEMENTATION.md": "Changelog_implementation",
-		"CHANGELOG_QUICK_START.md": "Changelog_quick_start",
 		"README.md": "README",
 		"todo.md": "todo"
 	},
