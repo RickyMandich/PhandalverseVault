@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.169",
+	"date": "2026-01-30 20:56:51",
+	"commit_hash": "278bb11301c2fe30c5182f5b82322a44d972e3a3",
+	"commit_message": "aggiornamento 2026 01 30 20:56 [v 0.0.169]",
+	"changes": [
+		{
+			"file": "universi/telmurkvadinn.md",
+			"display_name": "Tel'Murk'Vadinn",
+			"status": "Modified",
+			"diff": "diff --git a/universi/telmurkvadinn.md b/universi/telmurkvadinn.md\nindex f29c01f..ca62f99 100644\n--- a/universi/telmurkvadinn.md\n+++ b/universi/telmurkvadinn.md\n@@ -10,7 +10,6 @@ Le radici più profonde conducono a zone dove la forma si dissolve e la luce non\n ---\n \n ### **Aspetto**\n-\n Tel’Murk'vadinn appare come un intreccio infinito di:\n \n - rami neri e violacei, simili a legno fossilizzato\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-sintonia-draconica.md",
+			"display_name": "Drakensyn",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}

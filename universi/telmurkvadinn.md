@@ -10,7 +10,6 @@ Le radici più profonde conducono a zone dove la forma si dissolve e la luce non
 ---
 
 ### **Aspetto**
-
 Tel’Murk'vadinn appare come un intreccio infinito di:
 
 - rami neri e violacei, simili a legno fossilizzato
