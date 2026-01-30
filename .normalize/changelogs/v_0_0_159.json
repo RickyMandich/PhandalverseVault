@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.159",
+	"date": "2026-01-30 14:36:42",
+	"commit_hash": "4df8eac8e2ee9ca3a9b23d00020893bd68336e7b",
+	"commit_message": "aggiornamento 2026 01 30 14:36 [v 0.0.159]",
+	"changes": [
+		{
+			"file": "universi/mondo-dellombra.md",
+			"display_name": "Mondo dell'Ombra",
+			"status": "Modified",
+			"diff": "diff --git a/universi/mondo-dellombra.md b/universi/mondo-dellombra.md\nindex 139597f..8b13789 100644\n--- a/universi/mondo-dellombra.md\n+++ b/universi/mondo-dellombra.md\n@@ -1,2 +1 @@\n \n-\n"
+		}
+	]
+}
