@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.165",
+	"date": "2026-01-30 17:04:26",
+	"commit_hash": "f1cc2ff5866b940cf792235cfa6578e6b29d6511",
+	"commit_message": "aggiornamento 2026 01 30 17:04 [v 0.0.165]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex c59d095..ffdd8a8 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -15,7 +15,7 @@ quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su\n \n ---\n # passo dell'ombra\n-il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità.\n+il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità. \n \n Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.\n \n"
+		}
+	]
+}
