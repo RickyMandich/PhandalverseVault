@@ -193,16 +193,11 @@ generate_changelog() {
 
     echo "Trovati $changes_count file .md modificati"
 
-    # Se non ci sono modifiche, non creare il changelog
-    if [ $changes_count -eq 0 ]; then
-        echo "Nessun file .md modificato, changelog non generato"
-        return 0
-    fi
-
     # Crea il messaggio di commit che verrà usato (per riferimento)
     local commit_message="aggiornamento $commit_date [$version]"
 
-    # Crea il JSON del changelog (commit_hash sarà aggiornato dopo il commit)
+    # Crea sempre il changelog, anche se vuoto
+    # Questo assicura che l'index.json venga sempre aggiornato
     local changelog_json=$(jq -n \
         --arg version "$version" \
         --arg date "$commit_date" \
@@ -257,7 +252,7 @@ update_index() {
         --argjson entry "$version_entry" \
         --arg version "$version" \
         --tab \
-        '.versions = ([.versions[] | select(.version != $version)] + [$entry]) | sort_by(.date) | reverse')
+        '.versions = (([.versions[] | select(.version != $version)] + [$entry]) | if length > 0 then sort_by(.date) | reverse else . end)')
 
     # Salva l'indice aggiornato
     echo "$index_json" > "$INDEX_FILE"
