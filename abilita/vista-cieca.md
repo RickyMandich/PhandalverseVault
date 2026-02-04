@@ -1,0 +1,2 @@
+
+Una creatura dotata di vista cieca può percepire l'ambiente circostante entro un raggio specifico senza affidarsi alla vista. Le creature prive di occhi, come le melme, e le creature dotate di un radar innato o di sensi amplificati, come i pipistrelli e i draghi puri, sono dotate di questo senso.

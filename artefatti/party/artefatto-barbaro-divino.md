@@ -39,8 +39,18 @@ Una volta entrato in ira per il numero di volte indicato dal suo livello nella c
 |   19    |      6       |       +4       |
 |   20    |   &infin;    |       +4       |
 
+---
 ## attacco irruento
 Il proprietario può ignorare ogni preoccupazione per la sua difesa e attaccare in preda a una feroce disperazione. Quando effettua il suo primo attacco nel suo turno, può decidere di sferrare un attacco irruento. Così facondo dispone di vantaggio ai tiri per colpire in mischia che usano Forza durante questo turno, ma i tiri per colpire contro di lui dispongono di vantaggio fino al suo turno successivo.
+
+---
+## percezione furiosa
+mentre il proprietario è in ira è capace di percepire le creature che gli stanno intorno fino a 4,5 m di distanza seguendo le regole di [[vista-cieca]]
+
+---
+## Attacco Extra
+il proprietario può attaccare due volte, invece che una volta, ogni volta che effettui l’azione Attaccare durante il tuo turno.
+se più cose ti danno questa abilità è cumulabile
 
 ---
 

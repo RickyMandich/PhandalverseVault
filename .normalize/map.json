@@ -5,6 +5,13 @@
 		"todo.md": "todo"
 	},
 	"directories": {
+		"abilita": {
+			"original": "Abilità",
+			"files": {
+				"vista-cieca.md": "Vista Cieca"
+			},
+			"directories": {}
+		},
 		"artefatti": {
 			"original": "artefatti",
 			"files": {
