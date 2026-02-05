@@ -19,7 +19,7 @@ il proprietario ottiene la capacità di entrare e uscire dal [[telmurkvadinn]]. 
 
 Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.
 
-inoltre può far viaggiare nell'ombra anche altre creature per un massimo di creature di taglia media pari al suo livello totale. per una creatura di taglia dovrà "usare" 3 livelli, e moltiplicare per 3 per ogni taglia in su. per 3 creature di taglia piccola dovrà "usare" 1 livello, e dividere per 3 per ogni taglia in giù.
+inoltre può far viaggiare nell'ombra anche altre creature per un massimo di creature di taglia media pari al suo livello totale. per una creatura di taglia grande dovrà "usare" 3 livelli, e moltiplicare per 3 per ogni taglia in su. per 3 creature di taglia piccola dovrà "usare" 1 livello, e dividere per 3 per ogni taglia in giù.
 
 ---
 # manto di ombre
