@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,8 +235,9 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "d688fa0d08b91dad",
+  "active": "a745e6ed58a9babd",
   "lastOpenFiles": [
+    "saghe/saga-di-capodanno-1312.md",
     "bash/d2utmpuqpEcZ",
     "bash/d2utmpSyFvsr",
     "bash/d2utmp0y1qaW",
@@ -247,10 +248,8 @@
     "bash/d2utmp7KUCTv",
     "bash/d2utmpyFVXIq",
     "bash/d2utmpLzUaVG",
-    "bash/d2utmpyfMEK4",
     "abilita/vista-cieca.md",
     "artefatti/party/artefatto-barbaro-divino.md",
-    "saghe/saga-di-capodanno-1312.md",
     "artefatti/party/artefatto-artefice.md",
     "saghe/moduli-non-usati/capodanno1/capodanno1.md",
     "artefatti/party/artefatto-necromante.md",
