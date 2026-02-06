@@ -1,5 +1,3 @@
-## Homebrewery V3
-
 {{monster,frame
 ## Mostro
 *[specie] [taglia], [allineamento]*
@@ -14,7 +12,7 @@ ___
 ___   
 **Senses** :: passive Perception 10   
 **Languages** :: 
-—   
+___
 **Challenge** :: 1 (200 XP)   
 ___   
 }}
