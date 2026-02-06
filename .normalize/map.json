@@ -39,18 +39,10 @@
 				"template": {
 					"original": "template",
 					"files": {
-						"incantesimi.md": "incantesimi"
+						"incantesimi.md": "incantesimi",
+						"stat-block.md": "Stat Block"
 					},
-					"directories": {
-						"stat-block": {
-							"original": "Stat Block",
-							"files": {
-								"homebrewery-legacy_gm-binder-markdown.md": "Homebrewery (Legacy)/GM Binder Markdown",
-								"homebrewery-v3.md": "Homebrewery V3"
-							},
-							"directories": {}
-						}
-					}
+					"directories": {}
 				}
 			}
 		},

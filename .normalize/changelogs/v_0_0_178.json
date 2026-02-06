@@ -1,0 +1,32 @@
+{
+	"version": "v 0.0.178",
+	"date": "2026-02-06 11:44:09",
+	"commit_hash": "d0237e6215aedd28c2980a57a9fe46eb776f95e3",
+	"commit_message": "aggiornamento 2026 02 06 11:44 [v 0.0.178]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-sintonia-draconica.md",
+			"display_name": "Drakensyn",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-sintonia-draconica.md b/artefatti/party/artefatto-sintonia-draconica.md\nindex 058e1fe..fa87dde 100644\n--- a/artefatti/party/artefatto-sintonia-draconica.md\n+++ b/artefatti/party/artefatto-sintonia-draconica.md\n@@ -11,4 +11,28 @@ Ottieni i seguenti benefici:\n # COMPAGNO DRAGO\n Il drago è amichevole con te e con gli altri avventurieri e obbedisce ai tuoi ordini.\n Le statistiche di gioco del tuo Compagno drago sono disponibili nella sua scheda delle statistiche, la quale usa il tuo bonus di competenza (BC) in diversi punti.\n-il drago in combattimento è una creatura autonoma, però tu puoi usare una azione bonus per dargli un ordine.\n\\ No newline at end of file\n+il drago in combattimento è una creatura autonoma, però tu puoi usare una azione bonus per dargli un ordine.\n+\n+___\n+> # Compagno Drago\n+> *Drago Piccolo, Neutrale*\n+> ___\n+> - **Classe Armatura** 14 + BC\n+> - **Punti Vita** 5 + (livelli totali del Personaggio \\* 5)\n+> - **Velocità** 12 m\n+> ___\n+> |FOR|DES|COS|INT|SAG|CAR|\n+> |:---:|:---:|:---:|:---:|:---:|:---:|\n+> |16 (+3)|12 (+1)|15 (+2)|8 (-1)|14 (+2)|8 (-1)|\n+> ___\n+> - **Tiri Salvezza** Des +1+BC, Sag +2 +BC\n+> - **Immunità ai Danni** da fuoco\n+> - **Sensi** percezione passiva 12, Scurovisione 18 m\n+> - **Linguaggi** Draconico, lingua principale usata del Personaggio\n+> - **BC (Bonus Competenza)** Pari a quello del Personaggio\n+> ___\n+> ## Azioni\n+> **Morso** *Attacca con un'arma da mischia:* +FOR+BC al tiro per colpire, portata 1.5m, un bersaglio. *Colpo:* 1d6+BC danni perforanti.\n+> ___\n+> ## Reazioni\n+> **Colpi Infusi** Quando un'altra creatura entro 9m dal drago che egli può vedere (o percepire in altro modo) colpisce un bersaglio con un attacco con arma, il drago infonde il colpo con la sua essenza, facendo sì che il bersaglio subisca 1d6 danno extra da Fuoco\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/template/stat-block/homebrewery-legacy_gm-binder-markdown.md",
+			"display_name": "homebrewery-legacy_gm-binder-markdown",
+			"status": "Deleted",
+			"diff": "diff --git a/definizioni/template/stat-block/homebrewery-legacy_gm-binder-markdown.md b/definizioni/template/stat-block/homebrewery-legacy_gm-binder-markdown.md\ndeleted file mode 100644\nindex b300588..0000000\n--- a/definizioni/template/stat-block/homebrewery-legacy_gm-binder-markdown.md\n+++ /dev/null\n@@ -1,16 +0,0 @@\n-___\n-> ## Monster\n-> *Medium humanoid, any alignment*\n-> ___\n-> - **Armor Class** 10\n-> - **Hit Points** 22 (5d8)\n-> - **Speed** 30 ft.\n-> ___\n-> |STR|DEX|CON|INT|WIS|CHA|\n-> |:---:|:---:|:---:|:---:|:---:|:---:|\n-> |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|\n-> ___\n-> - **Senses** passive Perception 10\n-> - **Languages** —\n-> - **Challenge** 1 (200 XP)\n-> ___\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/template/stat-block/homebrewery-v3.md",
+			"display_name": "homebrewery-v3",
+			"status": "Deleted",
+			"diff": "diff --git a/definizioni/template/stat-block/homebrewery-v3.md b/definizioni/template/stat-block/homebrewery-v3.md\ndeleted file mode 100644\nindex 7785c30..0000000\n--- a/definizioni/template/stat-block/homebrewery-v3.md\n+++ /dev/null\n@@ -1,18 +0,0 @@\n-{{monster,frame\n-## Mostro\n-*[specie] [taglia], [allineamento]*\n-___   \n-**Armor Class** :: 10   \n-**Hit Points** :: 22 (5d8)   \n-**Speed** :: 30 ft.   \n-___   \n-|STR|DEX|CON|INT|WIS|CHA|\n-|:-:|:-:|:-:|:-:|:-:|:-:|\n-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|\n-___   \n-**Senses** :: passive Perception 10   \n-**Languages** :: \n-___\n-**Challenge** :: 1 (200 XP)   \n-___   \n-}}\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/template/stat-block.md",
+			"display_name": "Stat Block",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
