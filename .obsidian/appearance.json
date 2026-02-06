@@ -2,5 +2,6 @@
   "theme": "system",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 15
 }

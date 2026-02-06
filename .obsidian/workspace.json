@@ -51,8 +51,7 @@
               "title": "saga-di-capodanno-1312"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,25 +218,26 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "d688fa0d08b91dad",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
+    "bash/d2utmpvAtiPA",
+    "bash/d2utmpTG90gL",
+    "saghe/saga-di-capodanno-1312.md",
+    "artefatti/party/artefatto-sintonia-draconica.md",
+    "definizioni/template/stat-block.md",
+    "artefatti/party/artefatto-sussurratore-del-gelo.md",
     "bash/d2utmpJwRtIB",
     "bash/d2utmptF2kU7",
     "bash/d2utmpqJJeBl",
     "bash/d2utmpyQ38Bb",
     "bash/d2utmp33iUU6",
     "bash/d2utmprn9Lih",
-    "artefatti/party/artefatto-sintonia-draconica.md",
-    "definizioni/template/stat-block.md",
     "personaggi/giocanti/pet/kanye-ovest.md",
     "materiale/stat-block/compagno-drago.md",
     "definizioni/template/stat-block/homebrewery-v3.md",
     "bash/d2utmpozmy1Z",
     "bash/d2utmpd72gTK",
     "bash/d2utmp4uehO0",
-    "bash/d2utmp81NLTj",
-    "bash/d2utmpPg0VFU",
-    "saghe/saga-di-capodanno-1312.md",
     "definizioni/template/incantesimi.md",
     "materiale/Senza nome.md",
     "todo.md",
@@ -257,7 +257,6 @@
     "artefatti/party/Drakensyn.avif",
     "artefatti/party/artefatto-dellombra.md",
     "universi/telaranrhiod.md",
-    "CHANGELOG_QUICK_START.md",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",
     "artefatti/party/occhio-di-atos.jpeg",
