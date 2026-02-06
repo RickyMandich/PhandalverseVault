@@ -5,13 +5,6 @@
 		"todo.md": "todo"
 	},
 	"directories": {
-		"abilita": {
-			"original": "Abilità",
-			"files": {
-				"vista-cieca.md": "Vista Cieca"
-			},
-			"directories": {}
-		},
 		"artefatti": {
 			"original": "artefatti",
 			"files": {
@@ -48,7 +41,16 @@
 					"files": {
 						"incantesimi.md": "incantesimi"
 					},
-					"directories": {}
+					"directories": {
+						"stat-block": {
+							"original": "Stat Block",
+							"files": {
+								"homebrewery-legacy_gm-binder-markdown.md": "Homebrewery (Legacy)/GM Binder Markdown",
+								"homebrewery-v3.md": "Homebrewery V3"
+							},
+							"directories": {}
+						}
+					}
 				}
 			}
 		},
@@ -109,103 +111,121 @@
 			},
 			"directories": {}
 		},
-		"incantesimi": {
-			"original": "Incantesimi",
+		"materiale": {
+			"original": "Materiale",
 			"files": {},
 			"directories": {
-				"artefice": {
-					"original": "Artefice",
+				"abilita": {
+					"original": "Abilità",
 					"files": {
-						"dardo-incantato.md": "Dardo Incantato",
-						"frantumare.md": "Frantumare",
-						"fulmine.md": "Fulmine",
-						"immagine-speculare.md": "Immagine Speculare",
-						"invisibilita-superiore.md": "Invisibilita Superiore",
-						"muro-di-forza.md": "Muro Di Forza",
-						"onda-tonante.md": "Onda Tonante",
-						"passapareti.md": "Passapareti",
-						"scudo-di-fuoco.md": "Scudo Di Fuoco",
-						"trama-ipnotica.md": "Trama Ipnotica"
+						"vista-cieca.md": "Vista Cieca"
 					},
 					"directories": {}
 				},
-				"dellombra": {
-					"original": "Dell'Ombra",
-					"files": {
-						"illusione-minore.md": "Illusione Minore",
-						"oscurita.md": "Oscurita",
-						"passare-senza-tracce.md": "Passare Senza Tracce",
-						"scurovisione.md": "Scurovisione",
-						"silenzio.md": "Silenzio"
-					},
-					"directories": {}
+				"incantesimi": {
+					"original": "Incantesimi",
+					"files": {},
+					"directories": {
+						"artefice": {
+							"original": "Artefice",
+							"files": {
+								"dardo-incantato.md": "Dardo Incantato",
+								"frantumare.md": "Frantumare",
+								"fulmine.md": "Fulmine",
+								"immagine-speculare.md": "Immagine Speculare",
+								"invisibilita-superiore.md": "Invisibilita Superiore",
+								"muro-di-forza.md": "Muro Di Forza",
+								"onda-tonante.md": "Onda Tonante",
+								"passapareti.md": "Passapareti",
+								"scudo-di-fuoco.md": "Scudo Di Fuoco",
+								"trama-ipnotica.md": "Trama Ipnotica"
+							},
+							"directories": {}
+						},
+						"dellombra": {
+							"original": "Dellombra",
+							"files": {
+								"illusione-minore.md": "Illusione Minore",
+								"oscurita.md": "Oscurità",
+								"passare-senza-tracce.md": "Passare Senza Tracce",
+								"scurovisione.md": "Scurovisione",
+								"silenzio.md": "Silenzio"
+							},
+							"directories": {}
+						},
+						"necromante": {
+							"original": "Necromante",
+							"files": {
+								"animare-morti.md": "Animare Morti",
+								"barriera-ossea.md": "Barriera Ossea",
+								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
+								"esplosione-cadaverica.md": "Esplosione Cadaverica",
+								"falce-di-ade.md": "Falce Di Ade",
+								"lama-dosso.md": "Lama",
+								"peste-putrida.md": "Peste Putrida",
+								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
+								"radar-osseo.md": "Radar Osseo",
+								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
+								"sciame-di-parassiti.md": "Sciame Di Parassiti",
+								"spine-ossee.md": "Spine Ossee",
+								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista"
+							},
+							"directories": {}
+						},
+						"sussurratore-del-gelo": {
+							"original": "Sussurratore Del Gelo",
+							"files": {
+								"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
+								"folata-di-vento.md": "Folata Di Vento",
+								"silenzio.md": "Silenzio",
+								"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
+								"tempesta-di-nevischio.md": "Tempesta Di Nevischio"
+							},
+							"directories": {}
+						},
+						"tutti": {
+							"original": "Tutti",
+							"files": {
+								"animare-morti.md": "Animare Morti",
+								"barriera-ossea.md": "Barriera Ossea",
+								"dardo-incantato.md": "Dardo Incantato",
+								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
+								"esplosione-cadaverica.md": "Esplosione Cadaverica",
+								"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
+								"falce-di-ade.md": "Falce Di Ade",
+								"folata-di-vento.md": "Folata Di Vento",
+								"frantumare.md": "Frantumare",
+								"fulmine.md": "Fulmine",
+								"illusione-minore.md": "Illusione Minore",
+								"immagine-speculare.md": "Immagine Speculare",
+								"invisibilita-superiore.md": "Invisibilita Superiore",
+								"lama-dosso.md": "Lama",
+								"muro-di-forza.md": "Muro Di Forza",
+								"onda-tonante.md": "Onda Tonante",
+								"oscurita.md": "Oscurità",
+								"passapareti.md": "Passapareti",
+								"passare-senza-tracce.md": "Passare Senza Tracce",
+								"peste-putrida.md": "Peste Putrida",
+								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
+								"radar-osseo.md": "Radar Osseo",
+								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
+								"sciame-di-parassiti.md": "Sciame Di Parassiti",
+								"scudo-di-fuoco.md": "Scudo Di Fuoco",
+								"scurovisione.md": "Scurovisione",
+								"silenzio.md": "Silenzio",
+								"spine-ossee.md": "Spine Ossee",
+								"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
+								"tempesta-di-nevischio.md": "Tempesta Di Nevischio",
+								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
+								"trama-ipnotica.md": "Trama Ipnotica"
+							},
+							"directories": {}
+						}
+					}
 				},
-				"necromante": {
-					"original": "Necromante",
-					"files": {
-						"animare-morti.md": "Animare Morti",
-						"barriera-ossea.md": "Barriera Ossea",
-						"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
-						"esplosione-cadaverica.md": "Esplosione Cadaverica",
-						"falce-di-ade.md": "Falce di Ade",
-						"lama-dosso.md": "Lama D'Osso",
-						"peste-putrida.md": "Peste Putrida",
-						"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
-						"radar-osseo.md": "Radar Osseo",
-						"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
-						"sciame-di-parassiti.md": "Sciame Di Parassiti",
-						"spine-ossee.md": "Spine Ossee",
-						"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista"
-					},
-					"directories": {}
-				},
-				"sussurratore-del-gelo": {
-					"original": "Sussurratore Del Gelo",
-					"files": {
-						"evoca-pioggia-di-armi.md": "Evoca Pioggia di Armi",
-						"folata-di-vento.md": "Folata di Vento",
-						"silenzio.md": "Silenzio",
-						"tempesta-di-ghiaccio.md": "Tempesta di Ghiaccio",
-						"tempesta-di-nevischio.md": "Tempesta di Nevischio"
-					},
-					"directories": {}
-				},
-				"tutti": {
-					"original": "Tutti",
-					"files": {
-						"animare-morti.md": "Animare Morti",
-						"barriera-ossea.md": "Barriera Ossea",
-						"dardo-incantato.md": "Dardo Incantato",
-						"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
-						"esplosione-cadaverica.md": "Esplosione Cadaverica",
-						"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
-						"falce-di-ade.md": "Falce di Ade",
-						"folata-di-vento.md": "Folata Di Vento",
-						"frantumare.md": "Frantumare",
-						"fulmine.md": "Fulmine",
-						"illusione-minore.md": "Illusione Minore",
-						"immagine-speculare.md": "Immagine Speculare",
-						"invisibilita-superiore.md": "Invisibilita Superiore",
-						"lama-dosso.md": "Lama D'Osso",
-						"muro-di-forza.md": "Muro Di Forza",
-						"onda-tonante.md": "Onda Tonante",
-						"oscurita.md": "Oscurita",
-						"passapareti.md": "Passapareti",
-						"passare-senza-tracce.md": "Passare Senza Tracce",
-						"peste-putrida.md": "Peste Putrida",
-						"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
-						"radar-osseo.md": "Radar Osseo",
-						"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
-						"sciame-di-parassiti.md": "Sciame Di Parassiti",
-						"scudo-di-fuoco.md": "Scudo Di Fuoco",
-						"scurovisione.md": "Scurovisione",
-						"silenzio.md": "Silenzio",
-						"spine-ossee.md": "Spine Ossee",
-						"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
-						"tempesta-di-nevischio.md": "Tempesta Di Nevischio",
-						"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
-						"trama-ipnotica.md": "Trama Ipnotica"
-					},
+				"stat-block": {
+					"original": "Stat Block",
+					"files": {},
 					"directories": {}
 				}
 			}
@@ -329,22 +349,22 @@
 				"moduli-non-usati": {
 					"original": "Moduli non usati",
 					"files": {},
+					"directories": {}
+				},
+				"moduli-usati": {
+					"original": "Moduli usati",
+					"files": {},
 					"directories": {
 						"capodanno1": {
-							"original": "Capodanno 1",
+							"original": "Capodanno1",
 							"files": {
-								"capodanno1-boss.md": "Capodanno1 Boss",
+								"capodanno1-boss.md": "Capodanno1 - Boss",
 								"capodanno1-minion.md": "Capodanno1 Minion",
 								"capodanno1.md": "Capodanno1"
 							},
 							"directories": {}
 						}
 					}
-				},
-				"moduli-usati": {
-					"original": "Moduli usati",
-					"files": {},
-					"directories": {}
 				}
 			}
 		},

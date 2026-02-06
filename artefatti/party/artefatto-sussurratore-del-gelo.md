@@ -272,11 +272,11 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-![[incantesimi/tutti/folata-di-vento]]
-![[incantesimi/tutti/silenzio]]
-![[incantesimi/tutti/tempesta-di-nevischio]]
-![[incantesimi/tutti/tempesta-di-ghiaccio]]
-![[incantesimi/tutti/evoca-pioggia-di-armi]]
+![[materiale/incantesimi/tutti/folata-di-vento]]
+![[materiale/incantesimi/tutti/silenzio]]
+![[materiale/incantesimi/tutti/tempesta-di-nevischio]]
+![[materiale/incantesimi/tutti/tempesta-di-ghiaccio]]
+![[materiale/incantesimi/tutti/evoca-pioggia-di-armi]]
 ## lista ranger
 inoltre disponi di tutti gli incantesimi presenti nella lista del [ranger](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)
 se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM

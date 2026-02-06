@@ -1,1 +1,0 @@
-![[dardo-incantato]]

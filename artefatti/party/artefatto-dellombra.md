@@ -4,14 +4,14 @@ si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord
 
 ---
 # arti dell'ombra
-il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare gli incantesimi [[incantesimi/tutti/oscurita|oscurita]],[[incantesimi/tutti/passare-senza-tracce|passare-senza-tracce]], [[incantesimi/tutti/scurovisione|scurovisione]] o [[incantesimi/tutti/silenzio|silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[incantesimi/tutti/illusione-minore|illusione minore]], se già non lo conosceva.
-![[incantesimi/tutti/oscurita]]
-![[incantesimi/tutti/passare-senza-tracce]]
-![[incantesimi/tutti/scurovisione]]
-![[incantesimi/tutti/silenzio]]
-![[incantesimi/tutti/illusione-minore]]
+il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare gli incantesimi [[materiale/incantesimi/tutti/oscurita|oscurita]],[[materiale/incantesimi/tutti/passare-senza-tracce|passare-senza-tracce]], [[materiale/incantesimi/tutti/scurovisione|scurovisione]] o [[materiale/incantesimi/tutti/silenzio|silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[materiale/incantesimi/tutti/illusione-minore|illusione minore]], se già non lo conosceva.
+![[materiale/incantesimi/tutti/oscurita]]
+![[materiale/incantesimi/tutti/passare-senza-tracce]]
+![[materiale/incantesimi/tutti/scurovisione]]
+![[materiale/incantesimi/tutti/silenzio]]
+![[materiale/incantesimi/tutti/illusione-minore]]
 # visione dell'ombra
-quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.
+quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.
 
 ---
 # passo dell'ombra

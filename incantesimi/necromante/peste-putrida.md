@@ -1,1 +1,0 @@
-![[incantesimi/tutti/peste-putrida]]

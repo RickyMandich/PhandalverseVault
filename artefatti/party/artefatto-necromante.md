@@ -553,19 +553,19 @@ tabella esplicativa:
 	</tbody>
 </table>
 
-![[incantesimi/tutti/sciame-di-parassiti]]
-![[incantesimi/tutti/falce-di-ade]]
-![[incantesimi/tutti/peste-putrida]]
-![[incantesimi/tutti/lama-dosso]]
-![[incantesimi/tutti/tocco-del-vampiro-occultista]]
-![[incantesimi/tutti/spine-ossee]]
-![[incantesimi/tutti/radar-osseo]]
-![[incantesimi/tutti/esoscheletro-transitorio]]
-![[incantesimi/tutti/barriera-ossea]]
-![[incantesimi/tutti/ricrescita-scheletrica]]
-![[incantesimi/tutti/pioggia-di-frammenti]]
-![[incantesimi/tutti/animare-morti]]
-![[incantesimi/tutti/esplosione-cadaverica]]
+![[materiale/incantesimi/tutti/sciame-di-parassiti]]
+![[materiale/incantesimi/tutti/falce-di-ade]]
+![[materiale/incantesimi/tutti/peste-putrida]]
+![[materiale/incantesimi/tutti/lama-dosso]]
+![[materiale/incantesimi/tutti/tocco-del-vampiro-occultista]]
+![[materiale/incantesimi/tutti/spine-ossee]]
+![[materiale/incantesimi/tutti/radar-osseo]]
+![[materiale/incantesimi/tutti/esoscheletro-transitorio]]
+![[materiale/incantesimi/tutti/barriera-ossea]]
+![[materiale/incantesimi/tutti/ricrescita-scheletrica]]
+![[materiale/incantesimi/tutti/pioggia-di-frammenti]]
+![[materiale/incantesimi/tutti/animare-morti]]
+![[materiale/incantesimi/tutti/esplosione-cadaverica]]
 ## lista necromante
 inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)
 se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM

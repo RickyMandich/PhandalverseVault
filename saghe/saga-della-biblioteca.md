@@ -12,3 +12,7 @@ scoprono che questo gufo è un entità un'entità molto antica che segue la cono
 scoprono inoltre che [[nonno-roshi|roshi]] e [[asmodeus]] sono stati suoi studenti e che nella biblioteca è presente almeno una copia di ogni libro esistente.
 una volta entrati cercano dei libri per informarsi su [[atlantide]] (durante la [[saga-di-merfolk]] avevano capito che il portale si trova lì)
 poi trovano anche il pezzo di artefatto e tornano a [[gemgrave]]
+### xp
+nemici sconfitti: nessuno
+totale xp: 500 (riscoperta di lore varia)
+tutti i giocatori prendono 100 punti esperienza
