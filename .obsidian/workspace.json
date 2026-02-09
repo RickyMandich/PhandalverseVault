@@ -51,7 +51,8 @@
               "title": "saga-di-capodanno-1312"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +219,7 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "3e6228d859635414",
+  "active": "d688fa0d08b91dad",
   "lastOpenFiles": [
     "bash/d2utmpvAtiPA",
     "bash/d2utmpTG90gL",
