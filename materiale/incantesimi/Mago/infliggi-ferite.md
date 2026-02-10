@@ -1,1 +1,1 @@
-![[tutti/infliggi-ferite]]
+![[materiale/incantesimi/tutti/infliggi-ferite]]

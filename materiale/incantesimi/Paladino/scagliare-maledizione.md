@@ -1,1 +1,1 @@
-![[tutti/scagliare-maledizione]]
+![[materiale/incantesimi/tutti/scagliare-maledizione]]

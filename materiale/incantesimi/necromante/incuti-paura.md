@@ -1,1 +1,1 @@
-![[tutti/incuti-paura]]
+![[materiale/incantesimi/tutti/incuti-paura]]

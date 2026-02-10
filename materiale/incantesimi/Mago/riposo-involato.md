@@ -1,1 +1,1 @@
-![[tutti/riposo-involato]]
+![[materiale/incantesimi/tutti/riposo-involato]]

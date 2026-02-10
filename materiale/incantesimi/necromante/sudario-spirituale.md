@@ -1,1 +1,1 @@
-![[tutti/sudario-spirituale]]
+![[materiale/incantesimi/tutti/sudario-spirituale]]

@@ -1,1 +1,1 @@
-![[tutti/contagio]]
+![[materiale/incantesimi/tutti/contagio]]

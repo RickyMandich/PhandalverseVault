@@ -1,1 +1,1 @@
-![[tutti/rintocco-dei-morti]]
+![[materiale/incantesimi/tutti/rintocco-dei-morti]]

@@ -1,1 +1,1 @@
-![[tutti/inaridire]]
+![[materiale/incantesimi/tutti/inaridire]]

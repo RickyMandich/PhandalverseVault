@@ -1,1 +1,1 @@
-![[tutti/ombra-di-moil]]
+![[materiale/incantesimi/tutti/ombra-di-moil]]

@@ -1,1 +1,1 @@
-![[tutti/parlare-con-i-morti]]
+![[materiale/incantesimi/tutti/parlare-con-i-morti]]

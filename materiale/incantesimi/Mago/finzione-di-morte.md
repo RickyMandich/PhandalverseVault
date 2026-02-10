@@ -1,1 +1,1 @@
-![[tutti/finzione-di-morte]]
+![[materiale/incantesimi/tutti/finzione-di-morte]]

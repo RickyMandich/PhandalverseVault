@@ -1,1 +1,1 @@
-![[tutti/deprivazione-sensoriale]]
+![[materiale/incantesimi/tutti/deprivazione-sensoriale]]

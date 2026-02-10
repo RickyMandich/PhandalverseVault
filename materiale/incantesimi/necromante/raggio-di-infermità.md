@@ -1,1 +1,1 @@
-![[tutti/raggio-di-infermità]]
+![[materiale/incantesimi/tutti/raggio-di-infermità]]

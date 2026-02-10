@@ -1,1 +1,1 @@
-![[tutti/raggio-di-affaticamento]]
+![[materiale/incantesimi/tutti/raggio-di-affaticamento]]

@@ -1,1 +1,1 @@
-![[tutti/trasferimento-vitale]]
+![[materiale/incantesimi/tutti/trasferimento-vitale]]

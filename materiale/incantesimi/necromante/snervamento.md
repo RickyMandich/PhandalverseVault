@@ -1,1 +1,1 @@
-![[tutti/snervamento]]
+![[materiale/incantesimi/tutti/snervamento]]

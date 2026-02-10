@@ -1,1 +1,1 @@
-![[tutti/rianimare-morti]]
+![[materiale/incantesimi/tutti/rianimare-morti]]

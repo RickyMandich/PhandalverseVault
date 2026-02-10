@@ -1,1 +1,1 @@
-![[tutti/salvare-i-morenti]]
+![[materiale/incantesimi/tutti/salvare-i-morenti]]

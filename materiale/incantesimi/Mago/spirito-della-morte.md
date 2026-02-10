@@ -1,1 +1,1 @@
-![[tutti/spirito-della-morte]]
+![[materiale/incantesimi/tutti/spirito-della-morte]]

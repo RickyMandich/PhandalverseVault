@@ -1,1 +1,1 @@
-![[tutti/evoca-non-morti]]
+![[materiale/incantesimi/tutti/evoca-non-morti]]

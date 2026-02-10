@@ -1,1 +1,1 @@
-![[tutti/flusso-di-energia-negativa]]
+![[materiale/incantesimi/tutti/flusso-di-energia-negativa]]

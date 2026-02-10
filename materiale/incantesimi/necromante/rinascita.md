@@ -1,1 +1,1 @@
-![[tutti/rinascita]]
+![[materiale/incantesimi/tutti/rinascita]]

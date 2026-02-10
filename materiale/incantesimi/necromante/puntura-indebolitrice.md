@@ -1,1 +1,1 @@
-![[tutti/puntura-indebolitrice]]
+![[materiale/incantesimi/tutti/puntura-indebolitrice]]

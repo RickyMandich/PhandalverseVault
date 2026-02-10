@@ -1,1 +1,1 @@
-![[tutti/danza-macabra]]
+![[materiale/incantesimi/tutti/danza-macabra]]

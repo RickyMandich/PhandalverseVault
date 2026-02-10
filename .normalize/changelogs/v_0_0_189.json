@@ -1,0 +1,356 @@
+{
+	"version": "v 0.0.189",
+	"date": "2026-02-10 14:18:00",
+	"commit_hash": "323b08e93644bca2d5c0c41b803a4b27f587e725",
+	"commit_message": "aggiornamento 2026 02 10 14:18 [v 0.0.189]",
+	"changes": [
+		{
+			"file": "materiale/incantesimi/Chierico/rianimare-morti.md",
+			"display_name": "rianimare-morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Chierico/rianimare-morti.md b/materiale/incantesimi/Chierico/rianimare-morti.md\nindex 957f9ed..16ea0fe 100644\n--- a/materiale/incantesimi/Chierico/rianimare-morti.md\n+++ b/materiale/incantesimi/Chierico/rianimare-morti.md\n@@ -1 +1 @@\n-![[tutti/rianimare-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/rianimare-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Chierico/scagliare-maledizione.md",
+			"display_name": "scagliare-maledizione",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Chierico/scagliare-maledizione.md b/materiale/incantesimi/Chierico/scagliare-maledizione.md\nindex 48cc622..7f95f82 100644\n--- a/materiale/incantesimi/Chierico/scagliare-maledizione.md\n+++ b/materiale/incantesimi/Chierico/scagliare-maledizione.md\n@@ -1 +1 @@\n-![[tutti/scagliare-maledizione]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/scagliare-maledizione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Druido/appassire-e-fiorire.md",
+			"display_name": "appassire-e-fiorire",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Druido/appassire-e-fiorire.md b/materiale/incantesimi/Druido/appassire-e-fiorire.md\nindex 24f4d72..6a708d8 100644\n--- a/materiale/incantesimi/Druido/appassire-e-fiorire.md\n+++ b/materiale/incantesimi/Druido/appassire-e-fiorire.md\n@@ -1 +1 @@\n-![[tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/appassire-e-fiorire.md",
+			"display_name": "appassire-e-fiorire",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/appassire-e-fiorire.md b/materiale/incantesimi/Mago/appassire-e-fiorire.md\nindex 24f4d72..6a708d8 100644\n--- a/materiale/incantesimi/Mago/appassire-e-fiorire.md\n+++ b/materiale/incantesimi/Mago/appassire-e-fiorire.md\n@@ -1 +1 @@\n-![[tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/contagio.md",
+			"display_name": "contagio",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/contagio.md b/materiale/incantesimi/Mago/contagio.md\nindex 97844aa..3c8917d 100644\n--- a/materiale/incantesimi/Mago/contagio.md\n+++ b/materiale/incantesimi/Mago/contagio.md\n@@ -1 +1 @@\n-![[tutti/contagio]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/contagio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/danza-macabra.md",
+			"display_name": "danza-macabra",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/danza-macabra.md b/materiale/incantesimi/Mago/danza-macabra.md\nindex 7b8494a..3b24f84 100644\n--- a/materiale/incantesimi/Mago/danza-macabra.md\n+++ b/materiale/incantesimi/Mago/danza-macabra.md\n@@ -1 +1 @@\n-![[tutti/danza-macabra]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/danza-macabra]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/deprivazione-sensoriale.md",
+			"display_name": "deprivazione-sensoriale",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/deprivazione-sensoriale.md b/materiale/incantesimi/Mago/deprivazione-sensoriale.md\nindex d00e7b8..0f4a8df 100644\n--- a/materiale/incantesimi/Mago/deprivazione-sensoriale.md\n+++ b/materiale/incantesimi/Mago/deprivazione-sensoriale.md\n@@ -1 +1 @@\n-![[tutti/deprivazione-sensoriale]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/deprivazione-sensoriale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/evoca-non-morti.md",
+			"display_name": "evoca-non-morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/evoca-non-morti.md b/materiale/incantesimi/Mago/evoca-non-morti.md\nindex 8ad5040..68c4f6a 100644\n--- a/materiale/incantesimi/Mago/evoca-non-morti.md\n+++ b/materiale/incantesimi/Mago/evoca-non-morti.md\n@@ -1 +1 @@\n-![[tutti/evoca-non-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/evoca-non-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/finzione-di-morte.md",
+			"display_name": "finzione-di-morte",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/finzione-di-morte.md b/materiale/incantesimi/Mago/finzione-di-morte.md\nindex 9d6e9b7..67f8ae2 100644\n--- a/materiale/incantesimi/Mago/finzione-di-morte.md\n+++ b/materiale/incantesimi/Mago/finzione-di-morte.md\n@@ -1 +1 @@\n-![[tutti/finzione-di-morte]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/finzione-di-morte]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/flusso-di-energia-negativa.md",
+			"display_name": "flusso-di-energia-negativa",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/flusso-di-energia-negativa.md b/materiale/incantesimi/Mago/flusso-di-energia-negativa.md\nindex 45134af..00a5eb6 100644\n--- a/materiale/incantesimi/Mago/flusso-di-energia-negativa.md\n+++ b/materiale/incantesimi/Mago/flusso-di-energia-negativa.md\n@@ -1 +1 @@\n-![[tutti/flusso-di-energia-negativa]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/flusso-di-energia-negativa]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/inaridire.md",
+			"display_name": "inaridire",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/inaridire.md b/materiale/incantesimi/Mago/inaridire.md\nindex f33d921..c05a38b 100644\n--- a/materiale/incantesimi/Mago/inaridire.md\n+++ b/materiale/incantesimi/Mago/inaridire.md\n@@ -1 +1 @@\n-![[tutti/inaridire]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/inaridire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/incuti-paura.md",
+			"display_name": "incuti-paura",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/incuti-paura.md b/materiale/incantesimi/Mago/incuti-paura.md\nindex 0e88122..2735d3c 100644\n--- a/materiale/incantesimi/Mago/incuti-paura.md\n+++ b/materiale/incantesimi/Mago/incuti-paura.md\n@@ -1 +1 @@\n-![[tutti/incuti-paura]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/incuti-paura]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/infliggi-ferite.md",
+			"display_name": "infliggi-ferite",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/infliggi-ferite.md b/materiale/incantesimi/Mago/infliggi-ferite.md\nindex 71a35da..1f62bac 100644\n--- a/materiale/incantesimi/Mago/infliggi-ferite.md\n+++ b/materiale/incantesimi/Mago/infliggi-ferite.md\n@@ -1 +1 @@\n-![[tutti/infliggi-ferite]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/infliggi-ferite]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/ombra-di-moil.md",
+			"display_name": "ombra-di-moil",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/ombra-di-moil.md b/materiale/incantesimi/Mago/ombra-di-moil.md\nindex fc306f3..a74cb8e 100644\n--- a/materiale/incantesimi/Mago/ombra-di-moil.md\n+++ b/materiale/incantesimi/Mago/ombra-di-moil.md\n@@ -1 +1 @@\n-![[tutti/ombra-di-moil]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/ombra-di-moil]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/parlare-con-i-morti.md",
+			"display_name": "parlare-con-i-morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/parlare-con-i-morti.md b/materiale/incantesimi/Mago/parlare-con-i-morti.md\nindex badbaa5..ae045b9 100644\n--- a/materiale/incantesimi/Mago/parlare-con-i-morti.md\n+++ b/materiale/incantesimi/Mago/parlare-con-i-morti.md\n@@ -1 +1 @@\n-![[tutti/parlare-con-i-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/parlare-con-i-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/puntura-indebolitrice.md",
+			"display_name": "puntura-indebolitrice",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/puntura-indebolitrice.md b/materiale/incantesimi/Mago/puntura-indebolitrice.md\nindex dfb6a25..5c91d93 100644\n--- a/materiale/incantesimi/Mago/puntura-indebolitrice.md\n+++ b/materiale/incantesimi/Mago/puntura-indebolitrice.md\n@@ -1 +1 @@\n-![[tutti/puntura-indebolitrice]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/puntura-indebolitrice]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/raggio-di-affaticamento.md",
+			"display_name": "raggio-di-affaticamento",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/raggio-di-affaticamento.md b/materiale/incantesimi/Mago/raggio-di-affaticamento.md\nindex 7b3a139..5390f64 100644\n--- a/materiale/incantesimi/Mago/raggio-di-affaticamento.md\n+++ b/materiale/incantesimi/Mago/raggio-di-affaticamento.md\n@@ -1 +1 @@\n-![[tutti/raggio-di-affaticamento]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/raggio-di-affaticamento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/rianimare-morti.md",
+			"display_name": "rianimare-morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/rianimare-morti.md b/materiale/incantesimi/Mago/rianimare-morti.md\nindex 957f9ed..16ea0fe 100644\n--- a/materiale/incantesimi/Mago/rianimare-morti.md\n+++ b/materiale/incantesimi/Mago/rianimare-morti.md\n@@ -1 +1 @@\n-![[tutti/rianimare-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/rianimare-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/rinascita.md",
+			"display_name": "rinascita",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/rinascita.md b/materiale/incantesimi/Mago/rinascita.md\nindex 1383bdd..6dd006a 100644\n--- a/materiale/incantesimi/Mago/rinascita.md\n+++ b/materiale/incantesimi/Mago/rinascita.md\n@@ -1 +1 @@\n-![[tutti/rinascita]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/rinascita]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/rintocco-dei-morti.md",
+			"display_name": "rintocco-dei-morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/rintocco-dei-morti.md b/materiale/incantesimi/Mago/rintocco-dei-morti.md\nindex 0350cbf..614c2bf 100644\n--- a/materiale/incantesimi/Mago/rintocco-dei-morti.md\n+++ b/materiale/incantesimi/Mago/rintocco-dei-morti.md\n@@ -1 +1 @@\n-![[tutti/rintocco-dei-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/rintocco-dei-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/riposo-involato.md",
+			"display_name": "riposo-involato",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/riposo-involato.md b/materiale/incantesimi/Mago/riposo-involato.md\nindex 74da0ac..478f084 100644\n--- a/materiale/incantesimi/Mago/riposo-involato.md\n+++ b/materiale/incantesimi/Mago/riposo-involato.md\n@@ -1 +1 @@\n-![[tutti/riposo-involato]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/riposo-involato]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/salvare-i-morenti.md",
+			"display_name": "salvare-i-morenti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/salvare-i-morenti.md b/materiale/incantesimi/Mago/salvare-i-morenti.md\nindex 052b915..4c5814d 100644\n--- a/materiale/incantesimi/Mago/salvare-i-morenti.md\n+++ b/materiale/incantesimi/Mago/salvare-i-morenti.md\n@@ -1 +1 @@\n-![[tutti/salvare-i-morenti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/salvare-i-morenti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/scagliare-maledizione.md",
+			"display_name": "scagliare-maledizione",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/scagliare-maledizione.md b/materiale/incantesimi/Mago/scagliare-maledizione.md\nindex 48cc622..7f95f82 100644\n--- a/materiale/incantesimi/Mago/scagliare-maledizione.md\n+++ b/materiale/incantesimi/Mago/scagliare-maledizione.md\n@@ -1 +1 @@\n-![[tutti/scagliare-maledizione]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/scagliare-maledizione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/snervamento.md",
+			"display_name": "snervamento",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/snervamento.md b/materiale/incantesimi/Mago/snervamento.md\nindex 9356315..1cd03df 100644\n--- a/materiale/incantesimi/Mago/snervamento.md\n+++ b/materiale/incantesimi/Mago/snervamento.md\n@@ -1 +1 @@\n-![[tutti/snervamento]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/snervamento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/spirito-della-morte.md",
+			"display_name": "spirito-della-morte",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/spirito-della-morte.md b/materiale/incantesimi/Mago/spirito-della-morte.md\nindex d2f6cbf..f8a0e85 100644\n--- a/materiale/incantesimi/Mago/spirito-della-morte.md\n+++ b/materiale/incantesimi/Mago/spirito-della-morte.md\n@@ -1 +1 @@\n-![[tutti/spirito-della-morte]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/spirito-della-morte]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/sudario-spirituale.md",
+			"display_name": "sudario-spirituale",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/sudario-spirituale.md b/materiale/incantesimi/Mago/sudario-spirituale.md\nindex a4755ee..2941fd9 100644\n--- a/materiale/incantesimi/Mago/sudario-spirituale.md\n+++ b/materiale/incantesimi/Mago/sudario-spirituale.md\n@@ -1 +1 @@\n-![[tutti/sudario-spirituale]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/sudario-spirituale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/tocco-gelido.md",
+			"display_name": "tocco-gelido",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/tocco-gelido.md b/materiale/incantesimi/Mago/tocco-gelido.md\nindex 5c9265c..1a5790d 100644\n--- a/materiale/incantesimi/Mago/tocco-gelido.md\n+++ b/materiale/incantesimi/Mago/tocco-gelido.md\n@@ -1 +1 @@\n-![[tutti/tocco-gelido]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/tocco-gelido]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/trasferimento-vitale.md",
+			"display_name": "trasferimento-vitale",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/trasferimento-vitale.md b/materiale/incantesimi/Mago/trasferimento-vitale.md\nindex 477330d..c34f5f3 100644\n--- a/materiale/incantesimi/Mago/trasferimento-vitale.md\n+++ b/materiale/incantesimi/Mago/trasferimento-vitale.md\n@@ -1 +1 @@\n-![[tutti/trasferimento-vitale]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/trasferimento-vitale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/vita-falsata.md",
+			"display_name": "vita-falsata",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Mago/vita-falsata.md b/materiale/incantesimi/Mago/vita-falsata.md\nindex f851d03..64ec131 100644\n--- a/materiale/incantesimi/Mago/vita-falsata.md\n+++ b/materiale/incantesimi/Mago/vita-falsata.md\n@@ -1 +1 @@\n-![[tutti/vita-falsata]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/vita-falsata]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Paladino/scagliare-maledizione.md",
+			"display_name": "scagliare-maledizione",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Paladino/scagliare-maledizione.md b/materiale/incantesimi/Paladino/scagliare-maledizione.md\nindex 48cc622..7f95f82 100644\n--- a/materiale/incantesimi/Paladino/scagliare-maledizione.md\n+++ b/materiale/incantesimi/Paladino/scagliare-maledizione.md\n@@ -1 +1 @@\n-![[tutti/scagliare-maledizione]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/scagliare-maledizione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Ranger/appassire-e-fiorire.md",
+			"display_name": "appassire-e-fiorire",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Ranger/appassire-e-fiorire.md b/materiale/incantesimi/Ranger/appassire-e-fiorire.md\nindex 24f4d72..6a708d8 100644\n--- a/materiale/incantesimi/Ranger/appassire-e-fiorire.md\n+++ b/materiale/incantesimi/Ranger/appassire-e-fiorire.md\n@@ -1 +1 @@\n-![[tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/Warlock/scagliare-maledizione.md",
+			"display_name": "scagliare-maledizione",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/Warlock/scagliare-maledizione.md b/materiale/incantesimi/Warlock/scagliare-maledizione.md\nindex 48cc622..7f95f82 100644\n--- a/materiale/incantesimi/Warlock/scagliare-maledizione.md\n+++ b/materiale/incantesimi/Warlock/scagliare-maledizione.md\n@@ -1 +1 @@\n-![[tutti/scagliare-maledizione]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/scagliare-maledizione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/ombra-di-moil.md",
+			"display_name": "Ombra Di Moil",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/dellombra/ombra-di-moil.md b/materiale/incantesimi/dellombra/ombra-di-moil.md\nindex fc306f3..a74cb8e 100644\n--- a/materiale/incantesimi/dellombra/ombra-di-moil.md\n+++ b/materiale/incantesimi/dellombra/ombra-di-moil.md\n@@ -1 +1 @@\n-![[tutti/ombra-di-moil]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/ombra-di-moil]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/appassire-e-fiorire.md",
+			"display_name": "Appassire e Fiorire",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/appassire-e-fiorire.md b/materiale/incantesimi/necromante/appassire-e-fiorire.md\nindex 24f4d72..6a708d8 100644\n--- a/materiale/incantesimi/necromante/appassire-e-fiorire.md\n+++ b/materiale/incantesimi/necromante/appassire-e-fiorire.md\n@@ -1 +1 @@\n-![[tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/contagio.md",
+			"display_name": "Contagio",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/contagio.md b/materiale/incantesimi/necromante/contagio.md\nindex 97844aa..3c8917d 100644\n--- a/materiale/incantesimi/necromante/contagio.md\n+++ b/materiale/incantesimi/necromante/contagio.md\n@@ -1 +1 @@\n-![[tutti/contagio]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/contagio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/danza-macabra.md",
+			"display_name": "Danza Macabra",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/danza-macabra.md b/materiale/incantesimi/necromante/danza-macabra.md\nindex 7b8494a..3b24f84 100644\n--- a/materiale/incantesimi/necromante/danza-macabra.md\n+++ b/materiale/incantesimi/necromante/danza-macabra.md\n@@ -1 +1 @@\n-![[tutti/danza-macabra]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/danza-macabra]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/deprivazione-sensoriale.md",
+			"display_name": "Deprivazione Sensoriale",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/deprivazione-sensoriale.md b/materiale/incantesimi/necromante/deprivazione-sensoriale.md\nindex d00e7b8..0f4a8df 100644\n--- a/materiale/incantesimi/necromante/deprivazione-sensoriale.md\n+++ b/materiale/incantesimi/necromante/deprivazione-sensoriale.md\n@@ -1 +1 @@\n-![[tutti/deprivazione-sensoriale]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/deprivazione-sensoriale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/evoca-non-morti.md",
+			"display_name": "Evoca Non Morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/evoca-non-morti.md b/materiale/incantesimi/necromante/evoca-non-morti.md\nindex 8ad5040..68c4f6a 100644\n--- a/materiale/incantesimi/necromante/evoca-non-morti.md\n+++ b/materiale/incantesimi/necromante/evoca-non-morti.md\n@@ -1 +1 @@\n-![[tutti/evoca-non-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/evoca-non-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/finzione-di-morte.md",
+			"display_name": "Finzione di Morte",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/finzione-di-morte.md b/materiale/incantesimi/necromante/finzione-di-morte.md\nindex 9d6e9b7..67f8ae2 100644\n--- a/materiale/incantesimi/necromante/finzione-di-morte.md\n+++ b/materiale/incantesimi/necromante/finzione-di-morte.md\n@@ -1 +1 @@\n-![[tutti/finzione-di-morte]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/finzione-di-morte]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/flusso-di-energia-negativa.md",
+			"display_name": "Flusso di Energia Negativa",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/flusso-di-energia-negativa.md b/materiale/incantesimi/necromante/flusso-di-energia-negativa.md\nindex 45134af..00a5eb6 100644\n--- a/materiale/incantesimi/necromante/flusso-di-energia-negativa.md\n+++ b/materiale/incantesimi/necromante/flusso-di-energia-negativa.md\n@@ -1 +1 @@\n-![[tutti/flusso-di-energia-negativa]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/flusso-di-energia-negativa]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/inaridire.md",
+			"display_name": "Inaridire",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/inaridire.md b/materiale/incantesimi/necromante/inaridire.md\nindex f33d921..c05a38b 100644\n--- a/materiale/incantesimi/necromante/inaridire.md\n+++ b/materiale/incantesimi/necromante/inaridire.md\n@@ -1 +1 @@\n-![[tutti/inaridire]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/inaridire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/incuti-paura.md",
+			"display_name": "Incuti Paura",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/incuti-paura.md b/materiale/incantesimi/necromante/incuti-paura.md\nindex 0e88122..2735d3c 100644\n--- a/materiale/incantesimi/necromante/incuti-paura.md\n+++ b/materiale/incantesimi/necromante/incuti-paura.md\n@@ -1 +1 @@\n-![[tutti/incuti-paura]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/incuti-paura]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/infliggi-ferite.md",
+			"display_name": "Infliggi Ferite",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/infliggi-ferite.md b/materiale/incantesimi/necromante/infliggi-ferite.md\nindex 71a35da..1f62bac 100644\n--- a/materiale/incantesimi/necromante/infliggi-ferite.md\n+++ b/materiale/incantesimi/necromante/infliggi-ferite.md\n@@ -1 +1 @@\n-![[tutti/infliggi-ferite]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/infliggi-ferite]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/ombra-di-moil.md",
+			"display_name": "Ombra Di Moil",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/ombra-di-moil.md b/materiale/incantesimi/necromante/ombra-di-moil.md\nindex fc306f3..a74cb8e 100644\n--- a/materiale/incantesimi/necromante/ombra-di-moil.md\n+++ b/materiale/incantesimi/necromante/ombra-di-moil.md\n@@ -1 +1 @@\n-![[tutti/ombra-di-moil]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/ombra-di-moil]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/parlare-con-i-morti.md",
+			"display_name": "Parlare con i Morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/parlare-con-i-morti.md b/materiale/incantesimi/necromante/parlare-con-i-morti.md\nindex badbaa5..ae045b9 100644\n--- a/materiale/incantesimi/necromante/parlare-con-i-morti.md\n+++ b/materiale/incantesimi/necromante/parlare-con-i-morti.md\n@@ -1 +1 @@\n-![[tutti/parlare-con-i-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/parlare-con-i-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/puntura-indebolitrice.md",
+			"display_name": "Puntura Indebolitrice",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/puntura-indebolitrice.md b/materiale/incantesimi/necromante/puntura-indebolitrice.md\nindex dfb6a25..5c91d93 100644\n--- a/materiale/incantesimi/necromante/puntura-indebolitrice.md\n+++ b/materiale/incantesimi/necromante/puntura-indebolitrice.md\n@@ -1 +1 @@\n-![[tutti/puntura-indebolitrice]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/puntura-indebolitrice]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/raggio-di-affaticamento.md",
+			"display_name": "Raggio di Affaticamento",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/raggio-di-affaticamento.md b/materiale/incantesimi/necromante/raggio-di-affaticamento.md\nindex 7b3a139..5390f64 100644\n--- a/materiale/incantesimi/necromante/raggio-di-affaticamento.md\n+++ b/materiale/incantesimi/necromante/raggio-di-affaticamento.md\n@@ -1 +1 @@\n-![[tutti/raggio-di-affaticamento]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/raggio-di-affaticamento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rinascita.md",
+			"display_name": "Rinascita",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/rinascita.md b/materiale/incantesimi/necromante/rinascita.md\nindex 1383bdd..6dd006a 100644\n--- a/materiale/incantesimi/necromante/rinascita.md\n+++ b/materiale/incantesimi/necromante/rinascita.md\n@@ -1 +1 @@\n-![[tutti/rinascita]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/rinascita]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rintocco-dei-morti.md",
+			"display_name": "Rintocco dei Morti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/rintocco-dei-morti.md b/materiale/incantesimi/necromante/rintocco-dei-morti.md\nindex 0350cbf..614c2bf 100644\n--- a/materiale/incantesimi/necromante/rintocco-dei-morti.md\n+++ b/materiale/incantesimi/necromante/rintocco-dei-morti.md\n@@ -1 +1 @@\n-![[tutti/rintocco-dei-morti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/rintocco-dei-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/riposo-involato.md",
+			"display_name": "Riposo Involato",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/riposo-involato.md b/materiale/incantesimi/necromante/riposo-involato.md\nindex 74da0ac..478f084 100644\n--- a/materiale/incantesimi/necromante/riposo-involato.md\n+++ b/materiale/incantesimi/necromante/riposo-involato.md\n@@ -1 +1 @@\n-![[tutti/riposo-involato]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/riposo-involato]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/salvare-i-morenti.md",
+			"display_name": "Salvare i Morenti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/salvare-i-morenti.md b/materiale/incantesimi/necromante/salvare-i-morenti.md\nindex 052b915..4c5814d 100644\n--- a/materiale/incantesimi/necromante/salvare-i-morenti.md\n+++ b/materiale/incantesimi/necromante/salvare-i-morenti.md\n@@ -1 +1 @@\n-![[tutti/salvare-i-morenti]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/salvare-i-morenti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/scagliare-maledizione.md",
+			"display_name": "Scagliare Maledizione",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/scagliare-maledizione.md b/materiale/incantesimi/necromante/scagliare-maledizione.md\nindex 48cc622..7f95f82 100644\n--- a/materiale/incantesimi/necromante/scagliare-maledizione.md\n+++ b/materiale/incantesimi/necromante/scagliare-maledizione.md\n@@ -1 +1 @@\n-![[tutti/scagliare-maledizione]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/scagliare-maledizione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/snervamento.md",
+			"display_name": "Snervamento",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/snervamento.md b/materiale/incantesimi/necromante/snervamento.md\nindex 9356315..1cd03df 100644\n--- a/materiale/incantesimi/necromante/snervamento.md\n+++ b/materiale/incantesimi/necromante/snervamento.md\n@@ -1 +1 @@\n-![[tutti/snervamento]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/snervamento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/spirito-della-morte.md",
+			"display_name": "Spirito della Morte",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/spirito-della-morte.md b/materiale/incantesimi/necromante/spirito-della-morte.md\nindex d2f6cbf..f8a0e85 100644\n--- a/materiale/incantesimi/necromante/spirito-della-morte.md\n+++ b/materiale/incantesimi/necromante/spirito-della-morte.md\n@@ -1 +1 @@\n-![[tutti/spirito-della-morte]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/spirito-della-morte]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sudario-spirituale.md",
+			"display_name": "Sudario Spirituale",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/sudario-spirituale.md b/materiale/incantesimi/necromante/sudario-spirituale.md\nindex a4755ee..2941fd9 100644\n--- a/materiale/incantesimi/necromante/sudario-spirituale.md\n+++ b/materiale/incantesimi/necromante/sudario-spirituale.md\n@@ -1 +1 @@\n-![[tutti/sudario-spirituale]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/sudario-spirituale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/tocco-gelido.md",
+			"display_name": "Tocco Gelido",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/tocco-gelido.md b/materiale/incantesimi/necromante/tocco-gelido.md\nindex 5c9265c..1a5790d 100644\n--- a/materiale/incantesimi/necromante/tocco-gelido.md\n+++ b/materiale/incantesimi/necromante/tocco-gelido.md\n@@ -1 +1 @@\n-![[tutti/tocco-gelido]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/tocco-gelido]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/trasferimento-vitale.md",
+			"display_name": "Trasferimento Vitale",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/trasferimento-vitale.md b/materiale/incantesimi/necromante/trasferimento-vitale.md\nindex 477330d..c34f5f3 100644\n--- a/materiale/incantesimi/necromante/trasferimento-vitale.md\n+++ b/materiale/incantesimi/necromante/trasferimento-vitale.md\n@@ -1 +1 @@\n-![[tutti/trasferimento-vitale]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/trasferimento-vitale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/vita-falsata.md",
+			"display_name": "Vita Falsata",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/vita-falsata.md b/materiale/incantesimi/necromante/vita-falsata.md\nindex f851d03..64ec131 100644\n--- a/materiale/incantesimi/necromante/vita-falsata.md\n+++ b/materiale/incantesimi/necromante/vita-falsata.md\n@@ -1 +1 @@\n-![[tutti/vita-falsata]]\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/vita-falsata]]\n\\ No newline at end of file\n"
+		}
+	]
+}
