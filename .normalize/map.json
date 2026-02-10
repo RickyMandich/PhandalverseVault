@@ -134,7 +134,7 @@
 							},
 							"directories": {}
 						},
-						"Chierico": {
+						"chierico": {
 							"original": "Chierico",
 							"files": {
 								"rianimare-morti.md": "Rianimare Morti",
@@ -154,14 +154,14 @@
 							},
 							"directories": {}
 						},
-						"Druido": {
+						"druido": {
 							"original": "Druido",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire e Fiorire"
 							},
 							"directories": {}
 						},
-						"Mago": {
+						"mago": {
 							"original": "Mago",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire e Fiorire",
@@ -174,11 +174,11 @@
 								"inaridire.md": "Inaridire",
 								"incuti-paura.md": "Incuti Paura",
 								"infliggi-ferite.md": "Infliggi Ferite",
-								"ombra-di-moil.md": "Ombra Di Moil",
+								"ombra-di-moil.md": "Ombra di Moil",
 								"parlare-con-i-morti.md": "Parlare con i Morti",
 								"puntura-indebolitrice.md": "Puntura Indebolitrice",
 								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
-								"raggio-di-infermita.md": "Raggio di Infermità",
+								"raggio-di-infermità.md": "Raggio di Infermità",
 								"rianimare-morti.md": "Rianimare Morti",
 								"rinascita.md": "Rinascita",
 								"rintocco-dei-morti.md": "Rintocco dei Morti",
@@ -221,6 +221,7 @@
 								"radar-osseo.md": "Radar Osseo",
 								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
 								"raggio-di-infermita.md": "Raggio di Infermità",
+								"raggio-di-infermità.md": "Raggio di Infermità",
 								"rianimare-morti.md": "Rianimare Morti",
 								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
 								"rinascita.md": "Rinascita",
@@ -240,14 +241,14 @@
 							},
 							"directories": {}
 						},
-						"Paladino": {
+						"paladino": {
 							"original": "Paladino",
 							"files": {
 								"scagliare-maledizione.md": "Scagliare Maledizione"
 							},
 							"directories": {}
 						},
-						"Ranger": {
+						"ranger": {
 							"original": "Ranger",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire e Fiorire"
@@ -305,6 +306,7 @@
 								"radar-osseo.md": "Radar Osseo",
 								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
 								"raggio-di-infermita.md": "Raggio di Infermità",
+								"raggio-di-infermità.md": "Raggio di Infermità",
 								"rianimare-morti.md": "Rianimare Morti",
 								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
 								"rinascita.md": "Rinascita",
@@ -330,7 +332,7 @@
 							},
 							"directories": {}
 						},
-						"Warlock": {
+						"warlock": {
 							"original": "Warlock",
 							"files": {
 								"scagliare-maledizione.md": "Scagliare Maledizione"
