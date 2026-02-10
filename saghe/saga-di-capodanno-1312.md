@@ -48,3 +48,4 @@ nemici sconfitti: 1 Boss (6) + 12 minion zombie (1) + 31 minion (1) = 44 mostri
 totale xp: 1 * 2300 + 12 * 200 + 31 * 200 = 2300 + 2400 + 6200 = 10900
 moltiplicatore numero nemici = 10900 * 4 (15+ mostri) = 43600
 tutti i giocatori prendono 8720 punti esperienza
+## sessione di venerdì 2026 02 13

@@ -81,7 +81,9 @@
 				},
 				"divinita": {
 					"original": "divinità",
-					"files": {},
+					"files": {
+						"Waukenn.md": "Waukenn"
+					},
 					"directories": {}
 				}
 			}

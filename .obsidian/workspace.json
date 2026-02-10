@@ -51,7 +51,8 @@
               "title": "saga-di-capodanno-1312"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,28 +219,32 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "3e6228d859635414",
+  "active": "d688fa0d08b91dad",
   "lastOpenFiles": [
+    "bash/d2utmpYBlhYj",
+    "bash/d2utmp9KaPyc",
+    "bash/d2utmpdKgk5L",
+    "bash/d2utmpNnMvCM",
+    "bash/d2utmpTAIuMJ",
+    "bash/d2utmpOLXcDf",
+    "bash/d2utmpVbZJww",
+    "bash/d2utmpOUh1cx",
+    "bash/d2utmpjFXfga",
+    "materiale/incantesimi/chierico/rianimare-morti.md",
     "saghe/saga-di-capodanno-1312.md",
+    "entita/divinita/Waukenn.md",
+    "personaggi/giocanti/vargas-paladino-nano-65.md",
+    "todo.md",
     "artefatti/party/artefatto-necromante.md",
     "materiale/stat-block/spirito-mietitore.md",
     "materiale/incantesimi/necromante/rianimare-morti.md",
     "materiale/incantesimi/necromante/sciame-di-parassiti.md",
     "materiale/stat-block/spirito-non-morto.md",
-    "todo.md",
     "bash/d2utmpsG2GXW",
     "bash/d2utmpKEbxUT",
-    "bash/d2utmpvz8yH6",
-    "bash/d2utmpE9g0pd",
-    "bash/d2utmpGAkska",
     "materiale/incantesimi/tutti/raggio-di-infermita.md",
     "materiale/incantesimi/necromante/raggio-di-infermita.md",
     "materiale/incantesimi/Mago/raggio-di-infermita.md",
-    "bash/d2utmpTIWz9f",
-    "bash/d2utmpVej0yu",
-    "bash/d2utmpFyMkM0",
-    "bash/d2utmp46smFq",
-    "bash/d2utmpxgM9OK",
     "materiale/incantesimi/Warlock/scagliare-maledizione.md",
     "materiale/incantesimi/tutti/vita-falsata.md",
     "materiale/incantesimi/tutti/incuti-paura.md",
@@ -252,10 +257,6 @@
     "materiale/incantesimi/tutti/contagio.md",
     "materiale/incantesimi/tutti/appassire-e-fiorire.md",
     "materiale/incantesimi/Ranger/appassire-e-fiorire.md",
-    "materiale/incantesimi/Paladino/scagliare-maledizione.md",
-    "materiale/incantesimi/necromante/vita-falsata.md",
-    "materiale/incantesimi/necromante/trasferimento-vitale.md",
-    "materiale/incantesimi/necromante/tocco-gelido.md",
     "artefatti/party/Drakensyn.avif",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",
