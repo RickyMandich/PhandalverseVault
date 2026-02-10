@@ -10,6 +10,7 @@ il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare g
 ![[materiale/incantesimi/tutti/scurovisione]]
 ![[materiale/incantesimi/tutti/silenzio]]
 ![[materiale/incantesimi/tutti/illusione-minore]]
+![[materiale/incantesimi/tutti/ombra-di-moil]]
 # visione dell'ombra
 quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.
 

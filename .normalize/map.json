@@ -135,13 +135,21 @@
 							"directories": {}
 						},
 						"dellombra": {
-							"original": "Dellombra",
+							"original": "Dell'ombra",
 							"files": {
 								"illusione-minore.md": "Illusione Minore",
+								"ombra-di-moil.md": "Ombra Di Moil",
 								"oscurita.md": "Oscurità",
 								"passare-senza-tracce.md": "Passare Senza Tracce",
 								"scurovisione.md": "Scurovisione",
 								"silenzio.md": "Silenzio"
+							},
+							"directories": {}
+						},
+						"Mago": {
+							"original": "Mago",
+							"files": {
+								"ombra-di-moil.md": "Ombra Di Moil"
 							},
 							"directories": {}
 						},
@@ -154,6 +162,7 @@
 								"esplosione-cadaverica.md": "Esplosione Cadaverica",
 								"falce-di-ade.md": "Falce Di Ade",
 								"lama-dosso.md": "Lama",
+								"ombra-di-moil.md": "Ombra Di Moil",
 								"peste-putrida.md": "Peste Putrida",
 								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
 								"radar-osseo.md": "Radar Osseo",
@@ -193,6 +202,7 @@
 								"invisibilita-superiore.md": "Invisibilita Superiore",
 								"lama-dosso.md": "Lama",
 								"muro-di-forza.md": "Muro Di Forza",
+								"ombra-di-moil.md": "Ombra Di Moil",
 								"onda-tonante.md": "Onda Tonante",
 								"oscurita.md": "Oscurità",
 								"passapareti.md": "Passapareti",
@@ -217,7 +227,9 @@
 				},
 				"stat-block": {
 					"original": "Stat Block",
-					"files": {},
+					"files": {
+						"spirito-mietitore.md": "Spirito Mietitore"
+					},
 					"directories": {}
 				}
 			}

@@ -1,0 +1,32 @@
+{
+	"version": "v 0.0.182",
+	"date": "2026-02-10 08:37:58",
+	"commit_hash": "271f4f195a6ec21406ce2f1885ec9da049e5589e",
+	"commit_message": "aggiornamento 2026 02 10 08:38 [v 0.0.182]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 626e2f2..19c2e0a 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -10,6 +10,7 @@ il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare g\n ![[materiale/incantesimi/tutti/scurovisione]]\n ![[materiale/incantesimi/tutti/silenzio]]\n ![[materiale/incantesimi/tutti/illusione-minore]]\n+![[materiale/incantesimi/tutti/ombra-di-moil]]\n # visione dell'ombra\n quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.\n \n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/ombra-di-moil.md",
+			"display_name": "Ombra Di Moil",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/ombra-di-moil.md",
+			"display_name": "Ombra Di Moil",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/ombra-di-moil.md",
+			"display_name": "Ombra Di Moil",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
