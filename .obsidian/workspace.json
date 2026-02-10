@@ -50,23 +50,8 @@
               "icon": "lucide-file",
               "title": "saga-di-capodanno-1312"
             }
-          },
-          {
-            "id": "2b729dbea7d8321b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materiale/stat-block/spirito-non-morto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spirito-non-morto"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +218,15 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "2b729dbea7d8321b",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
+    "saghe/saga-di-capodanno-1312.md",
+    "artefatti/party/artefatto-necromante.md",
+    "materiale/stat-block/spirito-mietitore.md",
+    "materiale/incantesimi/necromante/rianimare-morti.md",
+    "materiale/incantesimi/necromante/sciame-di-parassiti.md",
+    "materiale/stat-block/spirito-non-morto.md",
+    "todo.md",
     "bash/d2utmpsG2GXW",
     "bash/d2utmpKEbxUT",
     "bash/d2utmpvz8yH6",
@@ -248,7 +240,6 @@
     "bash/d2utmpFyMkM0",
     "bash/d2utmp46smFq",
     "bash/d2utmpxgM9OK",
-    "bash/d2utmpqOHmKD",
     "materiale/incantesimi/Warlock/scagliare-maledizione.md",
     "materiale/incantesimi/tutti/vita-falsata.md",
     "materiale/incantesimi/tutti/incuti-paura.md",
@@ -265,12 +256,6 @@
     "materiale/incantesimi/necromante/vita-falsata.md",
     "materiale/incantesimi/necromante/trasferimento-vitale.md",
     "materiale/incantesimi/necromante/tocco-gelido.md",
-    "materiale/incantesimi/necromante/sudario-spirituale.md",
-    "materiale/incantesimi/necromante/infliggi-ferite.md",
-    "materiale/incantesimi/necromante/incuti-paura.md",
-    "materiale/incantesimi/necromante/inaridire.md",
-    "materiale/incantesimi/necromante/flusso-di-energia-negativa.md",
-    "materiale/incantesimi/necromante/finzione-di-morte.md",
     "artefatti/party/Drakensyn.avif",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",

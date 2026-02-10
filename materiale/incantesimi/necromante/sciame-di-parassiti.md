@@ -1,1 +1,1 @@
-![[incantesimi/tutti/sciamediparassiti]]
+![[incantesimi/tutti/sciame-di-parassiti]]

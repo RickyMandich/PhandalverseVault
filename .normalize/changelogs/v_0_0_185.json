@@ -1,0 +1,32 @@
+{
+	"version": "v 0.0.185",
+	"date": "2026-02-10 13:38:53",
+	"commit_hash": "c673e49eccdb4471cea80e04895e5c954b3b35ec",
+	"commit_message": "aggiornamento 2026 02 10 13:39 [v 0.0.185]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "Occhio di Atos",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex 2eef88e..ff8146a 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -553,21 +553,49 @@ tabella esplicativa:\n \t</tbody>\n </table>\n \n-![[materiale/incantesimi/tutti/sciame-di-parassiti]]\n-![[materiale/incantesimi/tutti/falce-di-ade]]\n-![[materiale/incantesimi/tutti/peste-putrida]]\n-![[materiale/incantesimi/tutti/lama-dosso]]\n-![[materiale/incantesimi/tutti/tocco-del-vampiro-occultista]]\n-![[materiale/incantesimi/tutti/spine-ossee]]\n-![[materiale/incantesimi/tutti/radar-osseo]]\n-![[materiale/incantesimi/tutti/esoscheletro-transitorio]]\n-![[materiale/incantesimi/tutti/barriera-ossea]]\n-![[materiale/incantesimi/tutti/ricrescita-scheletrica]]\n-![[materiale/incantesimi/tutti/pioggia-di-frammenti]]\n-![[materiale/incantesimi/tutti/animare-morti]]\n-![[materiale/incantesimi/tutti/esplosione-cadaverica]]\n+![[materiale/incantesimi/tutti/esoscheletro-transitorio|esoscheletro-transitorio]]\n+![[materiale/incantesimi/tutti/lama-dosso|lama-dosso]]\n+![[materiale/incantesimi/tutti/spine-ossee|spine-ossee]]\n+![[materiale/incantesimi/tutti/tocco-del-vampiro-occultista|tocco-del-vampiro-occultista]]\n+![[materiale/incantesimi/tutti/radar-osseo|radar-osseo]]\n+![[materiale/incantesimi/tutti/sciame-di-parassiti|sciame-di-parassiti]]\n+![[materiale/incantesimi/tutti/barriera-ossea|barriera-ossea]]\n+![[materiale/incantesimi/tutti/esplosione-cadaverica|esplosione-cadaverica]]\n+![[materiale/incantesimi/tutti/falce-di-ade|falce-di-ade]]\n+![[materiale/incantesimi/tutti/animare-morti|animare-morti]]\n+![[materiale/incantesimi/tutti/peste-putrida|peste-putrida]]\n+![[materiale/incantesimi/tutti/ricrescita-scheletrica|ricrescita-scheletrica]]\n+![[materiale/incantesimi/tutti/pioggia-di-frammenti|pioggia-di-frammenti]]\n+\n ## lista necromante\n inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)\n+![[materiale/incantesimi/tutti/puntura-indebolitrice|puntura-indebolitrice]]\n+![[materiale/incantesimi/tutti/rintocco-dei-morti|rintocco-dei-morti]]\n+![[materiale/incantesimi/tutti/salvare-i-morenti|salvare-i-morenti]]\n+![[materiale/incantesimi/tutti/tocco-gelido|tocco-gelido]]\n+![[materiale/incantesimi/tutti/incuti-paura|incuti-paura]]\n+![[materiale/incantesimi/tutti/infliggi-ferite|infliggi-ferite]]\n+![[materiale/incantesimi/tutti/raggio-di-infermita|raggio-di-infermita]]\n+![[materiale/incantesimi/tutti/vita-falsata|vita-falsata]]\n+![[materiale/incantesimi/tutti/appassire-e-fiorire|appassire-e-fiorire]]\n+![[materiale/incantesimi/tutti/deprivazione-sensoriale|deprivazione-sensoriale]]\n+![[materiale/incantesimi/tutti/raggio-di-affaticamento|raggio-di-affaticamento]]\n+![[materiale/incantesimi/tutti/riposo-involato|riposo-involato]]\n+![[materiale/incantesimi/tutti/evoca-non-morti|evoca-non-morti]]\n+![[materiale/incantesimi/tutti/finzione-di-morte|finzione-di-morte]]\n+![[materiale/incantesimi/tutti/parlare-con-i-morti|parlare-con-i-morti]]\n+![[materiale/incantesimi/tutti/rinascita|rinascita]]\n+![[materiale/incantesimi/Warlock/scagliare-maledizione|scagliare-maledizione]]\n+![[materiale/incantesimi/tutti/sudario-spirituale|sudario-spirituale]]\n+![[materiale/incantesimi/tutti/trasferimento-vitale|trasferimento-vitale]]\n+![[materiale/incantesimi/tutti/inaridire|inaridire]]\n+![[materiale/incantesimi/tutti/ombra-di-moil|ombra-di-moil]]\n+![[materiale/incantesimi/tutti/spirito-della-morte|spirito-della-morte]]\n+![[materiale/incantesimi/tutti/contagio|contagio]]\n+![[materiale/incantesimi/tutti/danza-macabra|danza-macabra]]\n+![[materiale/incantesimi/tutti/flusso-di-energia-negativa|flusso-di-energia-negativa]]\n+![[materiale/incantesimi/tutti/rianimare-morti|rianimare-morti]]\n+![[materiale/incantesimi/tutti/snervamento|snervamento]]\n se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM\n \n ---\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sciame-di-parassiti.md",
+			"display_name": "Sciame Di Parassiti",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/sciame-di-parassiti.md b/materiale/incantesimi/necromante/sciame-di-parassiti.md\nindex ce9460a..686ee93 100644\n--- a/materiale/incantesimi/necromante/sciame-di-parassiti.md\n+++ b/materiale/incantesimi/necromante/sciame-di-parassiti.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/sciamediparassiti]]\n+![[incantesimi/tutti/sciame-di-parassiti]]\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "todo",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex 70e12ef..80507d5 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -5,6 +5,7 @@\n - [X] rifinire [[artefatto-barbaro-divino]]: mancano il multiattacco e la vista cieca\n - [x] decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n - [x] inserire le stat block del drago di rallo nella pagina\n-- [ ] formattare e inserire nel vault i nuovi incantesimi di davide (artefatto necromante)\n+- [x] formattare e inserire nel vault i nuovi incantesimi di davide (artefatto necromante)\n+- [x] inserire nella scheda dell'artefatto da necromante i suddetti incantesimi\n - [ ] inventare ombrocinesi e osteocinesi\n - [ ] scrivere moduli futuri\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rianimare-morti.md",
+			"display_name": "Rianimare Morti",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
