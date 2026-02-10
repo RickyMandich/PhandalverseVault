@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.184",
+	"date": "2026-02-10 12:59:36",
+	"commit_hash": "e05e4221c52f8f9ca1c58cda039fc76045cfa2ec",
+	"commit_message": "aggiornamento 2026 02 10 12:59 [v 0.0.184]",
+	"changes": [
+		{
+			"file": "materiale/incantesimi/Mago/raggio-di-infermita.md",
+			"display_name": "Raggio di Infermità",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/raggio-di-infermita.md",
+			"display_name": "Raggio di Infermità",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/raggio-di-infermita.md",
+			"display_name": "Raggio di Infermità",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
