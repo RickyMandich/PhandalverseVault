@@ -134,6 +134,14 @@
 							},
 							"directories": {}
 						},
+						"Chierico": {
+							"original": "Chierico",
+							"files": {
+								"rianimare-morti.md": "Rianimare Morti",
+								"scagliare-maledizione.md": "Scagliare Maledizione"
+							},
+							"directories": {}
+						},
 						"dellombra": {
 							"original": "Dell'ombra",
 							"files": {
@@ -146,10 +154,43 @@
 							},
 							"directories": {}
 						},
+						"Druido": {
+							"original": "Druido",
+							"files": {
+								"appassire-e-fiorire.md": "Appassire e Fiorire"
+							},
+							"directories": {}
+						},
 						"Mago": {
 							"original": "Mago",
 							"files": {
-								"ombra-di-moil.md": "Ombra Di Moil"
+								"appassire-e-fiorire.md": "Appassire e Fiorire",
+								"contagio.md": "Contagio",
+								"danza-macabra.md": "Danza Macabra",
+								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
+								"evoca-non-morti.md": "Evoca Non Morti",
+								"finzione-di-morte.md": "Finzione di Morte",
+								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
+								"inaridire.md": "Inaridire",
+								"incuti-paura.md": "Incuti Paura",
+								"infliggi-ferite.md": "Infliggi Ferite",
+								"ombra-di-moil.md": "Ombra Di Moil",
+								"parlare-con-i-morti.md": "Parlare con i Morti",
+								"puntura-indebolitrice.md": "Puntura Indebolitrice",
+								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
+								"raggio-di-infermità.md": "Raggio di Infermità",
+								"rianimare-morti.md": "Rianimare Morti",
+								"rinascita.md": "Rinascita",
+								"rintocco-dei-morti.md": "Rintocco dei Morti",
+								"riposo-involato.md": "Riposo Involato",
+								"salvare-i-morenti.md": "Salvare i Morenti",
+								"scagliare-maledizione.md": "Scagliare Maledizione",
+								"snervamento.md": "Snervamento",
+								"spirito-della-morte.md": "Spirito della Morte",
+								"sudario-spirituale.md": "Sudario Spirituale",
+								"tocco-gelido.md": "Tocco Gelido",
+								"trasferimento-vitale.md": "Trasferimento Vitale",
+								"vita-falsata.md": "Vita Falsata"
 							},
 							"directories": {}
 						},
@@ -157,19 +198,58 @@
 							"original": "Necromante",
 							"files": {
 								"animare-morti.md": "Animare Morti",
+								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"barriera-ossea.md": "Barriera Ossea",
+								"contagio.md": "Contagio",
+								"danza-macabra.md": "Danza Macabra",
+								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
 								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 								"esplosione-cadaverica.md": "Esplosione Cadaverica",
+								"evoca-non-morti.md": "Evoca Non Morti",
 								"falce-di-ade.md": "Falce Di Ade",
+								"finzione-di-morte.md": "Finzione di Morte",
+								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
+								"inaridire.md": "Inaridire",
+								"incuti-paura.md": "Incuti Paura",
+								"infliggi-ferite.md": "Infliggi Ferite",
 								"lama-dosso.md": "Lama",
 								"ombra-di-moil.md": "Ombra Di Moil",
+								"parlare-con-i-morti.md": "Parlare con i Morti",
 								"peste-putrida.md": "Peste Putrida",
 								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
+								"puntura-indebolitrice.md": "Puntura Indebolitrice",
 								"radar-osseo.md": "Radar Osseo",
+								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
+								"raggio-di-infermità.md": "Raggio di Infermità",
 								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
+								"rinascita.md": "Rinascita",
+								"rintocco-dei-morti.md": "Rintocco dei Morti",
+								"riposo-involato.md": "Riposo Involato",
+								"salvare-i-morenti.md": "Salvare i Morenti",
+								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"sciame-di-parassiti.md": "Sciame Di Parassiti",
+								"snervamento.md": "Snervamento",
 								"spine-ossee.md": "Spine Ossee",
-								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista"
+								"spirito-della-morte.md": "Spirito della Morte",
+								"sudario-spirituale.md": "Sudario Spirituale",
+								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
+								"tocco-gelido.md": "Tocco Gelido",
+								"trasferimento-vitale.md": "Trasferimento Vitale",
+								"vita-falsata.md": "Vita Falsata"
+							},
+							"directories": {}
+						},
+						"Paladino": {
+							"original": "Paladino",
+							"files": {
+								"scagliare-maledizione.md": "Scagliare Maledizione"
+							},
+							"directories": {}
+						},
+						"Ranger": {
+							"original": "Ranger",
+							"files": {
+								"appassire-e-fiorire.md": "Appassire e Fiorire"
 							},
 							"directories": {}
 						},
@@ -188,38 +268,71 @@
 							"original": "Tutti",
 							"files": {
 								"animare-morti.md": "Animare Morti",
+								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"barriera-ossea.md": "Barriera Ossea",
+								"contagio.md": "Contagio",
+								"danza-macabra.md": "Danza Macabra",
 								"dardo-incantato.md": "Dardo Incantato",
+								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
 								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 								"esplosione-cadaverica.md": "Esplosione Cadaverica",
+								"evoca-non-morti.md": "Evoca non Morti",
 								"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
 								"falce-di-ade.md": "Falce Di Ade",
+								"finzione-di-morte.md": "Finzione di Morte",
+								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
 								"folata-di-vento.md": "Folata Di Vento",
 								"frantumare.md": "Frantumare",
 								"fulmine.md": "Fulmine",
 								"illusione-minore.md": "Illusione Minore",
 								"immagine-speculare.md": "Immagine Speculare",
+								"inaridire.md": "Inaridire",
+								"incuti-paura.md": "Incuti Paura",
+								"infliggi-ferite.md": "Infliggi Ferite",
 								"invisibilita-superiore.md": "Invisibilita Superiore",
 								"lama-dosso.md": "Lama",
 								"muro-di-forza.md": "Muro Di Forza",
 								"ombra-di-moil.md": "Ombra Di Moil",
 								"onda-tonante.md": "Onda Tonante",
 								"oscurita.md": "Oscurità",
+								"parlare-con-i-morti.md": "Parlare con i Morti",
 								"passapareti.md": "Passapareti",
 								"passare-senza-tracce.md": "Passare Senza Tracce",
 								"peste-putrida.md": "Peste Putrida",
 								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
+								"puntura-indebolitrice.md": "Puntura Indebolitrice",
 								"radar-osseo.md": "Radar Osseo",
+								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
+								"raggio-di-infermità.md": "Raggio di Infermità",
+								"rianimare-morti.md": "Rianimare Morti",
 								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
+								"rinascita.md": "Rinascita",
+								"rintocco-dei-morti.md": "Rintocco dei Morti",
+								"riposo-involato.md": "Riposo Involato",
+								"salvare-i-morenti.md": "Salvare i Morenti",
+								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"sciame-di-parassiti.md": "Sciame Di Parassiti",
 								"scudo-di-fuoco.md": "Scudo Di Fuoco",
 								"scurovisione.md": "Scurovisione",
 								"silenzio.md": "Silenzio",
+								"snervamento.md": "Snervamento",
 								"spine-ossee.md": "Spine Ossee",
+								"spirito-della-morte.md": "Spirito della Morte",
+								"sudario-spirituale.md": "Sudario Spirituale",
 								"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
 								"tempesta-di-nevischio.md": "Tempesta Di Nevischio",
 								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
-								"trama-ipnotica.md": "Trama Ipnotica"
+								"tocco-gelido.md": "Tocco Gelido",
+								"trama-ipnotica.md": "Trama Ipnotica",
+								"trasferimento-vitale.md": "Trasferimento Vitale",
+								"vita-falsata.md": "Vita Falsata"
+							},
+							"directories": {}
+						},
+						"Warlock": {
+							"original": "Warlock",
+							"files": {
+								"scagliare-maledizione.md": "Scagliare Maledizione"
 							},
 							"directories": {}
 						}
@@ -228,7 +341,8 @@
 				"stat-block": {
 					"original": "Stat Block",
 					"files": {
-						"spirito-mietitore.md": "Spirito Mietitore"
+						"spirito-mietitore.md": "Spirito Mietitore",
+						"spirito-non-morto.md": "Spirito Non Morto"
 					},
 					"directories": {}
 				}

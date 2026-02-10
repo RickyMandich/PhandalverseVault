@@ -1,0 +1,464 @@
+{
+	"version": "v 0.0.183",
+	"date": "2026-02-10 12:50:55",
+	"commit_hash": "c10fb602e60993b09a43278ccb556c44b02338fe",
+	"commit_message": "aggiornamento 2026 02 10 12:51 [v 0.0.183]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 19c2e0a..fd19104 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -4,7 +4,7 @@ si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord\n \n ---\n # arti dell'ombra\n-il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare gli incantesimi [[materiale/incantesimi/tutti/oscurita|oscurita]],[[materiale/incantesimi/tutti/passare-senza-tracce|passare-senza-tracce]], [[materiale/incantesimi/tutti/scurovisione|scurovisione]] o [[materiale/incantesimi/tutti/silenzio|silenzio]] una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[materiale/incantesimi/tutti/illusione-minore|illusione minore]], se già non lo conosceva.\n+il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare i suoi incantesimi una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [[materiale/incantesimi/tutti/illusione-minore|illusione minore]], se già non lo conosceva.\n ![[materiale/incantesimi/tutti/oscurita]]\n ![[materiale/incantesimi/tutti/passare-senza-tracce]]\n ![[materiale/incantesimi/tutti/scurovisione]]\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/appassire-e-fiorire.md",
+			"display_name": "Appassire e Fiorire",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/contagio.md",
+			"display_name": "Contagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/danza-macabra.md",
+			"display_name": "Danza Macabra",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/deprivazione-sensoriale.md",
+			"display_name": "Deprivazione Sensoriale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/evoca-non-morti.md",
+			"display_name": "Evoca Non Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/finzione-di-morte.md",
+			"display_name": "Finzione di Morte",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/flusso-di-energia-negativa.md",
+			"display_name": "Flusso di Energia Negativa",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/inaridire.md",
+			"display_name": "Inaridire",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/incuti-paura.md",
+			"display_name": "Incuti Paura",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/infliggi-ferite.md",
+			"display_name": "Infliggi Ferite",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/parlare-con-i-morti.md",
+			"display_name": "Parlare con i Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/puntura-indebolitrice.md",
+			"display_name": "Puntura Indebolitrice",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/raggio-di-affaticamento.md",
+			"display_name": "Raggio di Affaticamento",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/rianimare-morti.md",
+			"display_name": "Rianimare Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/rinascita.md",
+			"display_name": "Rinascita",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/rintocco-dei-morti.md",
+			"display_name": "Rintocco dei Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/riposo-involato.md",
+			"display_name": "Riposo Involato",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/salvare-i-morenti.md",
+			"display_name": "Salvare i Morenti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/scagliare-maledizione.md",
+			"display_name": "Scagliare Maledizione",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/snervamento.md",
+			"display_name": "Snervamento",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/spirito-della-morte.md",
+			"display_name": "Spirito della Morte",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/sudario-spirituale.md",
+			"display_name": "Sudario Spirituale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/tocco-gelido.md",
+			"display_name": "Tocco Gelido",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/trasferimento-vitale.md",
+			"display_name": "Trasferimento Vitale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/vita-falsata.md",
+			"display_name": "Vita Falsata",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/appassire-e-fiorire.md",
+			"display_name": "Appassire e Fiorire",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/contagio.md",
+			"display_name": "Contagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/danza-macabra.md",
+			"display_name": "Danza Macabra",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/deprivazione-sensoriale.md",
+			"display_name": "Deprivazione Sensoriale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/evoca-non-morti.md",
+			"display_name": "Evoca Non Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/finzione-di-morte.md",
+			"display_name": "Finzione di Morte",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/flusso-di-energia-negativa.md",
+			"display_name": "Flusso di Energia Negativa",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/inaridire.md",
+			"display_name": "Inaridire",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/incuti-paura.md",
+			"display_name": "Incuti Paura",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/infliggi-ferite.md",
+			"display_name": "Infliggi Ferite",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/parlare-con-i-morti.md",
+			"display_name": "Parlare con i Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/puntura-indebolitrice.md",
+			"display_name": "Puntura Indebolitrice",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/raggio-di-affaticamento.md",
+			"display_name": "Raggio di Affaticamento",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rinascita.md",
+			"display_name": "Rinascita",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rintocco-dei-morti.md",
+			"display_name": "Rintocco dei Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/riposo-involato.md",
+			"display_name": "Riposo Involato",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/salvare-i-morenti.md",
+			"display_name": "Salvare i Morenti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/scagliare-maledizione.md",
+			"display_name": "Scagliare Maledizione",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/snervamento.md",
+			"display_name": "Snervamento",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/spirito-della-morte.md",
+			"display_name": "Spirito della Morte",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sudario-spirituale.md",
+			"display_name": "Sudario Spirituale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/tocco-gelido.md",
+			"display_name": "Tocco Gelido",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/trasferimento-vitale.md",
+			"display_name": "Trasferimento Vitale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/vita-falsata.md",
+			"display_name": "Vita Falsata",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/appassire-e-fiorire.md",
+			"display_name": "Appassire e Fiorire",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/contagio.md",
+			"display_name": "Contagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/danza-macabra.md",
+			"display_name": "Danza Macabra",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/deprivazione-sensoriale.md",
+			"display_name": "Deprivazione Sensoriale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/evoca-non-morti.md",
+			"display_name": "Evoca non Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/finzione-di-morte.md",
+			"display_name": "Finzione di Morte",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/flusso-di-energia-negativa.md",
+			"display_name": "Flusso di Energia Negativa",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/inaridire.md",
+			"display_name": "Inaridire",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/incuti-paura.md",
+			"display_name": "Incuti Paura",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/infliggi-ferite.md",
+			"display_name": "Infliggi Ferite",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/parlare-con-i-morti.md",
+			"display_name": "Parlare con i Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/puntura-indebolitrice.md",
+			"display_name": "Puntura Indebolitrice",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/raggio-di-affaticamento.md",
+			"display_name": "Raggio di Affaticamento",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/rianimare-morti.md",
+			"display_name": "Rianimare Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/rinascita.md",
+			"display_name": "Rinascita",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/rintocco-dei-morti.md",
+			"display_name": "Rintocco dei Morti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/riposo-involato.md",
+			"display_name": "Riposo Involato",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/salvare-i-morenti.md",
+			"display_name": "Salvare i Morenti",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/scagliare-maledizione.md",
+			"display_name": "Scagliare Maledizione",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/snervamento.md",
+			"display_name": "Snervamento",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/spirito-della-morte.md",
+			"display_name": "Spirito della Morte",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/sudario-spirituale.md",
+			"display_name": "Sudario Spirituale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/tocco-gelido.md",
+			"display_name": "Tocco Gelido",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/trasferimento-vitale.md",
+			"display_name": "Trasferimento Vitale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/vita-falsata.md",
+			"display_name": "Vita Falsata",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/stat-block/spirito-non-morto.md",
+			"display_name": "Spirito Non Morto",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
