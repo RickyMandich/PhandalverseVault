@@ -179,6 +179,9 @@ fi
 
 echo ""
 
+echo "ricorda di disattivare il tunnel di clouflare"
+waitKey
+
 # Esegui il push sul repository remoto
 echo "=========================================="
 echo "Push su repository remoto..."
