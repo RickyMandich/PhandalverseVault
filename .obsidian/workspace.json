@@ -51,8 +51,7 @@
               "title": "saga-di-capodanno-1312"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +218,11 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "d688fa0d08b91dad",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
-    "materiale/incantesimi/chierico/rianimare-morti.md",
     "saghe/saga-di-capodanno-1312.md",
+    "artefatti/party/artefatto-necromante.md",
+    "materiale/incantesimi/chierico/rianimare-morti.md",
     "bash/d2utmpE9PiPG",
     "bash/d2utmpzzZ73M",
     "bash/d2utmpO24Sut",
@@ -236,7 +236,6 @@
     "entita/divinita/Waukenn.md",
     "personaggi/giocanti/vargas-paladino-nano-65.md",
     "todo.md",
-    "artefatti/party/artefatto-necromante.md",
     "materiale/stat-block/spirito-mietitore.md",
     "materiale/incantesimi/necromante/rianimare-morti.md",
     "materiale/incantesimi/necromante/sciame-di-parassiti.md",

@@ -7,5 +7,6 @@
 - [x] inserire le stat block del drago di rallo nella pagina
 - [x] formattare e inserire nel vault i nuovi incantesimi di davide (artefatto necromante)
 - [x] inserire nella scheda dell'artefatto da necromante i suddetti incantesimi
-- [ ] inventare ombrocinesi e osteocinesi
+- [ ] inventare osteocinesi
+- [ ] inventare ombrocinesi
 - [ ] scrivere moduli futuri
