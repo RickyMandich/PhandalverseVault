@@ -8,14 +8,15 @@ ___
 > ___
 > |FOR|DES|COS|INT|SAG|CAR|
 > |:---:|:---:|:---:|:---:|:---:|:---:|
-> |[FOR]|[DES]|[COS]|[INT]|[SAG]|[CAR]|
+> |[FOR] ([bonus FOR])|[DES] ([bonus DES])|[COS] ([bonus COS])|[INT] ([bonus INT])|[SAG] ([bonus SAG])|[CAR] ([bonus CAR])|
 > ___
-> - **Sensi** 
-> - **Linguaggi** [Linguaggi]
-> - **Grado Sfida** [grado sfida] ([pe ottenuti alla morte] XP)
+> - **[nome competenza]** [competenza]
 > ___
 > ## Azioni
 > **[nome azione]** [descrizione azione]
+> ___
+> ## Azioni bonus
+> **[nome azione bonus]** [descrizione azione bonus]
 > ___
 > ## Reazioni
 > **[nome reazione]** [descrizione reazione]

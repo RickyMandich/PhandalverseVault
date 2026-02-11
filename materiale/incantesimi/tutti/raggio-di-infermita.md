@@ -1,4 +1,4 @@
-# Raggio di Infermità
+# Raggio di Infermita
 *1° livello, Necromanzia*
 
 - **Tempo di lancio:** 1 azione

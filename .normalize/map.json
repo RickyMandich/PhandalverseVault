@@ -2,44 +2,44 @@
 	"original": "ROOT",
 	"files": {
 		"README.md": "README",
-		"todo.md": "todo"
+		"todo.md": "TODO"
 	},
 	"directories": {
 		"artefatti": {
-			"original": "artefatti",
+			"original": "Artefatti",
 			"files": {
 				"fyrbrand.md": "Fyrbrand",
-				"il-portale.md": "il Portale",
-				"la-bussola.md": "la Bussola",
-				"la-chiave.md": "la Chiave"
+				"il-portale.md": "Il Portale",
+				"la-bussola.md": "La Bussola",
+				"la-chiave.md": "La Chiave"
 			},
 			"directories": {
 				"party": {
-					"original": "party",
+					"original": "Party",
 					"files": {
-						"artefatto-artefice.md": "Tól Niðavalla",
-						"artefatto-barbaro-divino.md": "Netjerheka",
-						"artefatto-dellombra.md": "Myrkvaðinn",
-						"artefatto-necromante.md": "Occhio di Atos",
-						"artefatto-sintonia-draconica.md": "Drakensyn",
-						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos"
+						"artefatto-artefice.md": "Tól Niðavalla (armaiolo)",
+						"artefatto-barbaro-divino.md": "Netjetheka",
+						"artefatto-dellombra.md": "Myrkvaðinn (ombra)",
+						"artefatto-necromante.md": "Occhio di Atos (necromante)",
+						"artefatto-sintonia-draconica.md": "Drakensyn (drago)",
+						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos (gelo)"
 					},
 					"directories": {}
 				}
 			}
 		},
 		"definizioni": {
-			"original": "definizioni",
+			"original": "Definizioni",
 			"files": {
-				"calendario.md": "calendario",
-				"universo.md": "universo",
-				"villaggio.md": "villaggio"
+				"calendario.md": "Calendario",
+				"universo.md": "Universo",
+				"villaggio.md": "Villaggio"
 			},
 			"directories": {
 				"template": {
-					"original": "template",
+					"original": "Template",
 					"files": {
-						"incantesimi.md": "incantesimi",
+						"incantesimi.md": "Incantesimi",
 						"stat-block.md": "Stat Block"
 					},
 					"directories": {}
@@ -47,32 +47,32 @@
 			}
 		},
 		"dungeon": {
-			"original": "dungeon",
+			"original": "Dungeon",
 			"files": {},
 			"directories": {
 				"dungeon-scrawl": {
-					"original": "dungeon scrawl",
+					"original": "Dungeon Scrawl",
 					"files": {},
 					"directories": {}
 				},
 				"immagini": {
-					"original": "immagini",
+					"original": "Immagini",
 					"files": {},
 					"directories": {}
 				},
 				"incontri-5e-tools-encounter-builder": {
-					"original": "incontri 5e tools encounter builder",
+					"original": "Incontri 5e Tools Encounter Builder",
 					"files": {},
 					"directories": {}
 				}
 			}
 		},
 		"entita": {
-			"original": "entità",
+			"original": "Entità",
 			"files": {},
 			"directories": {
 				"demoni": {
-					"original": "demoni",
+					"original": "Demoni",
 					"files": {
 						"anubius.md": "Anubius",
 						"asmodeus.md": "Asmodeus"
@@ -80,7 +80,7 @@
 					"directories": {}
 				},
 				"divinita": {
-					"original": "divinità",
+					"original": "Divinità",
 					"files": {
 						"Waukenn.md": "Waukenn"
 					},
@@ -89,19 +89,19 @@
 			}
 		},
 		"epoche": {
-			"original": "epoche",
+			"original": "Epoche",
 			"files": {
-				"epoca-dargento.md": "Epoca d'Argento",
+				"epoca-dargento.md": "Epoca",
 				"epoca-leggendaria.md": "Epoca Leggendaria",
 				"epoca-terza.md": "Epoca Terza"
 			},
 			"directories": {}
 		},
 		"eventi": {
-			"original": "eventi",
+			"original": "Eventi",
 			"files": {
-				"la-frattura.md": "la Frattura",
-				"la-purga.md": "la Purga"
+				"la-frattura.md": "La Frattura",
+				"la-purga.md": "La Purga"
 			},
 			"directories": {}
 		},
@@ -127,8 +127,8 @@
 								"frantumare.md": "Frantumare",
 								"fulmine.md": "Fulmine",
 								"immagine-speculare.md": "Immagine Speculare",
-								"invisibilita-superiore.md": "Invisibilita Superiore",
-								"muro-di-forza.md": "Muro Di Forza",
+								"invisibilita-superiore.md": "Invisibilità Superiore",
+								"muro-di-forza.md": "Muro di Forza",
 								"onda-tonante.md": "Onda Tonante",
 								"passapareti.md": "Passapareti",
 								"scudo-di-fuoco.md": "Scudo Di Fuoco",
@@ -136,19 +136,29 @@
 							},
 							"directories": {}
 						},
+						"bardo": {
+							"original": "Bardo",
+							"files": {
+								"blocca-mostri.md": "Blocca Mostri",
+								"blocca-persone.md": "Blocca Persone"
+							},
+							"directories": {}
+						},
 						"chierico": {
 							"original": "Chierico",
 							"files": {
+								"blocca-persone.md": "Blocca Persone",
+								"presagio.md": "Presagio",
 								"rianimare-morti.md": "Rianimare Morti",
 								"scagliare-maledizione.md": "Scagliare Maledizione"
 							},
 							"directories": {}
 						},
 						"dellombra": {
-							"original": "Dell'ombra",
+							"original": "Myrkvaðinn (ombra)",
 							"files": {
 								"illusione-minore.md": "Illusione Minore",
-								"ombra-di-moil.md": "Ombra Di Moil",
+								"ombra-di-moil.md": "Ombra di Moil",
 								"oscurita.md": "Oscurità",
 								"passare-senza-tracce.md": "Passare Senza Tracce",
 								"scurovisione.md": "Scurovisione",
@@ -159,7 +169,9 @@
 						"druido": {
 							"original": "Druido",
 							"files": {
-								"appassire-e-fiorire.md": "Appassire e Fiorire"
+								"appassire-e-fiorire.md": "Appassire e Fiorire",
+								"blocca-persone.md": "Blocca Persone",
+								"presagio.md": "Presagio"
 							},
 							"directories": {}
 						},
@@ -167,6 +179,8 @@
 							"original": "Mago",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire e Fiorire",
+								"blocca-mostri.md": "Blocca Mostri",
+								"blocca-persone.md": "Blocca Persone",
 								"contagio.md": "Contagio",
 								"danza-macabra.md": "Danza Macabra",
 								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
@@ -177,18 +191,22 @@
 								"incuti-paura.md": "Incuti Paura",
 								"infliggi-ferite.md": "Infliggi Ferite",
 								"ombra-di-moil.md": "Ombra di Moil",
-								"parlare-con-i-morti.md": "Parlare con i Morti",
+								"osteourgia.md": "Osteourgia",
+								"parlare-con-i-morti.md": "Parlare Con i Morti",
+								"presagio.md": "Presagio",
 								"puntura-indebolitrice.md": "Puntura Indebolitrice",
 								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
-								"raggio-di-infermità.md": "Raggio di Infermità",
+								"raggio-di-infermita.md": "Raggio di Infermità",
 								"rianimare-morti.md": "Rianimare Morti",
 								"rinascita.md": "Rinascita",
-								"rintocco-dei-morti.md": "Rintocco dei Morti",
+								"rintocco-dei-morti.md": "Rintocco Dei Morti",
+								"riposo-inviolato.md": "Riposo Inviolato",
 								"riposo-involato.md": "Riposo Involato",
 								"salvare-i-morenti.md": "Salvare i Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
+								"sfera-elastica.md": "Sfera Elastica",
 								"snervamento.md": "Snervamento",
-								"spirito-della-morte.md": "Spirito della Morte",
+								"spirito-della-morte.md": "Spirito Della Morte",
 								"sudario-spirituale.md": "Sudario Spirituale",
 								"tocco-gelido.md": "Tocco Gelido",
 								"trasferimento-vitale.md": "Trasferimento Vitale",
@@ -197,44 +215,49 @@
 							"directories": {}
 						},
 						"necromante": {
-							"original": "Necromante",
+							"original": "Occhio di Atos (Necromante)",
 							"files": {
 								"animare-morti.md": "Animare Morti",
 								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"barriera-ossea.md": "Barriera Ossea",
+								"blocca-mostri.md": "Blocca Mostri",
+								"blocca-persone.md": "Blocca Persone",
 								"contagio.md": "Contagio",
 								"danza-macabra.md": "Danza Macabra",
 								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
 								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 								"esplosione-cadaverica.md": "Esplosione Cadaverica",
 								"evoca-non-morti.md": "Evoca Non Morti",
-								"falce-di-ade.md": "Falce Di Ade",
+								"falce-di-ade.md": "Falce di Ade",
 								"finzione-di-morte.md": "Finzione di Morte",
 								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
 								"inaridire.md": "Inaridire",
 								"incuti-paura.md": "Incuti Paura",
 								"infliggi-ferite.md": "Infliggi Ferite",
-								"lama-dosso.md": "Lama d'Osso",
-								"ombra-di-moil.md": "Ombra Di Moil",
-								"parlare-con-i-morti.md": "Parlare con i Morti",
+								"lama-dosso.md": "Lama Dosso",
+								"ombra-di-moil.md": "Ombra di Moil",
+								"osteourgia.md": "Osteourgia",
+								"parlare-con-i-morti.md": "Parlare Con i Morti",
 								"peste-putrida.md": "Peste Putrida",
-								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
+								"pioggia-di-frammenti.md": "Pioggia di Frammenti",
+								"presagio.md": "Presagio",
 								"puntura-indebolitrice.md": "Puntura Indebolitrice",
 								"radar-osseo.md": "Radar Osseo",
 								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
 								"raggio-di-infermita.md": "Raggio di Infermità",
-								"raggio-di-infermità.md": "Raggio di Infermità",
 								"rianimare-morti.md": "Rianimare Morti",
 								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
 								"rinascita.md": "Rinascita",
 								"rintocco-dei-morti.md": "Rintocco dei Morti",
+								"riposo-inviolato.md": "Riposo Inviolato",
 								"riposo-involato.md": "Riposo Involato",
 								"salvare-i-morenti.md": "Salvare i Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
-								"sciame-di-parassiti.md": "Sciame Di Parassiti",
+								"sciame-di-parassiti.md": "Sciame di Parassiti",
+								"sfera-elastica.md": "Sfera Elastica",
 								"snervamento.md": "Snervamento",
 								"spine-ossee.md": "Spine Ossee",
-								"spirito-della-morte.md": "Spirito della Morte",
+								"spirito-della-morte.md": "Spirito Della Morte",
 								"sudario-spirituale.md": "Sudario Spirituale",
 								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
 								"tocco-gelido.md": "Tocco Gelido",
@@ -257,14 +280,22 @@
 							},
 							"directories": {}
 						},
-						"sussurratore-del-gelo": {
-							"original": "Sussurratore Del Gelo",
+						"stregone": {
+							"original": "Stregone",
 							"files": {
-								"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
+								"blocca-mostri.md": "Blocca Mostri",
+								"blocca-persone.md": "Blocca Persone"
+							},
+							"directories": {}
+						},
+						"sussurratore-del-gelo": {
+							"original": "Kṓkȳtos (Gelo)",
+							"files": {
+								"evoca-pioggia-di-armi.md": "Evoca Pioggia di Armi",
 								"folata-di-vento.md": "Folata Di Vento",
 								"silenzio.md": "Silenzio",
-								"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
-								"tempesta-di-nevischio.md": "Tempesta Di Nevischio"
+								"tempesta-di-ghiaccio.md": "Tempesta di Ghiaccio",
+								"tempesta-di-nevischio.md": "Tempesta di Nevischio"
 							},
 							"directories": {}
 						},
@@ -274,18 +305,20 @@
 								"animare-morti.md": "Animare Morti",
 								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"barriera-ossea.md": "Barriera Ossea",
+								"blocca-mostri.md": "Blocca Mostri",
+								"blocca-persone.md": "Blocca Persone",
 								"contagio.md": "Contagio",
 								"danza-macabra.md": "Danza Macabra",
 								"dardo-incantato.md": "Dardo Incantato",
 								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
 								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 								"esplosione-cadaverica.md": "Esplosione Cadaverica",
-								"evoca-non-morti.md": "Evoca non Morti",
-								"evoca-pioggia-di-armi.md": "Evoca Pioggia Di Armi",
-								"falce-di-ade.md": "Falce Di Ade",
+								"evoca-non-morti.md": "Evoca Non Morti",
+								"evoca-pioggia-di-armi.md": "Evoca Pioggia di Armi",
+								"falce-di-ade.md": "Falce di Ade",
 								"finzione-di-morte.md": "Finzione di Morte",
 								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
-								"folata-di-vento.md": "Folata Di Vento",
+								"folata-di-vento.md": "Folata di Vento",
 								"frantumare.md": "Frantumare",
 								"fulmine.md": "Fulmine",
 								"illusione-minore.md": "Illusione Minore",
@@ -293,39 +326,42 @@
 								"inaridire.md": "Inaridire",
 								"incuti-paura.md": "Incuti Paura",
 								"infliggi-ferite.md": "Infliggi Ferite",
-								"invisibilita-superiore.md": "Invisibilita Superiore",
-								"lama-dosso.md": "Lama d'Osso",
-								"muro-di-forza.md": "Muro Di Forza",
-								"ombra-di-moil.md": "Ombra Di Moil",
+								"invisibilita-superiore.md": "Invisibilità Superiore",
+								"lama-dosso.md": "Lama",
+								"muro-di-forza.md": "Muro di Forza",
+								"ombra-di-moil.md": "Ombra di Moil",
 								"onda-tonante.md": "Onda Tonante",
 								"oscurita.md": "Oscurità",
-								"parlare-con-i-morti.md": "Parlare con i Morti",
+								"osteourgia.md": "Osteourgia",
+								"parlare-con-i-morti.md": "Parlare Con i Morti",
 								"passapareti.md": "Passapareti",
 								"passare-senza-tracce.md": "Passare Senza Tracce",
 								"peste-putrida.md": "Peste Putrida",
 								"pioggia-di-frammenti.md": "Pioggia Di Frammenti",
+								"presagio.md": "Presagio",
 								"puntura-indebolitrice.md": "Puntura Indebolitrice",
 								"radar-osseo.md": "Radar Osseo",
-								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
-								"raggio-di-infermita.md": "Raggio di Infermità",
-								"raggio-di-infermità.md": "Raggio di Infermità",
+								"raggio-di-affaticamento.md": "Raggio Di Affaticamento",
+								"raggio-di-infermita.md": "Raggio di Infermita",
 								"rianimare-morti.md": "Rianimare Morti",
 								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
 								"rinascita.md": "Rinascita",
-								"rintocco-dei-morti.md": "Rintocco dei Morti",
+								"rintocco-dei-morti.md": "Rintocco Dei Morti",
+								"riposo-inviolato.md": "Riposo Inviolato",
 								"riposo-involato.md": "Riposo Involato",
 								"salvare-i-morenti.md": "Salvare i Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"sciame-di-parassiti.md": "Sciame Di Parassiti",
-								"scudo-di-fuoco.md": "Scudo Di Fuoco",
+								"scudo-di-fuoco.md": "Scudo di Fuoco",
 								"scurovisione.md": "Scurovisione",
+								"sfera-elastica.md": "Sfera Elastica",
 								"silenzio.md": "Silenzio",
 								"snervamento.md": "Snervamento",
 								"spine-ossee.md": "Spine Ossee",
-								"spirito-della-morte.md": "Spirito della Morte",
+								"spirito-della-morte.md": "Spirito Della Morte",
 								"sudario-spirituale.md": "Sudario Spirituale",
-								"tempesta-di-ghiaccio.md": "Tempesta Di Ghiaccio",
-								"tempesta-di-nevischio.md": "Tempesta Di Nevischio",
+								"tempesta-di-ghiaccio.md": "Tempesta di Ghiaccio",
+								"tempesta-di-nevischio.md": "Tempesta di Nevischio",
 								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
 								"tocco-gelido.md": "Tocco Gelido",
 								"trama-ipnotica.md": "Trama Ipnotica",
@@ -337,6 +373,8 @@
 						"warlock": {
 							"original": "Warlock",
 							"files": {
+								"blocca-mostri.md": "Blocca Mostri",
+								"blocca-persone.md": "Blocca Persone",
 								"scagliare-maledizione.md": "Scagliare Maledizione"
 							},
 							"directories": {}
@@ -354,7 +392,7 @@
 			}
 		},
 		"mezzi": {
-			"original": "mezzi",
+			"original": "Mezzi",
 			"files": {
 				"skiblandir.md": "Skiblandir"
 			},
@@ -367,15 +405,15 @@
 				"giocanti": {
 					"original": "Giocanti",
 					"files": {
-						"attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo-100)",
-						"dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo-25)",
-						"morbiarum-paladino-dragonide-24.md": "Morbiarum (Paladino Dragonide -4)",
-						"than-warlock-tiefling-30.md": "Than (Warlock Tiefling-30)",
-						"vargas-paladino-nano-65.md": "Vargas (Paladino Nano-65)"
+						"attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo 100)",
+						"dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo 25)",
+						"morbiarum-paladino-dragonide-24.md": "Morbiarum (Paladino Dragonide 24)",
+						"than-warlock-tiefling-30.md": "Than (Warlock Tiefling 30)",
+						"vargas-paladino-nano-65.md": "Vargas (Paladino Nano 65)"
 					},
 					"directories": {
 						"pet": {
-							"original": "pet",
+							"original": "Pet",
 							"files": {
 								"kanye-ovest.md": "Kanye Ovest",
 								"ren.md": "Ren",
@@ -386,40 +424,40 @@
 					}
 				},
 				"gruppi": {
-					"original": "gruppi",
+					"original": "Gruppi",
 					"files": {
 						"i-purgatori.md": "I Purgatori",
-						"la-mano-rossa.md": "la Mano Rossa"
+						"la-mano-rossa.md": "La Mano Rossa"
 					},
 					"directories": {}
 				},
 				"gruppi-magici": {
-					"original": "gruppi magici",
+					"original": "Gruppi Magici",
 					"files": {
 						"fratelli-dei-lupi.md": "Fratelli dei Lupi"
 					},
 					"directories": {}
 				},
 				"non-giocanti": {
-					"original": "non giocanti",
+					"original": "Non Giocanti",
 					"files": {},
 					"directories": {
 						"artefatti": {
-							"original": "artefatti",
+							"original": "Artefatti",
 							"files": {
 								"atos.md": "Atos"
 							},
 							"directories": {}
 						},
 						"background-pg": {
-							"original": "background pg",
+							"original": "Background Pg",
 							"files": {
 								"fumero.md": "Fumero"
 							},
 							"directories": {}
 						},
 						"gemgrave": {
-							"original": "gemgrave",
+							"original": "Gemgrave",
 							"files": {
 								"kaia.md": "Kaia",
 								"perrin-cauthon.md": "Perrin Cauthon"
@@ -427,18 +465,18 @@
 							"directories": {}
 						},
 						"macrotrama": {
-							"original": "macrotrama",
+							"original": "Macrotrama",
 							"files": {
-								"dark-kaia.md": "dark Kaia",
+								"dark-kaia.md": "Dark Kaia",
 								"giorgia-rossato.md": "Giorgia Rossato",
-								"nonno-roshi.md": "nonno Roshi"
+								"nonno-roshi.md": "Nonno Roshi"
 							},
 							"directories": {}
 						},
 						"saga-di-merfolk": {
-							"original": "saga di merfolk",
+							"original": "Saga Di Merfolk",
 							"files": {
-								"blob.md": "blob",
+								"blob.md": "Blob",
 								"irving.md": "Irving",
 								"mussel.md": "Mussel",
 								"viper.md": "Viper"
@@ -448,40 +486,40 @@
 					}
 				},
 				"organizzazioni": {
-					"original": "organizzazioni",
+					"original": "Organizzazioni",
 					"files": {
 						"artefici.md": "Artefici",
-						"gli-asmodeici.md": "gli Asmodeici",
-						"la-coalizione.md": "la Coalizione"
+						"gli-asmodeici.md": "Gli Asmodeici",
+						"la-coalizione.md": "La Coalizione"
 					},
 					"directories": {}
 				}
 			}
 		},
 		"saghe": {
-			"original": "saghe",
+			"original": "Saghe",
 			"files": {
 				"macrosaga-della-chiave.md": "Macrosaga della Chiave",
-				"saga-della-biblioteca.md": "Saga della Biblioteca",
+				"saga-della-biblioteca.md": "Saga Della Biblioteca",
 				"saga-della-magione.md": "Saga della Magione",
-				"saga-di-capodanno-1312.md": "Saga di Capodanno 1312",
-				"saga-di-gemgrave.md": "Saga di Gemgrave",
-				"saga-di-merfolk.md": "Saga di Merfolk"
+				"saga-di-capodanno-1312.md": "Saga Di Capodanno 1312",
+				"saga-di-gemgrave.md": "Saga Di Gemgrave",
+				"saga-di-merfolk.md": "Saga Di Merfolk"
 			},
 			"directories": {
 				"moduli-non-usati": {
-					"original": "Moduli non usati",
+					"original": "Moduli Non Usati",
 					"files": {},
 					"directories": {}
 				},
 				"moduli-usati": {
-					"original": "Moduli usati",
+					"original": "Moduli Usati",
 					"files": {},
 					"directories": {
 						"capodanno1": {
 							"original": "Capodanno1",
 							"files": {
-								"capodanno1-boss.md": "Capodanno1 - Boss",
+								"capodanno1-boss.md": "Capodanno1 Boss",
 								"capodanno1-minion.md": "Capodanno1 Minion",
 								"capodanno1.md": "Capodanno1"
 							},
@@ -492,21 +530,21 @@
 			}
 		},
 		"universi": {
-			"original": "universi",
+			"original": "Universi",
 			"files": {
-				"telaranrhiod.md": "Tel'Aran'Rhiod",
-				"telmurkvadinn.md": "Tel'Murk'Vadinn"
+				"telaranrhiod.md": "TelAranRhiod",
+				"telmurkvadinn.md": "TelMurkVadinn"
 			},
 			"directories": {
 				"fandalmein": {
-					"original": "fandalmein",
+					"original": "Fandalmein",
 					"files": {
 						"atalantide.md": "Atalantide",
 						"fandalmein.md": "Fandalmein"
 					},
 					"directories": {
 						"fandanolend": {
-							"original": "fandanolend",
+							"original": "Fandanolend",
 							"files": {
 								"cristalgreiv.md": "Cristalgreiv",
 								"fandanolend.md": "Fandanolend",
@@ -516,7 +554,7 @@
 							"directories": {}
 						},
 						"fandasulend": {
-							"original": "fandasulend",
+							"original": "Fandasulend",
 							"files": {
 								"fandasulend.md": "Fandasulend",
 								"gemgreiv.md": "Gemgreiv",
@@ -528,16 +566,16 @@
 					}
 				},
 				"phandalmain": {
-					"original": "phandalmain",
+					"original": "Phandalmain",
 					"files": {
 						"atlantide.md": "Atlantide",
-						"fossa-delle-marie.md": "fossa delle Marie",
+						"fossa-delle-marie.md": "Fossa Delle Marie",
 						"phandalmain.md": "Phandalmain",
-						"sacra-biblioteca-perduta-salvata-di-atlantide.md": "Sacra Biblioteca Perduta e Salvata di Atlantide"
+						"sacra-biblioteca-perduta-salvata-di-atlantide.md": "Sacra Biblioteca Perduta Salvata di Atlantide"
 					},
 					"directories": {
 						"phandanoland": {
-							"original": "phandanoland",
+							"original": "Phandanoland",
 							"files": {
 								"cristalgrave.md": "Cristalgrave",
 								"nordavilla.md": "Nordavilla",
@@ -547,7 +585,7 @@
 							"directories": {}
 						},
 						"phandasuland": {
-							"original": "phandasuland",
+							"original": "Phandasuland",
 							"files": {
 								"gemgrave.md": "Gemgrave",
 								"meridionelle.md": "Meridionelle",
@@ -555,9 +593,9 @@
 							},
 							"directories": {
 								"suddaria": {
-									"original": "suddaria",
+									"original": "Suddaria",
 									"files": {
-										"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "castello abbandonato sul dirupo vicino la città",
+										"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "Castello Abbandonato Sul Dirupo Vicino La Citta",
 										"suddaria.md": "Suddaria"
 									},
 									"directories": {}

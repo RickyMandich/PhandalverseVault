@@ -1,0 +1,194 @@
+{
+	"version": "v 0.0.191",
+	"date": "2026-02-11 19:05:51",
+	"commit_hash": "2ab815755564c971b9bd4f846e6ace2bd9d4b754",
+	"commit_message": "aggiornamento 2026 02 11 19:06 [v 0.0.191]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "Occhio di Atos (necromante)",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex 5147219..ec0d6fe 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -1,22 +1,23 @@\n richiede sintonia, localizzazione geografica: Est\n-# descrizione\n+# statistiche\n+## descrizione\n ![[occhio-di-atos.jpeg]]\n \n ---\n-# raccolto macabro\n+## raccolto macabro\n Ha la capacità di raccogliere l'energia vitale delle creature uccise dai suoi [[incantesimi]].  \n Una volta per turno, quando uccide una o più creature con un incantesimo di livello pari o superiore al 1°, il warlock recupera un ammontare di punti ferita pari al doppio del livello dell'incantesimo, o al triplo del livello se l'incantesimo appartiene alla Scuola di Necromanzia.  \n Se uccide una o più creature con un trucchetto recupera 1 punto ferita, 2 se il trucchetto appartiene alla Scuola Necromanzia.  \n Non ottiene questo beneficio se uccide dei costrutti o dei non morti.\n-# servitori non morti\n+## servitori non morti\n Conosce l'incantesimo \"[[artefatto-necromante#incantesimi#Animare Morti|Animare Morti]]\".\n Quando lancia animare morti, può bersagliare un cadavere o un cumulo di ossa aggiuntivo per creare un altro scheletro o zombi, come appropriato.  \n Ogni volta che crea un non morto usando un incantesimo di necromanzia, quella creatura ottiene i benefici seguenti:  \n • Il massimo dei punti ferita della creatura aumenta di un ammontare pari al livello del warlock.  \n • La creatura aggiunge il bonus di competenza del warlock ai suoi tiri per i danni con le armi.\n-# impervio alla morte\n+## impervio alla morte\n Dispone di resistenza ai danni necrotici e il suo massimo dei punti ferita non può essere ridotto.\n-# COMANDARE I SENZ'ANIMA\n+## COMANDARE I SENZ'ANIMA\n Può usare la magia per condurre sotto il suo controllo anche i non morti creati da altri maghi. Con un'azione può scegliere un non morto situato entro 18 metri da lui e che egli sia in grado di vedere.  \n Quella creatura deve superare un tiro salvezza su Carisma contro la CD degli [[incantesimi]] del warlock. Se lo supera, il proprietario non può più utilizzare questo privilegio contro di lei. Se lo fallisce, la creatura diventa amichevole  \n nei confronti del warlock e obbedisce ai suoi comandi finché il warlock non utilizza di nuovo questo privilegio.  \n@@ -25,7 +26,7 @@ in questo modo. Se il bersaglio possiede un'Intelligenza\n pari o superiore a 8, dispone di vantaggio al tiro salvezza.  \n Se fallisce il tiro salvezza e possiede un'Intelligenza pari o superiore a 12, può ripetere il tiro salvezza alla fine di ogni ora, finché non lo supera e si libera.  \n Questa capacità può essere utilizzata anche per controllare costrutti, ma questi dispongono di vantaggio ai tiri salvezza per evitare il controllo o liberarsene.\n-# [[INCANTESIMI]]\n+## [[INCANTESIMI]]\n questo artefatto garantisce al portatore un numero di slot incantesimo di 9° livello in base alla tabella da mago seguendo queste regole:\n - salendo di livello il numero di slot non può diminuire\n - il numero di slot sarà uguale al numero di slot del livello massimo nella tabella del mago al livello totale attuale del personaggio + il livello di quegli slot\n@@ -567,7 +568,7 @@ tabella esplicativa:\n ![[materiale/incantesimi/tutti/ricrescita-scheletrica]]\n ![[materiale/incantesimi/tutti/pioggia-di-frammenti]]\n \n-## lista necromante\n+### lista necromante\n inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)\n ![[materiale/incantesimi/tutti/puntura-indebolitrice]]\n ![[materiale/incantesimi/tutti/rintocco-dei-morti]]\n@@ -580,12 +581,12 @@ inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](h\n ![[materiale/incantesimi/tutti/appassire-e-fiorire]]\n ![[materiale/incantesimi/tutti/deprivazione-sensoriale]]\n ![[materiale/incantesimi/tutti/raggio-di-affaticamento]]\n-![[materiale/incantesimi/tutti/riposo-involato]]\n+![[materiale/incantesimi/tutti/riposo-inviolato]]\n ![[materiale/incantesimi/tutti/evoca-non-morti]]\n ![[materiale/incantesimi/tutti/finzione-di-morte]]\n ![[materiale/incantesimi/tutti/parlare-con-i-morti]]\n ![[materiale/incantesimi/tutti/rinascita]]\n-![[materiale/incantesimi/Warlock/scagliare-maledizione]]\n+![[materiale/incantesimi/tutti/scagliare-maledizione]]\n ![[materiale/incantesimi/tutti/sudario-spirituale]]\n ![[materiale/incantesimi/tutti/trasferimento-vitale]]\n ![[materiale/incantesimi/tutti/inaridire]]\n@@ -598,10 +599,121 @@ inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](h\n ![[materiale/incantesimi/tutti/snervamento]]\n se ci sono altri incantesimi che hanno senso logico all'interno di questo artefatto che vuoi inserire parlane con il DM\n \n+## punti osteomante\n+possiedi tanti punti osteomante pari al tuo livello tranne al 1 che ne hai 0, con un riposo lungo si ripristinano mentre con un riposo breve ne recuperi la metà\n+\n+puoi convertire punti osteomante e slot incantesimi con queste proporzioni:\n+\n+| livello slot | punti osteomante |\n+| :----------: | :--------------: |\n+|      1       |        2         |\n+|      2       |        3         |\n+|      3       |        5         |\n+|      4       |        6         |\n+|      5       |        7         |\n+|      6       |        9         |\n+|      7       |        10        |\n+|      8       |        11        |\n+|      9       |        13        |\n+## produzione ossea\n+puoi far crescere ossa a piacere dalla parte scheletrica del tuo corpo, ovviamente in maniera narrativamente sensata\n+\n+## magia delle ossa\n+puoi usare le ossa come focus arcano, ottieni i seguenti incantesimi:\n+![[materiale/incantesimi/tutti/osteourgia]]\n+![[materiale/incantesimi/tutti/presagio]]\n+![[materiale/incantesimi/tutti/blocca-persone]]\n+![[materiale/incantesimi/tutti/sfera-elastica]]\n+![[materiale/incantesimi/tutti/tempesta-di-ghiaccio]]\n+![[materiale/incantesimi/tutti/blocca-mostri]]\n+## voce delle ossa\n+Ottieni competenza negli Attrezzi dell’Intagliatore di Ossa.  \n+Inoltre, hai vantaggio alle prove di caratteristica che si basano sulla tua conoscenza delle ossa, inclusa la loro età, origine e il modo in cui sono arrivate nel luogo in cui le hai trovate.\n+\n+Hai anche la capacità di animare le tue creazioni d’osso. Queste creature d’osso possono assumere qualsiasi forma tu scelga, purché non siano più grandi di un cubo di 30 centimetri per lato.  \n+Una creatura d’osso animata ha 1 punto ferita e una Classe Armatura pari al tuo livello totale. Finché è animata, non può attaccare, ma può eseguire compiti semplici, obbedisce ai tuoi comandi e può comunicare verbalmente con te in una lingua comprensibile solo a voi due.\n+\n+La creatura d’osso rimane animata finché non la congedi, finché non scende a 0 punti ferita, oppure finché non utilizzi di nuovo questa capacità per animarne un’altra.\n+\n+## PRESA D’OSSA\n+\n+Ottieni un certo controllo sulle ossa dei viventi. Ottieni la capacità di lanciare l’incantesimo blocca persone e blocca mostri senza bisogno di componenti materiali, a condizione che il bersaglio possieda uno scheletro fatto di ossa. Quando lanci l’incantesimo in questo modo, il bersaglio deve effettuare un tiro salvezza su Forza (invece che su Saggezza) contro la CD dei tuoi incantesimi.\n+Le creature non morte hanno svantaggio al tiro salvezza.\n+\n+Inoltre, quando una creatura consenziente che puoi vedere fallisce una prova di caratteristica o un tiro salvezza che la farebbe spingere, tirare, buttare a terra o subire un effetto simile, puoi usare la tua reazione per lanciare blocca persone tramite questa capacità, comandando alle sue ossa di restare ferme e facendole invece superare il tiro salvezza.\n+\n+## COSTRUTTO D’OSSA\n+\n+Ottieni la capacità di risvegliare e comandare un fedele costrutto fatto di ossa. Con un’azione, puoi spendere almeno 3 punti osteomante (fino a un massimo pari al livello più alto di slot incantesimo che possiedi, indipendentemente dalla loro origine) per creare un costrutto scheletrico.\n+\n+Il costrutto appare in uno spazio libero a tua scelta che puoi vedere entro 9 metri da te. Ogni creatura ostile entro 3 metri dal costrutto quando appare deve superare un tiro salvezza su Saggezza contro la CD dei tuoi incantesimi o essere spaventata fino all’inizio del tuo prossimo turno.\n+\n+Il costrutto è amichevole verso di te e i tuoi compagni e obbedisce ai tuoi comandi. Le sue statistiche sono riportate nel blocco statistiche del Costrutto d’Ossa qui sotto, dove PS rappresenta il numero di punti osteomante spesi per evocarlo. Decidi tu l’aspetto del costrutto: alcuni possono sembrare umanoidi, altri bestie o altre creature.\n+\n+---\n+\n+> ## Costrutto d’Ossa\n+> _Costrutto non morto di taglia Media o inferiore, senza allineamento_\n+> ___\n+> - **Classe Armatura** 9 + bonus di competenza + PS\n+> - **Punti Vita** 5 + (10 × PS)\n+> - **Velocità** 9 m\n+> ___\n+> |FOR|DES|COS|INT|SAG|CAR|\n+> |:-:|:-:|:-:|:-:|:-:|:-:|\n+> |pari alla tua caratteristica da incantatore|pari alla tua caratteristica da incantatore|pari alla tua caratteristica da incantatore|6 (−2)|8 (−1)|5 (−3)|\n+> ___\n+> - **Vulnerabilità ai danni** contundenti\n+> - **Resistenze ai danni** necrotici\n+> - **Immunità ai danni** veleno\n+> - **Immunità alle condizioni** avvelenato, affascinato, spaventato, esausto\n+> - **Sensi** scurovisione 18 m\n+> - **Linguaggi** comprende le lingue che conosci, ma non può parlare\n+> - **Bonus di competenza** uguale al tuo\n+> ___\n+> ### Tratti\n+> **Forma Potenziata.** Se spendi 5 o più punti osteomante, il costrutto può essere di taglia Grande. Una creatura Grande tira il doppio dei dadi danno.\n+> ___\n+> ## Azioni\n+> **Attacco Bonus.** Il costrutto d’ossa effettua un numero di attacchi pari a metà dei punti osteomante spesi, arrotondato per difetto.\n+> **Attacco d’Ossa.** *Attacco in mischia:* FOR + bonus di competenza al tiro per colpire, portata 1,5 m, un bersaglio. *Colpito:* 1d8 + FOR danni contundenti.\n+---\n+\n+In combattimento, il costrutto condivide il tuo conteggio di iniziativa, ma agisce subito dopo di te. Nel suo turno esegue solo l’azione Schivare, a meno che tu non usi un’azione bonus nel tuo turno per comandargli di compiere un’altra azione. Tale azione può essere una presente nel suo blocco statistiche o un’altra azione appropriata.  \n+Se sei incapacitato, il costrutto può compiere qualsiasi azione a sua scelta, non solo Schivare.\n+\n+Il costrutto persiste per 1 ora, finché non scende a 0 punti ferita, finché non usi di nuovo questa capacità per crearne un altro, o finché non muori.\n+\n+Puoi usare questa capacità un numero di volte pari a metà del tuo bonus di competenza (arrotondato per difetto) e recuperi tutti gli usi dopo un riposo breve o lungo.\n+\n+## POTENZIAMENTO SCHELETRICO\n+Attingi al potere primordiale delle tue ossa per potenziare le tue capacità fisiche. Come azione bonus, puoi spendere un numero di punti osteomante (fino a un massimo pari al livello più alto di slot incantesimo che possiedi, indipendentemente dalla loro origine) per aumentare il tuo punteggio di Forza, Destrezza o Costituzione di un valore pari ai punti osteomante spesi.\n+\n+Questo potenziamento dura 1 minuto o finché non usi di nuovo questa capacità.  \n+Finché sei potenziato, hai vantaggio ai tiri salvezza e alle prove di caratteristica basate sulla caratteristica scelta.\n+\n+## FORMA SCHELETRICA\n+Abbracci pienamente il tuo legame con le ossa e la non morte, ottenendo la capacità di assumere una terrificante forma scheletrica. Come azione bonus, il tuo corpo si trasforma in una spaventosa figura scheletrica. La trasformazione dura 10 minuti o finché non la termini come azione bonus.\n+\n+Finché sei nella forma scheletrica, ottieni i seguenti benefici:\n+\n+- Ottieni punti ferita temporanei pari al tuo livello totale + il tuo modificatore di caratteristica da incantatore. All’inizio del tuo turno, puoi spendere 1 punto osteomante per ripristinare questi punti ferita temporanei.\n+- La tua Classe Armatura aumenta di 5.\n+- Sei immune ai danni da veleno e resistente a tutti i danni tranne radianti e contundenti.\n+- Sei considerato non morto e non puoi essere spaventato, affascinato o avvelenato.\n+- Hai vantaggio alle prove di Intimidire.\n+- Quando scendi a 0 punti ferita, puoi spendere 3 punti osteomante per scendere invece a 1 punto ferita. Dopo aver usato questa capacità, non puoi farlo di nuovo finché non completi un riposo lungo.\n+- Ogni creatura ostile che inizi il turno entro 18 metri da te e possa vederti deve superare un tiro salvezza su Saggezza contro la CD dei tuoi incantesimi o essere spaventata per 1 minuto.  \n+    La creatura può ripetere il tiro salvezza all’inizio di ciascun suo turno, terminando l’effetto su sé stessa con un successo.  \n+    Le creature non morte hanno svantaggio al tiro salvezza e, in caso di fallimento, sono affascinate invece che spaventate.\n+\n+Una volta usata questa capacità, non puoi riutilizzarla finché non completi un riposo lungo.\n+\n ---\n-# portatori\n+# storia\n+## portatori\n a capodanno dell'anno 1312 [[than-warlock-tiefling-30|than]] diventa il portatore di questo artefatto\n-# intervento di [[asmodeus]]\n+## intervento di [[asmodeus]]\n dopo che [[than-warlock-tiefling-30|than]] muore [[Asmodeus]] lo salva modificando un po' l'artefatto\n #startMaster \n crea una sorta di barriera mentale per isolare la coscienza di [[atos]] da quella di [[than-warlock-tiefling-30|than]] per evitare che le cose finiscano malamente di nuovo, inoltre come conseguenza alla morte e conseguente resurrezione operata da [[asmodeus]] \n"
+		},
+		{
+			"file": "definizioni/template/stat-block.md",
+			"display_name": "Stat Block",
+			"status": "Modified",
+			"diff": "diff --git a/definizioni/template/stat-block.md b/definizioni/template/stat-block.md\nindex 8c4752a..1056330 100644\n--- a/definizioni/template/stat-block.md\n+++ b/definizioni/template/stat-block.md\n@@ -8,14 +8,15 @@ ___\n > ___\n > |FOR|DES|COS|INT|SAG|CAR|\n > |:---:|:---:|:---:|:---:|:---:|:---:|\n-> |[FOR]|[DES]|[COS]|[INT]|[SAG]|[CAR]|\n+> |[FOR] ([bonus FOR])|[DES] ([bonus DES])|[COS] ([bonus COS])|[INT] ([bonus INT])|[SAG] ([bonus SAG])|[CAR] ([bonus CAR])|\n > ___\n-> - **Sensi** \n-> - **Linguaggi** [Linguaggi]\n-> - **Grado Sfida** [grado sfida] ([pe ottenuti alla morte] XP)\n+> - **[nome competenza]** [competenza]\n > ___\n > ## Azioni\n > **[nome azione]** [descrizione azione]\n > ___\n+> ## Azioni bonus\n+> **[nome azione bonus]** [descrizione azione bonus]\n+> ___\n > ## Reazioni\n > **[nome reazione]** [descrizione reazione]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/raggio-di-infermita.md",
+			"display_name": "Raggio di Infermità",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/necromante/raggio-di-infermita.md b/materiale/incantesimi/necromante/raggio-di-infermita.md\nindex 86c3dd4..f64a4f7 100644\n--- a/materiale/incantesimi/necromante/raggio-di-infermita.md\n+++ b/materiale/incantesimi/necromante/raggio-di-infermita.md\n@@ -1,17 +1 @@\n-# Raggio di Infermità\n-*1° livello, Necromanzia*\n-\n-- **Tempo di lancio:** 1 azione\n-- **Raggio d'azione:** 18m\n-- **Componenti:** V, S\n-- **Durata:** Istantaneo\n-\n-Un raggio di nauseante energia verdastra sfreccia verso una creatura entro gittata. L'incantatore effettua un attacco a distanza con questo incantesimo contro il bersaglio. Se lo colpisce, il bersaglio subisce 2d8 danni da veleno e deve effettuare un tiro salvezza su Costituzione. Se lo fallisce, è avvelenato fino alla fine del turno successivo dell'incantatore\n-\n-**Ai livelli superiori:** Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 2° livello o superiore, i danni aumentano di 1d8 per ogni slot di livello superiore al 1°.\n-\n-**Classi:** Mago, Necromante\n-\n-**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\n-\n----\n\\ No newline at end of file\n+![[materiale/incantesimi/tutti/raggio-di-infermita]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/barriera-ossea.md",
+			"display_name": "Barriera Ossea",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/raggio-di-infermita.md",
+			"display_name": "Raggio di Infermita",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/tutti/raggio-di-infermita.md b/materiale/incantesimi/tutti/raggio-di-infermita.md\nindex 86c3dd4..518beca 100644\n--- a/materiale/incantesimi/tutti/raggio-di-infermita.md\n+++ b/materiale/incantesimi/tutti/raggio-di-infermita.md\n@@ -1,4 +1,4 @@\n-# Raggio di Infermità\n+# Raggio di Infermita\n *1° livello, Necromanzia*\n \n - **Tempo di lancio:** 1 azione\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex c79c826..ab4f6cc 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -7,6 +7,11 @@\n - [x] inserire le stat block del drago di rallo nella pagina\n - [x] formattare e inserire nel vault i nuovi incantesimi di davide (artefatto necromante)\n - [x] inserire nella scheda dell'artefatto da necromante i suddetti incantesimi\n-- [ ] inventare osteocinesi\n+- [x] inventare osteocinesi\n+\t- [x] scrivere scudo di fede\n+\t- [x] scrivere presagio\n+\t- [x] scrivere blocca persone\n+\t- [x] scrivere sfera elastica\n+\t- [x] scrivere blocca mostri\n - [ ] inventare ombrocinesi\n - [ ] scrivere moduli futuri\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/chierico/blocca-persone.md",
+			"display_name": "Blocca Persone",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/chierico/presagio.md",
+			"display_name": "Presagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/druido/blocca-persone.md",
+			"display_name": "Blocca Persone",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/druido/presagio.md",
+			"display_name": "Presagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/blocca-mostri.md",
+			"display_name": "Blocca Mostri",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/blocca-persone.md",
+			"display_name": "Blocca Persone",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/osteourgia.md",
+			"display_name": "Osteourgia",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/presagio.md",
+			"display_name": "Presagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/raggio-di-infermita.md",
+			"display_name": "Raggio di Infermità",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/riposo-inviolato.md",
+			"display_name": "Riposo Inviolato",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/mago/sfera-elastica.md",
+			"display_name": "Sfera Elastica",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/blocca-mostri.md",
+			"display_name": "Blocca Mostri",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/blocca-persone.md",
+			"display_name": "Blocca Persone",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/osteourgia.md",
+			"display_name": "Osteourgia",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/presagio.md",
+			"display_name": "Presagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/riposo-inviolato.md",
+			"display_name": "Riposo Inviolato",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sfera-elastica.md",
+			"display_name": "Sfera Elastica",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/blocca-mostri.md",
+			"display_name": "Blocca Mostri",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/blocca-persone.md",
+			"display_name": "Blocca Persone",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/osteourgia.md",
+			"display_name": "Osteourgia",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/presagio.md",
+			"display_name": "Presagio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/riposo-inviolato.md",
+			"display_name": "Riposo Inviolato",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/sfera-elastica.md",
+			"display_name": "Sfera Elastica",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/warlock/blocca-mostri.md",
+			"display_name": "Blocca Mostri",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/incantesimi/warlock/blocca-persone.md",
+			"display_name": "Blocca Persone",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
