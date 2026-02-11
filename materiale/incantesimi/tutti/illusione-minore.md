@@ -11,6 +11,6 @@ Se l'incantatore crea un suono, il suo volume può variare da un sussurro a un u
 Se l'incantatore crea l'immagine di un oggetto (come per esempio una sedia, una serie di impronte nel fango o uno scrigno), quell'oggetto non deve essere più grande di un cubo con spigolo di 1,5 metri. L'immagine non può emettere suoni, luci, odori o qualsiasi altro effetto sensoriale. Un'interazione fisica con l'immagine rivela che si tratta di un'illusione, in quanto gli oggetti la attraversano.
 Se una creatura usa la sua azione per esaminare il suono o l'immagine, può determinare che si tratta di un'illusione se effettua con successo una prova di Intelligenza (Indagare) contro la CD del tiro salvezza dell'incantesimo. Se una creatura discerne l'illusione per ciò che è, l'illusione si attenua per quella creatura.
 
-**Classi:** Bardo, Stregone, Mago, Warlock
+**Classi:** Bardo, Stregone, Mago, Warlock, Dellombra
 
 ---

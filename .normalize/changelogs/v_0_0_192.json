@@ -1,0 +1,38 @@
+{
+	"version": "v 0.0.192",
+	"date": "2026-02-11 22:43:36",
+	"commit_hash": "eb9af439472a9012e95cded20184d8ab2f68ad7d",
+	"commit_message": "aggiornamento 2026 02 11 22:43 [v 0.0.192]",
+	"changes": [
+		{
+			"file": "materiale/incantesimi/tutti/illusione-minore.md",
+			"display_name": "Illusione Minore",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/tutti/illusione-minore.md b/materiale/incantesimi/tutti/illusione-minore.md\nindex 75a995c..c0a4891 100644\n--- a/materiale/incantesimi/tutti/illusione-minore.md\n+++ b/materiale/incantesimi/tutti/illusione-minore.md\n@@ -11,6 +11,6 @@ Se l'incantatore crea un suono, il suo volume può variare da un sussurro a un u\n Se l'incantatore crea l'immagine di un oggetto (come per esempio una sedia, una serie di impronte nel fango o uno scrigno), quell'oggetto non deve essere più grande di un cubo con spigolo di 1,5 metri. L'immagine non può emettere suoni, luci, odori o qualsiasi altro effetto sensoriale. Un'interazione fisica con l'immagine rivela che si tratta di un'illusione, in quanto gli oggetti la attraversano.\n Se una creatura usa la sua azione per esaminare il suono o l'immagine, può determinare che si tratta di un'illusione se effettua con successo una prova di Intelligenza (Indagare) contro la CD del tiro salvezza dell'incantesimo. Se una creatura discerne l'illusione per ciò che è, l'illusione si attenua per quella creatura.\n \n-**Classi:** Bardo, Stregone, Mago, Warlock\n+**Classi:** Bardo, Stregone, Mago, Warlock, Dellombra\n \n ---\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/oscurita.md",
+			"display_name": "Oscurità",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/tutti/oscurita.md b/materiale/incantesimi/tutti/oscurita.md\nindex e96af28..4a23d1f 100644\n--- a/materiale/incantesimi/tutti/oscurita.md\n+++ b/materiale/incantesimi/tutti/oscurita.md\n@@ -12,6 +12,6 @@ Se una parte dell'area di questo incantesimo si sovrappone a un'area di luce cre\n \n **Ai livelli superiori:** quando viene lanciato con uno slot incantesimo di 3 livello o superiore vengono dissolti anche gli incantesimi di luce fino a un livello pari a quello dello slot e il raggio della sfera di oscurità aumenta di 0.5m per ogni livello dello slot usato sopra al 2\n \n-**Classi:** Stregone, Warlock, Mago\n+**Classi:** Stregone, Warlock, Mago, dellombra\n \n ---\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/passare-senza-tracce.md",
+			"display_name": "Passare Senza Tracce",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/tutti/passare-senza-tracce.md b/materiale/incantesimi/tutti/passare-senza-tracce.md\nindex 4c5b872..ffef26e 100644\n--- a/materiale/incantesimi/tutti/passare-senza-tracce.md\n+++ b/materiale/incantesimi/tutti/passare-senza-tracce.md\n@@ -10,6 +10,6 @@ L'incantatore è avvolto da un velo d'ombra e di silenzio che impedisce a lui e\n \n **Ai livelli superiori:** quando viene lanciato con uno slot di livello 3 o superiore per ogni livello sopra al secondo l'incantatore sceglie: o aumenta di un'ora la durata o aumenta di 0.5 il raggio dell'incantesimo\n \n-**Classi:** Druido, Ranger\n+**Classi:** Druido, Ranger, Dellombra\n \n ---\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/scurovisione.md",
+			"display_name": "Scurovisione",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/tutti/scurovisione.md b/materiale/incantesimi/tutti/scurovisione.md\nindex 0c06f70..2c16fb1 100644\n--- a/materiale/incantesimi/tutti/scurovisione.md\n+++ b/materiale/incantesimi/tutti/scurovisione.md\n@@ -10,6 +10,6 @@ L'incantatore tocca una creatura consenziente per conferirle la capacità di ved\n \n **Ai livelli superiori:** quando viene lanciato con uno slot di livello 3 o superiore per ogni livello sopra al secondo l'incantatore sceglie: o aumenta di un'ora la durata o aumenta il numero di creature beneficiarie di 1\n \n-**Classi:** Druido, Ranger, Stregone, Mago\n+**Classi:** Druido, Ranger, Stregone, Mago, Dellombra\n \n ---\n"
+		},
+		{
+			"file": "materiale/incantesimi/tutti/silenzio.md",
+			"display_name": "Silenzio",
+			"status": "Modified",
+			"diff": "diff --git a/materiale/incantesimi/tutti/silenzio.md b/materiale/incantesimi/tutti/silenzio.md\nindex 5fbcd35..2004bef 100644\n--- a/materiale/incantesimi/tutti/silenzio.md\n+++ b/materiale/incantesimi/tutti/silenzio.md\n@@ -10,6 +10,6 @@ L'incantatore genera una sfera del raggio di 6 metri centrata su un punto a sua\n \n **Ai livelli superiori:** quando viene lanciato con uno slot di livello 3 o superiore per ogni livello sopra al secondo l'incantatore sceglie: o aumenta di 10 minuti la durata o aumenta di 0.5m il raggio dell'incantesimo\n \n-**Classi:** Bardo, Chierico, Ranger\n+**Classi:** Bardo, Chierico, Ranger, Dellombra\n \n ---\n"
+		}
+	]
+}

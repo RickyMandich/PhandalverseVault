@@ -10,6 +10,6 @@ L'incantatore genera una sfera del raggio di 6 metri centrata su un punto a sua 
 
 **Ai livelli superiori:** quando viene lanciato con uno slot di livello 3 o superiore per ogni livello sopra al secondo l'incantatore sceglie: o aumenta di 10 minuti la durata o aumenta di 0.5m il raggio dell'incantesimo
 
-**Classi:** Bardo, Chierico, Ranger
+**Classi:** Bardo, Chierico, Ranger, Dellombra
 
 ---

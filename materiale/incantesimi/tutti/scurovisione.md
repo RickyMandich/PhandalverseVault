@@ -10,6 +10,6 @@ L'incantatore tocca una creatura consenziente per conferirle la capacità di ved
 
 **Ai livelli superiori:** quando viene lanciato con uno slot di livello 3 o superiore per ogni livello sopra al secondo l'incantatore sceglie: o aumenta di un'ora la durata o aumenta il numero di creature beneficiarie di 1
 
-**Classi:** Druido, Ranger, Stregone, Mago
+**Classi:** Druido, Ranger, Stregone, Mago, Dellombra
 
 ---

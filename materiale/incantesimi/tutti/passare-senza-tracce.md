@@ -10,6 +10,6 @@ L'incantatore è avvolto da un velo d'ombra e di silenzio che impedisce a lui e 
 
 **Ai livelli superiori:** quando viene lanciato con uno slot di livello 3 o superiore per ogni livello sopra al secondo l'incantatore sceglie: o aumenta di un'ora la durata o aumenta di 0.5 il raggio dell'incantesimo
 
-**Classi:** Druido, Ranger
+**Classi:** Druido, Ranger, Dellombra
 
 ---

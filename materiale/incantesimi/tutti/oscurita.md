@@ -12,6 +12,6 @@ Se una parte dell'area di questo incantesimo si sovrappone a un'area di luce cre
 
 **Ai livelli superiori:** quando viene lanciato con uno slot incantesimo di 3 livello o superiore vengono dissolti anche gli incantesimi di luce fino a un livello pari a quello dello slot e il raggio della sfera di oscurità aumenta di 0.5m per ogni livello dello slot usato sopra al 2
 
-**Classi:** Stregone, Warlock, Mago
+**Classi:** Stregone, Warlock, Mago, dellombra
 
 ---
