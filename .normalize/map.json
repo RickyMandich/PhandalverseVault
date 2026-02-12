@@ -201,7 +201,6 @@
 								"rinascita.md": "Rinascita",
 								"rintocco-dei-morti.md": "Rintocco Dei Morti",
 								"riposo-inviolato.md": "Riposo Inviolato",
-								"riposo-involato.md": "Riposo Involato",
 								"salvare-i-morenti.md": "Salvare i Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"sfera-elastica.md": "Sfera Elastica",
@@ -250,7 +249,6 @@
 								"rinascita.md": "Rinascita",
 								"rintocco-dei-morti.md": "Rintocco dei Morti",
 								"riposo-inviolato.md": "Riposo Inviolato",
-								"riposo-involato.md": "Riposo Involato",
 								"salvare-i-morenti.md": "Salvare i Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"sciame-di-parassiti.md": "Sciame di Parassiti",
@@ -348,7 +346,6 @@
 								"rinascita.md": "Rinascita",
 								"rintocco-dei-morti.md": "Rintocco Dei Morti",
 								"riposo-inviolato.md": "Riposo Inviolato",
-								"riposo-involato.md": "Riposo Involato",
 								"salvare-i-morenti.md": "Salvare i Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"sciame-di-parassiti.md": "Sciame Di Parassiti",
@@ -532,8 +529,8 @@
 		"universi": {
 			"original": "Universi",
 			"files": {
-				"telaranrhiod.md": "TelAranRhiod",
-				"telmurkvadinn.md": "TelMurkVadinn"
+				"telaranrhiod.md": "Tel'Aran'Rhiod",
+				"telmurkvadinn.md": "Tel'Murk'Vadinn"
 			},
 			"directories": {
 				"fandalmein": {

@@ -73,7 +73,7 @@
               "state": {
                 "file": "artefatti/party/artefatto-dellombra.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "artefatto-dellombra"
@@ -249,6 +249,10 @@
   },
   "active": "116d314a809354b9",
   "lastOpenFiles": [
+    "saghe/saga-di-capodanno-1312.md",
+    "materiale/incantesimi/tutti/riposo-involato.md",
+    "artefatti/party/artefatto-dellombra.md",
+    "artefatti/party/artefatto-necromante.md",
     "materiale/incantesimi/tutti/illusione-minore.md",
     "materiale/incantesimi/dellombra/illusione-minore.md",
     "materiale/incantesimi/tutti/ombra-di-moil.md",
@@ -261,7 +265,6 @@
     "materiale/incantesimi/dellombra/scurovisione.md",
     "materiale/incantesimi/tutti/silenzio.md",
     "materiale/incantesimi/dellombra/silenzio.md",
-    "artefatti/party/artefatto-dellombra.md",
     "materiale/incantesimi/tutti/barriera-ossea.md",
     "definizioni/template/incantesimi.md",
     "materiale/incantesimi/warlock/scagliare-maledizione.md",
@@ -276,10 +279,7 @@
     "materiale/incantesimi/paladino/scagliare-maledizione.md",
     "materiale/incantesimi/paladino",
     "materiale/incantesimi/druido/presagio.md",
-    "materiale/incantesimi/druido/blocca-persone.md",
-    "materiale/incantesimi/druido/appassire-e-fiorire.md",
     "materiale/incantesimi/druido",
-    "materiale/incantesimi/chierico/scagliare-maledizione.md",
     "materiale/incantesimi/chierico",
     "materiale/incantesimi/bardo",
     "bash/d2utmptsDKGR",
