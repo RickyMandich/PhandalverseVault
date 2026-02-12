@@ -180,7 +180,7 @@ fi
 echo ""
 
 echo "ricorda di disattivare il tunnel di clouflare"
-waitKey
+read -n 1 -s -r -p "Press any key to continue"
 
 # Esegui il push sul repository remoto
 echo "=========================================="

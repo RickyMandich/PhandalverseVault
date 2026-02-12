@@ -538,6 +538,7 @@ tabella esplicativa:
 ![[materiale/incantesimi/tutti/silenzio]]
 ![[materiale/incantesimi/tutti/illusione-minore]]
 ![[materiale/incantesimi/tutti/ombra-di-moil]]
+___
 # visione dell'ombra
 quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.
 
@@ -568,7 +569,7 @@ Recuperare un oggetto dall'inventario oscuro richiede l’uso di un’azione. Le
 # punti ombrocinesi
 possiedi tanti punti ombrocinesi pari al tuo livello \* 2 tranne al 1 che ne hai 0, con un riposo lungo si ripristinano mentre con un riposo breve ne recuperi la metà
 
-puoi convertire punti ombrocinesi e slot incantesimi con queste proporzioni:
+puoi convertire punti ombrocinesi e slot incantesimi con queste proporzioni usando un'azione bonus:
 
 | livello slot | punti ombrocinesi |
 | :----------: | :--------------: |

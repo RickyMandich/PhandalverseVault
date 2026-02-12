@@ -13,5 +13,5 @@
 	- [x] scrivere blocca persone
 	- [x] scrivere sfera elastica
 	- [x] scrivere blocca mostri
-- [ ] inventare ombrocinesi
+- [x] inventare ombrocinesi
 - [ ] scrivere moduli futuri
