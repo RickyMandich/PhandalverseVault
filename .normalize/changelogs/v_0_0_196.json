@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.196",
+	"date": "2026-02-12 12:11:06",
+	"commit_hash": "8ad5b58b87cd2e7cdb48b55488739b2d58702a42",
+	"commit_message": "aggiornamento 2026 02 12 12:11 [v 0.0.196]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn (ombra)",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex def4530..f995836 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -623,7 +623,7 @@ all'interno del [[telmurkvadinn]]\n - Il bersaglio non può recuperare punti ferita.\n - La prima volta per turno che il proprietario colpisce il bersaglio infligge +4d6 danni necrotici.\n ## se supera il tiro salvezza\n-la vittima viene intrappolata in dei filamenti di ombra\n+la vittima viene intrappolata in dei filamenti di ombra che durano per 1 minuto\n ___\n # Erosione dell'anima\n finché il proprietario attacca lo stesso nemico ottiene un bonus cumulativo di danni necrotici pari a 1d6 per un massimo del suo bonus competenza, quando completa un turno senza infliggere danni **SOLO** a quel bersaglio il bonus viene resettato\n\\ No newline at end of file\n"
+		}
+	]
+}

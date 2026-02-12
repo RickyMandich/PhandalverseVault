@@ -623,7 +623,7 @@ all'interno del [[telmurkvadinn]]
 - Il bersaglio non può recuperare punti ferita.
 - La prima volta per turno che il proprietario colpisce il bersaglio infligge +4d6 danni necrotici.
 ## se supera il tiro salvezza
-la vittima viene intrappolata in dei filamenti di ombra
+la vittima viene intrappolata in dei filamenti di ombra che durano per 1 minuto
 ___
 # Erosione dell'anima
 finché il proprietario attacca lo stesso nemico ottiene un bonus cumulativo di danni necrotici pari a 1d6 per un massimo del suo bonus competenza, quando completa un turno senza infliggere danni **SOLO** a quel bersaglio il bonus viene resettato
