@@ -34,25 +34,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
-          },
-          {
-            "id": "d688fa0d08b91dad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/saga-di-capodanno-1312.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "saga-di-capodanno-1312"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +203,11 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "d688fa0d08b91dad",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
+    "personaggi/non-giocanti/nidave.md",
+    "personaggi/non-giocanti/macrotrama/nonno-roshi.md",
+    "saghe/saga-di-capodanno-1312.md",
     "bash/d2utmphfOoSG",
     "bash/d2utmpGfJ9qe",
     "bash/d2utmpQFr9sw",
@@ -254,12 +240,9 @@
     "personaggi/giocanti/attila-slayer-guerriero-elfo-100.md",
     "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
     "personaggi/giocanti/morbiarum-paladino-dragonide-24.md",
-    "personaggi/giocanti/than-warlock-tiefling-30.md",
-    "personaggi/giocanti/vargas-paladino-nano-65.md",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",
     "bash/d2utmpwFSJLL",
-    "bash/d2utmpG9vXOe",
     "artefatti/party/Drakensyn.avif",
     "artefatti/party/occhio-di-atos.jpeg",
     "artefatti/party/netjerheka-di-osiride.png",

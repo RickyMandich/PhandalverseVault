@@ -437,7 +437,9 @@
 				},
 				"non-giocanti": {
 					"original": "Non Giocanti",
-					"files": {},
+					"files": {
+						"nidave.md": "Nidave"
+					},
 					"directories": {
 						"artefatti": {
 							"original": "Artefatti",

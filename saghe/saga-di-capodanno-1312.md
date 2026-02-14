@@ -10,9 +10,9 @@ questa saga è schematizzata da [[capodanno1]]
 ## sessione di venerdì 2026 01 16
 mentre [[la-mano-rossa|il party]] si sta divertendo al festival di capodanno di [[GemGrave]]  il posto viene attaccato da 9 [[capodanno1-minion|creature magiche]] non meglio definite e il party le combatte per salvare se stessi e gli altri.
 dopo uno scontro molto combattuto che li ha quasi uccisi [[nonno-roshi]] arriva e li salva usando dei poteri mai visti prima.
-### xp
+### XP
 nemici sconfitti: 9 minion (1) = 9 mostri
-totale xp: 9 \* 200 = 1800
+totale XP: 9 \* 200 = 1800
 moltiplicatore numero nemici = 1800 \* 2.5 (7-10 mostri) = 4500
 tutti i giocatori prendono 900 punti esperienza
 ## sessione di venerdì 2026 01 23
@@ -26,9 +26,9 @@ dopo averli salvati [[nonno-roshi|roshi]] consegna a tutti i membri de [[la-mano
 ## sessione di giovedì 2026 01 30
 dopo che tutti hanno ricevuto gli artefatti [[kanye-ovest]] si offende per essere rimasto escluso per cui [[nonno-roshi|roshi]] da un artefatto anche a lui: [[artefatto-sintonia-draconica]].
 dopodiché vanno in cerca di un gruppo di [[capodanno1-minion|minion]] (12) per poterli uccidere e scoprire dove si trova il costrutto che sta causando tutti questi problemi. riescono tranquillamente a uccidere il gruppo di [[capodanno1-minion|minion]] che trovano e [[than-warlock-tiefling-30]] fa un incantesimo usando il suo nuovo artefatto per rianimarli al suo servizio e farsi guidare alla loro base.
-### xp
+### XP
 nemici sconfitti: 12 minion (1) = 12 mostri
-totale xp: 12 \* 200 = 2400
+totale XP: 12 \* 200 = 2400
 moltiplicatore numero nemici = 2400 \* 3 (11-14 mostri) = 7200
 tutti i giocatori prendono 1440 punti esperienza
 ## sessione di giovedì 2026 02 05
@@ -43,10 +43,11 @@ Rientrati nella grotta [[than-warlock-tiefling-30]] e [[vargas-paladino-nano-65]
 [[than-warlock-tiefling-30]] ha ucciso quattro Minion generando una raffica di lame d'ossa, e [[vargas-paladino-nano-65]] ne ha uccisi altri due allineando un altro fulmine che ha colpito anche il boss, il quale si è limitato a generare altri Minion, per poi saltare loro addosso e colpire [[than-warlock-tiefling-30]].
 Incrociando lo sguardo con il boss, [[than-warlock-tiefling-30]] utilizza un privilegio di classe dovuto all'artefatto chiamato "controllare i senz'anima" prende controllo del boss.
 Così hanno fermato il boss e, sotto ordine di [[than-warlock-tiefling-30]], i suoi Minion, che però erano comunque entrati in posizione per ricominciare il rituale, che formava una sorta di orologio luminoso sul terreno. Mentre parlavo con la creatura [[vargas-paladino-nano-65]] ha ucciso uno dei Minion che eseguivano il rituale, fermandolo, e poco dopo è scattata la mezzanotte, facendo svanire il boss in una nuvola di polvere.
-### xp
+### XP
 nemici sconfitti: 1 Boss (6) + 12 minion zombie (1) + 31 minion (1) = 44 mostri
-totale xp: 1 * 2300 + 12 * 200 + 31 * 200 = 2300 + 2400 + 6200 = 10900
+totale XP: 1 * 2300 + 12 * 200 + 31 * 200 = 2300 + 2400 + 6200 = 10900
 moltiplicatore numero nemici = 10900 * 4 (15+ mostri) = 43600
 tutti i giocatori prendono 8720 punti esperienza
 ## sessione di venerdì 2026 02 13
-dopo lo scontro [[than-warlock-tiefling-30|than]] uccide lanciando una palla di fuoco tutti i minion rimasti e poi li evoca nuovamente come non morti al suo servizio, dopodichè 
+dopo lo scontro [[than-warlock-tiefling-30|than]] uccide lanciando una palla di fuoco tutti i minion rimasti e poi li evoca nuovamente come non morti al suo servizio, dopodiché tornano da vincitore da [[nonno-roshi|roshi]] e tutti insieme vanno a partecipare ai festeggiamenti.
+dopodiché parlano con [[nonno-roshi|roshi]] e scoprono che [[artefatto-artefice]] che era stato definitoda roshi (al momento della consegna a [[vargas-paladino-nano-65]] come gli strumenti di  [[nidave]]) sono a tutti gli effetti gli strumenti di [[asmodeus]] in quanto scoprono che i demoni non nascono tali, ma originariamente sono umanoidi, e originariamente asmodeus era proprio nidave, che si scopre anche essere il relatore della tesi di roshi ai tempi degli [[artefici]].
