@@ -1,1 +1,1 @@
-è la zona più profonda del mare
+è la fossa oceanica più profonda di questo mondo

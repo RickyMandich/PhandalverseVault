@@ -1,0 +1,206 @@
+{
+	"version": "v 0.0.198",
+	"date": "2026-02-14 13:28:03",
+	"commit_hash": "8b20b13ecc8d4bc5c8bd865d73df84b59ac8a49a",
+	"commit_message": "aggiornamento 2026 02 14 13:28 [v 0.0.198]",
+	"changes": [
+		{
+			"file": "artefatti/Fyrbrand.md",
+			"display_name": "Fyrbrand",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "artefatti/il-portale.md",
+			"display_name": "Il Portale",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "artefatti/la-bussola.md",
+			"display_name": "La Bussola",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "definizioni/calendario.md",
+			"display_name": "Calendario",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "definizioni/universo.md",
+			"display_name": "Universo",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "definizioni/villaggio.md",
+			"display_name": "Villaggio",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "eventi/la-frattura.md",
+			"display_name": "La Frattura",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/gruppi-magici/fratelli-dei-lupi.md",
+			"display_name": "Fratelli dei Lupi",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/gruppi/i-purgatori.md",
+			"display_name": "I Purgatori",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/fumero.md",
+			"display_name": "Fumero",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/gemgrave/kaia.md",
+			"display_name": "Kaia",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/gemgrave/perrin-cauthon.md",
+			"display_name": "Perrin Cauthon",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/dark-kaia.md",
+			"display_name": "Dark Kaia",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/giorgia-rossato.md",
+			"display_name": "Giorgia Rossato",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/non-giocanti/macrotrama/giorgia-rossato.md b/personaggi/non-giocanti/macrotrama/giorgia-rossato.md\nindex 4772e57..64a8c95 100644\n--- a/personaggi/non-giocanti/macrotrama/giorgia-rossato.md\n+++ b/personaggi/non-giocanti/macrotrama/giorgia-rossato.md\n@@ -2,5 +2,5 @@\n una civetta gigante (taglia media, è alta circa quanto un goliath o un orco), anche se quando ne ha li sgrida spesso anche per i motivi più stupidi tiene molto ai suoi studenti\n #startMaster \n # inizio dei tempi - epoca leggendaria\n-lei nasce quando per la prima volta un essere senziente ha scoperto la tecnologia più basica ed è stata la mentore delle menti più eccelse della storia, conosce tutto ciò che è legato alla tecnologia e alla scienza anche se a volte non te lo saprebbe dire di punto in bianco, quando è nata l'accademia di atlantide lei ne era la preside\n+lei nasce quando per la prima volta un essere senziente ha scoperto la tecnologia più basica ed è stata la mentore delle menti più eccelse della storia, conosce tutto ciò che è legato alla tecnologia e alla scienza anche se a volte non te lo saprebbe dire di punto in bianco, quando è nata l'accademia di [[atlantide]] lei ne era la preside\n #endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/nonno-roshi.md",
+			"display_name": "Nonno Roshi",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/saga-di-merfolk/blob.md",
+			"display_name": "Blob",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/saga-di-merfolk/irving.md",
+			"display_name": "Irving",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/saga-di-merfolk/mussel.md",
+			"display_name": "Mussel",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/saga-di-merfolk/viper.md",
+			"display_name": "Viper",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/organizzazioni/artefici.md",
+			"display_name": "Artefici",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "personaggi/organizzazioni/la-coalizione.md",
+			"display_name": "La Coalizione",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "saghe/saga-di-capodanno-1312.md",
+			"display_name": "Saga Di Capodanno 1312",
+			"status": "Modified",
+			"diff": "diff --git a/saghe/saga-di-capodanno-1312.md b/saghe/saga-di-capodanno-1312.md\nindex 33ba97e..88c3cb7 100644\n--- a/saghe/saga-di-capodanno-1312.md\n+++ b/saghe/saga-di-capodanno-1312.md\n@@ -48,4 +48,5 @@ nemici sconfitti: 1 Boss (6) + 12 minion zombie (1) + 31 minion (1) = 44 mostri\n totale xp: 1 * 2300 + 12 * 200 + 31 * 200 = 2300 + 2400 + 6200 = 10900\n moltiplicatore numero nemici = 10900 * 4 (15+ mostri) = 43600\n tutti i giocatori prendono 8720 punti esperienza\n-## sessione di venerdì 2026 02 13\n\\ No newline at end of file\n+## sessione di venerdì 2026 02 13\n+dopo lo scontro [[than-warlock-tiefling-30|than]] uccide lanciando una palla di fuoco tutti i minion rimasti e poi li evoca nuovamente come non morti al suo servizio, dopodichè \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex 72923f9..9e92bca 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -14,4 +14,26 @@\n \t- [x] scrivere sfera elastica\n \t- [x] scrivere blocca mostri\n - [x] inventare ombrocinesi\n-- [ ] scrivere moduli futuri\n\\ No newline at end of file\n+- [ ] scrivere moduli futuri\n+- [ ] completar pagine minori di contesto\n+\t- [ ] [[nordavilla]]\n+\t- [ ] [[cristalgrave]]\n+\t- [ ] [[atalantide]]\n+\t- [ ] [[sudaria]]\n+\t- [ ] [[meridionel]]\n+\t- [ ] [[gemgreiv]]\n+\t- [ ] [[settentrionel]]\n+\t- [ ] [[nordavila]]\n+\t- [ ] [[cristalgreiv]]\n+\t- [ ] [[meridionelle]]\n+\t- [ ] [[gemgrave]]\n+\t- [ ] [[suddaria]]\n+\t- [ ] [[settentrionelle]]\n+\t- [ ] [[dark-kaia]]\n+\t- [ ] [[atos]]\n+\t- [ ] [[kanye-ovest]]\n+\t- [ ] [[epoca-terza]]\n+\t- [ ] [[epoca-dargento]]\n+\t- [ ] [[asmodeus]]\n+\t- [ ] [[la-chiave]]\n+- [ ] sistemare il nome dei mesi nel calendario\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandalmein.md",
+			"display_name": "Fandalmein",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/fandanolend.md",
+			"display_name": "Fandanolend",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/fandasulend.md",
+			"display_name": "Fandasulend",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide.md",
+			"display_name": "Atlantide",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/atlantide.md b/universi/phandalmain/atlantide.md\nindex cd54291..496312e 100644\n--- a/universi/phandalmain/atlantide.md\n+++ b/universi/phandalmain/atlantide.md\n@@ -1,5 +1,5 @@\n #startMaster \n-isola al centro del lago continentale di [[phandalmain]].\n-la città che si è creata su quest'isola si chiama comunque così\n+unica città presente sull'isola al centro del lago continentale di [[Phandalmain]].\n+l'isola si chiama come la città e, durante l'[[epoca-leggendaria]] ricopriva tutta l'isola.\n #endMaster \n-durante l'[[epoca-leggendaria|epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua\n\\ No newline at end of file\n+durante l'[[epoca-leggendaria|epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/fossa-delle-marie.md",
+			"display_name": "Fossa Delle Marie",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/fossa-delle-marie.md b/universi/phandalmain/fossa-delle-marie.md\nindex a8f669f..a51e19a 100644\n--- a/universi/phandalmain/fossa-delle-marie.md\n+++ b/universi/phandalmain/fossa-delle-marie.md\n@@ -1 +1 @@\n-è la zona più profonda del mare\n\\ No newline at end of file\n+è la fossa oceanica più profonda di questo mondo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandalmain.md",
+			"display_name": "Phandalmain",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandalmain.md b/universi/phandalmain/phandalmain.md\nindex 4f04c57..1b89044 100644\n--- a/universi/phandalmain/phandalmain.md\n+++ b/universi/phandalmain/phandalmain.md\n@@ -1,5 +1,5 @@\n #startMaster \n-[[universo]] codipendente di [[fandalmein]]\n+[[universo]] codipendente di [[Fandalmein]]\n #endMaster \n # regni\n - [[phandanoland]]\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/phandanoland.md",
+			"display_name": "Phandanoland",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/phandasuland.md",
+			"display_name": "Phandasuland",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+			"display_name": "Sacra Biblioteca Perduta Salvata di Atlantide",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\nindex 01b4044..fcf5cbc 100644\n--- a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n+++ b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n@@ -1,5 +1,5 @@\n una biblioteca magica che contiene almeno una copia di almeno una versione di ogni libro scritto in ogni mondo di questo universo\n #startMaster \n-La sua esistenza è un segreto ben custodito e ad ora conosciuto a pochi e tra chi sapeva dalle sua esistenza molti ora credono sia andata distrutta con la distruzione di atlantide, invece si è solo spostata e ora esiste fisicamente solo il suo ingresso, la biblioteca in sè si trova in uno spazio extradimensionale\n+La sua esistenza è un segreto ben custodito e ad ora conosciuto a pochi e tra chi sapeva dalle sua esistenza molti ora credono sia andata distrutta con la distruzione di [[Atlantide]], invece si è solo spostata e ora esiste fisicamente solo il suo ingresso, la biblioteca in sé si trova in uno spazio extradimensionale\n #endMaster \n la custode della biblioteca è [[giorgia-rossato]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/telmurkvadinn.md",
+			"display_name": "Tel'Murk'Vadinn",
+			"status": "Modified",
+			"diff": "diff --git a/universi/telmurkvadinn.md b/universi/telmurkvadinn.md\nindex ca62f99..e7d2725 100644\n--- a/universi/telmurkvadinn.md\n+++ b/universi/telmurkvadinn.md\n@@ -1,31 +1,24 @@\n-**Tel'Murk'vadinn** è il **Piano delle Ombre**, una struttura cosmica antichissima che si estende come un **albero di tenebra** attraverso tutti i mondi.  \n-Non è un luogo da attraversare in senso orizzontale, ma una **rete verticale di rami, nodi e radici**, invisibili ma sempre presenti.\n+Tel'Murk'vadinn è il Piano delle Ombre, una struttura cosmica antichissima che si estende come un albero di tenebra attraverso tutti i mondi.  \n+Non è un luogo da attraversare in senso orizzontale, ma una rete verticale di rami, nodi e radici, invisibili ma sempre presenti.\n \n-Ogni ombra nel mondo materiale è collegata a Tel’Murk'vadinn.  \n-Le ombre non sono assenze di luce: sono **manifestazioni delle sue radici**.\n+Ogni ombra nel mondo materiale è collegata a Tel’Murk'vadinn.\n \n I rami superiori sfiorano il mondo dei mortali, permettendo brevi passaggi e spostamenti.  \n Le radici più profonde conducono a zone dove la forma si dissolve e la luce non ha mai attecchito.\n-\n----\n-\n-### **Aspetto**\n-Tel’Murk'vadinn appare come un intreccio infinito di:\n-\n-- rami neri e violacei, simili a legno fossilizzato\n-- superfici che assorbono la luce anziché rifletterla\n-- spazi vuoti tra un ramo e l’altro, dove il movimento è istintivo più che fisico\n-\n-Il piano è silenzioso, ma **mai inerte**.\n+___\n+### Aspetto\n+Tel’Murk'vadinn appare un gigantesco albero (sui rami più sottili potrebbe transitare tranquillamente un tir).\n+in questo piano la luce non esiste, ma si riesce a vedere tutto tranquillamente, però appare in bianco e nero.\n+Il piano è silenzioso, ma mai inerte.\n \n ---\n #startMaster \n ### **Regole del Piano**\n \n 1. **La luce recide i rami**  \n-    La luce intensa distrugge la forma stessa di questo piano come fosse acido. le fonti non abbastanza forti non riescono a generare luce (per esempio un falò non genera luce ma un incantesimo che genera luce è utilizzabile anche se sarà più difficile da lanciare)\n+\tLa luce intensa distrugge la forma stessa di questo piano come fosse acido. le fonti comuni non riescono a generare luce (per esempio un falò non genera luce ma un incantesimo che genera luce è utilizzabile anche se sarà più difficile da lanciare)\n 2. **L’Ombra ricorda**  \n     Ogni attraversamento lascia una traccia; il piano riconosce chi lo usa spesso.\n 3. **La profondità è pericolosa**  \n-    Scendere troppo equivale a perdere forma, identità o corpo.\n+    Scendere troppo a fondo può portare alla pazzia e una risalita troppo rapida può causare cecità\n #endMaster \n\\ No newline at end of file\n"
+		}
+	]
+}

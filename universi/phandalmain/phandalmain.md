@@ -1,5 +1,5 @@
 #startMaster 
-[[universo]] codipendente di [[fandalmein]]
+[[universo]] codipendente di [[Fandalmein]]
 #endMaster 
 # regni
 - [[phandanoland]]

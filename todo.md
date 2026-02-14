@@ -15,3 +15,25 @@
 	- [x] scrivere blocca mostri
 - [x] inventare ombrocinesi
 - [ ] scrivere moduli futuri
+- [ ] completar pagine minori di contesto
+	- [ ] [[nordavilla]]
+	- [ ] [[cristalgrave]]
+	- [ ] [[atalantide]]
+	- [ ] [[sudaria]]
+	- [ ] [[meridionel]]
+	- [ ] [[gemgreiv]]
+	- [ ] [[settentrionel]]
+	- [ ] [[nordavila]]
+	- [ ] [[cristalgreiv]]
+	- [ ] [[meridionelle]]
+	- [ ] [[gemgrave]]
+	- [ ] [[suddaria]]
+	- [ ] [[settentrionelle]]
+	- [ ] [[dark-kaia]]
+	- [ ] [[atos]]
+	- [ ] [[kanye-ovest]]
+	- [ ] [[epoca-terza]]
+	- [ ] [[epoca-dargento]]
+	- [ ] [[asmodeus]]
+	- [ ] [[la-chiave]]
+- [ ] sistemare il nome dei mesi nel calendario
