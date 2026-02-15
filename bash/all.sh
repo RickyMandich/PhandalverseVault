@@ -183,6 +183,7 @@ fi
 
 echo ""
 if [ -n "FORCE_EXECUTION" ]; then
+	echo "esecuzione senza blocco"
 else
 	echo "ricorda di disattivare il tunnel di clouflare"
 	read -n 1 -s -r -p "Press any key to continue"
