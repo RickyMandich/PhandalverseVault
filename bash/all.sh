@@ -21,8 +21,11 @@ VERSION_PATCH=false
 COMMIT_MESSAGE=""
 
 # Parsing delle opzioni
-while getopts "vpm:h" opt; do
+while getopts "fvpm:h" opt; do
     case $opt in
+	f)
+	    FORCE_EXECUTION=true
+	    ;;
         v)
             VERSION_MAJOR=true
             ;;
@@ -38,6 +41,7 @@ while getopts "vpm:h" opt; do
             echo "  -v  (versione): Incrementa VERSION_PRIMARY e resetta VERSION_SECONDARY a 0"
             echo "  -p  (patch): Incrementa VERSION_SECONDARY e resetta VERSION_TERTIARY a 0"
             echo "  -m  (messaggio): Aggiungi un messaggio personale al commit"
+	    echo "  -f  (force): lo script non viene bloccato per consentire di spegnere la vpn"
             echo "  (default): Incrementa solo VERSION_TERTIARY"
             echo ""
             echo "La versione viene letta dall'ultimo messaggio di commit (formato: [tipo X.Y.Z])"
@@ -178,9 +182,11 @@ if [ $? -ne 0 ]; then
 fi
 
 echo ""
-
-echo "ricorda di disattivare il tunnel di clouflare"
-read -n 1 -s -r -p "Press any key to continue"
+if [ -n "FORCE_EXECUTION" ]; then
+else
+	echo "ricorda di disattivare il tunnel di clouflare"
+	read -n 1 -s -r -p "Press any key to continue"
+fi
 
 # Esegui il push sul repository remoto
 echo "=========================================="
