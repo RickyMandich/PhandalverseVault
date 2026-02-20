@@ -20,7 +20,7 @@ dopo averli salvati [[nonno-roshi|roshi]] consegna a tutti i membri de [[la-mano
 - a [[vargas-paladino-nano-65]] consegna [[artefatto-artefice]]
 - a [[morbiarum-paladino-dragonide-24]] consegna [[artefatto-barbaro-divino]]
 - a [[dontavious-ladro-mezzelfo-25]] consegna [[artefatto-dellombra]]
-- a [[than-warlock-tiefling-30]] consegna [[artefatto-necromante]]
+- a [[than-warlock-tiefling-30]] consegna [[occhio-di-atos]]
 - a [[attila-slayer-guerriero-elfo-100]] consegna [[artefatto-sussurratore-del-gelo.md]]
 
 ## sessione di giovedì 2026 01 30
@@ -52,3 +52,4 @@ tutti i giocatori prendono 8720 punti esperienza
 dopo lo scontro [[than-warlock-tiefling-30|than]] uccide lanciando una palla di fuoco tutti i minion rimasti e poi li evoca nuovamente come non morti al suo servizio, dopodiché tornano da vincitore da [[nonno-roshi|roshi]] e tutti insieme vanno a partecipare ai festeggiamenti.
 dopodiché parlano con [[nonno-roshi|roshi]] e scoprono che [[artefatto-artefice]] che era stato definitoda roshi (al momento della consegna a [[vargas-paladino-nano-65]] come gli strumenti di  [[nidave]]) sono a tutti gli effetti gli strumenti di [[asmodeus]] in quanto scoprono che i demoni non nascono tali, ma originariamente sono umanoidi, e originariamente asmodeus era proprio nidave, che si scopre anche essere il relatore della tesi di roshi ai tempi degli [[artefici]].
 il giorno dopo quando si svegliano e vedono che [[dontavious-ladro-mezzelfo-25]] non esce dalla sua stanza lo vanno a cercare ma nel suo letto non lo trovano, c'è solo dell'ombra che ribolle e che ha più o meno la forma del corpo di [[dontavious-ladro-mezzelfo-25]]
+![[scomparsa-di-dontavious.jpg]]

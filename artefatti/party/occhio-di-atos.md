@@ -10,7 +10,7 @@ Una volta per turno, quando uccide una o più creature con un incantesimo di liv
 Se uccide una o più creature con un trucchetto recupera 1 punto ferita, 2 se il trucchetto appartiene alla Scuola Necromanzia.  
 Non ottiene questo beneficio se uccide dei costrutti o dei non morti.
 ## servitori non morti
-Conosce l'incantesimo "[[artefatto-necromante#incantesimi#Animare Morti|Animare Morti]]".
+Conosce l'incantesimo "[[occhio-di-atos#incantesimi#Animare Morti|Animare Morti]]".
 Quando lancia animare morti, può bersagliare un cadavere o un cumulo di ossa aggiuntivo per creare un altro scheletro o zombi, come appropriato.  
 Ogni volta che crea un non morto usando un incantesimo di necromanzia, quella creatura ottiene i benefici seguenti:  
 • Il massimo dei punti ferita della creatura aumenta di un ammontare pari al livello del warlock.  

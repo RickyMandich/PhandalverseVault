@@ -30,7 +30,7 @@
 	- [ ] [[suddaria]]
 	- [ ] [[settentrionelle]]
 	- [ ] [[dark-kaia]]
-	- [ ] [[atos]]
+	- [X] [[atos]]
 	- [ ] [[kanye-ovest]]
 	- [ ] [[epoca-terza]]
 	- [ ] [[epoca-dargento]]

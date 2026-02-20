@@ -47,7 +47,7 @@ _Roshi consegna gli artefatti al party, spiegando che sono pericolosi ma indispe
 - [[artefatti/party/artefatto-artefice.md]] – Set di strumenti da artefice, fornisce competenza in armature pesanti e slot incantesimo aggiuntivi (per [[vargas-paladino-nano-65]]).
 - [[artefatti/party/artefatto-barbaro-divino.md]] – Potenzia i danni da barbaro e aggiunge resistenze (per [[morbiarum-paladino-dragonide-24]]).
 - [[artefatti/party/artefatto-dellombra.md]] – Concede invisibilità temporanea e bonus alle prove di furtività (per [[dontavious-ladro-mezzelfo-25]]).
-- [[artefatti/party/artefatto-necromante.md]] – Permette di fare cose da necromante (per [[than-warlock-tiefling-30]])
+- [[occhio-di-atos]] – Permette di fare cose da necromante (per [[than-warlock-tiefling-30]])
 - [[artefatti/party/artefatto-sussurratore-del-gelo.md]] – Aggiunge danni da freddo e riduce la velocità dei nemici (per [[attila-slayer-guerriero-elfo-100]]).
 
 

@@ -15,5 +15,5 @@ non si aspettava minimamente l’entità dei danni causati dalla frattura, né l
 
 ## [[epoca-terza|epoca terza]]
 durante i 2 secoli successivi si nascose per evitare [[i-purgatori|i purgatori]] e allo stesso tempo fece indagini e piccoli esperimenti per analizzare la situazione e capire quanto critica fosse e se ci fosse un pericolo di strutturalità dell'[[universo]]. ai tempi sembrò tutto a posto per cui dopo il primo secolo smise di indagare.
-dal R|III| secolo DP ricominciò a crearsi una vita nella sua città natale, [[gemgrave]].
+dal R|III| secolo DP (subito dopo aver sconfitto [[atos]]) ricominciò a crearsi una vita nella sua città natale, [[gemgrave]].
 lì si costruì un negozio in cui vende un po' di tutto, soprattutto cose che ai tempi dell'[[epoca-leggendaria|epoca leggendaria]] erano di poco conto mentre ora sono abbastanza prodigiose, in quella che ai tempi era la parte più profonda della città e che ora si trova ai 2/3 della città

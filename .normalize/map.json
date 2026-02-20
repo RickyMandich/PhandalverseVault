@@ -18,11 +18,11 @@
 					"original": "Party",
 					"files": {
 						"artefatto-artefice.md": "Tól Niðavalla (armaiolo)",
-						"artefatto-barbaro-divino.md": "Netjetheka",
+						"artefatto-barbaro-divino.md": "Netjetheka (barbaro)",
 						"artefatto-dellombra.md": "Myrkvaðinn (ombra)",
-						"artefatto-necromante.md": "Occhio di Atos (necromante)",
 						"artefatto-sintonia-draconica.md": "Drakensyn (drago)",
-						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos (gelo)"
+						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos (gelo)",
+						"occhio-di-atos.md": "Occhio di Atos (necromante)"
 					},
 					"directories": {}
 				}

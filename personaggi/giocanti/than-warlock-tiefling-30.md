@@ -8,4 +8,4 @@ quando ha 29 anni arriva nel suo villaggio la carovana di un circo che la setta 
 # Campagna
 ora si è unito a [[la-mano-rossa]]
 ![[macrosaga-della-chiave]]
-ora possiede [[artefatto-necromante|l'occhio di Atos]]
+ora possiede [[occhio-di-atos|l'occhio di Atos]]
