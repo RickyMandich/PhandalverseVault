@@ -1,0 +1,50 @@
+{
+	"version": "v 0.0.205",
+	"date": "2026-02-20 19:31:42",
+	"commit_hash": "65595418c4ba85131fcbc717440f007c0f495159",
+	"commit_message": "aggiornamento 2026 02 20 19:32 [v 0.0.205]",
+	"changes": [
+		{
+			"file": "artefatti/il-portale.md",
+			"display_name": "Il Portale",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/il-portale.md b/artefatti/il-portale.md\nindex 4cb29a3..ad1408a 100644\n--- a/artefatti/il-portale.md\n+++ b/artefatti/il-portale.md\n@@ -1,4 +1,7 @@\n il portale che collega [[phandalmain]] e [[fandalmein]]\n #startMaster \n si trova ad [[universi/phandalmain/atlantide|atlantide]] a [[phandalmain]] e ad [[universi/fandalmein/atalantide|atalantide]] a [[fandalmein]]\n-#endMaster \n\\ No newline at end of file\n+#endMaster \n+\n+# origine\n+questo artefatto esiste fin dall'inizio dei tempi e ha una magia che impedisce che si rovini con il tempo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/la-chiave.md",
+			"display_name": "La Chiave",
+			"status": "Modified",
+			"diff": "diff --git a/artefatti/la-chiave.md b/artefatti/la-chiave.md\nindex 23d602e..1ecb29c 100644\n--- a/artefatti/la-chiave.md\n+++ b/artefatti/la-chiave.md\n@@ -1 +1,6 @@\n-questo artefatto serve ad accendere [[il-portale|il Portale]]\n\\ No newline at end of file\n+questo artefatto serve ad accendere [[il-portale|il Portale]]\n+# origine\n+questo artefatto esiste fin dall'inizio dei tempi e ha una magia che impedisce che si rovini con il tempo\n+# [[epoca-terza]]\n+all'inizio dell'epoca terza viene spezzata in 4 parti e ogni artefice sopravvissuto alla purga si è premurato di nascondere un pezzo.\n+nel 1312 [[calendario|DP]] [[la-mano-rossa]] comincia a raccoglierne i pezzi per riaccendere il portale\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "entita/demoni/asmodeus.md",
+			"display_name": "Asmodeus",
+			"status": "Modified",
+			"diff": "diff --git a/entita/demoni/asmodeus.md b/entita/demoni/asmodeus.md\nindex 1d0bd89..028c5d0 100644\n--- a/entita/demoni/asmodeus.md\n+++ b/entita/demoni/asmodeus.md\n@@ -1 +1,7 @@\n-Il più potente fra tutti i demoni e  signore di 9 inferni\n\\ No newline at end of file\n+Il più potente fra tutti i demoni e signore di 9 inferni\n+# famiglia\n+molti demoni superiori sono suoi figli anche se non c'è propriamente un legame familiare all'interno di questa famiglia.\n+soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.\n+di base la famiglia per lui è puramente una questione gerarchica e di potere.\n+## gerarchia interna\n+diversamente da quel che sarebbe semplice dedurre il primogenito non è il primo figlio generato dal sovrano ma il più potente e questo ordine cambia continuamente in un complicato sistema di pura potenza e proprietà (considerando territorio amministrato, oggetti magici e sottoposti)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/pet/kanye-ovest.md",
+			"display_name": "Kanye Ovest",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/giocanti/pet/kanye-ovest.md b/personaggi/giocanti/pet/kanye-ovest.md\nindex e69de29..56ee1a8 100644\n--- a/personaggi/giocanti/pet/kanye-ovest.md\n+++ b/personaggi/giocanti/pet/kanye-ovest.md\n@@ -0,0 +1,7 @@\n+è un drago rosso.\n+nasce nella [[fossa-delle-marie]] nel 1310 [[calendario|DP]] e per i primissimi anni della sua vita cresce nutrendosi del cadavere di sua madre che è morta subito prima della sua nascita\n+#startMaster\n+sua madre muore di sfinimento come conseguenza di un incantesimo che teneva attivo da secoli e che fermava lo scorrere del tempo per l'uovo di kanye visto che non lo voleva far nascere in fondo al mare.\n+quando muore l'incantesimo finisce e un paio di giorni dopo l'uovo si schiude.\n+#endMaster \n+quando ha 3 anni [[la-mano-rossa]] lo trova e viene adottato da [[dontavious-ladro-mezzelfo-25|Dontavious]] \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/dark-kaia.md",
+			"display_name": "Dark Kaia",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/non-giocanti/macrotrama/dark-kaia.md b/personaggi/non-giocanti/macrotrama/dark-kaia.md\nindex fcbedf2..af9ccc5 100644\n--- a/personaggi/non-giocanti/macrotrama/dark-kaia.md\n+++ b/personaggi/non-giocanti/macrotrama/dark-kaia.md\n@@ -1,2 +1,3 @@\n #dm \n è una dei prescelti di [[fandalmein]]\n+nel 1312 [[calendario|DP]] le viene assegnata la missione di assassinare [[la-mano-rossa|i prescelti di phandalmain]] nel tentativo di impedire che potessero distruggere [[fandalmein]] ma fallisce nella sua missione e viene catturata, ma riesce a tornare nel suo universo grazie a un congegno che le consente di viaggiare tra gli universi\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/nidave.md",
+			"display_name": "Nidave",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/non-giocanti/nidave.md b/personaggi/non-giocanti/nidave.md\nindex e69de29..78a5dc2 100644\n--- a/personaggi/non-giocanti/nidave.md\n+++ b/personaggi/non-giocanti/nidave.md\n@@ -0,0 +1,3 @@\n+è un umano che nasce nel 50 [[calendario|AP]].\n+durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]].\n+durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex 26ba33e..6965bb1 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -14,8 +14,15 @@\n \t- [x] scrivere sfera elastica\n \t- [x] scrivere blocca mostri\n - [x] inventare ombrocinesi\n-- [ ] scrivere moduli futuri\n+- [X] [[atos]]\n+- [ ] [[asmodeus]]\n+- [x] [[la-chiave]]\n - [ ] completar pagine minori di contesto\n+\t- [x] [[dark-kaia]]\n+\t- [x] [[kanye-ovest]]\n+\t- [ ] [[epoca-terza]]\n+\t- [ ] [[epoca-dargento]]\n+\t- [x] [[nidave]]\n \t- [ ] [[nordavilla]]\n \t- [ ] [[cristalgrave]]\n \t- [ ] [[atalantide]]\n@@ -29,12 +36,5 @@\n \t- [ ] [[gemgrave]]\n \t- [ ] [[suddaria]]\n \t- [ ] [[settentrionelle]]\n-\t- [ ] [[dark-kaia]]\n-\t- [X] [[atos]]\n-\t- [ ] [[kanye-ovest]]\n-\t- [ ] [[epoca-terza]]\n-\t- [ ] [[epoca-dargento]]\n-\t- [ ] [[asmodeus]]\n-\t- [ ] [[la-chiave]]\n-\t- [ ] [[nidave]]\n - [ ] sistemare il nome dei mesi nel calendario\n+- [ ] scrivere moduli futuri\n\\ No newline at end of file\n"
+		}
+	]
+}

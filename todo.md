@@ -14,8 +14,15 @@
 	- [x] scrivere sfera elastica
 	- [x] scrivere blocca mostri
 - [x] inventare ombrocinesi
-- [ ] scrivere moduli futuri
+- [X] [[atos]]
+- [ ] [[asmodeus]]
+- [x] [[la-chiave]]
 - [ ] completar pagine minori di contesto
+	- [x] [[dark-kaia]]
+	- [x] [[kanye-ovest]]
+	- [ ] [[epoca-terza]]
+	- [ ] [[epoca-dargento]]
+	- [x] [[nidave]]
 	- [ ] [[nordavilla]]
 	- [ ] [[cristalgrave]]
 	- [ ] [[atalantide]]
@@ -29,12 +36,5 @@
 	- [ ] [[gemgrave]]
 	- [ ] [[suddaria]]
 	- [ ] [[settentrionelle]]
-	- [ ] [[dark-kaia]]
-	- [X] [[atos]]
-	- [ ] [[kanye-ovest]]
-	- [ ] [[epoca-terza]]
-	- [ ] [[epoca-dargento]]
-	- [ ] [[asmodeus]]
-	- [ ] [[la-chiave]]
-	- [ ] [[nidave]]
 - [ ] sistemare il nome dei mesi nel calendario
+- [ ] scrivere moduli futuri
