@@ -1,4 +1,6 @@
-Il più potente fra tutti i demoni e signore di 9 inferni
+Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni
+# storia
+vive la sua vita da umano 
 # famiglia
 molti demoni superiori sono suoi figli anche se non c'è propriamente un legame familiare all'interno di questa famiglia.
 soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.

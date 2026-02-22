@@ -15,6 +15,7 @@
 	- [x] scrivere blocca mostri
 - [x] inventare ombrocinesi
 - [X] [[atos]]
+- [ ] definizione di [[demone]]
 - [ ] [[asmodeus]]
 - [x] [[la-chiave]]
 - [ ] completar pagine minori di contesto
