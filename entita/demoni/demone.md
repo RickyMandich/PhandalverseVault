@@ -1,1 +1,1 @@
-un demone è un essere mortale che quando finisce all'inferno viene 
+un demone è un essere mortale che quando finisce all'inferno (appena arrivato, a parte rare eccezioni) viene scelto da un demone o da un'immondo

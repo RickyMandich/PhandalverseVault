@@ -1,4 +1,4 @@
-Andrea rallo
+[Andrea rallo](https://www.dndbeyond.com/characters/153734930)
 
 # Background
 è cresciuto in un circo itinerante e quando aveva 24 anni arrivano in un villaggio che, a loro insaputa, è la sede di una setta demoniaca che venera [[Asmodeus]].

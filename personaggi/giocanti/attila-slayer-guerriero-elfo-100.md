@@ -1,4 +1,5 @@
-andrea zuriato
+[andrea zuriato](https://www.dndbeyond.com/characters/153734732)
+
 
 # Background
 quando aveva 30 anni suo fratello parte all'avventura e ci resta secco.

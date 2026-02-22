@@ -1,0 +1,44 @@
+{
+	"version": "v 0.0.207",
+	"date": "2026-02-22 14:38:32",
+	"commit_hash": "ee5d07f5bcc15cd4f4e6b4eede9606cc0dc73ba5",
+	"commit_message": "aggiornamento 2026 02 22 14:38 [v 0.0.207]",
+	"changes": [
+		{
+			"file": "entita/demoni/demone.md",
+			"display_name": "Demone",
+			"status": "Modified",
+			"diff": "diff --git a/entita/demoni/demone.md b/entita/demoni/demone.md\nindex 7aa0cb5..e66bb2d 100644\n--- a/entita/demoni/demone.md\n+++ b/entita/demoni/demone.md\n@@ -1 +1 @@\n-un demone è un essere mortale che quando finisce all'inferno viene \n\\ No newline at end of file\n+un demone è un essere mortale che quando finisce all'inferno (appena arrivato, a parte rare eccezioni) viene scelto da un demone o da un'immondo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/attila-slayer-guerriero-elfo-100.md",
+			"display_name": "Attila Slayer (Guerriero Elfo 100)",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/giocanti/attila-slayer-guerriero-elfo-100.md b/personaggi/giocanti/attila-slayer-guerriero-elfo-100.md\nindex ddb3927..8cd400a 100644\n--- a/personaggi/giocanti/attila-slayer-guerriero-elfo-100.md\n+++ b/personaggi/giocanti/attila-slayer-guerriero-elfo-100.md\n@@ -1,4 +1,5 @@\n-andrea zuriato\n+[andrea zuriato](https://www.dndbeyond.com/characters/153734732)\n+\n \n # Background\n quando aveva 30 anni suo fratello parte all'avventura e ci resta secco.\n"
+		},
+		{
+			"file": "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
+			"display_name": "Dontavious (Ladro Mezzelfo 25)",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md b/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md\nindex 7d095e8..ca2687e 100644\n--- a/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md\n+++ b/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md\n@@ -1,4 +1,4 @@\n-Andrea rallo\n+[Andrea rallo](https://www.dndbeyond.com/characters/153734930)\n \n # Background\n è cresciuto in un circo itinerante e quando aveva 24 anni arrivano in un villaggio che, a loro insaputa, è la sede di una setta demoniaca che venera [[Asmodeus]].\n"
+		},
+		{
+			"file": "personaggi/giocanti/morbiarum-paladino-dragonide-24.md",
+			"display_name": "Morbiarum (Paladino Dragonide 24)",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/giocanti/morbiarum-paladino-dragonide-24.md b/personaggi/giocanti/morbiarum-paladino-dragonide-24.md\nindex 6452a59..fe75ba5 100644\n--- a/personaggi/giocanti/morbiarum-paladino-dragonide-24.md\n+++ b/personaggi/giocanti/morbiarum-paladino-dragonide-24.md\n@@ -1,4 +1,4 @@\n-Francesco Bellese\n+[Francesco Bellese](https://www.dndbeyond.com/characters/153734768)\n \n # Background\n clan di origine sterminato dalla [[gli-asmodeici|gli asmodeici]] per cui lui la odia e giura vendetta contro la setta.\n"
+		},
+		{
+			"file": "personaggi/giocanti/than-warlock-tiefling-30.md",
+			"display_name": "Than (Warlock Tiefling 30)",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/giocanti/than-warlock-tiefling-30.md b/personaggi/giocanti/than-warlock-tiefling-30.md\nindex 2206c5e..31c8482 100644\n--- a/personaggi/giocanti/than-warlock-tiefling-30.md\n+++ b/personaggi/giocanti/than-warlock-tiefling-30.md\n@@ -1,4 +1,4 @@\n-Davide pavan\n+[Davide pavan](https://www.dndbeyond.com/characters/153734866)\n \n # Background\n nasce in un villaggio umano composto unicamente da una [[gli-asmodeici|setta]] che venera [[Asmodeus]].\n"
+		},
+		{
+			"file": "personaggi/giocanti/vargas-paladino-nano-65.md",
+			"display_name": "Vargas (Paladino Nano 65)",
+			"status": "Modified",
+			"diff": "diff --git a/personaggi/giocanti/vargas-paladino-nano-65.md b/personaggi/giocanti/vargas-paladino-nano-65.md\nindex e093c54..f76927e 100644\n--- a/personaggi/giocanti/vargas-paladino-nano-65.md\n+++ b/personaggi/giocanti/vargas-paladino-nano-65.md\n@@ -1,12 +1,11 @@\n-marco persi\n-manca nome regno e divinità\n+[marco persi](https://www.dndbeyond.com/characters/153734827)\n \n # Background\n-Vargas cresce in una fattoria poco più a monte di un [[villaggio#ibrido|villaggio ibrido]] di montagna per cui lui cresce imparando a cacciare per sopravvivere (la sua famiglia, che porta avanti la fattoria, non produce abbastanza da potersi permettere la carne quando finiscono i prodotti agricoli, quindi lui e il padre caccia quello che deve mangiare la famiglia).\n+Vargas cresce in una fattoria poco più a monte di un [[villaggio#ibrido|villaggio ibrido]] di montagna per cui lui cresce imparando a cacciare per sopravvivere (la sua famiglia, che porta avanti la fattoria, non produce abbastanza da potersi permettere la carne quando finiscono i prodotti agricoli, quindi lui e il padre cacciano quello che serve per far mangiare la famiglia).\n con gli anni trova moglie tra le ragazze del villaggio quindi ci si trasferisce e, visto che il lavoro in taverna non basta, ogni tanto partecipa ad alcune delle missioni dei mercenari di [[Fumero]].\n-quando Vargas cerca di smettere di partecipare alle missioni da mercenario (il villaggio si sta ingrandendo per cui la taverna basta come mezzo di sostentamento) [[Fumero]] non accetta la scelta e per vendetta brucia la taverna con la sua famiglia dentro. in risposta a questo Vargas fa un giuramento di vendetta contro il gruppo mercenario di [[Fumero]]\n+quando Vargas cerca di smettere di partecipare alle missioni da mercenario (il villaggio si sta ingrandendo per cui la taverna basta come mezzo di sostentamento) [[Fumero]] non accetta la scelta e per vendetta brucia la taverna con la sua famiglia dentro. in risposta a questo Vargas fa un giuramento di vendetta contro il gruppo mercenario di [[Fumero]] credendo di diventare paladino di [[waukenn]], in realtà lo diventa di [[asmodeus]].\n # DIVINITÀ\n-[[Waukenn]], dea dell’inganno e del commercio, ha un patto con [[Asmodeus]], che ha portato vargas a seguirla come divinità\n+[[waukenn]], dea dell’inganno e del commercio, ha un patto con [[Asmodeus]], che ha portato vargas a seguirla come divinità\n # Campagna\n ora si è unito a [[la-mano-rossa]]\n ![[macrosaga-della-chiave]]\n\\ No newline at end of file\n"
+		}
+	]
+}
