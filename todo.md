@@ -18,7 +18,7 @@
 - [x] definizione di [[demone]]
 - [x] [[asmodeus]]
 - [x] [[la-chiave]]
-- [x] completar pagine minori di contesto
+-  completare pagine minori di contesto
 	- [x] [[dark-kaia]]
 	- [x] [[kanye-ovest]]
 	- [x] [[epoca-terza]]
@@ -42,4 +42,9 @@
     - [x] [[sommervil]]
     - [x] [[profondar]]
 - [x] sistemare il nome dei mesi nel [[calendario]]
+-  scrivere incantesimi
+	- [ ] individuazione dei pensieri
+	- [ ] levitazione
+	- [ ] dominare mostri
+	- [ ] spostamento planare
 - [ ] scrivere moduli futuri

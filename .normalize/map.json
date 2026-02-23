@@ -395,6 +395,7 @@
 				"stat-block": {
 					"original": "Stat Block",
 					"files": {
+						"mind-flayer.md": "Mind Flayer",
 						"spirito-mietitore.md": "Spirito Mietitore",
 						"spirito-non-morto.md": "Spirito Non Morto"
 					},

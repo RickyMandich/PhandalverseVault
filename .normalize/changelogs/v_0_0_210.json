@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.210",
+	"date": "2026-02-23 23:42:13",
+	"commit_hash": "8ce1dae99b5943ff0cd8af40af400f766778e413",
+	"commit_message": "aggiornamento 2026 02 23 23:42 [v 0.0.210]",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+			"display_name": "Salvataggio A",
+			"status": "Modified",
+			"diff": "diff --git a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\nindex 9274aec..6d12a5b 100644\n--- a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n+++ b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n@@ -7,6 +7,6 @@ sempre [[roshi]] spiega a [[la-mano-rossa]] che ha in mente 2 modi per entrare n\n 2) cercare e usare un altro artefatto che dia accesso al mondo delle ombre sopravvissuto [[la-purga|alla purga]], anche questa una missione molto lunga\n ## atto 3 (miglioramento/riunione strategica)\n trovano il modo di entrare nel mondo delle ombre.\n-una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un membro del clan dell'ombra per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]]\n+una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un [[mind-flayer|membro del clan dell'ombra]] per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]]\n ## atto 4 (scontro finale)\n ## atto 5 (epilogo)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex a9944a1..454ee0d 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -18,7 +18,7 @@\n - [x] definizione di [[demone]]\n - [x] [[asmodeus]]\n - [x] [[la-chiave]]\n-- [x] completar pagine minori di contesto\n+-  completare pagine minori di contesto\n \t- [x] [[dark-kaia]]\n \t- [x] [[kanye-ovest]]\n \t- [x] [[epoca-terza]]\n@@ -42,4 +42,9 @@\n     - [x] [[sommervil]]\n     - [x] [[profondar]]\n - [x] sistemare il nome dei mesi nel [[calendario]]\n+-  scrivere incantesimi\n+\t- [ ] individuazione dei pensieri\n+\t- [ ] levitazione\n+\t- [ ] dominare mostri\n+\t- [ ] spostamento planare\n - [ ] scrivere moduli futuri\n"
+		},
+		{
+			"file": "materiale/stat-block/mind-flayer.md",
+			"display_name": "Mind Flayer",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}

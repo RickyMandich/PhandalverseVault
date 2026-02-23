@@ -7,6 +7,6 @@ sempre [[roshi]] spiega a [[la-mano-rossa]] che ha in mente 2 modi per entrare n
 2) cercare e usare un altro artefatto che dia accesso al mondo delle ombre sopravvissuto [[la-purga|alla purga]], anche questa una missione molto lunga
 ## atto 3 (miglioramento/riunione strategica)
 trovano il modo di entrare nel mondo delle ombre.
-una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un membro del clan dell'ombra per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]]
+una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un [[mind-flayer|membro del clan dell'ombra]] per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]]
 ## atto 4 (scontro finale)
 ## atto 5 (epilogo)
