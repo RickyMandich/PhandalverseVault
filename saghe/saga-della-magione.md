@@ -6,7 +6,7 @@
 
 # sessioni
 ## sessione di giovedì 2025 11 13
-[[nonno-roshi|nonno Roshi]] manda [[la-mano-rossa|la mano rossa]] a recuperare un pezzo di [[la-chiave|la chiave]] da una magione abbandonata che per loro sfortuna era stata occupata da dei banditi come base
+[[roshi|nonno Roshi]] manda [[la-mano-rossa|la mano rossa]] a recuperare un pezzo di [[la-chiave|la chiave]] da una magione abbandonata che per loro sfortuna era stata occupata da dei banditi come base
 ### xp
 nemici sconfitti: 1 bugbear(3) e 5 goblin (1/8 * 5) = 6 mostri
 totale xp: 0 + 700 + 25 * 5 = 0 + 700 + 125 = 825

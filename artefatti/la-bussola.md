@@ -1,2 +1,2 @@
 #artefatto
-questo artefatto originariamente serviva a trovare la chiave, viene modificato nel 1312 [[calendario|DP]] da [[nonno-roshi|nonno Roshi]] per diventare capace di indicare i singoli pezzi di chiave ora che è rotta (questa nuova versione necessita del nucleo della chiave al suo interno)
+questo artefatto originariamente serviva a trovare la chiave, viene modificato nel 1312 [[calendario|DP]] da [[roshi|nonno Roshi]] per diventare capace di indicare i singoli pezzi di chiave ora che è rotta (questa nuova versione necessita del nucleo della chiave al suo interno)

@@ -34,7 +34,7 @@ ___
 
 Intorno al 215 [[calendario|DP]], Atos era divenuto troppo potente per un mondo privo di grandi potenze votate alla conoscenza, capaci di fermare chi si spingeva troppo oltre.
 
-[[nonno-Roshi|roshi]] lo affrontò e lo sconfisse.
+[[roshi|roshi]] lo affrontò e lo sconfisse.
 
 Comprendendo l’imminenza della propria distruzione, Atos utilizzò le ultime energie rimaste per riversare l’intero patrimonio della sua conoscenza in un singolo artefatto: il proprio occhio.
 

@@ -482,7 +482,7 @@
 							"files": {
 								"dark-kaia.md": "Dark Kaia",
 								"giorgia-rossato.md": "Giorgia Rossato",
-								"nonno-roshi.md": "Nonno Roshi"
+								"roshi.md": "Roshi"
 							},
 							"directories": {}
 						},
@@ -523,7 +523,15 @@
 				"moduli-non-usati": {
 					"original": "Moduli Non Usati",
 					"files": {},
-					"directories": {}
+					"directories": {
+						"salvataggio-a-telmurkvadinn": {
+							"original": "Salvataggio A Telmurkvadinn",
+							"files": {
+								"salvataggio-a-telmurkvadinn.md": "Salvataggio A"
+							},
+							"directories": {}
+						}
+					}
 				},
 				"moduli-usati": {
 					"original": "Moduli Usati",
@@ -562,6 +570,7 @@
 								"cristalgreiv.md": "Cristalgreiv",
 								"fandanolend.md": "Fandanolend",
 								"nordavila.md": "Nordavila",
+								"profondar.md": "Profondar",
 								"settentrionel.md": "Settentrionel"
 							},
 							"directories": {}
@@ -572,6 +581,7 @@
 								"fandasulend.md": "Fandasulend",
 								"gemgreiv.md": "Gemgreiv",
 								"meridionel.md": "Meridionel",
+								"sommervil.md": "Sommervil",
 								"sudaria.md": "Sudaria"
 							},
 							"directories": {}
@@ -593,6 +603,7 @@
 								"cristalgrave.md": "Cristalgrave",
 								"nordavilla.md": "Nordavilla",
 								"phandanoland.md": "Phandanoland",
+								"profondahar.md": "Profondahar",
 								"settentrionelle.md": "Settentrionelle"
 							},
 							"directories": {}
@@ -602,7 +613,8 @@
 							"files": {
 								"gemgrave.md": "Gemgrave",
 								"meridionelle.md": "Meridionelle",
-								"phandasuland.md": "Phandasuland"
+								"phandasuland.md": "Phandasuland",
+								"sommerivel.md": "Sommerivel"
 							},
 							"directories": {
 								"suddaria": {

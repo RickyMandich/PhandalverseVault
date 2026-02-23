@@ -9,14 +9,14 @@ questa saga è schematizzata da [[capodanno1]]
 # sessioni
 ## sessione di venerdì 2026 01 16
 mentre [[la-mano-rossa|il party]] si sta divertendo al festival di capodanno di [[GemGrave]]  il posto viene attaccato da 9 [[capodanno1-minion|creature magiche]] non meglio definite e il party le combatte per salvare se stessi e gli altri.
-dopo uno scontro molto combattuto che li ha quasi uccisi [[nonno-roshi]] arriva e li salva usando dei poteri mai visti prima.
+dopo uno scontro molto combattuto che li ha quasi uccisi [[roshi]] arriva e li salva usando dei poteri mai visti prima.
 ### XP
 nemici sconfitti: 9 minion (1) = 9 mostri
 totale XP: 9 \* 200 = 1800
 moltiplicatore numero nemici = 1800 \* 2.5 (7-10 mostri) = 4500
 tutti i giocatori prendono 900 punti esperienza
 ## sessione di venerdì 2026 01 23
-dopo averli salvati [[nonno-roshi|roshi]] consegna a tutti i membri de [[la-mano-rossa]] un artefatto:
+dopo averli salvati [[roshi|roshi]] consegna a tutti i membri de [[la-mano-rossa]] un artefatto:
 - a [[vargas-paladino-nano-65]] consegna [[artefatto-artefice]]
 - a [[morbiarum-paladino-dragonide-24]] consegna [[artefatto-barbaro-divino]]
 - a [[dontavious-ladro-mezzelfo-25]] consegna [[artefatto-dellombra]]
@@ -24,7 +24,7 @@ dopo averli salvati [[nonno-roshi|roshi]] consegna a tutti i membri de [[la-mano
 - a [[attila-slayer-guerriero-elfo-100]] consegna [[artefatto-sussurratore-del-gelo.md]]
 
 ## sessione di giovedì 2026 01 30
-dopo che tutti hanno ricevuto gli artefatti [[kanye-ovest]] si offende per essere rimasto escluso per cui [[nonno-roshi|roshi]] da un artefatto anche a lui: [[artefatto-sintonia-draconica]].
+dopo che tutti hanno ricevuto gli artefatti [[kanye-ovest]] si offende per essere rimasto escluso per cui [[roshi|roshi]] da un artefatto anche a lui: [[artefatto-sintonia-draconica]].
 dopodiché vanno in cerca di un gruppo di [[capodanno1-minion|minion]] (12) per poterli uccidere e scoprire dove si trova il costrutto che sta causando tutti questi problemi. riescono tranquillamente a uccidere il gruppo di [[capodanno1-minion|minion]] che trovano e [[than-warlock-tiefling-30]] fa un incantesimo usando il suo nuovo artefatto per rianimarli al suo servizio e farsi guidare alla loro base.
 ### XP
 nemici sconfitti: 12 minion (1) = 12 mostri
@@ -36,7 +36,7 @@ sperimentando con il suo nuovo artefatto [[attila-slayer-guerriero-elfo-100]] si
 Le luci erano scarse per via del cambio di anno che si avvicinava, e abbiamo optato per un approccio a sorpresa per attaccare la caverna dove si trovava il [[capodanno1-boss|BOSS]].
 [[dontavious-ladro-mezzelfo-25]] è entrato nella grotta diventando invisibile e generando una nube di oscurità molto fitta, all'interno della quale si sono mossi anche [[than-warlock-tiefling-30]] e [[vargas-paladino-nano-65]] per attaccare i nemici, che [[dontavious-ladro-mezzelfo-25]]  aveva informato i suoi compagni essere un enorme costrutto, il boss, e quindici minion.
 [[dontavious-ladro-mezzelfo-25]] ha ammazzato uno dei Minion all'interno della nube oscura, e [[vargas-paladino-nano-65]] ne ha attaccato uno lasciandolo in fin di vita, che [[than-warlock-tiefling-30]] ha poi ucciso, per poi far entrare anche tutti i Minion resuscitati all'interno della caverna per aiutare nella battaglia
-[[vargas-paladino-nano-65]] ha poi sparato un fulmine devastante che ha ucciso diversi Minion, mentre quattro di questi si erano disposti intorno al boss e stavano fermi, presumibilmente per una sorta di rituale come quello a cui ci aveva accennato [[nonno-roshi|roshi]].
+[[vargas-paladino-nano-65]] ha poi sparato un fulmine devastante che ha ucciso diversi Minion, mentre quattro di questi si erano disposti intorno al boss e stavano fermi, presumibilmente per una sorta di rituale come quello a cui ci aveva accennato [[roshi|roshi]].
 Nel combattimento che è insorto diversi Minion nostri e nemici sono morti, e noi siamo inizialmente rimasti incolumi, fino a che il boss ci ha attaccati, lasciando [[dontavious-ladro-mezzelfo-25]] sul punto di morte: lui però è riuscito a rialzarsi, e in uno sforzo in fin di vita ci ha fatti cadere nell'ombra e portati al di fuori della caverna.
 Istintivamente [[than-warlock-tiefling-30]] ha allora scatenato un'esplosione cadaverica a partire da uno dei Minion già morti, che con il suo effetto a catena ha ucciso tutte le creature all'interno della grotta: apparentemente anche il boss sembrava sconfitto, caduto a terra, ma invece si è rialzato liberandosi della sua corazza esterna, rivelando un costrutto più piccolo dalle fattezze femminili che ha immediatamente attaccato [[vargas-paladino-nano-65]] e evocato dal terreno altri otto Minion.
 Rientrati nella grotta [[than-warlock-tiefling-30]] e [[vargas-paladino-nano-65]] si sono preparati ad affrontarli, mentre [[dontavious-ladro-mezzelfo-25]] recuperava le forze fuori
@@ -49,7 +49,7 @@ totale XP: 1 * 2300 + 12 * 200 + 31 * 200 = 2300 + 2400 + 6200 = 10900
 moltiplicatore numero nemici = 10900 * 4 (15+ mostri) = 43600
 tutti i giocatori prendono 8720 punti esperienza
 ## sessione di venerdì 2026 02 13
-dopo lo scontro [[than-warlock-tiefling-30|than]] uccide lanciando una palla di fuoco tutti i minion rimasti e poi li evoca nuovamente come non morti al suo servizio, dopodiché tornano da vincitore da [[nonno-roshi|roshi]] e tutti insieme vanno a partecipare ai festeggiamenti.
-dopodiché parlano con [[nonno-roshi|roshi]] e scoprono che [[artefatto-artefice]] che era stato definitoda roshi (al momento della consegna a [[vargas-paladino-nano-65]] come gli strumenti di  [[nidave]]) sono a tutti gli effetti gli strumenti di [[asmodeus]] in quanto scoprono che i demoni non nascono tali, ma originariamente sono umanoidi, e originariamente asmodeus era proprio nidave, che si scopre anche essere il relatore della tesi di roshi ai tempi degli [[artefici]].
+dopo lo scontro [[than-warlock-tiefling-30|than]] uccide lanciando una palla di fuoco tutti i minion rimasti e poi li evoca nuovamente come non morti al suo servizio, dopodiché tornano da vincitore da [[roshi|roshi]] e tutti insieme vanno a partecipare ai festeggiamenti.
+dopodiché parlano con [[roshi|roshi]] e scoprono che [[artefatto-artefice]] che era stato definitoda roshi (al momento della consegna a [[vargas-paladino-nano-65]] come gli strumenti di  [[nidave]]) sono a tutti gli effetti gli strumenti di [[asmodeus]] in quanto scoprono che i demoni non nascono tali, ma originariamente sono umanoidi, e originariamente asmodeus era proprio nidave, che si scopre anche essere il relatore della tesi di roshi ai tempi degli [[artefici]].
 il giorno dopo quando si svegliano e vedono che [[dontavious-ladro-mezzelfo-25]] non esce dalla sua stanza lo vanno a cercare ma nel suo letto non lo trovano, c'è solo dell'ombra che ribolle e che ha più o meno la forma del corpo di [[dontavious-ladro-mezzelfo-25]]
 ![[scomparsa-di-dontavious.jpg]]

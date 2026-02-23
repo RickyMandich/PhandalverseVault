@@ -18,7 +18,7 @@
 - [x] definizione di [[demone]]
 - [x] [[asmodeus]]
 - [x] [[la-chiave]]
-- [ ] completar pagine minori di contesto
+- [x] completar pagine minori di contesto
 	- [x] [[dark-kaia]]
 	- [x] [[kanye-ovest]]
 	- [x] [[epoca-terza]]
@@ -37,9 +37,9 @@
 	- [x] [[gemgrave]]
 	- [x] [[suddaria]]
 	- [x] [[settentrionelle]]
-    - [ ] [[sommerivel]]
-    - [ ] [[profondahar]]
-    - [ ] [[sommervil]]
-    - [ ] [[profondar]]
+    - [x] [[sommerivel]]
+    - [x] [[profondahar]]
+    - [x] [[sommervil]]
+    - [x] [[profondar]]
 - [x] sistemare il nome dei mesi nel [[calendario]]
 - [ ] scrivere moduli futuri
