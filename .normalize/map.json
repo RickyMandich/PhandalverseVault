@@ -83,6 +83,19 @@
 				"divinita": {
 					"original": "Divinità",
 					"files": {
+						"ao.md": "Ao",
+						"auril.md": "Auril",
+						"chauntea.md": "Chauntea",
+						"gond.md": "Gond",
+						"kelemvor.md": "Kelemvor",
+						"lathander.md": "Lathander",
+						"mystra.md": "Mystra",
+						"oghma.md": "Oghma",
+						"selune.md": "Selûne",
+						"shar.md": "Shar",
+						"tempus.md": "Tempus",
+						"torm.md": "Torm",
+						"tyr.md": "Tyr",
 						"waukenn.md": "Waukenn"
 					},
 					"directories": {}

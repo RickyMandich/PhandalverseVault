@@ -1,0 +1,2 @@
+è l'epoca che preceda la [[epoca-leggendaria|leggendaria]], non si sa nulla di questo periodo che nei pochissimi racconti ancora esistenti viene spesso confuso o incluso nell'epoca leggendaria, è l'epoca più corta con una durata di circa 300 anni.
+in questo periodo si ha l'effettiva transizione dall'ignoranza alla conoscenza, con la nascita dei primi centri di sapere (tipo le nostre università) e l'inizio del fenomeno dei mecenati votati alla scienza.

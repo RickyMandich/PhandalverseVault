@@ -1,1 +1,2 @@
-è l'epoca corrente, inizia nell'anno 0 [[calendario|DP]] con [[la-purga|La purga]]
+è l'epoca corrente, inizia nell'anno [[calendario|0]] con [[la-purga|La purga]].
+questa epoca è caratterizzata da sporadiche reliquie scientifiche (trattate al pari di artefatti magici, per quel che se ne riesce a capire visto che alle volte gli uni vengono scambiati per gli altri) e ha un livello scientifico pari a quello medievale

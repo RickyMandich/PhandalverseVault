@@ -1,0 +1,242 @@
+{
+	"version": "v 0.0.208",
+	"date": "2026-02-23 13:03:28",
+	"commit_hash": "341b9bb558f4dde8fe38efdcaf6e1b0c61b1d766",
+	"commit_message": "aggiornamento 2026 02 23 13:03 [v 0.0.208] - aggiunta delle divinità e scrittura di tutti i villaggi, mancano ancora i quattro villaggi costieri",
+	"changes": [
+		{
+			"file": "definizioni/calendario.md",
+			"display_name": "Calendario",
+			"status": "Modified",
+			"diff": "diff --git a/definizioni/calendario.md b/definizioni/calendario.md\nindex 9ce11e7..24ca046 100644\n--- a/definizioni/calendario.md\n+++ b/definizioni/calendario.md\n@@ -3,19 +3,19 @@ come in ogni calendario si intende:\n - AP: avanti purga, quindi si contano gli anni precedenti\n - DP: dopo purga, quindi si contano gli anni successivi\n in questo calendario ci sono 13 mesi da 28 giorni ciascuno\n-1) gennaio\n-2) febbraio\n-3) marzo\n-4) aprile\n-5) maggio\n-6) giugno\n-7) luglio\n-8) agosto\n-9) settembre\n-10) ottobre\n-11) novembre\n-12) dicembre\n-13) bisesto\n+1) Aurilith - dedicato a [[Auril]]\n+2) Torman - dedicato a [[Torm]]\n+3) Lathandarion - dedicato a [[Lathander]]\n+4) Mystarael - dedicato a [[Mystra]]\n+5) Chauntel - dedicato a [[Chauntea]]\n+6) Tempurion - dedicato a [[Tempus]]\n+7) Selûn - dedicato a [[Selune]]\n+8) Sharûn - dedicato a [[Shar]]\n+9) Gondar - dedicato a [[Gond]]\n+10) Oghmion - dedicato a [[Oghma]]\n+11) Kelemvoris - dedicato a [[Kelemvor]]\n+12) Tyrion - dedicato a [[Tyr]]\n+13) Ao’thar - dedicato a [[Ao]]\n in ogni mese ci sono esattamente 4 settimane composte da:\n - lunedì\n - martedì\n"
+		},
+		{
+			"file": "entita/demoni/asmodeus.md",
+			"display_name": "Asmodeus",
+			"status": "Modified",
+			"diff": "diff --git a/entita/demoni/asmodeus.md b/entita/demoni/asmodeus.md\nindex 45e41d1..8341e9c 100644\n--- a/entita/demoni/asmodeus.md\n+++ b/entita/demoni/asmodeus.md\n@@ -1,6 +1,7 @@\n Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni\n # storia\n-vive la sua vita da umano \n+da umano lui era [[nidave]].\n+il suo processo di demonizzazione dura solamente 55 anni (termina nel 57 [[calendario|DP]]), dopodichè comincia la sua scalata dell'inferno fino ad arrivare in cima alla catena alimentare infernale nel 357 [[calendario|DP]].\n # famiglia\n molti demoni superiori sono suoi figli anche se non c'è propriamente un legame familiare all'interno di questa famiglia.\n soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.\n"
+		},
+		{
+			"file": "entita/demoni/demone.md",
+			"display_name": "Demone",
+			"status": "Modified",
+			"diff": "diff --git a/entita/demoni/demone.md b/entita/demoni/demone.md\nindex e66bb2d..2806c89 100644\n--- a/entita/demoni/demone.md\n+++ b/entita/demoni/demone.md\n@@ -1 +1,2 @@\n-un demone è un essere mortale che quando finisce all'inferno (appena arrivato, a parte rare eccezioni) viene scelto da un demone o da un'immondo\n\\ No newline at end of file\n+un demone è un essere mortale che quando finisce all'inferno (appena arrivato, a parte rare eccezioni) viene scelto da un demone o da un'immondo perché ritenuto adatto a diventare anch'esso una creatura infernale.\n+come conseguenza a questo non passa il resto dell'eternità a venire torturato e/o usato come schiavo dagli abitanti dei 9 inferni ma soltanto il tempo necessario a dissociarsi completamente dalla sua umanità (questo tempo può variare ma generalmente va da circa mezzo secolo a secoli interi, anche se ci sono casi in cui questo processo è durato millenni, durante questo processo ogni essere infernale può scegliere soltanto un condannato per volta)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "entita/divinita/Waukenn.md",
+			"display_name": "Waukenn",
+			"status": "Modified",
+			"diff": "diff --git a/entita/divinita/Waukenn.md b/entita/divinita/Waukenn.md\nindex 6f04283..4e0a8a6 100644\n--- a/entita/divinita/Waukenn.md\n+++ b/entita/divinita/Waukenn.md\n@@ -1,4 +1,18 @@\n # dominio\n-inganno e commercio\n+commercio, ricchezza, contratti, prosperità\n+# allineamento\n+neutrale\n+# simbolo sacro\n+moneta d’oro con volto femminile di profilo\n+# dogma\n+la ricchezza è uno strumento di potere e progresso  \n+ogni scambio equo rafforza la civiltà\n # rapporti\n-è amica/nemica di [[asmodeus]]\n\\ No newline at end of file\n+amicizia/scontro con [[Asmodeus]]  \n+collabora spesso con [[Gond]] nelle città mercantili  \n+tensione con [[Tyr]] quando il profitto supera la giustizia\n+# culto\n+diffuso nelle città commerciali, tra gilde e banchieri  \n+templi spesso annessi a mercati o case di scambio\n+# festività\n+7 Gondar – fiera delle Gilde (in collaborazione con i devoti di [[Gond]])\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "epoche/epoca-dargento.md",
+			"display_name": "Epoca",
+			"status": "Modified",
+			"diff": "diff --git a/epoche/epoca-dargento.md b/epoche/epoca-dargento.md\nindex e69de29..38919bd 100644\n--- a/epoche/epoca-dargento.md\n+++ b/epoche/epoca-dargento.md\n@@ -0,0 +1,2 @@\n+è l'epoca che preceda la [[epoca-leggendaria|leggendaria]], non si sa nulla di questo periodo che nei pochissimi racconti ancora esistenti viene spesso confuso o incluso nell'epoca leggendaria, è l'epoca più corta con una durata di circa 300 anni.\n+in questo periodo si ha l'effettiva transizione dall'ignoranza alla conoscenza, con la nascita dei primi centri di sapere (tipo le nostre università) e l'inizio del fenomeno dei mecenati votati alla scienza.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "epoche/epoca-leggendaria.md",
+			"display_name": "Epoca Leggendaria",
+			"status": "Modified",
+			"diff": "diff --git a/epoche/epoca-leggendaria.md b/epoche/epoca-leggendaria.md\nindex b33aff2..f4615b5 100644\n--- a/epoche/epoca-leggendaria.md\n+++ b/epoche/epoca-leggendaria.md\n@@ -1 +1,2 @@\n-durante quest'epoca la scienza e la tecnologia erano al loro apice e scompaiono le morti per malattia e le morti violente, le persone ormai si sono dimenticate cos'è la guerra e come si combatte ed è universalmente riconosciuta come l'apice dell'esistenza dei popoli del mondo terreno, non ci sono religioni in quanto la scienza ha ormai risolto i vari quesiti e la magia viene ridotta a qualcosa da studiare e comprendere e non a qualcosa di mistico, questo porta a una scomparsa di creature celesti e infernali del piano terrestre in quanto non ci si ricorda di loro e i pochi che le conoscono (i teologi, [[artefici]] specializzati nelle conoscenze mistiche) non si sognerebbero mai di evocare gli uni o gli altri\n\\ No newline at end of file\n+durante quest'epoca la scienza e la tecnologia erano al loro apice e scompaiono le morti per malattia e le morti violente, le persone ormai si sono dimenticate cos'è la guerra e come si combatte ed è universalmente riconosciuta come l'apice dell'esistenza dei popoli del mondo terreno, non ci sono religioni in quanto la scienza ha ormai risolto i vari quesiti e la magia viene ridotta a qualcosa da studiare e comprendere e non a qualcosa di mistico, questo porta a una scomparsa di creature celesti e infernali del piano terrestre in quanto non ci si ricorda di loro e i pochi che le conoscono (i teologi, [[artefici]] specializzati nelle conoscenze mistiche) non si sognerebbero mai di evocare gli uni o gli altri.\n+questa epoca è durata circa 1100 anni.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "epoche/epoca-terza.md",
+			"display_name": "Epoca Terza",
+			"status": "Modified",
+			"diff": "diff --git a/epoche/epoca-terza.md b/epoche/epoca-terza.md\nindex 94e6330..4ed98fe 100644\n--- a/epoche/epoca-terza.md\n+++ b/epoche/epoca-terza.md\n@@ -1 +1,2 @@\n-è l'epoca corrente, inizia nell'anno 0 [[calendario|DP]] con [[la-purga|La purga]]\n\\ No newline at end of file\n+è l'epoca corrente, inizia nell'anno [[calendario|0]] con [[la-purga|La purga]].\n+questa epoca è caratterizzata da sporadiche reliquie scientifiche (trattate al pari di artefatti magici, per quel che se ne riesce a capire visto che alle volte gli uni vengono scambiati per gli altri) e ha un livello scientifico pari a quello medievale\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex ea2f853..c4f6c88 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -15,27 +15,31 @@\n \t- [x] scrivere blocca mostri\n - [x] inventare ombrocinesi\n - [X] [[atos]]\n-- [ ] definizione di [[demone]]\n-- [ ] [[asmodeus]]\n+- [x] definizione di [[demone]]\n+- [x] [[asmodeus]]\n - [x] [[la-chiave]]\n - [ ] completar pagine minori di contesto\n \t- [x] [[dark-kaia]]\n \t- [x] [[kanye-ovest]]\n-\t- [ ] [[epoca-terza]]\n-\t- [ ] [[epoca-dargento]]\n+\t- [x] [[epoca-terza]]\n+\t- [x] [[epoca-dargento]]\n \t- [x] [[nidave]]\n-\t- [ ] [[nordavilla]]\n-\t- [ ] [[cristalgrave]]\n-\t- [ ] [[atalantide]]\n-\t- [ ] [[sudaria]]\n-\t- [ ] [[meridionel]]\n-\t- [ ] [[gemgreiv]]\n-\t- [ ] [[settentrionel]]\n-\t- [ ] [[nordavila]]\n-\t- [ ] [[cristalgreiv]]\n-\t- [ ] [[meridionelle]]\n-\t- [ ] [[gemgrave]]\n-\t- [ ] [[suddaria]]\n-\t- [ ] [[settentrionelle]]\n-- [ ] sistemare il nome dei mesi nel calendario\n-- [ ] scrivere moduli futuri\n\\ No newline at end of file\n+\t- [x] [[nordavilla]]\n+\t- [x] [[cristalgrave]]\n+\t- [x] [[atalantide]]\n+\t- [x] [[sudaria]]\n+\t- [x] [[meridionel]]\n+\t- [x] [[gemgreiv]]\n+\t- [x] [[settentrionel]]\n+\t- [x] [[nordavila]]\n+\t- [x] [[cristalgreiv]]\n+\t- [x] [[meridionelle]]\n+\t- [x] [[gemgrave]]\n+\t- [x] [[suddaria]]\n+\t- [x] [[settentrionelle]]\n+    - [ ] [[sommerivel]]\n+    - [ ] [[profondahar]]\n+    - [ ] [[sommervil]]\n+    - [ ] [[profondar]]\n+- [x] sistemare il nome dei mesi nel [[calendario]]\n+- [ ] scrivere moduli futuri\n"
+		},
+		{
+			"file": "universi/fandalmein/atalantide.md",
+			"display_name": "Atalantide",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/atalantide.md b/universi/fandalmein/atalantide.md\nindex 001e4fc..ffa8719 100644\n--- a/universi/fandalmein/atalantide.md\n+++ b/universi/fandalmein/atalantide.md\n@@ -1 +1,12 @@\n-#dm \n\\ No newline at end of file\n+#dm \n+#startMaster \n+unica città presente sull'isola al centro del lago continentale di [[Phandalmain]].\n+l'isola si chiama come la città e, durante l'[[epoca-leggendaria]] ricopriva tutta l'isola.\n+#endMaster \n+# storia\n+#startMaster \n+## [[epoca-leggendaria]]\n+era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua.\n+#endMaster \n+## [[epoca-terza]]\n+la coalizione si è insediata in questa città trasformandola nella capitale del continente intero (ora unificato in un unico impero) e l'ha resa inaccessibile a chiunque non debba lavorarci dentro per favorire la stabilità dell'impero\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandalmein.md",
+			"display_name": "Fandalmein",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandalmein.md b/universi/fandalmein/fandalmein.md\nindex 7028efe..6ea54fa 100644\n--- a/universi/fandalmein/fandalmein.md\n+++ b/universi/fandalmein/fandalmein.md\n@@ -1,3 +1,4 @@\n+#dm \n #startMaster  \n [[universo]] codipendente di [[phandalmain]]\n #endMaster \n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Cristalgreiv.md",
+			"display_name": "Cristalgreiv",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandanolend/Cristalgreiv.md b/universi/fandalmein/fandanolend/Cristalgreiv.md\nindex c5da1e1..748cc82 100644\n--- a/universi/fandalmein/fandanolend/Cristalgreiv.md\n+++ b/universi/fandalmein/fandanolend/Cristalgreiv.md\n@@ -1 +1,3 @@\n-#citta \n\\ No newline at end of file\n+#dm\n+#citta  \n+è un [[villaggio]] ibrido nanico situato nel ovest-nord ovest del continente, leggermente più a sud di [[fandanolend]] ma molto più a ovest.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Nordavila.md",
+			"display_name": "Nordavila",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandanolend/Nordavila.md b/universi/fandalmein/fandanolend/Nordavila.md\nindex c5da1e1..09816cb 100644\n--- a/universi/fandalmein/fandanolend/Nordavila.md\n+++ b/universi/fandalmein/fandanolend/Nordavila.md\n@@ -1 +1,3 @@\n-#citta \n\\ No newline at end of file\n+#dm\n+#citta  \n+è un [[villaggio]] ibrido umano situato nel nord ovest del continente, un po' più a ovest di [[fandanolend]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Settentrionel.md",
+			"display_name": "Settentrionel",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandanolend/Settentrionel.md b/universi/fandalmein/fandanolend/Settentrionel.md\nindex ed900cb..ce7d181 100644\n--- a/universi/fandalmein/fandanolend/Settentrionel.md\n+++ b/universi/fandalmein/fandanolend/Settentrionel.md\n@@ -1 +1,3 @@\n-#citta  \n\\ No newline at end of file\n+#dm\n+#citta  \n+è un [[villaggio]] ibrido elfico situato nel nord est del continente, un po' più a est di [[fandanolend]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/fandanolend.md",
+			"display_name": "Fandanolend",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandanolend/fandanolend.md b/universi/fandalmein/fandanolend/fandanolend.md\nindex 66927b7..46d6d7d 100644\n--- a/universi/fandalmein/fandanolend/fandanolend.md\n+++ b/universi/fandalmein/fandanolend/fandanolend.md\n@@ -1,4 +1,5 @@\n-#regno \n+#dm\n+#provincia-imperiale  \n # città\n - [[Nordavila]]\n - [[Settentrionel]]\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/GemGreiv.md",
+			"display_name": "GemGreiv",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandasulend/GemGreiv.md b/universi/fandalmein/fandasulend/GemGreiv.md\nindex c5da1e1..50e4e69 100644\n--- a/universi/fandalmein/fandasulend/GemGreiv.md\n+++ b/universi/fandalmein/fandasulend/GemGreiv.md\n@@ -1 +1,3 @@\n-#citta \n\\ No newline at end of file\n+#dm\n+#citta \n+è un [[villaggio]] ibrido nanico situato nel est-sud est del continente, leggermente più a nord di [[fandasulend]] ma molto più a est.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/Meridionel.md",
+			"display_name": "Meridionel",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandasulend/Meridionel.md b/universi/fandalmein/fandasulend/Meridionel.md\nindex ed900cb..ad01996 100644\n--- a/universi/fandalmein/fandasulend/Meridionel.md\n+++ b/universi/fandalmein/fandasulend/Meridionel.md\n@@ -1 +1,3 @@\n-#citta  \n\\ No newline at end of file\n+#dm\n+#citta  \n+è un [[villaggio]] ibrido elfico situato nel sud ovest del continente, un po' più a ovest di [[fandasulend]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/Sudaria.md",
+			"display_name": "Sudaria",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandasulend/Sudaria.md b/universi/fandalmein/fandasulend/Sudaria.md\nindex ed900cb..133eef6 100644\n--- a/universi/fandalmein/fandasulend/Sudaria.md\n+++ b/universi/fandalmein/fandasulend/Sudaria.md\n@@ -1 +1,3 @@\n-#citta  \n\\ No newline at end of file\n+#dm\n+#citta  \n+è un [[villaggio]] ibrido umano situato nel sud est del continente, un po' più a est di [[fandanolend]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/fandasulend.md",
+			"display_name": "Fandasulend",
+			"status": "Modified",
+			"diff": "diff --git a/universi/fandalmein/fandasulend/fandasulend.md b/universi/fandalmein/fandasulend/fandasulend.md\nindex eed3de0..8c24c1f 100644\n--- a/universi/fandalmein/fandasulend/fandasulend.md\n+++ b/universi/fandalmein/fandasulend/fandasulend.md\n@@ -1,4 +1,5 @@\n-#regno\n+#dm\n+#provincia-imperiale\n # città\n - [[Sudaria]]\n - [[Meridionel]]\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide.md",
+			"display_name": "Atlantide",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/atlantide.md b/universi/phandalmain/atlantide.md\nindex 496312e..f5dbecb 100644\n--- a/universi/phandalmain/atlantide.md\n+++ b/universi/phandalmain/atlantide.md\n@@ -2,4 +2,13 @@\n unica città presente sull'isola al centro del lago continentale di [[Phandalmain]].\n l'isola si chiama come la città e, durante l'[[epoca-leggendaria]] ricopriva tutta l'isola.\n #endMaster \n-durante l'[[epoca-leggendaria|epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua.\n\\ No newline at end of file\n+# storia\n+## [[epoca-leggendaria]]\n+era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua.\n+## [[epoca-terza]]\n+### anno 0\n+durante [[la-purga]], [[i-purgatori]] (per ordine della [[la-coalizione|coalizione]]), fecero in modo che tutti i più importanti edifici fossero distrutti e che non ci fosse più nessuno e per qualche decennio fecero anche in modo che nessuno ci andasse (dopo questo tempo non era più ritenuto un luogo da controllare in quanto ormai gli artefici erano sconfitti)\n+### anno 5\n+[[Atos]] va sull'isola senza farsi scoprire dai [[i-purgatori|purgatori]] e ci si insedia per vivere\n+### anno 215\n+[[nonno-roshi]] si reca sull'isola per uccidere [[Atos]] e il loro scontro finisce con il far affondare l'isola (per altri effetti guardare la pagina di [[Atos]])\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandalmain.md",
+			"display_name": "Phandalmain",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandalmain.md b/universi/phandalmain/phandalmain.md\nindex 1b89044..ecec09c 100644\n--- a/universi/phandalmain/phandalmain.md\n+++ b/universi/phandalmain/phandalmain.md\n@@ -1,6 +1,4 @@\n-#startMaster \n [[universo]] codipendente di [[Fandalmein]]\n-#endMaster \n # regni\n - [[phandanoland]]\n - [[phandasuland]]\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/Cristalgrave.md",
+			"display_name": "Cristalgrave",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandanoland/Cristalgrave.md b/universi/phandalmain/phandanoland/Cristalgrave.md\nindex dbb987c..01b996f 100644\n--- a/universi/phandalmain/phandanoland/Cristalgrave.md\n+++ b/universi/phandalmain/phandanoland/Cristalgrave.md\n@@ -1 +1,2 @@\n #citta  \n+è un [[villaggio]] ibrido nanico situato nel ovest-nord ovest del continente, leggermente più a sud di [[phandanoland]] ma molto più a ovest.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/Nordavilla.md",
+			"display_name": "Nordavilla",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandanoland/Nordavilla.md b/universi/phandalmain/phandanoland/Nordavilla.md\nindex ed900cb..f2d755e 100644\n--- a/universi/phandalmain/phandanoland/Nordavilla.md\n+++ b/universi/phandalmain/phandanoland/Nordavilla.md\n@@ -1 +1,2 @@\n-#citta  \n\\ No newline at end of file\n+#citta  \n+è un [[villaggio]] ibrido umano situato nel nord ovest del continente, un po' più a ovest di [[phandanoland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/Settentrionelle.md",
+			"display_name": "Settentrionelle",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandanoland/Settentrionelle.md b/universi/phandalmain/phandanoland/Settentrionelle.md\nindex ed900cb..b42da1c 100644\n--- a/universi/phandalmain/phandanoland/Settentrionelle.md\n+++ b/universi/phandalmain/phandanoland/Settentrionelle.md\n@@ -1 +1,2 @@\n-#citta  \n\\ No newline at end of file\n+#citta  \n+è un [[villaggio]] ibrido elfico situato nel nord est del continente, un po' più a est di [[phandanoland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/GemGrave.md",
+			"display_name": "GemGrave",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandasuland/GemGrave.md b/universi/phandalmain/phandasuland/GemGrave.md\nindex c5da1e1..fdee01d 100644\n--- a/universi/phandalmain/phandasuland/GemGrave.md\n+++ b/universi/phandalmain/phandasuland/GemGrave.md\n@@ -1 +1,2 @@\n-#citta \n\\ No newline at end of file\n+#citta \n+è un [[villaggio]] ibrido nanico situato nel est-sud est del continente, leggermente più a nord di [[phandasuland]] ma molto più a est.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/Meridionelle.md",
+			"display_name": "Meridionelle",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandasuland/Meridionelle.md b/universi/phandalmain/phandasuland/Meridionelle.md\nindex c5da1e1..98faf23 100644\n--- a/universi/phandalmain/phandasuland/Meridionelle.md\n+++ b/universi/phandalmain/phandasuland/Meridionelle.md\n@@ -1 +1,2 @@\n-#citta \n\\ No newline at end of file\n+#citta  \n+è un [[villaggio]] ibrido elfico situato nel sud ovest del continente, un po' più a ovest di [[phandasuland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/suddaria/Suddaria.md",
+			"display_name": "Suddaria",
+			"status": "Modified",
+			"diff": "diff --git a/universi/phandalmain/phandasuland/suddaria/Suddaria.md b/universi/phandalmain/phandasuland/suddaria/Suddaria.md\nindex c5da1e1..8215838 100644\n--- a/universi/phandalmain/phandasuland/suddaria/Suddaria.md\n+++ b/universi/phandalmain/phandasuland/suddaria/Suddaria.md\n@@ -1 +1,2 @@\n-#citta \n\\ No newline at end of file\n+#citta  \n+è un [[villaggio]] ibrido umano situato nel sud est del continente, un po' più a est di [[phandasuland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "entita/divinita/ao.md",
+			"display_name": "Ao",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/auril.md",
+			"display_name": "Auril",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/chauntea.md",
+			"display_name": "Chauntea",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/gond.md",
+			"display_name": "Gond",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/kelemvor.md",
+			"display_name": "Kelemvor",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/lathander.md",
+			"display_name": "Lathander",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/mystra.md",
+			"display_name": "Mystra",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/oghma.md",
+			"display_name": "Oghma",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/selune.md",
+			"display_name": "Selûne",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/shar.md",
+			"display_name": "Shar",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/tempus.md",
+			"display_name": "Tempus",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/torm.md",
+			"display_name": "Torm",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "entita/divinita/tyr.md",
+			"display_name": "Tyr",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}
