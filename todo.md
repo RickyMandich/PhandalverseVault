@@ -51,16 +51,16 @@
     - [ ] luci danzanti (salvato nel terminale)
     - [ ] mano magica (salvato nel terminale)
     - [ ] stretta folgorante (salvato nel terminale)
-    - [ ] camuffare se stesso
-    - [ ] individuazione del magico
-    - [ ] scudo
-    - [ ] sonno
-    - [ ] invisibilità
-    - [ ] sfocatura
-    - [ ] chiaroveggenza
-    - [ ] inviare
-    - [ ] confusione
-    - [ ] terreno illusorio
+    - [ ] camuffare se stesso (salvato nel terminale)
+    - [ ] individuazione del magico (salvato nel terminale)
+    - [ ] scudo (salvato nel terminale)
+    - [ ] sonno (salvato nel terminale)
+    - [ ] invisibilità (salvato nel terminale)
+    - [ ] sfocatura (salvato nel terminale)
+    - [ ] chiaroveggenza (salvato nel terminale)
+    - [ ] inviare (salvato nel terminale)
+    - [ ] confusione (salvato nel terminale)
+    - [ ] terreno illusorio ()
     - [ ] telecinesi
 - scrivere moduli futuri
 	- [ ] [[salvataggio-a-telmurkvadinn]]

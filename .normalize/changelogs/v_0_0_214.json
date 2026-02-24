@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.214",
+	"date": "2026-02-24 19:23:25",
+	"commit_hash": "bb7d05eef9f581c2f6cb70e45b080df3ec47aa8f",
+	"commit_message": "aggiornamento 2026 02 24 19:23 [v 0.0.214]",
+	"changes": [
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "diff --git a/todo.md b/todo.md\nindex a2e3a9a..7a19c61 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -51,16 +51,16 @@\n     - [ ] luci danzanti (salvato nel terminale)\n     - [ ] mano magica (salvato nel terminale)\n     - [ ] stretta folgorante (salvato nel terminale)\n-    - [ ] camuffare se stesso\n-    - [ ] individuazione del magico\n-    - [ ] scudo\n-    - [ ] sonno\n-    - [ ] invisibilità\n-    - [ ] sfocatura\n-    - [ ] chiaroveggenza\n-    - [ ] inviare\n-    - [ ] confusione\n-    - [ ] terreno illusorio\n+    - [ ] camuffare se stesso (salvato nel terminale)\n+    - [ ] individuazione del magico (salvato nel terminale)\n+    - [ ] scudo (salvato nel terminale)\n+    - [ ] sonno (salvato nel terminale)\n+    - [ ] invisibilità (salvato nel terminale)\n+    - [ ] sfocatura (salvato nel terminale)\n+    - [ ] chiaroveggenza (salvato nel terminale)\n+    - [ ] inviare (salvato nel terminale)\n+    - [ ] confusione (salvato nel terminale)\n+    - [ ] terreno illusorio ()\n     - [ ] telecinesi\n - scrivere moduli futuri\n \t- [ ] [[salvataggio-a-telmurkvadinn]]\n\\ No newline at end of file\n"
+		}
+	]
+}
