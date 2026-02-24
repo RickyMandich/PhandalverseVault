@@ -1,5 +1,5 @@
 # dominio
-commercio, ricchezza, contratti, prosperità
+commercio, ricchezza, contratti, prosperità, inganno
 # allineamento
 neutrale
 # simbolo sacro

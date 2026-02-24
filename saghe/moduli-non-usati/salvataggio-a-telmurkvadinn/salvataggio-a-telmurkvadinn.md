@@ -1,3 +1,4 @@
+#dm
 # storia
 ## atto 1 (situazione di partenza) e atto 2 (crisi iniziale)
 [[dontavious-ladro-mezzelfo-25]] viene risucchiato nel [[telmurkvadinn|piano delle ombre]] durante la notte e il party deve salvarlo.
