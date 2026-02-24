@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "salvataggio-a-telmurkvadinn"
             }
-          },
-          {
-            "id": "de2a1e7032a439b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "epoche/epoca-terza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "epoca-terza"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,8 +218,12 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "de2a1e7032a439b4",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
+    "materiale/stat-block/mind-flayer.md",
+    "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+    "artefatti/party/artefatto-dellombra.md",
+    "epoche/epoca-terza.md",
     "bash/d2utmpg8YZsM",
     "bash/d2utmpEOZzSf",
     "bash/d2utmpXrA1ff",
@@ -244,14 +234,10 @@
     "bash/d2utmpLJo3Ev",
     "bash/d2utmpf4HTfa",
     "bash/d2utmpUftO8d",
-    "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
-    "epoche/epoca-terza.md",
     "entita/divinita/waukenn.md",
     "materiale/stat-block/spirito-mietitore.md",
-    "materiale/stat-block/mind-flayer.md",
     "todo.md",
     "personaggi/non-giocanti/macrotrama/roshi.md",
-    "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn",
     "universi/fandalmein/fandanolend/profondar.md",
     "universi/phandalmain/phandanoland/profondahar.md",
     "universi/fandalmein/fandasulend/sommervil.md",

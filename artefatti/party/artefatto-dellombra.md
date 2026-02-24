@@ -551,7 +551,8 @@ Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fi
 
 inoltre può far viaggiare nell'ombra anche altre creature per un massimo di creature di taglia media pari al suo livello totale. per una creatura di taglia grande dovrà "usare" 3 livelli, e moltiplicare per 3 per ogni taglia in su. per 3 creature di taglia piccola dovrà "usare" 1 livello, e dividere per 3 per ogni taglia in giù.
 
-oltre a questo può creare un portale che porta nel [[telmurkvadinn]] e arrivo in un posto a sua scelta con gli stessi limiti del trasporto di altre creature dove un lato del portale è grande quando lo spazio occupato da una creatura di quella dimensione (quindi aprire un portale di 1.5m\*1.5m sarà come trasportare una creature di taglia media, mentre uno di 3m\*3m sarà come trasportare una creatura grande)
+oltre a questo può creare un portale che porta nel [[telmurkvadinn]] e arrivo in un posto a sua scelta con gli stessi limiti del trasporto di altre creature dove un lato del portale è grande quando lo spazio occupato da una creatura di quella dimensione (quindi aprire un portale di 1.5m\*1.5m sarà come trasportare una creature di taglia media, mentre uno di 3m\*3m sarà come trasportare una creatura grande).
+(precisazione in caso di dubbi: qui il limite non c'è per il numero delle creature ma solo per la dimensione del portale, finchè una creatura ci può passare attraverso fisicamente può farlo)
 
 ---
 # manto di ombre
@@ -597,7 +598,6 @@ ___
 
 Quando il portatore infligge Attacco Furtivo può spendere punti ombrocinesi per potenziarlo:
 - 1 punto → +1d6 danni necrotici
-Può spendere un numero massimo di punti pari al proprio bonus competenza per turno.
 ___
 # Intangibilità delle ombre
 ***REAZIONE***
@@ -610,8 +610,8 @@ ___
 # frattura del predatore
 ***AZIONE***
 
-Il portatore spende uno slot incantesimo e sceglie una creatura entro 18 metri.
-Le ombre del bersaglio vengono trafitte e si apre uno squarcio nel Tel’Murk’Vadinn.
+Il portatore spende uno slot incantesimo (o 13 punti ombrocinesi) e sceglie una creatura entro 18 metri.
+Dalle ombre del bersaglio si levano dei tentacoli d'ombra che cercano di trascinarlo nel [[telmurkvadinn]].
 Il bersaglio deve effettuare un tiro salvezza su Destrezza (CD incantesimi).
 
 ## se fallisce il tiro salvezza
@@ -626,4 +626,4 @@ all'interno del [[telmurkvadinn]]
 la vittima viene intrappolata in dei filamenti di ombra che durano per 1 minuto dandogli la condizione "trattenuto"
 ___
 # Erosione dell'anima
-finché il proprietario attacca lo stesso nemico ottiene un bonus cumulativo di danni necrotici pari a 1d6 per un massimo del suo bonus competenza, quando completa un turno senza infliggere danni **SOLO** a quel bersaglio il bonus viene resettato
+finché il proprietario attacca lo stesso nemico ottiene un bonus cumulativo di danni necrotici pari a 1d6, quando completa un turno senza infliggere danni **SOLO** a quel bersaglio il bonus viene resettato

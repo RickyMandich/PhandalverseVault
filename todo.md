@@ -43,8 +43,24 @@
     - [x] [[profondar]]
 - [x] sistemare il nome dei mesi nel [[calendario]]
 -  scrivere incantesimi
-	- [ ] individuazione dei pensieri
-	- [ ] levitazione
-	- [ ] dominare mostri
-	- [ ] spostamento planare
-- [ ] scrivere moduli futuri
+	- [ ] individuazione dei pensieri  (salvato nel terminale)
+	- [ ] levitazione (salvato nel terminale)
+	- [ ] dominare mostri (salvato nel terminale)
+	- [ ] spostamento planare (salvato nel terminale)
+    - [ ] interdizione alle lame (salvato nel terminale)
+    - [ ] luci danzanti (salvato nel terminale)
+    - [ ] mano magica (salvato nel terminale)
+    - [ ] stretta folgorante (salvato nel terminale)
+    - [ ] camuffare se stesso
+    - [ ] individuazione del magico
+    - [ ] scudo
+    - [ ] sonno
+    - [ ] invisibilità
+    - [ ] sfocatura
+    - [ ] chiaroveggenza
+    - [ ] inviare
+    - [ ] confusione
+    - [ ] terreno illusorio
+    - [ ] telecinesi
+- scrivere moduli futuri
+	- [ ] [[salvataggio-a-telmurkvadinn]]
