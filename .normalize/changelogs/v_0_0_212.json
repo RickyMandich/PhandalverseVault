@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.212",
+	"date": "2026-02-24 07:00:01",
+	"commit_hash": "0a150ef18b5c24d62632f7e863086c9fe8441ae7",
+	"commit_message": "aggiornamento 2026 02 24 07:00 [v 0.0.212]",
+	"changes": [
+		{
+			"file": "epoche/epoca-terza.md",
+			"display_name": "Epoca Terza",
+			"status": "Modified",
+			"diff": "diff --git a/epoche/epoca-terza.md b/epoche/epoca-terza.md\nindex 0027f05..bc40d35 100644\n--- a/epoche/epoca-terza.md\n+++ b/epoche/epoca-terza.md\n@@ -1,2 +1,2 @@\n-è l'epoca corrente, inizia nell'anno [[calendario| 0 ]] con [[la-purga|La purga]].\n+è l'epoca corrente, inizia nell' [[calendario|anno 0]] con [[la-purga|La purga]].\n questa epoca è caratterizzata da sporadiche reliquie scientifiche (trattate al pari di artefatti magici, per quel che se ne riesce a capire visto che alle volte gli uni vengono scambiati per gli altri) e ha un livello scientifico pari a quello medievale\n\\ No newline at end of file\n"
+		}
+	]
+}
