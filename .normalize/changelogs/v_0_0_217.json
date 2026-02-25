@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.217",
+	"date": "2026-02-25 19:06:15",
+	"commit_hash": "c7053d8a41ba4464ce639d67316df00ec47e4ab2",
+	"commit_message": "aggiornamento 2026 02 25 19:06 [v 0.0.217] - modifica atto 3 del modulo del salvataggio di dontavious",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+			"display_name": "Salvataggio a Tel'Mur'Vadinn",
+			"status": "Modified",
+			"diff": "diff --git a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\nindex 89ccbee..913f5d6 100644\n--- a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n+++ b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n@@ -7,7 +7,7 @@ sempre [[roshi]] spiega a [[la-mano-rossa]] che ha in mente 2 modi per entrare n\n 1) usare l'incantesimo [[materiale/incantesimi/tutti/spostamento-planare|spostamento-planare]] che, però, lui non conosce e non sa lanciare e in città nessuno ha un grimorio, un manuale o una pergamena con questo incantesimo. bisogna andare o alla biblioteca scoperta il mese scorso e riuscire a trovarlo o vagare per il mondo fino a trovare qualcuno che glielo insegni o le istruzioni scritte da qualche parte, anche queste opzioni occuperebbero molto tempo e a loro non è dato sapere quanto a lungo il loro amico potrebbe sopravvivere da solo nelle ombre\n 2) cercare e usare un altro artefatto che dia accesso al mondo delle ombre sopravvissuto [[la-purga|alla purga]], anche questa una missione molto lunga\n ## atto 3 (miglioramento/riunione strategica)\n-trovano il modo di entrare nel mondo delle ombre (probabilmente [[Atos]] si manifesta per la prima volta per cominciare a plagiare [[than-warlock-tiefling-30|than]].\n+trovano il modo di entrare nel mondo delle ombre (probabilmente [[Atos]] si manifesta per la prima volta per cominciare a plagiare [[than-warlock-tiefling-30|than]]).\n una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un [[mind-flayer|membro del clan dell'ombra (mind flayer reskinnato)]] per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]].\n ## atto 4 (scontro finale)\n \n"
+		}
+	]
+}
