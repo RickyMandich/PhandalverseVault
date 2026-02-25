@@ -5,7 +5,7 @@
 Il legame che condividi con il tuo drago crea una connessione con la stirpe dei draghi, permettendoti di capirla e potenziando la tua presenza.
 Ottieni i seguenti benefici:
 - **Taumaturgia**
-	Impari il trucchetto [Taumaturgia](https://dungeonsanddragons.fandom.com/it/wiki/Taumaturgia).
+	Impari il trucchetto [[materiale/incantesimi/incantesimi/tutti/taumaturgia|taumaturgia]].
 - **Lingua dei draghi**
 	Impari a parlare, leggere e scrivere il Draconico.
 ---

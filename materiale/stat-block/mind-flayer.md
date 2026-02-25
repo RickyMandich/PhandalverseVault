@@ -19,8 +19,8 @@ ___
 > ___
 > - **Resistenza alla magia** il mind flayer dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici
 > - **Incantesimi Innati (psionici)** La caratteristica innata da incantatore del mind flayer è Intelligenza (tiro salvezza per gli incantesimi CD 15). il mind flayer può lanciare i seguenti incantesimi innati, che non richiedono componenti:
-> 	a volontà: *[individuazione dei pensieri](https://dungeonsanddragons.fandom.com/it/wiki/Individuazione_dei_Pensieri), [levitazione](https://dungeonsanddragons.fandom.com/it/wiki/Levitazione)*
-> 	1/giorno ciascuno: *[dominare mostri](https://dungeonsanddragons.fandom.com/it/wiki/Dominare_Mostri), [spostamento planare (solo se stesso)](https://dungeonsanddragons.fandom.com/it/wiki/Spostamento_Planare)*
+> 	a volontà: *[[materiale/incantesimi/tutti/individuazione-dei-pensieri|individuazione-dei-pensieri]], [[materiale/incantesimi/tutti/levitazione|levitazione]]*
+> 	1/giorno ciascuno: *[[materiale/incantesimi/tutti/dominare-mostri|dominare-mostri]], [[materiale/incantesimi/tutti/spostamento-planare|spostamento planare (solo se stesso)]]*
 > ___
 > ## Azioni
 > **Tentacoli** *Attacco con arma da mischia*:  +7 al tiro per colpire, 1.5m, un solo bersaglio. *Colpito* 15 (2d10 + 4) danni psichici. se il bersaglio è di taglia media o inferiore è afferrato (CD incantesimo per sfuggire) e deve superare un tiro salvezza su intelligenza con CD degli incantesimi, altrimenti è stordito finche il mind flayer lo trattiene
@@ -29,9 +29,9 @@ ___
 > ___
 > ## variante: mind flayer arcanista
 > Alcuni mind flayer integrano i loro poteri psionici con gli incantesimi arcani. Tuttavia, sono considerati dei deviati dagli illithid loro pari e solitamente vengono allontanati. Un mind flayer arcanista ha un grado di sfida pari a 8 (3.900 PE) e possiede il tratto seguente. Incantesimi. Il mind flayer è un incantatore di 10° livello: la sua caratteristica da incantatore è Intelligenza (tiro salvezza degli incantesimi CD 15, +7 al tiro per colpire degli attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:
-> - **Trucchetti (a volontà):** [interdizione alle lame](https://dungeonsanddragons.fandom.com/it/wiki/Interizione_alle_lame), [luci danzanti](https://dungeonsanddragons.fandom.com/it/wiki/Luci_Danzanti), [mano magica](https://dungeonsanddragons.fandom.com/it/wiki/Mano_Magica), [stretta folgorante](https://dungeonsanddragons.fandom.com/it/wiki/Stretta_Folgorante)
-> - **1° livello (4 slot)**: [camuffare se stesso](https://dungeonsanddragons.fandom.com/it/wiki/Camuffare_S%C3%A9_Stesso), [individuazione del magico](https://dungeonsanddragons.fandom.com/it/wiki/Individuazione_del_Magico), [scudo](https://dungeonsanddragons.fandom.com/it/wiki/Scudo), [sonno](https://dungeonsanddragons.fandom.com/it/wiki/Sonno)
-> - **2° livello (3 slot)**: [invisibilità](https://dungeonsanddragons.fandom.com/it/wiki/Invisibilit%C3%A0), [[materiale/incantesimi/tutti/raggio-di-affaticamento|raggio-di-affaticamento]], [sfocatura](https://dungeonsanddragons.fandom.com/it/wiki/Sfocatura) 
-> - **3° livello (3 slot)**: [chiaroveggenza](https://dungeonsanddragons.fandom.com/it/wiki/Chiaroveggenza), [[materiale/incantesimi/tutti/fulmine|fulmine]], [inviare](https://dungeonsanddragons.fandom.com/it/wiki/Inviare)
-> - **4° livello (3 slot)**: [confusione](https://dungeonsanddragons.fandom.com/it/wiki/Confusione), [terreno illusorio](https://dungeonsanddragons.fandom.com/it/wiki/Terreno_Illusorio)
-> - **5° livello (2 slot)**: [[materiale/incantesimi/tutti/muro-di-forza|muro di forza]], [telecinesi](https://dungeonsanddragons.fandom.com/it/wiki/Telecinesi)
+> - **Trucchetti (a volontà):** [[interdizione-alle-lame]], [[materiale/incantesimi/tutti/luci-danzanti|luci-danzanti]], [[materiale/incantesimi/tutti/mano-magica|mano-magica]], [[materiale/incantesimi/tutti/stretta-folgorante|stretta-folgorante]]
+> - **1° livello (4 slot)**: [[materiale/incantesimi/tutti/camuffare-se-stesso|camuffare-se-stesso]], [[materiale/incantesimi/tutti/individuazione-del-magico|individuazione-del-magico]], [[materiale/incantesimi/tutti/scudo|scudo]], [[materiale/incantesimi/tutti/sonno|sonno]]
+> - **2° livello (3 slot)**: [[materiale/incantesimi/tutti/invisibilita|invisibilità]], [[materiale/incantesimi/tutti/raggio-di-affaticamento|raggio-di-affaticamento]], [[materiale/incantesimi/tutti/sfocatura|sfocatura]]
+> - **3° livello (3 slot)**: [[materiale/incantesimi/tutti/chiaroveggenza|chiaroveggenza]], [[materiale/incantesimi/tutti/fulmine|fulmine]], [[materiale/incantesimi/tutti/inviare|inviare]]
+> - **4° livello (3 slot)**: [[materiale/incantesimi/tutti/confusione|confusione]], [[materiale/incantesimi/tutti/terreno-illusorio|terreno-illusorio]]
+> - **5° livello (2 slot)**: [[materiale/incantesimi/tutti/muro-di-forza|muro di forza]], [[materiale/incantesimi/tutti/telecinesi|telecinesi]]

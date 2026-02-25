@@ -1,1 +1,0 @@
-![[materiale/incantesimi/tutti/raggio-di-infermita]]

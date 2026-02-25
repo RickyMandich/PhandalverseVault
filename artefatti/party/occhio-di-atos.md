@@ -569,7 +569,6 @@ tabella esplicativa:
 ![[materiale/incantesimi/tutti/pioggia-di-frammenti]]
 
 ### lista necromante
-inoltre disponi di tutti gli incantesimi presenti nella lista del [necromante](https://dungeonsanddragons.fandom.com/it/wiki/Incantesimi_SRD) di livello pari al tuo livello, (quindi al 4 livello avrai accesso agli incantesimi di livello 1, 2, 3 e 4)
 ![[materiale/incantesimi/tutti/puntura-indebolitrice]]
 ![[materiale/incantesimi/tutti/rintocco-dei-morti]]
 ![[materiale/incantesimi/tutti/salvare-i-morenti]]
