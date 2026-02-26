@@ -1,20 +1,14 @@
 {
 	"version": "v 0.0.218",
-	"date": "2026-02-26 09:23:58",
-	"commit_hash": "41b631394ad05f3aaed5919dfbe76021c732aa33",
+	"date": "2026-02-26 09:24:38 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 26 09:24 [v 0.0.218]",
 	"changes": [
 		{
-			"file": "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.md",
-			"display_name": "Castello Abbandonato Sul Dirupo Vicino La Citta",
-			"status": "Modified",
-			"diff": "\n"
-		},
-		{
 			"file": "materiale/stat-block/signore-delle-ombre.md",
 			"display_name": "Signore Delle Ombre",
-			"status": "Modified",
-			"diff": "\n"
+			"status": "Added",
+			"diff": "commit 0a5a676a1c4424ed205c05fa6758262169a09c02\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Feb 26 09:24:29 2026 +0100\n\n    aggiornamento 2026 02 26 09:24 [v 0.0.218]\n\ndiff --git a/materiale/stat-block/signore-delle-ombre.md b/materiale/stat-block/signore-delle-ombre.md\nnew file mode 100644\nindex 0000000..80f1f74\n--- /dev/null\n+++ b/materiale/stat-block/signore-delle-ombre.md\n@@ -0,0 +1,22 @@\n+___\n+> ## Signore delle Ombre\n+> *immondo (creatura dell'ombra) gargantuesco, dipende dal singolo, in genere caotico neutrale*\n+> ___\n+> - **Classe Armatura** 21 (armatura naturale)\n+> - **Punti Vita** 314 (17d20 + 136)\n+> - **Velocità** 15 m, burrow 15 m, volo 27 m\n+> ___\n+> |FOR|DES|COS|INT|SAG|CAR|\n+> |:---:|:---:|:---:|:---:|:---:|:---:|\n+> |[FOR] ([bonus FOR])|[DES] ([bonus DES])|[COS] ([bonus COS])|[INT] ([bonus INT])|[SAG] ([bonus SAG])|[CAR] ([bonus CAR])|\n+> ___\n+> - **[nome competenza]** [competenza]\n+> ___\n+> ## Azioni\n+> **[nome azione]** [descrizione azione]\n+> ___\n+> ## Azioni bonus\n+> **[nome azione bonus]** [descrizione azione bonus]\n+> ___\n+> ## Reazioni\n+> **[nome reazione]** [descrizione reazione]\n\\ No newline at end of file\n"
 		}
 	]
 }
