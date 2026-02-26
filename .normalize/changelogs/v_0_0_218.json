@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.218",
+	"date": "2026-02-26 09:23:58",
+	"commit_hash": "41b631394ad05f3aaed5919dfbe76021c732aa33",
+	"commit_message": "aggiornamento 2026 02 26 09:24 [v 0.0.218]",
+	"changes": [
+		{
+			"file": "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.md",
+			"display_name": "Castello Abbandonato Sul Dirupo Vicino La Citta",
+			"status": "Modified",
+			"diff": "\n"
+		},
+		{
+			"file": "materiale/stat-block/signore-delle-ombre.md",
+			"display_name": "Signore Delle Ombre",
+			"status": "Modified",
+			"diff": "\n"
+		}
+	]
+}

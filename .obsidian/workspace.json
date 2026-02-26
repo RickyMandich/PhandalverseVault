@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+                "file": "materiale/stat-block/signore-delle-ombre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "salvataggio-a-telmurkvadinn"
+              "title": "signore-delle-ombre"
             }
           }
         ],
@@ -218,12 +218,23 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "27032b551bf1d767",
+  "active": "4a0168f4c436222b",
   "lastOpenFiles": [
-    "bash/4913",
-    "4913",
-    "todo.md",
+    "bash/d2utmphMlRJ1",
+    "bash/d2utmpgvpstm",
+    "bash/d2utmpgAXBmf",
+    "bash/d2utmpwiMg1A",
+    "bash/d2utmpYbFOJL",
+    "bash/d2utmpx2W7xw",
+    "bash/d2utmpZ9NWtY",
+    "bash/d2utmpiPbCyQ",
+    "bash/d2utmp5GhTFS",
+    "bash/d2utmp8f994P",
+    "bash/all.sh~",
+    "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.md",
+    "materiale/stat-block/signore-delle-ombre.md",
     "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+    "todo.md",
     "artefatti/party/occhio-di-atos.md",
     "materiale/stat-block/mind-flayer.md",
     "materiale/incantesimi/tutti/blocca-mostri.md",
@@ -245,17 +256,6 @@
     "materiale/incantesimi/tutti/mano-magica.md",
     "materiale/incantesimi/tutti/luci-danzanti.md",
     "materiale/incantesimi/tutti/levitazione.md",
-    "materiale/incantesimi/tutti/invisibilita.md",
-    "materiale/incantesimi/tutti/inviare.md",
-    "bash/d2utmpff80Yc",
-    "bash/d2utmpiTmGVP",
-    "bash/d2utmphdqetT",
-    "bash/d2utmp5htjaI",
-    "bash/d2utmpIUaMvW",
-    "bash/d2utmpc9ly6x",
-    "bash/d2utmpuad9FM",
-    "bash/d2utmp9ygyeH",
-    "bash/d2utmpqm56YA",
     "eventi/scomparsa-di-dontavious.jpg",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
     "universi/phandalmain/phandalmain.jpg",
