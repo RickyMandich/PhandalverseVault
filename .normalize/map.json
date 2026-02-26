@@ -99,6 +99,11 @@
 						"waukenn.md": "Waukenn"
 					},
 					"directories": {}
+				},
+				"signori-delle-ombre": {
+					"original": "Signori Delle Ombre",
+					"files": {},
+					"directories": {}
 				}
 			}
 		},
@@ -126,7 +131,8 @@
 				"abilita": {
 					"original": "Abilità",
 					"files": {
-						"vista-cieca.md": "Vista Cieca"
+						"vista-cieca.md": "Vista Cieca",
+						"vista-pura.md": "Vista Pura"
 					},
 					"directories": {}
 				},
@@ -158,7 +164,11 @@
 								"camuffare-se-stesso.md": "Camuffare Sè Stesso",
 								"chiaroveggenza.md": "Chiaroveggenza",
 								"confusione.md": "Confusione",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"dominare-mostri.md": "Dominare Mostri",
+								"dominare-persone.md": "Dominare Persone",
+								"geas.md": "Geas",
+								"immagine-maggiore.md": "Immagine Maggiore",
 								"individuazione-dei-pensieri.md": "Individuazione Dei Pensieri",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
 								"interdizione-alle-lame.md": "Interdizione Alle Lame",
@@ -166,7 +176,9 @@
 								"invisibilita.md": "Invisibilità",
 								"luci-danzanti.md": "Luci Danzanti",
 								"mano-magica.md": "Mano Magica",
+								"metamorfosi-pura.md": "Metamorfosi Pura",
 								"sonno.md": "Sonno",
+								"suggestione.md": "Suggestione",
 								"terreno-illusorio.md": "Terreno Illusorio"
 							},
 							"directories": {}
@@ -176,6 +188,7 @@
 							"files": {
 								"blocca-persone.md": "Blocca Persone",
 								"chiaroveggenza.md": "Chiaroveggenza",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
 								"inviare.md": "Inviare",
 								"presagio.md": "Presagio",
@@ -203,6 +216,7 @@
 							"files": {
 								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"blocca-persone.md": "Blocca Persone",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
 								"presagio.md": "Presagio",
 								"spostamento-planare.md": "Spostamento Planare",
@@ -222,10 +236,14 @@
 								"contagio.md": "Contagio",
 								"danza-macabra.md": "Danza Macabra",
 								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"dominare-mostri.md": "Dominare Mostri",
+								"dominare-persone.md": "Dominare Persone",
 								"evoca-non-morti.md": "Evoca Non Morti",
 								"finzione-di-morte.md": "Finzione di Morte",
 								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
+								"geas.md": "Geas",
+								"immagine-maggiore.md": "Immagine Maggiore",
 								"inaridire.md": "Inaridire",
 								"incuti-paura.md": "Incuti Paura",
 								"individuazione-dei-pensieri.md": "Individuazione Dei Pensieri",
@@ -236,6 +254,7 @@
 								"levitazione.md": "Levitazione",
 								"luci-danzanti.md": "Luci Danzanti",
 								"mano-magica.md": "Mano Magica",
+								"metamorfosi-pura.md": "Metamorfosi Pura",
 								"ombra-di-moil.md": "Ombra di Moil",
 								"osteourgia.md": "Osteourgia",
 								"parlare-con-i-morti.md": "Parlare Con i Morti",
@@ -259,6 +278,7 @@
 								"spostamento-planare.md": "Spostamento Planare",
 								"stretta-folgorante.md": "Stretta Folgorante",
 								"sudario-spirituale.md": "Sudario Spirituale",
+								"suggestione.md": "Suggestione",
 								"telecinesi.md": "Telecinesi",
 								"terreno-illusorio.md": "Terreno Illusorio",
 								"tocco-gelido.md": "Tocco Gelido",
@@ -322,6 +342,7 @@
 						"paladino": {
 							"original": "Paladino",
 							"files": {
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
 								"scagliare-maledizione.md": "Scagliare Maledizione"
 							},
@@ -343,7 +364,11 @@
 								"camuffare-se-stesso.md": "Camuffare Sè Stesso",
 								"chiaroveggenza.md": "Chiaroveggenza",
 								"confusione.md": "Confusione",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"dominare-mostri.md": "Dominare Mostri",
+								"dominare-persone.md": "Dominare Persone",
+								"geas.md": "Geas",
+								"immagine-maggiore.md": "Immagine Maggiore",
 								"individuazione-dei-pensieri.md": "Individuazione Dei Pensieri",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
 								"invisibilita.md": "Invisibilità",
@@ -355,6 +380,7 @@
 								"sonno.md": "Sonno",
 								"spostamento-planare.md": "Spostamento Planare",
 								"stretta-folgorante.md": "Stretta Folgorante",
+								"suggestione.md": "Suggestione",
 								"telecinesi.md": "Telecinesi"
 							},
 							"directories": {}
@@ -385,7 +411,9 @@
 								"danza-macabra.md": "Danza Macabra",
 								"dardo-incantato.md": "Dardo Incantato",
 								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"dominare-mostri.md": "Dominare Mostri",
+								"dominare-persone.md": "Dominare Persone",
 								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
 								"esplosione-cadaverica.md": "Esplosione Cadaverica",
 								"evoca-non-morti.md": "Evoca Non Morti",
@@ -396,7 +424,9 @@
 								"folata-di-vento.md": "Folata di Vento",
 								"frantumare.md": "Frantumare",
 								"fulmine.md": "Fulmine",
+								"geas.md": "Geas",
 								"illusione-minore.md": "Illusione Minore",
+								"immagine-maggiore.md": "Immagine Maggiore",
 								"immagine-speculare.md": "Immagine Speculare",
 								"inaridire.md": "Inaridire",
 								"incuti-paura.md": "Incuti Paura",
@@ -411,6 +441,7 @@
 								"levitazione.md": "Levitazione",
 								"luci-danzanti.md": "Luci Danzanti",
 								"mano-magica.md": "Mano Magica",
+								"metamorfosi-pura.md": "Metamorfosi Pura",
 								"muro-di-forza.md": "Muro di Forza",
 								"ombra-di-moil.md": "Ombra di Moil",
 								"onda-tonante.md": "Onda Tonante",
@@ -448,6 +479,7 @@
 								"spostamento-planare.md": "Spostamento Planare",
 								"stretta-folgorante.md": "Stretta Folgorante",
 								"sudario-spirituale.md": "Sudario Spirituale",
+								"suggestione.md": "Suggestione",
 								"taumaturgia.md": "Taumaturgia",
 								"telecinesi.md": "Telecinesi",
 								"tempesta-di-ghiaccio.md": "Tempesta di Ghiaccio",
@@ -467,11 +499,15 @@
 								"blocca-mostri.md": "Blocca Mostri",
 								"blocca-persone.md": "Blocca Persone",
 								"confusione.md": "Confusione",
+								"dissolvi-magie.md": "Dissolvi Magie",
 								"dominare-mostri.md": "Dominare Mostri",
+								"immagine-maggiore.md": "Immagine Maggiore",
 								"invisibilita.md": "Invisibilità",
 								"mano-magica.md": "Mano Magica",
+								"metamorfosi-pura.md": "Metamorfosi Pura",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"spostamento-planare.md": "Spostamento Planare",
+								"suggestione.md": "Suggestione",
 								"terreno-illusorio.md": "Terreno Illusorio"
 							},
 							"directories": {}

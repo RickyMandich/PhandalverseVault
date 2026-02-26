@@ -13,7 +13,7 @@ Ogni volta che il bersaglio subisce danni, effettua un nuovo tiro salvezza su Sa
 
 **Ai livelli superiori:** Quando l'incantatore lancia questo incantesimo con uno slot incantesimo di 9° livello, la durata diventa concentrazione, fino a 8 ore.
 
-**Classi:** Mago, Bardo, Stregone, Warlock
+**Classi:** Mago, Stregone, Warlock, Bardo
 
 **Sorgente:** [https://dungeonsanddragons.fandom.com/it/wiki/Dominare_Mostri](https://dungeonsanddragons.fandom.com/it/wiki/Dominare_Mostri)
 
