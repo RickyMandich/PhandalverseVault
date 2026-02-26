@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.89",
+	"date": "2026-01-14 19:28:44 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 14 19:28 [v 0.0.89]",
+	"changes": [
+		{
+			"file": "incantesimi/artefice/TramaIpnotica.md",
+			"display_name": "TramaIpnotica",
+			"status": "Modified",
+			"diff": "commit 3186da46c1cf745acb111e0d4fd5ac96ca396564\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 19:28:44 2026 +0100\n\n    aggiornamento 2026 01 14 19:28 [v 0.0.89]\n\ndiff --git a/incantesimi/artefice/TramaIpnotica.md b/incantesimi/artefice/TramaIpnotica.md\nindex fce6ec9..0f78b77 100644\n--- a/incantesimi/artefice/TramaIpnotica.md\n+++ b/incantesimi/artefice/TramaIpnotica.md\n@@ -1,14 +1 @@\n-## Trama Ipnotica\n-*3° livello, Illusione*\n-\n-- **Tempo di lancio:** 1 azione\n-- **Raggio d'azione:** 36m\n-- **Componenti:** S, M (un bastoncino d'incenso acceso o una fiala di cristallo riempita di materiale fosforescente)\n-- **Durata:** Concentrazione, fino a 1 minuto\n-\n-L'incantatore crea un complicato intreccio di colori che si snoda nell'aria all'interno di un cubo con spigolo di 9 metri entro gittata. La trama appare soltanto per un istante, poi svanisce. Ogni creatura entro l'area che la veda deve effettuare un tiro salvezza su Saggezza. Se lo fallisce, diventa affascinata da questo incantesimo. Finché è affascinata, la creatura è incapacitata e la sua velocità è pari a 0.\n-L'incantesimo su una creatura influenzata termina se la creatura subisce danni o se qualcun altro usa un'azione per scuotere la creatura, destandola dal suo stato confusionale.\n-\n-**Classi:** Bardo, Stregone, Mago, Warlock\n-\n----\n+![[incantesimi/tutti/TramaIpnotica]]\n\\ No newline at end of file\n"
+		}
+	]
+}

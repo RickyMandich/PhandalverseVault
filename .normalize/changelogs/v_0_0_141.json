@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.141",
+	"date": "2026-01-28 18:33:30 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 28 18:33 [v 0.0.141]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn (ombra)",
+			"status": "Modified",
+			"diff": "commit 8858a01f1764aeec1dc248907f9e07ec13184e53\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 28 18:33:30 2026 +0100\n\n    aggiornamento 2026 01 28 18:33 [v 0.0.141]\n\ndiff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex ce689ce..84848d6 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -10,11 +10,14 @@ il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gl\n ![[incantesimi/tutti/scurovisione]]\n ![[incantesimi/tutti/silenzio]]\n ![[incantesimi/tutti/illusione-minore]]\n+# visione dell'ombra\n+quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.\n \n+---\n # passo dell'ombra\n-il proprietario ottiene la capacità di passare da un'ombra all'altra. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità\n+il proprietario ottiene la capacità di entrare e uscire dal [[mondo dell'ombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo dell'ombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità\n \n-inoltre, quando lancia l'incantesimo [Scurovisione](https://dungeonsanddragons.fandom.com/it/wiki/Scurovisione \"Scurovisione\") su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con il privilegio Arti dell'Ombra. Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.\n+Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.\n \n inoltre può far viaggiare nell'ombra anche altre creature per un massimo di creature di taglia media pari al suo livello totale. per una creatura di taglia dovrà \"usare\" 3 livelli, e moltiplicare per 3 per ogni taglia in su. per 3 creature di taglia piccola dovrà \"usare\" 1 livello, e dividere per 3 per ogni taglia in giù.\n \n"
+		},
+		{
+			"file": "universi/mondo dell'ombra.md",
+			"display_name": "mondo dell'ombra",
+			"status": "Added",
+			"diff": "commit 8858a01f1764aeec1dc248907f9e07ec13184e53\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 28 18:33:30 2026 +0100\n\n    aggiornamento 2026 01 28 18:33 [v 0.0.141]\n\ndiff --git a/universi/mondo dell'ombra.md b/universi/mondo dell'ombra.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		}
+	]
+}

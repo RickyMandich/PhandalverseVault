@@ -1,0 +1,296 @@
+{
+	"version": "v 0.0.2",
+	"date": "2026-01-07 15:45:09 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 07 15:45 [v 0.0.2]",
+	"changes": [
+		{
+			"file": "Personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md",
+			"display_name": "Attila Slayer (Guerriero Elfo, 100)",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md b/Personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md\ndeleted file mode 100644\nindex db04479..0000000\n--- a/Personaggi/Giocanti/Attila Slayer (Guerriero Elfo, 100).md\t\n+++ /dev/null\n@@ -1,8 +0,0 @@\n-andrea zuriato\n-\n-# Background\n-quando aveva 30 anni suo fratello parte all'avventura e ci resta secco.\n-questo lo porta a voler diventare più forte per non perdere più nessuno\n-# Campagna\n-ora si è unito a [[la mano rossa]]\n-![[Saga di GemGrave]]\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md",
+			"display_name": "Dontavious (Ladro Mezzelfo, 25)",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md b/Personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md\ndeleted file mode 100644\nindex 0a080f9..0000000\n--- a/Personaggi/Giocanti/Dontavious (Ladro Mezzelfo, 25).md\t\n+++ /dev/null\n@@ -1,8 +0,0 @@\n-Andrea rallo\n-\n-# Background\n-è cresciuto in un circo itinerante e quando aveva 24 anni arrivano in un villaggio che, a loro insaputa, è la sede di una setta demoniaca che venera [[Asmodeus]].\n-in questo villaggio i membri del circo muoiono e conosce [[Than (Warlock tiefling, 30)|Than]] con cui scapperà assieme.\n-# Campagna\n-ora si è unito a [[la mano rossa]]\n-![[Saga di GemGrave]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/Morbiarum (Paladino Dragonide, 24).md",
+			"display_name": "Morbiarum (Paladino Dragonide, 24)",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/Morbiarum (Paladino Dragonide, 24).md b/Personaggi/Giocanti/Morbiarum (Paladino Dragonide, 24).md\ndeleted file mode 100644\nindex f0af80b..0000000\n--- a/Personaggi/Giocanti/Morbiarum (Paladino Dragonide, 24).md\t\n+++ /dev/null\n@@ -1,8 +0,0 @@\n-Francesco Bellese\n-\n-# Background\n-clan di origine sterminato dalla [[gli asmodeici]] per cui lui la odia e giura vendetta contro la setta.\n-viene adottato da una coppia di halfling che lo crescono con amore e ai suoi 18 anni (maturità) i genitori gli rivelano la sua vera origine e lo sterminio del suo clan, questo il momento in cui giura vendetta\n-# Campagna\n-ora si è unito a [[la mano rossa]]\n-![[Saga di GemGrave]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/pet/Thraal.md",
+			"display_name": "Thraal",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/pet/Thraal.md b/Personaggi/Giocanti/pet/Thraal.md\nindex 5a77bb6..a5510ed 100644\n--- a/Personaggi/Giocanti/pet/Thraal.md\n+++ b/Personaggi/Giocanti/pet/Thraal.md\n@@ -1,2 +1,2 @@\n # Thraal\n-è l'imp di [[Than (Warlock tiefling, 30)]], quando è sotto forma di corvo viene presentato come Ren\n\\ No newline at end of file\n+è l'imp di [[than-warlock-tiefling-30]], quando è sotto forma di corvo viene presentato come [[ren]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/pet/Kanye ovest.md",
+			"display_name": "Kanye ovest",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/pet/Kanye ovest.md b/Personaggi/Giocanti/pet/Kanye ovest.md\ndeleted file mode 100644\nindex e69de29..0000000\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/Than (Warlock tiefling, 30).md",
+			"display_name": "Than (Warlock tiefling, 30)",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/Than (Warlock tiefling, 30).md b/Personaggi/Giocanti/Than (Warlock tiefling, 30).md\ndeleted file mode 100644\nindex 2024800..0000000\n--- a/Personaggi/Giocanti/Than (Warlock tiefling, 30).md\t\n+++ /dev/null\n@@ -1,10 +0,0 @@\n-Davide pavan\n-\n-# Background\n-nasce in un villaggio umano composto unicamente da una [[gli asmodeici|setta]] che venera [[Asmodeus]].\n-per una serie di eventi sono un po' di anni che non c'è un tiefling a guidare la setta, quando finalmente nasce Than che però cresce idealizzando la madre che è morta quando lui aveva 5 anni quindi discordando con i dettami della setta.\n-i suoi poteri da worlock (li ottiene a 16 anni in una cerimonia di maturità in cui fa un patto con suo padre) fanno fatica a uscire a causa dei suoi dilemmi esistenziali.\n-quando ha 29 anni arriva nel suo villaggio la carovana di un circo che la setta vuole sacrificare, sopravvive solo [[Dontavious (Ladro Mezzelfo, 25)|Dontavious]] che cerca di rubare l'artefatto del villaggio, Than lo coglie sul fatto e toccando l'artefatto risveglia [[Thraal]], l'imp del primo tiefling del villaggio che si lega a lui. alla fine scappa con Dontavius.\n-# Campagna\n-ora si è unito a [[la mano rossa]]\n-![[Saga di GemGrave]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/Vargas (Paladino Nano, 65).md",
+			"display_name": "Vargas (Paladino Nano, 65)",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Giocanti/Vargas (Paladino Nano, 65).md b/Personaggi/Giocanti/Vargas (Paladino Nano, 65).md\ndeleted file mode 100644\nindex e9313ee..0000000\n--- a/Personaggi/Giocanti/Vargas (Paladino Nano, 65).md\t\n+++ /dev/null\n@@ -1,10 +0,0 @@\n-marco persi\n-manca nome regno e divinità\n-\n-# Background\n-Vargas cresce in una fattoria poco più a monte di un [[villaggio#ibrido|villaggio ibrido]] di montagna per cui lui cresce imparando a cacciare per sopravvivere (la sua famiglia, che porta avanti la fattoria, non produce abbastanza da potersi permettere la carne quando finiscono i prodotti agricoli, quindi lui e il padre caccia quello che deve mangiare la famiglia).\n-con gli anni trova moglie tra le ragazze del villaggio quindi ci si trasferisce e, visto che il lavoro in taverna non basta, ogni tanto partecipa ad alcune delle missioni dei mercenari di [[Fumero]].\n-quando Vargas cerca di smettere di partecipare alle missioni da mercenario (il villaggio si sta ingrandendo per cui la taverna basta come mezzo di sostentamento) Fumero non accetta la scelta e per vendetta brucia la taverna con la sua famiglia dentro. in risposta a questo Vargas fa un giuramento di vendetta contro il gruppo mercenario di Fumero\n-# Campagna\n-ora si è unito a [[la mano rossa]]\n-![[Saga di GemGrave]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/Kaia.md",
+			"display_name": "Kaia",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/Kaia.md b/Personaggi/Non Giocanti/Kaia.md\ndeleted file mode 100644\nindex 353b058..0000000\n--- a/Personaggi/Non Giocanti/Kaia.md\t\n+++ /dev/null\n@@ -1,3 +0,0 @@\n-#phandalmain \n-abitante di [[GemGrave]]\n-è praticamente orfana (è figlia di [[perrin cauthon]] ma non si considera tale in quanto come reazione alla morte delle moglie si è isolato nella sua fucina o nel ruolo di capovillaggio), è stata sostanzialmente cresciuta da [[nonno Roshi|Roshi]] che considera suo nonno anche più del resto degli abitanti del villaggio\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/viper.md",
+			"display_name": "viper",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/viper.md b/Personaggi/Non Giocanti/viper.md\ndeleted file mode 100644\nindex 7a14a33..0000000\n--- a/Personaggi/Non Giocanti/viper.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-è un marinide di profondità, vive sul fondo della [[fossa delle marie]] e spesso lavora come guida per chi lo vuole esplorare\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/gruppi magici/fratelli dei lupi.md",
+			"display_name": "fratelli dei lupi",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/gruppi magici/fratelli dei lupi.md b/Personaggi/gruppi magici/fratelli dei lupi.md\ndeleted file mode 100644\nindex 81f3d9b..0000000\n--- a/Personaggi/gruppi magici/fratelli dei lupi.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#dm \n-Gli uomini _Fratelli dei Lupi_ sono persone rarissime, che acquisiscono questa caratteristica ad un certo punto della loro vita, senza possibilità di opporsi, è il loro stesso corpo che muta, come è sottolineato dal fatto che i loro occhi diventano di colore giallo dorato, esattamente come quelli dei lupi. Questa fratellanza particolare permette a queste persone di comunicare mentalmente con questi animali e comporta anche l’aumento consistente delle loro capacita sensoriali: olfatto, vista, udito aumentano in maniera prodigiosa; inoltre questa trasformazione permette di accedere a [[Tel'Aran'Rhiod]]. Se non si impara a controllare questa trasformazione, si rischia di perdere completamente la coscienza di sé stessi e di diventare in pratica un animale nel corpo di un uomo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/gruppi/la mano rossa.md",
+			"display_name": "la mano rossa",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/gruppi/la mano rossa.md b/Personaggi/gruppi/la mano rossa.md\ndeleted file mode 100644\nindex d986de1..0000000\n--- a/Personaggi/gruppi/la mano rossa.md\t\n+++ /dev/null\n@@ -1,20 +0,0 @@\n-#gruppo \n-è il gruppo dei protagonisti, sono i prescelti provenienti da [[phandalmain]].\n-## [[Vargas (Paladino Nano, 65)]]\n-![[Vargas (Paladino Nano, 65)]]\n-## [[Than (Warlock tiefling, 30)]]\n-![[Than (Warlock tiefling, 30)]]\n-## [[Dontavious (Ladro Mezzelfo, 25)]]\n-![[Dontavious (Ladro Mezzelfo, 25)]]\n-## [[Morbiarum (Paladino Dragonide, 24)]]\n-![[Morbiarum (Paladino Dragonide, 24)]]\n-## [[Attila Slayer (Guerriero Elfo, 100)]]\n-![[Attila Slayer (Guerriero Elfo, 100)]]\n-\n-# punti esperienza\n-|sessione|livello|xp|\n-|:-:|:-----:|:--:|\n-|sessione 0|    3    | 900  |\n-|   sessione di giovedì 2025 11 13![[Saga di GemGrave##sessione di giovedì 2025 11 13###xp]]   |    3    | 1050 |\n-| sessione di giovedì 2025 11 27![[Saga di GemGrave##sessione di giovedì 2025 11 27###xp]] |    3    | 1175 |\n-|                                                                                              |    4    | 2700 |\n"
+		},
+		{
+			"file": "Personaggi/gruppi/la-mano-rossa.md",
+			"display_name": "la-mano-rossa",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/gruppi/la-mano-rossa.md b/Personaggi/gruppi/la-mano-rossa.md\nnew file mode 100644\nindex 0000000..9de1137\n--- /dev/null\n+++ b/Personaggi/gruppi/la-mano-rossa.md\n@@ -0,0 +1,20 @@\n+#gruppo \n+è il gruppo dei protagonisti, sono i prescelti provenienti da [[phandalmain]].\n+## [[vargas-paladino-nano-65|Vargas (Paladino Nano, 65)]]\n+![[vargas-paladino-nano-65]]\n+## [[than-warlock-tiefling-30|Than (Warlock tiefling, 30)]]\n+![[than-warlock-tiefling-30|Than (Warlock tiefling, 30)]]\n+## [[dontavious-ladro-mezzelfo-25|Dontavious (Ladro Mezzelfo, 25)]]\n+![[dontavious-ladro-mezzelfo-25|Dontavious (Ladro Mezzelfo, 25)]]\n+## [[morbiarum-paladino-dragonide-24|Morbiarum (Paladino Dragonide, 24)]]\n+![[morbiarum-paladino-dragonide-24|Morbiarum (Paladino Dragonide, 24)]]\n+## [[attila-slayer-guerriero-elfo-100|Attila Slayer (Guerriero Elfo, 100)]]\n+![[attila-slayer-guerriero-elfo-100]]\n+\n+# punti esperienza\n+|                                         sessione                                         | livello |  xp  |\n+| :--------------------------------------------------------------------------------------: | :-----: | :--: |\n+|                                        sessione 0                                        |    3    | 900  |\n+| sessione di giovedì 2025 11 13![[Saga-di-GemGrave##sessione di giovedì 2025 11 13###xp]] |    3    | 1050 |\n+| sessione di giovedì 2025 11 27![[Saga-di-GemGrave##sessione di giovedì 2025 11 27###xp]] |    3    | 1175 |\n+|                                                                                          |    4    | 2700 |\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/blob.md",
+			"display_name": "blob",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/blob.md b/Personaggi/Non Giocanti/blob.md\ndeleted file mode 100644\nindex 2f471fe..0000000\n--- a/Personaggi/Non Giocanti/blob.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-servitore di [[mussel]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/Dark Kaia.md",
+			"display_name": "Dark Kaia",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/Dark Kaia.md b/Personaggi/Non Giocanti/Dark Kaia.md\ndeleted file mode 100644\nindex fcbedf2..0000000\n--- a/Personaggi/Non Giocanti/Dark Kaia.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#dm \n-è una dei prescelti di [[fandalmein]]\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/Fumero.md",
+			"display_name": "Fumero",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/Fumero.md b/Personaggi/Non Giocanti/Fumero.md\ndeleted file mode 100644\nindex 13f97ab..0000000\n--- a/Personaggi/Non Giocanti/Fumero.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-capo mercenario del gruppo di cui per un periodo ha fatto parte anche [[Vargas (Paladino Nano, 65)]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/irving.md",
+			"display_name": "irving",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/irving.md b/Personaggi/Non Giocanti/irving.md\ndeleted file mode 100644\nindex fcf846c..0000000\n--- a/Personaggi/Non Giocanti/irving.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-#phandalmain \n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/kaia.md",
+			"display_name": "kaia",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/non-giocanti/kaia.md b/Personaggi/non-giocanti/kaia.md\nnew file mode 100644\nindex 0000000..46cf0b9\n--- /dev/null\n+++ b/Personaggi/non-giocanti/kaia.md\n@@ -0,0 +1,3 @@\n+#phandalmain \n+abitante di [[GemGrave]]\n+è praticamente orfana (è figlia di [[perrin-cauthon|perrin cauthon]] ma non si considera tale in quanto come reazione alla morte delle moglie si è isolato nella sua fucina o nel ruolo di capovillaggio), è stata sostanzialmente cresciuta da [[nonno-roshi|Roshi]] che considera suo nonno anche più del resto degli abitanti del villaggio\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/mussel.md",
+			"display_name": "mussel",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/mussel.md b/Personaggi/Non Giocanti/mussel.md\ndeleted file mode 100644\nindex cc7b051..0000000\n--- a/Personaggi/Non Giocanti/mussel.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-è un merfolk cozza che vive in una caverna subacquea a est del continente (circa all'altezza di gemgrave) \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/nonno Roshi.md",
+			"display_name": "nonno Roshi",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/nonno Roshi.md b/Personaggi/Non Giocanti/nonno Roshi.md\ndeleted file mode 100644\nindex 88c4dce..0000000\n--- a/Personaggi/Non Giocanti/nonno Roshi.md\t\n+++ /dev/null\n@@ -1,3 +0,0 @@\n-#phandalmain \n-# origini\n-nasce nel 200 [[calendario|AP]] \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Non Giocanti/perrin cauthon.md",
+			"display_name": "perrin cauthon",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/Non Giocanti/perrin cauthon.md b/Personaggi/Non Giocanti/perrin cauthon.md\ndeleted file mode 100644\nindex 7367043..0000000\n--- a/Personaggi/Non Giocanti/perrin cauthon.md\t\n+++ /dev/null\n@@ -1,12 +0,0 @@\n-#phandalmain capovillaggio di [[GemGrave]] ![[perrin.jpg]]\n-\n-Perrin Cauthon è un nano dalla presenza calma e solida, noto per la sua forza fisica e per l’indole riflessiva che lo rende un punto di riferimento per gli abitanti di GemGrave.  \n-Non cerca il comando, ma la gente tende naturalmente a seguirlo: la sua voce è misurata, i suoi giudizi ponderati, e raramente agisce senza una buona ragione.\n-\n-Lavora spesso come fabbro, arte che gli sembra calzare addosso come una seconda pelle. Il suo martello, [[fyrbrand]], è sempre con lui: più uno strumento che un’arma, ma nessuno che abbia visto Perrin usarlo dubita della sua potenza.\n-\n-Nonostante la sua natura pacifica, Perrin porta negli occhi un’ombra antica, come se osservasse sempre qualcosa che gli altri non possono vedere.\n-\n-#startMaster\n-è un [[fratelli dei lupi|fratello dei lupi]]  \n-#endMaster\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/viper.md",
+			"display_name": "viper",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/non-giocanti/viper.md b/Personaggi/non-giocanti/viper.md\nnew file mode 100644\nindex 0000000..bbd1210\n--- /dev/null\n+++ b/Personaggi/non-giocanti/viper.md\n@@ -0,0 +1,2 @@\n+#phandalmain \n+è un marinide di profondità, vive sul fondo della [[fossa-delle-marie|fossa delle marie]] e spesso lavora come guida per chi lo vuole esplorare\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/organizzazioni/artefici.md",
+			"display_name": "artefici",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/organizzazioni/artefici.md b/Personaggi/organizzazioni/artefici.md\nindex 89508b1..7abe301 100644\n--- a/Personaggi/organizzazioni/artefici.md\n+++ b/Personaggi/organizzazioni/artefici.md\n@@ -1,9 +1,9 @@\n in questa organizzazione rientravano tutti coloro che contribuivano in qualsiasi modo all'avanzare della conoscenza scientifica.\n-quando hanno cominciato a essere una presenza autorevole e riconosciuta e cominciarono ad essere una preoccupazione per [[la coalizione]] iniziò l'[[epoca d'argento]]ù\n-quando le religioni cominciarono a scomparire a favore della scienza finì l'[[epoca d'argento]] e iniziò l'[[epoca leggendaria]]\n+quando hanno cominciato a essere una presenza autorevole e riconosciuta e cominciarono ad essere una preoccupazione per [[la-coalizione|la coalizione]] iniziò l'[[epoca-dargento|epoca d'argento]]\n+quando le religioni cominciarono a scomparire a favore della scienza finì l'[[epoca-dargento|epoca d'argento]] e iniziò l'[[epoca-leggendaria|epoca leggendaria]]\n # [[Phandalmain]]\n-in questo universo questa è un'organizzazione a se stante che nei suoi primi millenni di vita si è trovata spesso in contrapposizione con [[la coalizione]] che ai tempi aveva una base prevalentemente religiosa.\n+in questo [[universo]] questa è un'organizzazione a se stante che nei suoi primi millenni di vita si è trovata spesso in contrapposizione con [[la-coalizione|la coalizione]] che ai tempi aveva una base prevalentemente religiosa.\n #startMaster \n # [[Fandalmein]]\n-in questo universo questa organizzazione era controllata dalla [[la coalizione|coalizione]] e sfruttata per i suoi scopi\n+in questo [[universo]] questa organizzazione era controllata dalla [[la-coalizione|coalizione]] e sfruttata per i suoi scopi\n #endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/organizzazioni/gli asmodeici.md",
+			"display_name": "gli asmodeici",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/organizzazioni/gli asmodeici.md b/Personaggi/organizzazioni/gli asmodeici.md\ndeleted file mode 100644\nindex 5919e56..0000000\n--- a/Personaggi/organizzazioni/gli asmodeici.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-è un gruppo di cultisti fanatici che venera [[Asmodeus]], per seguire le indicazioni del loro demone preferito inizialmente facevano governare il loro villaggio dallo stesso, dopo che è stato esorcizzato per l'ennesima volta hanno capito che non è praticabile mantenerlo nel loro villaggio e avere una vita comoda senza attirare troppo le attenzioni di varie chiese e cacciatori di demoni, per cui ormai è secoli che quando necessario evocano il demone per una notte così che possa giacere con una delle cultiste che poi partorirà il futuro capovillaggio (un tiefling)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/organizzazioni/la coalizione.md",
+			"display_name": "la coalizione",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/Personaggi/organizzazioni/la coalizione.md b/Personaggi/organizzazioni/la coalizione.md\ndeleted file mode 100644\nindex f47eff4..0000000\n--- a/Personaggi/organizzazioni/la coalizione.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#dm \n-è il consiglio che si occupava di organizzare e gestire le faccende che riguardavano [[phandalmain]] e [[fandalmein]] e aveva sede ad [[atalantide]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/Fyrbrand.md",
+			"display_name": "Fyrbrand",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/artefatti/Fyrbrand.md b/artefatti/Fyrbrand.md\nindex 7de5d4b..cb46edd 100644\n--- a/artefatti/Fyrbrand.md\n+++ b/artefatti/Fyrbrand.md\n@@ -1,4 +1,4 @@\n-**Fyrbrand** è Il martello da forgiatura donato a Perrin da [[nonno Roshi]].\n+**Fyrbrand** è Il martello da forgiatura donato a Perrin da [[nonno-roshi|nonno Roshi]].\n A prima vista sembra uno strumento semplice, ma chi lo osserva da vicino nota subito che c’è qualcosa di insolito nella sua fattura.\n ## **Aspetto**\n \n"
+		},
+		{
+			"file": "artefatti/il Portale.md",
+			"display_name": "il Portale",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/artefatti/il Portale.md b/artefatti/il Portale.md\ndeleted file mode 100644\nindex 4cb29a3..0000000\n--- a/artefatti/il Portale.md\t\n+++ /dev/null\n@@ -1,4 +0,0 @@\n-il portale che collega [[phandalmain]] e [[fandalmein]]\n-#startMaster \n-si trova ad [[universi/phandalmain/atlantide|atlantide]] a [[phandalmain]] e ad [[universi/fandalmein/atalantide|atalantide]] a [[fandalmein]]\n-#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/la bussola.md",
+			"display_name": "la bussola",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/artefatti/la bussola.md b/artefatti/la bussola.md\ndeleted file mode 100644\nindex d686c08..0000000\n--- a/artefatti/la bussola.md\t\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#artefatto\n-questo artefatto originariamente serviva a trovare la chiave, viene modificato nel 1312 [[calendario|DP]] da [[nonno Roshi]] per diventare capace di indicare i singoli pezzi di chiave ora che è rotta (questa nuova versione necessita del nucleo della chiave al suo interno)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/la chiave.md",
+			"display_name": "la chiave",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/artefatti/la chiave.md b/artefatti/la chiave.md\ndeleted file mode 100644\nindex 883d4b2..0000000\n--- a/artefatti/la chiave.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-questo artefatto serve ad accendere [[il Portale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/la-bussola.md",
+			"display_name": "La Bussola",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/artefatti/la-bussola.md b/artefatti/la-bussola.md\nnew file mode 100644\nindex 0000000..85a3929\n--- /dev/null\n+++ b/artefatti/la-bussola.md\n@@ -0,0 +1,2 @@\n+#artefatto\n+questo artefatto originariamente serviva a trovare la chiave, viene modificato nel 1312 [[calendario|DP]] da [[nonno-roshi|nonno Roshi]] per diventare capace di indicare i singoli pezzi di chiave ora che è rotta (questa nuova versione necessita del nucleo della chiave al suo interno)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/la-chiave.md",
+			"display_name": "La Chiave",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/artefatti/la-chiave.md b/artefatti/la-chiave.md\nnew file mode 100644\nindex 0000000..23d602e\n--- /dev/null\n+++ b/artefatti/la-chiave.md\n@@ -0,0 +1 @@\n+questo artefatto serve ad accendere [[il-portale|il Portale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/calendario.md",
+			"display_name": "Calendario",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/definizioni/calendario.md b/definizioni/calendario.md\nindex 9e1ae6e..85b41de 100644\n--- a/definizioni/calendario.md\n+++ b/definizioni/calendario.md\n@@ -1,4 +1,4 @@\n-nel caledario vengono contati gli anni usando come riferimento [[la purga]]\n+nel caledario vengono contati gli anni usando come riferimento [[la-purga|la purga]]\n come in ogni calendario si intende:\n - AP: avanti purga, quindi si contano gli anni precedenti\n - DP: dopo purga, quindi si contano gli anni successivi\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "epoche/epoca-dargento.md",
+			"display_name": "Epoca d'Argento",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/epoche/epoca-dargento.md b/epoche/epoca-dargento.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "epoche/epoca leggendaria.md",
+			"display_name": "epoca leggendaria",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/epoche/epoca leggendaria.md b/epoche/epoca leggendaria.md\ndeleted file mode 100644\nindex 935e54a..0000000\n--- a/epoche/epoca leggendaria.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-durante quest'epoca la scienza e la tecnologia erano al loro apice e scompaiono le morti per malattia e le morti violente, le persone ormai si sono dimenticate cos'è la guerra e come si combatte ed è universalmente riconosciuta come l'apice dell'esistenza dei popoli del mondo terreno, non ci sono religioni in quanto la scienza ha ormai risolto i vari quesiti e la magia viene ridotta a qualcosa da studiare e comprendere e non a qualcosa di mistico, questo porta a una scomparsa di creature celesti e infernali del piano terrestre in quanto non ci si ricorda di loro e i pochi che le conoscono (i teologi) non si sognerebbero mai di evocare gli uni o gli altri\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "epoche/epoca terza.md",
+			"display_name": "epoca terza",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/epoche/epoca terza.md b/epoche/epoca terza.md\ndeleted file mode 100644\nindex 9884b04..0000000\n--- a/epoche/epoca terza.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-è l'epoca corrente, inizia nell'anno 0 [[calendario|DP]] con [[La purga]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "eventi/La frattura.md",
+			"display_name": "La frattura",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/eventi/La frattura.md b/eventi/La frattura.md\ndeleted file mode 100644\nindex 6982057..0000000\n--- a/eventi/La frattura.md\t\n+++ /dev/null\n@@ -1,4 +0,0 @@\n-questo evento avvenne come conseguenza dell'esperimento fatto dagli [[artefici]] per cercare di creare altri portali tra [[phandalmain]] e [[fandalmein]] e portò a disturbi a [[il Portale]] che portarono a spegnerlo per motivi di sicurezza e alla sfiducia nei confronti degli artefici\n-#startMaster \n-come conseguenza di questo evento ebbe inizio [[La purga]] per ordine della [[la coalizione|coalizione]]\n-#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "eventi/la purga.md",
+			"display_name": "la purga",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/eventi/la purga.md b/eventi/la purga.md\ndeleted file mode 100644\nindex d44176c..0000000\n--- a/eventi/la purga.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-questo momento segnò l'inizio dell'[[epoca terza]] e fu uno sterminio operato [[la coalizione|dalla coalizione]] contro agli [[artefici]] e la seguente cancellazione totale delle loro conoscenze e di tutto ciò che attestava la loro esistenza, scritto o orale che fosse.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "eventi/la-frattura.md",
+			"display_name": "La Frattura",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/eventi/la-frattura.md b/eventi/la-frattura.md\nnew file mode 100644\nindex 0000000..6c06aed\n--- /dev/null\n+++ b/eventi/la-frattura.md\n@@ -0,0 +1,4 @@\n+questo evento avvenne come conseguenza dell'esperimento fatto dagli [[artefici]] per cercare di creare altri portali tra [[phandalmain]] e [[fandalmein]] e portò a disturbi a [[il-portale|il Portale]] che portarono a spegnerlo per motivi di sicurezza e alla sfiducia nei confronti degli [[artefici]]\n+#startMaster \n+come conseguenza di questo evento ebbe inizio [[la-purga|La purga]] per ordine della [[la-coalizione|coalizione]]\n+#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "eventi/la-purga.md",
+			"display_name": "La Purga",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/eventi/la-purga.md b/eventi/la-purga.md\nnew file mode 100644\nindex 0000000..96f2964\n--- /dev/null\n+++ b/eventi/la-purga.md\n@@ -0,0 +1 @@\n+questo momento segnò l'inizio dell'[[epoca-terza|epoca terza]] e fu uno sterminio operato [[la-coalizione|dalla coalizione]] contro agli [[artefici]] e la seguente cancellazione totale delle loro conoscenze e di tutto ciò che attestava la loro esistenza, scritto o orale che fosse.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "mezzi/Skiblanir.md",
+			"display_name": "Skiblanir",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/mezzi/Skiblanir.md b/mezzi/Skiblanir.md\nindex 80a7c84..ec5ef1d 100644\n--- a/mezzi/Skiblanir.md\n+++ b/mezzi/Skiblanir.md\n@@ -1 +1 @@\n-un drakkar volante che durante il primo millennio [[nonno Roshi]] ha dotato di un automa per la guida autonoma\n\\ No newline at end of file\n+un drakkar volante che durante il primo millennio [[nonno-roshi|nonno Roshi]] ha dotato di un automa per la guida autonoma\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/macrosaga della chiave.md",
+			"display_name": "macrosaga della chiave",
+			"status": "Deleted",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/saghe/macrosaga della chiave.md b/saghe/macrosaga della chiave.md\ndeleted file mode 100644\nindex 61c838a..0000000\n--- a/saghe/macrosaga della chiave.md\t\n+++ /dev/null\n@@ -1,4 +0,0 @@\n-#macrosaga\n-saghe che la compongono\n-- [[Saga di GemGrave]]\n-- \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/macrosaga-della-chiave.md",
+			"display_name": "Macrosaga della Chiave",
+			"status": "Added",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/saghe/macrosaga-della-chiave.md b/saghe/macrosaga-della-chiave.md\nnew file mode 100644\nindex 0000000..9cbb531\n--- /dev/null\n+++ b/saghe/macrosaga-della-chiave.md\n@@ -0,0 +1,4 @@\n+#macrosaga\n+saghe che la compongono\n+- [[saga-di-gemgrave|Saga di GemGrave]]\n+- \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/Saga di GemGrave.md",
+			"display_name": "Saga di GemGrave",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/saghe/Saga di GemGrave.md b/saghe/Saga di GemGrave.md\ndeleted file mode 100644\nindex 0f78545..0000000\n--- a/saghe/Saga di GemGrave.md\t\n+++ /dev/null\n@@ -1,41 +0,0 @@\n----\n-tags:\n-  - saga\n----\n-#saga\n-\n-| saga precedente |        saga successiva         |     macrosaga di appartenenza      |\n-| :-------------: | :----------------------------: | :--------------------------------: |\n-|     nessuna     | [[Saga di Suddaria\\|suddaria]] | [[macrosaga della chiave\\|chiave]] |\n-\n-# sessioni\n-## sessione di giovedì 2025 10 16\n-questa parte di storia si ambienta a [[GemGrave]]\n-[[la mano rossa]] viene chiamata nella [[GemGrave|città nanica]] per indagare su 5 omicidi avvenuti nel giro di pochi giorni in quella città.\n-durante l'indagine scoprono una testimone che dice che la colpevole è [[Kaia]] che quindi scappa in preda alla paura. durante l'inseguimento vengono attaccati da [[Dark Kaia|una ragazza]] che è fisicamente identica a [[kaia]] per cui capiscono che è lei la colpevole, alla vittoria dello scontro la portano al quartier generale delle forze dell'ordine di [[GemGrave]]\n-\n-## sessione di venerdì 2025 11 07\n-[[perrin cauthon]], il capo villaggio, tenta di attaccare l’assassina, quest’ultima riesce a sfuggire tramite un orecchino che le permise di attivare un portale. In cerca di indizi, [[Kaia]] ci porta da suo nonno [[nonno Roshi|Roshi]], che ha detta sua sa tutto. Il vecchio rivelò che esiste un secondo [[fandalmein|universo]] simile al nostro, da sempre collegato al nostro grazie ad un [[il Portale|portale]], lui e una squadra di scienziati, tentando di creare più portali causarono un incidente che uccise tutti i presenti tranne Roshi che assimilò la sapienza dei colleghi defunti e divenne immortale, Da quel incidente venne chiuso [[il portale]] e i due universi iniziarono a morire. Le uniche possibilità per salvarlo sono o di ristabilire il circolo grazie ai 10 prescelti (5 per [[universo]]) o di distruggere uno dei due universi in modo che l’altro possa prosperare. Per farlo bisogna trovare i pezzi della [[la chiave|chiave]] che accende [[il portale]] ,tramite la [[la bussola|bussola]] fornita da Roshi, e trovare [[il portale]]\n-\n-## sessione di giovedì 2025 11 13\n-[[nonno Roshi]] manda [[la mano rossa]] a recuperare un pezzo di [[la chiave]] da una magione abbandonata che per loro sfortuna era stata occupata da dei banditi come base\n-### xp\n-nemici sconfitti: 1 bugbear(3) e 5 goblin (1/8 * 5)\n-totale xp: 0 + 700 + 25 * 5 = 0 + 700 + 125 = 825\n-tutti i giocatori prendono 150 punti esperienza lasciando in conto comune 75 xp\n-\n-## sessione di venerdì 2025 11 21\n-appreso che uno dei pezzi della chiave è in fondo alla [[fossa delle marie]], Roshi, munendo [[la mano rossa]] di [[Skiblanir]] e di branchie artificiali spedisce gli eroi in missione. Arrivati al punto di immersione con la nave, la compagnia, grazie alle branchie, inizia la sua discesa seguendo [[la bussola]], in una caverna incontrano due esseri marini di nome [[Mussel]] (amico di Roshi) e la sua compagna, e dopo un breve conflitto risolto rapidamente vengono introdotti a [[Blob]], assistente del primo, che li guida verso la loro città e l’obbiettivo del gruppo. Questi ci racconta delle storie dal passato e ci portano a Merfolk, città marina in cui la compagnia ne approfitta per passare la notte e rifocillarsi, dopo aver comprato degli oggetti particolari in un negozio di cianfrusaglie\n-\n-## sessione di giovedì 2025 11 27\n-[[la mano rossa]] continua la sua discesa negli abissi marini guidati prima da [[blob]] e poi da [[viper]] fino ad arrivare nel labirinto subacqueo loro obbiettivo.\n-all'inizio del labirinto [[viper]] presenta loro [[irving]] che gli farà da guida nel labirinto (lui vive là). la nuova guida spiega loro che è bene che lo seguano visto che il labirinto è pieno di vicoli e ciechi e che rischierebbero di perdersi e morire di sete, anche con la sua guida dovranno per forza passare attraverso le stanze popolate da alcune creature selvatiche ma dovrebbero essere capaci di affrontarle, la prima di questa è popolata da boa costrittori che vengono sconfitti dal party\n-### xp\n-nemici sconfitti: 1 boa costrittore gigante (2), 2 boa costrittori (1/4)\n-totale xp: 75 + 450 + 50 * 2 = 75 + 450 + 100 = 625\n-tutti i giocatori prendono 125 punti esperienza lasciando in conto comune 0 xp\n-\n-## sessione di venerdì 2025 12 05\n-Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la mano rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[Kanye ovest|cucciolo]] con cui [[Dontavious (Ladro Mezzelfo, 25)]] fa amicizia. Nella stanza dopo trovano il pezzo della [[la chiave|chiave]] e il draghetto uccide [[irving]]\n-\n-## sessione di giovedì 2025 12 18\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/GemGreiv.md",
+			"display_name": "GemGreiv",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/universi/fandalmein/fandasulend/GemGreiv.md b/universi/fandalmein/fandasulend/GemGreiv.md\nindex 606a5e4..3657a47 100644\n--- a/universi/fandalmein/fandasulend/GemGreiv.md\n+++ b/universi/fandalmein/fandasulend/GemGreiv.md\n@@ -1,2 +1,2 @@\n #citta \n-città costruita sul cadavere di [[Líthos]]\n\\ No newline at end of file\n+città costruita sul cadavere di [[lithos|Líthos]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide.md",
+			"display_name": "Atlantide",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/universi/phandalmain/atlantide.md b/universi/phandalmain/atlantide.md\nindex ded1ab7..da5e4fc 100644\n--- a/universi/phandalmain/atlantide.md\n+++ b/universi/phandalmain/atlantide.md\n@@ -1,2 +1,2 @@\n #dm \n-isola al centro del lago continentale di [[phandalmain]], durante l'[[epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua\n\\ No newline at end of file\n+isola al centro del lago continentale di [[phandalmain]], durante l'[[epoca-leggendaria|epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/fossa delle marie.md",
+			"display_name": "fossa delle marie",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/universi/phandalmain/fossa delle marie.md b/universi/phandalmain/fossa delle marie.md\ndeleted file mode 100644\nindex a8f669f..0000000\n--- a/universi/phandalmain/fossa delle marie.md\t\n+++ /dev/null\n@@ -1 +0,0 @@\n-è la zona più profonda del mare\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/GemGrave.md",
+			"display_name": "GemGrave",
+			"status": "Modified",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/universi/phandalmain/phandasuland/GemGrave.md b/universi/phandalmain/phandasuland/GemGrave.md\nindex 606a5e4..3657a47 100644\n--- a/universi/phandalmain/phandasuland/GemGrave.md\n+++ b/universi/phandalmain/phandasuland/GemGrave.md\n@@ -1,2 +1,2 @@\n #citta \n-città costruita sul cadavere di [[Líthos]]\n\\ No newline at end of file\n+città costruita sul cadavere di [[lithos|Líthos]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la citta.md",
+			"display_name": "castello abbandonato sul dirupo vicino la citta",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la citta.md b/universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la citta.md\ndeleted file mode 100644\nindex b2f410f..0000000\n--- a/universi/phandalmain/phandasuland/suddaria/castello abbandonato sul dirupo vicino la citta.md\t\n+++ /dev/null\n@@ -1,33 +0,0 @@\n-#dm\n-# stanze\n-## 1) stanza vicino all'ingresso\n-elenco dei personaggi presenti:\n-- 2 goblin\n-\t- se quando il party arriva nell'ingresso supera una prova di percezione con CD: 10 riesce a sentire due goblin che dicono di aver messo in prigione un ragazzo che stava cercando di derubarli, se superano la CD 15 riescono a capire anche che è riuscito ad arrivare così vicino perché è in possesso di una mappa magica del castello che gli ha consentito di evitare le guardie\n-## 2) salone\n-elenco dei personaggi presenti:\n-- 7 goblin\n-\t- stanno chiacchierando e giocando a carte, se il party inizia un combattimento con loro i goblin saranno sottoposti a stupore\n-## 3) salottino\n-elenco dei personaggi presenti:\n-- 2 goblin\n-\t- stanno chiacchierando e giocando a carte, se il party inizia un combattimento con loro i goblin saranno sottoposti a stupore\n-## 4) stanza prima delle prigioni\n-elenco dei personaggi presenti:\n-- 2 goblin\n-\t- sono attenti a quello che succede perché sono lì di guardia\n-## 5) prigioni\n-elenco dei personaggi presenti:\n-- 1 goblin\n-\t- sta giocando con il coltello che ha in mano mentre interroga scherzosamente il prigioniero e lo prende in giro\n-\t- se sente rumori sospetti provenire dall'anticamera appoggia il coltello sul tavolo e si rivolge verso la porta con la spada sguainata dando le spalle al prigioniero.\n-## 6) mensa\n-elenco dei personaggi presenti:\n-- 1 goblin\n-\t- è disarmato e sta ripulendo i resti del cibo da terra\n-## 7) stanza del tesoro\n-elenco dei personaggi presenti:\n-- il capo dei goblin\n-\t- non sta facendo nulla ed è seduto su una sorta di vecchio trono ormai rovinato dal tempo\n-- 2 goblin\n-\t- sono all'erta perché stanno facendo la guardia al capo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/Tel'Aran'Rhiod.md",
+			"display_name": "Tel'Aran'Rhiod",
+			"status": "Renamed",
+			"diff": "commit d4a172e4d1a5bfbbb71826ec4212c40a56da4d09\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 15:45:09 2026 +0100\n\n    aggiornamento 2026 01 07 15:45 [v 0.0.2]\n\ndiff --git a/universi/Tel'Aran'Rhiod.md b/universi/Tel'Aran'Rhiod.md\ndeleted file mode 100644\nindex 49152ac..0000000\n--- a/universi/Tel'Aran'Rhiod.md\n+++ /dev/null\n@@ -1,23 +0,0 @@\n-#dm \n-**Tel'Aran'Rhiod** è il nome dato a un **reame onirico primordiale**, un luogo sospeso tra sogno e realtà. Non è un piano parallelo vero e proprio, ma una **dimensione riflessa**, dove il mondo materiale viene percepito come attraverso la superficie increspata di un lago: riconoscibile, ma mutevole, instabile e soggetto alla volontà, alla memoria e agli impulsi di chi vi cammina.\n-\n-In Tel'Aran'Rhiod esistono solo due categorie di presenze:\n-\n-- **i sognatori inconsapevoli**, che appaiono come ombre prive di coscienza;\n-- **i camminatori**, individui capaci di entrarvi vigili e consapevoli.\n-\n-Il tempo non scorre in modo uniforme: può rallentare, accelerare o spezzarsi.  \n-Le leggi fisiche sono deboli e possono essere piegate dal pensiero, ma chi tenta di intervenire senza disciplina rischia di destabilizzare la propria forma, venendo trascinato nel caos del reame.\n-\n-Per i _Fratelli dei Lupi_, Tel'Aran'Rhiod rappresenta la **sfera spirituale del branco e dell’istinto**. Lì, i lupi si mostrano per ciò che sono veramente: creature dallo spirito antico, custodi di percorsi che non appartengono al mondo dei mortali. È anche il luogo dove la loro trasformazione trova piena espressione; è facile per loro entrarvi, ma pericolosamente facile anche **perdersi**, lasciando che la parte ferina prenda il sopravvento.\n-\n-Chi vi cammina deve imparare tre regole fondamentali:\n-\n-1. **La volontà plasma la forma.**  \n-    Ogni esitazione diventa vulnerabilità.\n-2. **Il pericolo è reale.**  \n-    Ferite, traumi e morte nel reame dei sogni si riflettono sul corpo reale.\n-3. **La memoria è un’ancora.**  \n-    Senza di essa, l'identità può svanire tra le correnti fluide del mondo-sogno.\n-\n-Tel'Aran'Rhiod è, al tempo stesso, un dono e un rischio: un luogo dove si possono trovare risposte impossibili o perdere se stessi per sempre.\n\\ No newline at end of file\n"
+		}
+	]
+}

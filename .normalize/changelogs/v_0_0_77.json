@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.77",
+	"date": "2026-01-13 19:18:51 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 13 19:18 [v 0.0.77]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn (ombra)",
+			"status": "Modified",
+			"diff": "commit 7cb7d6532cc839d0e315e03b9c418e90801bd97a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 19:18:51 2026 +0100\n\n    aggiornamento 2026 01 13 19:18 [v 0.0.77]\n\ndiff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex ec554b1..fabf0ea 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -1,6 +1,6 @@\n si pronuncia Murkvadinn, richiede sintonia\n # arti dell'ombra\n-il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gli incantesimi [Oscurità](https://dungeonsanddragons.fandom.com/it/wiki/Oscurit%C3%A0), [Passare Senza Tracce](https://dungeonsanddragons.fandom.com/it/wiki/Passare_Senza_Tracce \"Passare Senza Tracce\"), [Scurovisione](https://dungeonsanddragons.fandom.com/it/wiki/Scurovisione \"Scurovisione\") o [Silenzio](https://dungeonsanddragons.fandom.com/it/wiki/Silenzio \"Silenzio\") una volta ciascuno senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [Illusione Minore](https://dungeonsanddragons.fandom.com/it/wiki/Illusione_Minore \"Illusione Minore\"), se già non lo conosceva.\n+il proprietario può duplicare gli effetti di certi incantesimi. Puo lanciare gli incantesimi [Oscurità](https://dungeonsanddragons.fandom.com/it/wiki/Oscurit%C3%A0), [Passare Senza Tracce](https://dungeonsanddragons.fandom.com/it/wiki/Passare_Senza_Tracce \"Passare Senza Tracce\"), [Scurovisione](https://dungeonsanddragons.fandom.com/it/wiki/Scurovisione \"Scurovisione\") o [Silenzio](https://dungeonsanddragons.fandom.com/it/wiki/Silenzio \"Silenzio\") una volta ciascuno per riposo lungo senza bisogno di fornire componenti materiali. Inoltre ottiene il trucchetto [Illusione Minore](https://dungeonsanddragons.fandom.com/it/wiki/Illusione_Minore \"Illusione Minore\"), se già non lo conosceva.\n \n ## Oscurità\n *2° livello, Invocazione*\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 7cb7d6532cc839d0e315e03b9c418e90801bd97a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 19:18:51 2026 +0100\n\n    aggiornamento 2026 01 13 19:18 [v 0.0.77]\n\ndiff --git a/todo.md b/todo.md\nindex fda8961..127ee44 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -1,6 +1,5 @@\n #dm \n - scrivere modulo di capodanno\n-- [[artefatto-dellombra]]\n - [[artefatto-artefice]]\n - decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n - scrivere moduli futuri\n\\ No newline at end of file\n"
+		}
+	]
+}

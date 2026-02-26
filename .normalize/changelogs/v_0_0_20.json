@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.20",
+	"date": "2026-01-08 18:00:33 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 08 18:00 [v 0.0.20]",
+	"changes": [
+		{
+			"file": "Personaggi/non-giocanti/irving.md",
+			"display_name": "irving",
+			"status": "Modified",
+			"diff": "commit 37c7547b57675ffa0f4863c18f06090fbc88a965\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 8 18:00:33 2026 +0100\n\n    aggiornamento 2026 01 08 18:00 [v 0.0.20]\n\ndiff --git a/Personaggi/non-giocanti/irving.md b/Personaggi/non-giocanti/irving.md\nindex fcf846c..37fbd1d 100644\n--- a/Personaggi/non-giocanti/irving.md\n+++ b/Personaggi/non-giocanti/irving.md\n@@ -1 +1,5 @@\n #phandalmain \n+mezzelfo abitante di una grotta in fondo alla [[fossa-delle-marie|fossa delle marie]]\n+ha dedicato la maggior parte della sua vita (da poco prima della [[la-purga|purga]] a proteggere il pezzo di [[la-chiave|chiave]] custodito in fondo al complesso di caverne collegato alla grotta in cui viveva)\n+lui è stato una degli unici 2 [[artefici]] a sopravvivere alla [[la-frattura|frattura]] (ndt. [[nonno-roshi|roshi]])\n+durante l'[[epoca-leggendaria|epoca leggendaria]] era il più grande rivale di [[nonno-roshi|roshi]], cominciarono a fare amicizia e a informarsi a vicenda quando i due cominciarono a seguire i due opposti rami ideologici degli [[artefici]]: secondo [[irving]] bisognava svelare tutti i segreti della magia e imparare a creare tecnologia incantata, [[nonno-roshi|roshi]] invece credeva nella tecnologia ella sua forma più pura\n\\ No newline at end of file\n"
+		}
+	]
+}

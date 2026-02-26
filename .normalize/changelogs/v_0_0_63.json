@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.63",
+	"date": "2026-01-13 10:27:06 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 13 10:27 [v 0.0.63]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 03b505e529b98f80104e25f659edbfb8911a56b9\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 10:27:06 2026 +0100\n\n    aggiornamento 2026 01 13 10:27 [v 0.0.63]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex a447f7b..d7e2ebd 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -28,7 +28,9 @@ tabella esplicativa:\n <table class=\"fandom-table\">\n \t<thead>\n \t\t<tr>\n-\t\t\t<td colspan=\"10\">\n+\t\t\t<th rowspan=\"3\"><b>Livello</b>\n+\t\t\t</th>\n+\t\t\t<td colspan=\"9\">\n \t\t\t\t<b>tabella da mago</b>\n \t\t\t</td>\n \t\t\t<td>\n@@ -36,8 +38,6 @@ tabella esplicativa:\n \t\t\t</td>\n \t\t</tr>\n \t\t<tr>\n-\t\t\t<th rowspan=\"2\"><b>Livello</b>\n-\t\t\t</th>\n \t\t\t<th colspan=\"9\"><b>Slot Incantesimo per Livello di Incantesimo</b>\n \t\t\t</th>\n \t\t\t<th rowspan=\"2\">slot incantesimo di nono livello (qt slot + lvl)\n"
+		}
+	]
+}

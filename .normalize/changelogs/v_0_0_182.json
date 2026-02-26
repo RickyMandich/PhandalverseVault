@@ -1,32 +1,38 @@
 {
 	"version": "v 0.0.182",
-	"date": "2026-02-10 08:37:58",
-	"commit_hash": "271f4f195a6ec21406ce2f1885ec9da049e5589e",
+	"date": "2026-02-10 08:38:25 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 10 08:38 [v 0.0.182]",
 	"changes": [
 		{
 			"file": "artefatti/party/artefatto-dellombra.md",
-			"display_name": "Myrkvaðinn",
+			"display_name": "Myrkvaðinn (ombra)",
 			"status": "Modified",
-			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 626e2f2..19c2e0a 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -10,6 +10,7 @@ il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare g\n ![[materiale/incantesimi/tutti/scurovisione]]\n ![[materiale/incantesimi/tutti/silenzio]]\n ![[materiale/incantesimi/tutti/illusione-minore]]\n+![[materiale/incantesimi/tutti/ombra-di-moil]]\n # visione dell'ombra\n quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.\n \n"
+			"diff": "commit 1f82f5772c02174ca4d50579d4bf106e91b6dd79\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 10 08:38:18 2026 +0100\n\n    aggiornamento 2026 02 10 08:38 [v 0.0.182]\n\ndiff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 626e2f2..19c2e0a 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -10,6 +10,7 @@ il proprietario può duplicare gli effetti di certi incantesimi. Può lanciare g\n ![[materiale/incantesimi/tutti/scurovisione]]\n ![[materiale/incantesimi/tutti/silenzio]]\n ![[materiale/incantesimi/tutti/illusione-minore]]\n+![[materiale/incantesimi/tutti/ombra-di-moil]]\n # visione dell'ombra\n quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.\n \n"
+		},
+		{
+			"file": "materiale/incantesimi/Mago/ombra-di-moil.md",
+			"display_name": "ombra-di-moil",
+			"status": "Added",
+			"diff": "commit 1f82f5772c02174ca4d50579d4bf106e91b6dd79\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 10 08:38:18 2026 +0100\n\n    aggiornamento 2026 02 10 08:38 [v 0.0.182]\n\ndiff --git a/materiale/incantesimi/Mago/ombra-di-moil.md b/materiale/incantesimi/Mago/ombra-di-moil.md\nnew file mode 100644\nindex 0000000..3790bf4\n--- /dev/null\n+++ b/materiale/incantesimi/Mago/ombra-di-moil.md\n@@ -0,0 +1,16 @@\n+# Ombra di Moil\n+*4° livello, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** Incantatore\n+- **Componenti:** V, S, M (un bulbo oculare di non morto racchiuso in una gemma del valore di almeno 150 mo)\n+- **Durata:** Concentrazione, fino a 1 minuto\n+\n+Ombre simili a fiamme avvolgono il tuo corpo fino al termine dell'incantesimo, rendendoti completamente invisibile agli altri. Le ombre trasformano la luce fioca entro 3 metri da te in oscurità, e la luce intensa nella stessa area in luce fioca\n+Fino al termine dell'incantesimo, hai resistenza ai danni radianti. Inoltre, ogni volta che una creatura entro 3 metri da te ti colpisce con un attacco, le ombre si scagliano contro quella creatura, infliggendole 2d8 danni necrotici.\n+\n+**Classi:** Mago, Necromante, dellombra\n+\n+**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\n+\n+---\n\\ No newline at end of file\n"
 		},
 		{
 			"file": "materiale/incantesimi/dellombra/ombra-di-moil.md",
-			"display_name": "Ombra Di Moil",
-			"status": "Modified",
-			"diff": "\n"
+			"display_name": "Ombra di Moil",
+			"status": "Added",
+			"diff": "commit 1f82f5772c02174ca4d50579d4bf106e91b6dd79\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 10 08:38:18 2026 +0100\n\n    aggiornamento 2026 02 10 08:38 [v 0.0.182]\n\ndiff --git a/materiale/incantesimi/dellombra/ombra-di-moil.md b/materiale/incantesimi/dellombra/ombra-di-moil.md\nnew file mode 100644\nindex 0000000..3790bf4\n--- /dev/null\n+++ b/materiale/incantesimi/dellombra/ombra-di-moil.md\n@@ -0,0 +1,16 @@\n+# Ombra di Moil\n+*4° livello, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** Incantatore\n+- **Componenti:** V, S, M (un bulbo oculare di non morto racchiuso in una gemma del valore di almeno 150 mo)\n+- **Durata:** Concentrazione, fino a 1 minuto\n+\n+Ombre simili a fiamme avvolgono il tuo corpo fino al termine dell'incantesimo, rendendoti completamente invisibile agli altri. Le ombre trasformano la luce fioca entro 3 metri da te in oscurità, e la luce intensa nella stessa area in luce fioca\n+Fino al termine dell'incantesimo, hai resistenza ai danni radianti. Inoltre, ogni volta che una creatura entro 3 metri da te ti colpisce con un attacco, le ombre si scagliano contro quella creatura, infliggendole 2d8 danni necrotici.\n+\n+**Classi:** Mago, Necromante, dellombra\n+\n+**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\n+\n+---\n\\ No newline at end of file\n"
 		},
 		{
 			"file": "materiale/incantesimi/necromante/ombra-di-moil.md",
-			"display_name": "Ombra Di Moil",
-			"status": "Modified",
-			"diff": "\n"
+			"display_name": "Ombra di Moil",
+			"status": "Added",
+			"diff": "commit 1f82f5772c02174ca4d50579d4bf106e91b6dd79\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 10 08:38:18 2026 +0100\n\n    aggiornamento 2026 02 10 08:38 [v 0.0.182]\n\ndiff --git a/materiale/incantesimi/necromante/ombra-di-moil.md b/materiale/incantesimi/necromante/ombra-di-moil.md\nnew file mode 100644\nindex 0000000..3790bf4\n--- /dev/null\n+++ b/materiale/incantesimi/necromante/ombra-di-moil.md\n@@ -0,0 +1,16 @@\n+# Ombra di Moil\n+*4° livello, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** Incantatore\n+- **Componenti:** V, S, M (un bulbo oculare di non morto racchiuso in una gemma del valore di almeno 150 mo)\n+- **Durata:** Concentrazione, fino a 1 minuto\n+\n+Ombre simili a fiamme avvolgono il tuo corpo fino al termine dell'incantesimo, rendendoti completamente invisibile agli altri. Le ombre trasformano la luce fioca entro 3 metri da te in oscurità, e la luce intensa nella stessa area in luce fioca\n+Fino al termine dell'incantesimo, hai resistenza ai danni radianti. Inoltre, ogni volta che una creatura entro 3 metri da te ti colpisce con un attacco, le ombre si scagliano contro quella creatura, infliggendole 2d8 danni necrotici.\n+\n+**Classi:** Mago, Necromante, dellombra\n+\n+**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\n+\n+---\n\\ No newline at end of file\n"
 		},
 		{
 			"file": "materiale/incantesimi/tutti/ombra-di-moil.md",
-			"display_name": "Ombra Di Moil",
-			"status": "Modified",
-			"diff": "\n"
+			"display_name": "Ombra di Moil",
+			"status": "Added",
+			"diff": "commit 1f82f5772c02174ca4d50579d4bf106e91b6dd79\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 10 08:38:18 2026 +0100\n\n    aggiornamento 2026 02 10 08:38 [v 0.0.182]\n\ndiff --git a/materiale/incantesimi/tutti/ombra-di-moil.md b/materiale/incantesimi/tutti/ombra-di-moil.md\nnew file mode 100644\nindex 0000000..3790bf4\n--- /dev/null\n+++ b/materiale/incantesimi/tutti/ombra-di-moil.md\n@@ -0,0 +1,16 @@\n+# Ombra di Moil\n+*4° livello, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** Incantatore\n+- **Componenti:** V, S, M (un bulbo oculare di non morto racchiuso in una gemma del valore di almeno 150 mo)\n+- **Durata:** Concentrazione, fino a 1 minuto\n+\n+Ombre simili a fiamme avvolgono il tuo corpo fino al termine dell'incantesimo, rendendoti completamente invisibile agli altri. Le ombre trasformano la luce fioca entro 3 metri da te in oscurità, e la luce intensa nella stessa area in luce fioca\n+Fino al termine dell'incantesimo, hai resistenza ai danni radianti. Inoltre, ogni volta che una creatura entro 3 metri da te ti colpisce con un attacco, le ombre si scagliano contro quella creatura, infliggendole 2d8 danni necrotici.\n+\n+**Classi:** Mago, Necromante, dellombra\n+\n+**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\n+\n+---\n\\ No newline at end of file\n"
 		}
 	]
 }

@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.92",
+	"date": "2026-01-14 22:43:03 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 14 22:43 [v 0.0.92]",
+	"changes": [
+		{
+			"file": "saghe/saga-di-gemgrave.md",
+			"display_name": "Saga Di Gemgrave",
+			"status": "Modified",
+			"diff": "commit 41917d755c726f58888a02fb6ec68a7f2ab5de74\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 22:43:03 2026 +0100\n\n    aggiornamento 2026 01 14 22:43 [v 0.0.92]\n\ndiff --git a/saghe/saga-di-gemgrave.md b/saghe/saga-di-gemgrave.md\nindex ff5a054..b7378ab 100644\n--- a/saghe/saga-di-gemgrave.md\n+++ b/saghe/saga-di-gemgrave.md\n@@ -35,5 +35,4 @@ tutti i giocatori prendono 125 punti esperienza lasciando in conto comune 0 xp\n Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la-mano-rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[kanye-ovest|cucciolo]] con cui [[dontavious-ladro-mezzelfo-25|dontavious]] fa amicizia . Nella stanza dopo trovano il pezzo della [[la-chiave|chiave]] e il draghetto uccide [[irving]]\n \n ## sessione di giovedì 2025 12 18\n-\n-![[incantesimi/artefice/DardoIncantato]]\n\\ No newline at end of file\n+il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte d\n\\ No newline at end of file\n"
+		}
+	]
+}

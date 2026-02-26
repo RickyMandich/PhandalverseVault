@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.126",
+	"date": "2026-01-21 14:47:07 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 21 14:47 [v 0.0.126]",
+	"changes": [
+		{
+			"file": "saghe/saga-della-biblioteca.md",
+			"display_name": "Saga Della Biblioteca",
+			"status": "Modified",
+			"diff": "commit 0f2b0fa0b0d72c29a94e6c919e1ecd92d39742dd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 14:47:07 2026 +0100\n\n    aggiornamento 2026 01 21 14:47 [v 0.0.126]\n\ndiff --git a/saghe/saga-della-biblioteca.md b/saghe/saga-della-biblioteca.md\nindex bc753d6..ba6f060 100644\n--- a/saghe/saga-della-biblioteca.md\n+++ b/saghe/saga-della-biblioteca.md\n@@ -1,8 +1,8 @@\n #saga\n \n-|   saga precedente   |                               saga successiva                               |     macrosaga di appartenenza      |\n-| :-----------------: | :-------------------------------------------------------------------------: | :--------------------------------: |\n-| [[saga-di-merfolk]] | #startMaster [[saga-di-capodanno-1312\\|saga di capodanno 1312]] #endMaster  | [[macrosaga-della-chiave\\|chiave]] |\n+|   saga precedente   |                  saga successiva                   |     macrosaga di appartenenza      |\n+| :-----------------: | :------------------------------------------------: | :--------------------------------: |\n+| [[saga-di-merfolk]] | [[saga-di-capodanno-1312\\|saga di capodanno 1312]] | [[macrosaga-della-chiave\\|chiave]] |\n \n # sessioni\n ## sessione di giovedì 2025 12 18\n"
+		}
+	]
+}

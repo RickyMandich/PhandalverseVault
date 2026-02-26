@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.75",
+	"date": "2026-01-13 17:53:54 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 13 17:53 [v 0.0.75]",
+	"changes": [
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit a684b7e56c3d302b7317ed6d52240af9d8a49759\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 17:53:54 2026 +0100\n\n    aggiornamento 2026 01 13 17:53 [v 0.0.75]\n\ndiff --git a/todo.md b/todo.md\nindex 93ee53d..fda8961 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -1,7 +1,6 @@\n #dm \n-- scrivere moduli futuri\n-- decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n-- [[artefatto-artefice]]\n+- scrivere modulo di capodanno\n - [[artefatto-dellombra]]\n-- artefatto per [[attila-slayer-guerriero-elfo-100]]\n-- artefatto per [[morbiarum-paladino-dragonide-24]]\n\\ No newline at end of file\n+- [[artefatto-artefice]]\n+- decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n+- scrivere moduli futuri\n\\ No newline at end of file\n"
+		}
+	]
+}

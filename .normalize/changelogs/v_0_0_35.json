@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.35",
+	"date": "2026-01-12 11:19:39 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 12 11:19 [v 0.0.35]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit d220b3d25a2c408782625b6aadddc242b44069b5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 12 11:19:39 2026 +0100\n\n    aggiornamento 2026 01 12 11:19 [v 0.0.35]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex e69de29..abb08ed 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -0,0 +1,26 @@\n+---\n+obsidianUIMode: preview\n+cssclasses: json5e-spell\n+tags:\n+- compendium/src/5e/phb\n+- spell/class/warlock\n+- spell/class/wizard\n+- spell/level/3\n+- spell/school/necromancy\n+aliases: [\"Vampiric Touch\"]\n+---\n+# Vampiric Touch\n+*3rd-level, Necromancy*  \n+\n+- **Casting time:** 1 action\n+- **Range:** Self\n+- **Components:** V, S\n+- **Duration:** Concentration, up to 1 minute\n+\n+The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes `3d6` necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.\n+\n+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.\n+\n+**Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)\n+\n+*Source: SRD / Basic Rules*\n\\ No newline at end of file\n"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.78",
+	"date": "2026-01-14 08:43:19 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 14 08:43 [v 0.0.78]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-artefice.md",
+			"display_name": "Tól Niðavalla (armaiolo)",
+			"status": "Modified",
+			"diff": "commit 2d6e8a23513c4f6e473f174710c3aa9c83993041\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 08:43:19 2026 +0100\n\n    aggiornamento 2026 01 14 08:43 [v 0.0.78]\n\ndiff --git a/artefatti/party/artefatto-artefice.md b/artefatti/party/artefatto-artefice.md\nindex e69de29..a63bff2 100644\n--- a/artefatti/party/artefatto-artefice.md\n+++ b/artefatti/party/artefatto-artefice.md\n@@ -0,0 +1,2 @@\n+# descrizione\n+questo artefatto è un set di strumenti da artefice\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-barbaro-divino.md",
+			"display_name": "Netjetheka (barbaro)",
+			"status": "Modified",
+			"diff": "commit 2d6e8a23513c4f6e473f174710c3aa9c83993041\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 08:43:19 2026 +0100\n\n    aggiornamento 2026 01 14 08:43 [v 0.0.78]\n\ndiff --git a/artefatti/party/artefatto-barbaro-divino.md b/artefatti/party/artefatto-barbaro-divino.md\nindex a771c35..65c8efc 100644\n--- a/artefatti/party/artefatto-barbaro-divino.md\n+++ b/artefatti/party/artefatto-barbaro-divino.md\n@@ -1,5 +1,8 @@\n richiede sintonia\n-# privilegi comuni a tutti i cammini\n+# tutti i cammini\n+## descrizione\n+è un `per ankh`\n+![[Netjerheka.png]]\n ## Ira\n In battaglia, un barbaro combatte animato da ferocia primordiale. Nel suo turno, può entrare in ira con un’azione bonus. Finché è in ira, ottiene i seguenti benefici:\n \n@@ -53,6 +56,9 @@ quando sei infuriato, la tempesta di Set ti protegge. Quando una creatura ti col\n ## benedizione del dio egizio\n mentre sei in ira, Set ti concede il suo potere divino. Ottieni resistenza ai danni da tuono e fulmine. Una volta per turno, il tuo attacco con l'arma infligge un danno extra da tuono pari a tre volte il tuo danno d'ira e mette il bersaglio a terra se la tua prova di atletica supera la prova di atletica del tuo bersaglio.\n # **Netjerheka** di Osiride\n+# descrizione\n+è un `per ankh` con il geroglifico `il pilastro di Djed` (simbolo di osiride) in centro all'Ankh\n+![[NetjerhekaDiOsiride.png]]\n ## sentiero del dio egizio\n mentre sei infuriato, diventi desideroso di consumare le forze vitali con la magia di Osiride che ti circonda. I tuoi attacchi con le armi infliggono un danno necrotico aggiuntivo pari al tuo modificatore di costituzione; con un colpo critico, ottieni punti ferita temporanei pari a tre volte quel danno necrotico extra.\n ## favore del dio egizio\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
+			"display_name": "Kṓkȳtos (gelo)",
+			"status": "Modified",
+			"diff": "commit 2d6e8a23513c4f6e473f174710c3aa9c83993041\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 08:43:19 2026 +0100\n\n    aggiornamento 2026 01 14 08:43 [v 0.0.78]\n\ndiff --git a/artefatti/party/artefatto-sussurratore-del-gelo.md b/artefatti/party/artefatto-sussurratore-del-gelo.md\nindex 84ed349..00d0b99 100644\n--- a/artefatti/party/artefatto-sussurratore-del-gelo.md\n+++ b/artefatti/party/artefatto-sussurratore-del-gelo.md\n@@ -1,4 +1,8 @@\n richiede sintonia\n+# descrizione\n+questo artefatto è un per hank\n+\n+---\n # magia gelida\n questo artefatto garantisce al portatore un numero di slot incantesimo di 9° livello in base alla tabella da ranger seguendo queste regole:\n - salendo di livello il numero di slot non può diminuire\n"
+		}
+	]
+}

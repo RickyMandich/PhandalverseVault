@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.9",
+	"date": "2026-01-07 17:42:58 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 07 17:42 [v 0.0.9]",
+	"changes": [
+		{
+			"file": "README.md",
+			"display_name": "README",
+			"status": "Modified",
+			"diff": "commit 4765c2de3a1401b1b2b6ad3b7a78d75a81d84ff5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 7 17:42:58 2026 +0100\n\n    aggiornamento 2026 01 07 17:42 [v 0.0.9]\n\ndiff --git a/README.md b/README.md\nindex 4021202..ab77b15 100644\n--- a/README.md\n+++ b/README.md\n@@ -1 +1,7 @@\n-# appunti per la campagna di Dungeons and dragons nella 5e\n\\ No newline at end of file\n+language: italiano\n+\n+# gestione\n+il vault (i file degli appunti) è generato e modificato grazie a obsidian ed organizzato in cartelle in maniera logica\n+\n+# condivisione\n+questi appunti sono disponibili online nel sito phandalverse.altervista.org creato con laravel per essere visibili a tutti solo nelle parti accessibili ai giocatori\n\\ No newline at end of file\n"
+		}
+	]
+}

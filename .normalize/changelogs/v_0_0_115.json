@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.115",
+	"date": "2026-01-20 11:05:40 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 20 11:05 [v 0.0.115]",
+	"changes": [
+		{
+			"file": "README.md",
+			"display_name": "README",
+			"status": "Modified",
+			"diff": "commit e788dcb870cb60b8f641ce0ea7b6975fb7cac887\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 20 11:05:40 2026 +0100\n\n    aggiornamento 2026 01 20 11:05 [v 0.0.115]\n\ndiff --git a/README.md b/README.md\nindex ab77b15..b101c4c 100644\n--- a/README.md\n+++ b/README.md\n@@ -1,7 +1,44 @@\n language: italiano\n \n-# gestione\n-il vault (i file degli appunti) è generato e modificato grazie a obsidian ed organizzato in cartelle in maniera logica\n+# Phandalverse Vault\n \n-# condivisione\n-questi appunti sono disponibili online nel sito phandalverse.altervista.org creato con laravel per essere visibili a tutti solo nelle parti accessibili ai giocatori\n\\ No newline at end of file\n+## Gestione\n+Il vault (i file degli appunti) è generato e modificato grazie a **Obsidian** ed organizzato in cartelle in maniera logica.\n+\n+## Condivisione\n+Questi appunti sono disponibili online nel sito **phandalverse.altervista.org** creato con Laravel per essere visibili a tutti solo nelle parti accessibili ai giocatori.\n+\n+## Workflow Automatizzato\n+\n+### Script `bash/all.sh`\n+Lo script principale che gestisce l'intero processo di deploy:\n+\n+1. **Normalizzazione**: Aggiorna `map.json` con i nuovi file `.md` (modalità non interattiva)\n+2. **Versioning**: Incrementa automaticamente la versione del progetto\n+3. **Commit**: Esegue commit su git con la nuova versione\n+4. **Deploy**: Carica i file modificati via FTP su Altervista\n+\n+### Utilizzo\n+```bash\n+# Deploy standard (incrementa VERSION_TERTIARY)\n+bash bash/all.sh\n+\n+# Deploy con patch (incrementa VERSION_SECONDARY)\n+bash bash/all.sh -p\n+\n+# Deploy con versione major (incrementa VERSION_PRIMARY)\n+bash bash/all.sh -v\n+\n+# Deploy con messaggio personalizzato\n+bash bash/all.sh -m \"Aggiunta nuova location\"\n+```\n+\n+### Normalizzazione File\n+Il sistema mantiene un mapping tra i nomi dei file normalizzati (kebab-case) e i nomi originali per la visualizzazione.\n+\n+- **File normalizzati**: `la-ruota.md`, `nuova-citta.md`\n+- **Nomi visualizzati**: \"La Ruota\", \"Nuova Città\"\n+\n+Il mapping è gestito automaticamente in `.normalize/map.json`.\n+\n+Per maggiori dettagli, vedi `bash/normalizeREADME.md`.\n\\ No newline at end of file\n"
+		}
+	]
+}

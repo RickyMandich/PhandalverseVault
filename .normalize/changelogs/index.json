@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"version": "v 0.0.219",
+			"date": "2026-02-26 11:07:40 +0100",
+			"commit_hash": "9ea56b5577b2979b2ce0b7c8dee2794d7bebc1ea",
+			"changes_count": 0
+		},
+		{
 			"version": "v 0.0.218",
 			"date": "2026-02-26 09:24:38 +0100",
 			"commit_hash": "0a5a676a1c4424ed205c05fa6758262169a09c02",
@@ -8,399 +14,1299 @@
 		},
 		{
 			"version": "v 0.0.217",
-			"date": "2026-02-25 19:06:15",
-			"commit_hash": "c7053d8a41ba4464ce639d67316df00ec47e4ab2",
+			"date": "2026-02-25 19:06:53 +0100",
+			"commit_hash": "f3be17e817689863bef7aac27054a01b585a9f00",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.216",
-			"date": "2026-02-25 09:01:22 +0100",
-			"commit_hash": "f9324c225cfba34150008aadaf89263f49ba9d5f",
+			"date": "2026-02-25 09:01:30 +0100",
+			"commit_hash": "e4503496043f949a9d417e3087a0abc929da1b81",
 			"changes_count": 199
 		},
 		{
 			"version": "v 0.0.215",
-			"date": "2026-02-24 19:32:08",
-			"commit_hash": "cf7802d1a180eeec953630fa58f62817007f96a0",
+			"date": "2026-02-24 19:32:49 +0100",
+			"commit_hash": "a29c548d0a5257b1240cc24b1cff56514c9581e1",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.214",
-			"date": "2026-02-24 19:23:25",
-			"commit_hash": "bb7d05eef9f581c2f6cb70e45b080df3ec47aa8f",
-			"changes_count": 1
+			"date": "2026-02-24 19:24:17 +0100",
+			"commit_hash": "b15f6cdcc8cc4b993780be830703e25135317f07",
+			"changes_count": 192
 		},
 		{
 			"version": "v 0.0.213",
-			"date": "2026-02-24 17:55:41",
-			"commit_hash": "42eebc6fc56b4ad42d9a0fbde6b406fad2e7ed63",
+			"date": "2026-02-24 17:55:56 +0100",
+			"commit_hash": "b02f111e241b617962be2acc91b12a6d420e2097",
 			"changes_count": 4
 		},
 		{
 			"version": "v 0.0.212",
-			"date": "2026-02-24 07:00:01",
-			"commit_hash": "0a150ef18b5c24d62632f7e863086c9fe8441ae7",
+			"date": "2026-02-24 07:00:36 +0100",
+			"commit_hash": "b45daf85ae35acdaf92b56dc7d397998aaa4af6d",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.211",
-			"date": "2026-02-24 06:56:22",
-			"commit_hash": "56053d0d228a7a278a80b18b4eac7a8c567e7618",
+			"date": "2026-02-24 06:56:57 +0100",
+			"commit_hash": "cd5e53de6c4916a32672b647246cbf6e2f8805f4",
 			"changes_count": 3
 		},
 		{
 			"version": "v 0.0.210",
-			"date": "2026-02-23 23:42:13",
-			"commit_hash": "8ce1dae99b5943ff0cd8af40af400f766778e413",
+			"date": "2026-02-23 23:42:26 +0100",
+			"commit_hash": "566ae95e25b98d150568a2dcdb64c6d43e7ba2f6",
 			"changes_count": 3
 		},
 		{
 			"version": "v 0.0.209",
-			"date": "2026-02-23 17:36:42",
-			"commit_hash": "589a5d97ad8a362b87fdc3e378ae46a7f72d94f5",
+			"date": "2026-02-23 17:37:27 +0100",
+			"commit_hash": "d758df65686ff7247326385bd17503bc3408d807",
 			"changes_count": 18
 		},
 		{
 			"version": "v 0.0.208",
-			"date": "2026-02-23 13:03:28",
-			"commit_hash": "341b9bb558f4dde8fe38efdcaf6e1b0c61b1d766",
+			"date": "2026-02-23 13:03:49 +0100",
+			"commit_hash": "ea59532baec936c3b88dbdeffe47c5068c3c365e",
 			"changes_count": 39
 		},
 		{
 			"version": "v 0.0.207",
-			"date": "2026-02-22 14:38:32",
-			"commit_hash": "ee5d07f5bcc15cd4f4e6b4eede9606cc0dc73ba5",
+			"date": "2026-02-22 14:38:43 +0100",
+			"commit_hash": "c2d97cfa8808dbd116bdfb3db80134ea765f35cd",
 			"changes_count": 6
 		},
 		{
 			"version": "v 0.0.206",
-			"date": "2026-02-22 13:17:47",
-			"commit_hash": "cb52eaa665164994096dc3ec6a075c5a0e10d756",
+			"date": "2026-02-22 13:17:57 +0100",
+			"commit_hash": "d6cf8ecbbbcda74ff7a907308b65cff6e444dc86",
 			"changes_count": 3
 		},
 		{
 			"version": "v 0.0.205",
-			"date": "2026-02-20 19:31:42",
-			"commit_hash": "65595418c4ba85131fcbc717440f007c0f495159",
+			"date": "2026-02-20 19:32:16 +0100",
+			"commit_hash": "a6f67ec15d3358cb0b27f89106979147ea3e5ee8",
 			"changes_count": 7
 		},
 		{
 			"version": "v 0.0.204",
-			"date": "2026-02-20 17:28:03",
-			"commit_hash": "409c0853e423cc974a2922b30ba2c137b7cfd8cf",
-			"changes_count": 8
+			"date": "2026-02-20 17:28:17 +0100",
+			"commit_hash": "6b3972e486edd29be5dd7d650ea847a543d242a1",
+			"changes_count": 7
 		},
 		{
 			"version": "v 0.0.203",
-			"date": "2026-02-15 16:40:44",
-			"commit_hash": "6674f0b706b4de67765702b9ecb02f959606ad9f",
+			"date": "2026-02-15 16:40:52 +0100",
+			"commit_hash": "5566f3db46c121538c26f5bc265bc2dc927a26e0",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.202",
-			"date": "2026-02-15 16:31:36",
-			"commit_hash": "f2e74bc077117fe53924b5bb6907c5e3f6f44764",
+			"date": "2026-02-15 16:31:45 +0100",
+			"commit_hash": "dca0029ba4892b30f4b444491b2c94fa5b31eb52",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.201",
-			"date": "2026-02-15 16:30:41",
-			"commit_hash": "caed7ed12cee8456831fc5f5131f3240cbfea6eb",
+			"date": "2026-02-15 16:30:52 +0100",
+			"commit_hash": "0a5ad0b8b03d54080ab5630012bd5a082c1ae88e",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.200",
-			"date": "2026-02-15 12:02:56",
-			"commit_hash": "18640537a28d4ed77c336205861530b664369711",
+			"date": "2026-02-15 12:03:27 +0100",
+			"commit_hash": "4aea6ce2da8cf2dc6c6f598a1e1a79a053beeed6",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.199",
-			"date": "2026-02-14 15:11:22",
-			"commit_hash": "91cb3426bb0fe83cc7d56cf5cb245d86e3a4be8c",
+			"date": "2026-02-14 15:11:38 +0100",
+			"commit_hash": "d14013cfe01083211d1dd7c2b819a673216c58a0",
 			"changes_count": 3
 		},
 		{
 			"version": "v 0.0.198",
-			"date": "2026-02-14 13:28:03",
-			"commit_hash": "8b20b13ecc8d4bc5c8bd865d73df84b59ac8a49a",
-			"changes_count": 33
+			"date": "2026-02-14 13:28:47 +0100",
+			"commit_hash": "c443988933012b50702bb4d0d74470fd44d179e1",
+			"changes_count": 8
 		},
 		{
 			"version": "v 0.0.197",
-			"date": "2026-02-12 17:57:26",
-			"commit_hash": "afc5809ee042f4aae15cb6881585429a24fc4fb4",
+			"date": "2026-02-12 17:57:36 +0100",
+			"commit_hash": "c110d7efa6ed8d73d9f3645d4e4051165b865efe",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.196",
-			"date": "2026-02-12 12:11:06",
-			"commit_hash": "8ad5b58b87cd2e7cdb48b55488739b2d58702a42",
+			"date": "2026-02-12 12:11:16 +0100",
+			"commit_hash": "c6ea0587fa617ceafb817b0c2a8edc0e817cbfa7",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.195",
-			"date": "2026-02-12 11:24:50",
-			"commit_hash": "2ab6e8d4d4fd45b2af899fa588df58f12389e9c6",
+			"date": "2026-02-12 11:24:59 +0100",
+			"commit_hash": "95c6f099a22201332c99dedde8fc61a08c809a33",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.194",
-			"date": "2026-02-12 11:20:58",
-			"commit_hash": "13d583312fecc042e5674a17da655a4cb8242e9b",
+			"date": "2026-02-12 11:21:08 +0100",
+			"commit_hash": "c0823395d5650ccce7fb07829b22f4f998b20e43",
 			"changes_count": 2
 		},
 		{
 			"version": "v 0.0.193",
-			"date": "2026-02-12 11:14:47",
-			"commit_hash": "6c211e3057690e1f395f38c54a468d5c9afc58ed",
+			"date": "2026-02-12 11:15:00 +0100",
+			"commit_hash": "5fd7df7a1656083705cb75a16629bd218c43153d",
 			"changes_count": 4
 		},
 		{
 			"version": "v 0.0.192",
-			"date": "2026-02-11 22:43:36",
-			"commit_hash": "eb9af439472a9012e95cded20184d8ab2f68ad7d",
-			"changes_count": 5
+			"date": "2026-02-11 22:45:26 +0100",
+			"commit_hash": "50190f7370ca0caaf209e26aae79e38c714a28f5",
+			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.191",
-			"date": "2026-02-11 19:05:51",
-			"commit_hash": "2ab815755564c971b9bd4f846e6ace2bd9d4b754",
-			"changes_count": 31
+			"date": "2026-02-11 19:07:01 +0100",
+			"commit_hash": "d69f8365310f21dbcf81ccde5c9d302ef2549113",
+			"changes_count": 34
 		},
 		{
 			"version": "v 0.0.190",
-			"date": "2026-02-11 08:51:23",
-			"commit_hash": "c93f8a11e1dd7358b189386ab7a126e88bcc6df2",
+			"date": "2026-02-11 08:51:53 +0100",
+			"commit_hash": "19d2209fbd365dd904db93a89650d953b2789e9f",
 			"changes_count": 2
 		},
 		{
 			"version": "v 0.0.189",
-			"date": "2026-02-10 14:18:00",
-			"commit_hash": "323b08e93644bca2d5c0c41b803a4b27f587e725",
-			"changes_count": 58
+			"date": "2026-02-10 19:25:07 +0100",
+			"commit_hash": "f8672c8c5bd155d4c480a8b95bc56ce7a8bbe74d",
+			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.188",
-			"date": "2026-02-10 14:16:42",
-			"commit_hash": "5eee1d9261c8ace20ed48e6dfe9e1fb767104632",
+			"date": "2026-02-10 14:16:55 +0100",
+			"commit_hash": "5b6c3f73a0805ba21099b7484c615f9ce0252fe3",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.187",
-			"date": "2026-02-10 14:14:48",
-			"commit_hash": "0a749cf79d81c28c7003ef4980ebee928e07b3ab",
-			"changes_count": 2
+			"date": "2026-02-10 14:14:59 +0100",
+			"commit_hash": "e69af912db5ca068ad2928d8751475f0b24fd9f9",
+			"changes_count": 3
 		},
 		{
 			"version": "v 0.0.186",
-			"date": "2026-02-10 13:49:26",
-			"commit_hash": "66a3ba02e3d2f9b01cd8ff873a7329d32fb9d2c8",
+			"date": "2026-02-10 13:50:03 +0100",
+			"commit_hash": "6cadc5fe77c7b3ea41d146447afa05fe526e74d7",
 			"changes_count": 59
 		},
 		{
 			"version": "v 0.0.185",
-			"date": "2026-02-10 13:38:53",
-			"commit_hash": "c673e49eccdb4471cea80e04895e5c954b3b35ec",
+			"date": "2026-02-10 13:39:05 +0100",
+			"commit_hash": "b88889aaa56db7a69109a081d9db2a2a323ddf1a",
 			"changes_count": 4
 		},
 		{
 			"version": "v 0.0.184",
-			"date": "2026-02-10 12:59:36",
-			"commit_hash": "e05e4221c52f8f9ca1c58cda039fc76045cfa2ec",
-			"changes_count": 3
-		},
-		{
-			"version": "v 0.0.183",
-			"date": "2026-02-10 12:50:55",
-			"commit_hash": "c10fb602e60993b09a43278ccb556c44b02338fe",
-			"changes_count": 76
-		},
-		{
-			"version": "v 0.0.182",
-			"date": "2026-02-10 08:37:58",
-			"commit_hash": "271f4f195a6ec21406ce2f1885ec9da049e5589e",
-			"changes_count": 4
-		},
-		{
-			"version": "v 0.0.181",
-			"date": "2026-02-10 08:03:18",
-			"commit_hash": "63397cee533b171e6019849b6681ed66d56b43ec",
+			"date": "2026-02-10 12:59:50 +0100",
+			"commit_hash": "173aeb251f828bf41a1d947fc9b3401ea6df29c3",
 			"changes_count": 0
 		},
 		{
+			"version": "v 0.0.183",
+			"date": "2026-02-10 12:51:28 +0100",
+			"commit_hash": "a2b5714c0536e694726874173dbf573b80bda49c",
+			"changes_count": 82
+		},
+		{
+			"version": "v 0.0.182",
+			"date": "2026-02-10 08:38:25 +0100",
+			"commit_hash": "1f82f5772c02174ca4d50579d4bf106e91b6dd79",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.181",
+			"date": "2026-02-10 08:03:43 +0100",
+			"commit_hash": "75487779e9683f96670d506186b81435bc5a8535",
+			"changes_count": 1
+		},
+		{
 			"version": "v 0.0.180",
-			"date": "2026-02-08 22:14:16",
-			"commit_hash": "c438c74116c9f3ab5fd0e43412dc9f764a6f5654",
+			"date": "2026-02-09 10:53:55 +0100",
+			"commit_hash": "5519f6ac867a4d3e0344415bee5dfe5f23354178",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.179",
-			"date": "2026-02-06 12:29:30",
-			"commit_hash": "da0abf0aaa07d0124e55ff41eb521e8b2a2f8d64",
-			"changes_count": 2
+			"date": "2026-02-08 22:10:26 +0100",
+			"commit_hash": "7900b04d3c8bac8b8dcd795920d76c0d118fcfe1",
+			"changes_count": 25
 		},
 		{
 			"version": "v 0.0.178",
-			"date": "2026-02-06 11:44:09",
-			"commit_hash": "d0237e6215aedd28c2980a57a9fe46eb776f95e3",
+			"date": "2026-02-06 11:44:18 +0100",
+			"commit_hash": "2e35e728dcbfea613938071ee5251ca93cd84425",
 			"changes_count": 4
 		},
 		{
 			"version": "v 0.0.177",
-			"date": "2026-02-06 11:16:55",
-			"commit_hash": "b2ef6c524afe9d395807b4bbf212e0e469058784",
+			"date": "2026-02-06 11:17:03 +0100",
+			"commit_hash": "f998637be45d453c0c7b400bfbb56de130d46b05",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.176",
-			"date": "2026-02-06 11:11:53",
-			"commit_hash": "7f557266736c59e7de06a13afb4aeac929af7c9d",
-			"changes_count": 81
+			"date": "2026-02-06 11:12:26 +0100",
+			"commit_hash": "d1b9831a1e91f53377bbedf501477d7aebf94c2c",
+			"changes_count": 114
 		},
 		{
 			"version": "v 0.0.175",
-			"date": "2026-02-05 17:48:14",
-			"commit_hash": "4bd0bf034d38db65c3b75d12b05cf192662ae69c",
+			"date": "2026-02-05 17:48:21 +0100",
+			"commit_hash": "d279b8f2303e7abad4d497481d871689a58db5c4",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.174",
-			"date": "2026-02-05 16:20:15",
-			"commit_hash": "0e2619904dfa77f36e85e522bb166c22def029d9",
+			"date": "2026-02-05 16:20:21 +0100",
+			"commit_hash": "3906f982b1a02aec883a46236a344d21729b5115",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.173",
-			"date": "2026-02-04 09:37:27",
-			"commit_hash": "2d10939ab897026505a47251bf59cafa7bfa66af",
+			"date": "2026-02-04 09:37:34 +0100",
+			"commit_hash": "5e55b2cd6690f3c59a5f64292510bcba3134ea6d",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.172",
-			"date": "2026-02-04 09:27:07",
-			"commit_hash": "c9e4108797361413a34e863eaf10f8785da33a0a",
-			"changes_count": 1
+			"date": "2026-02-04 09:27:14 +0100",
+			"commit_hash": "f8d3486c9c088306e7ed1c44acb7eda98131e197",
+			"changes_count": 2
 		},
 		{
 			"version": "v 0.0.171",
-			"date": "2026-02-04 00:01:45",
-			"commit_hash": "31c11dfa7538654a52d9e1afe631b3b04b3081d8",
+			"date": "2026-02-04 00:01:53 +0100",
+			"commit_hash": "61c76381226c3c8ffd52a54615f297922db535aa",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.170",
-			"date": "2026-01-30 23:41:31",
-			"commit_hash": "3c61b11c84ab0c92448a61ed02baa1a8f6290d2d",
+			"date": "2026-01-30 23:41:50 +0100",
+			"commit_hash": "ba7e857b2478fde9d8241411fcd893e09347d464",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.169",
-			"date": "2026-01-30 20:56:51",
-			"commit_hash": "278bb11301c2fe30c5182f5b82322a44d972e3a3",
+			"date": "2026-01-30 20:56:58 +0100",
+			"commit_hash": "fb855a4dff3b3ff93420c895349b85e62449254b",
 			"changes_count": 2
 		},
 		{
 			"version": "v 0.0.168",
-			"date": "2026-01-30 17:55:33",
-			"commit_hash": "d06a99d04da3dd042d28dda6b1becf6bb99d5a9f",
+			"date": "2026-01-30 17:55:40 +0100",
+			"commit_hash": "79291ef1cc1177a3e50344e90d8a803248697055",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.167",
-			"date": "2026-01-30 17:52:16",
-			"commit_hash": "9e4e8b82d93c4d13c00a26f689acc945a8655b11",
+			"date": "2026-01-30 17:52:24 +0100",
+			"commit_hash": "7af0b050abca94da772027fad43525fd2a201d99",
 			"changes_count": 4
 		},
 		{
 			"version": "v 0.0.166",
-			"date": "2026-01-30 17:18:00",
-			"commit_hash": "8b987a97be619042f2a9a3d7a7ee5aed173ffe91",
+			"date": "2026-01-30 17:18:07 +0100",
+			"commit_hash": "8bad682d70e6b37e62662ec0baa2f20523c4c5a9",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.165",
-			"date": "2026-01-30 17:04:26",
-			"commit_hash": "f1cc2ff5866b940cf792235cfa6578e6b29d6511",
+			"date": "2026-01-30 17:04:32 +0100",
+			"commit_hash": "3fb92e11a4d0cbf29d3d45c95d39cea876e1acc9",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.164",
-			"date": "2026-01-30 16:52:54",
-			"commit_hash": "aeff0f2292388fb054b4f3c8c0b09cceb466d4d4",
+			"date": "2026-01-30 16:53:01 +0100",
+			"commit_hash": "e0be33e76fc5b18eab04168e5e7766ee579b2195",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.163",
-			"date": "2026-01-30 16:43:14",
-			"commit_hash": "59938ba2c91b679535072103a057b660ad9abced",
+			"date": "2026-01-30 16:43:22 +0100",
+			"commit_hash": "e1dae9e288cb72b230df9aeacb8a74682168b411",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.162",
-			"date": "2026-01-30 15:39:03",
-			"commit_hash": "b3fc85c467292db4831863868ce723179e906644",
+			"date": "2026-01-30 15:39:10 +0100",
+			"commit_hash": "4777779b77233ef289e358f40cd2482ab3256367",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.161",
-			"date": "2026-01-30 15:36:36",
-			"commit_hash": "6c717516b2d5458cbde3e79058badad0430e8ecb",
+			"date": "2026-01-30 15:36:42 +0100",
+			"commit_hash": "4483c110e282feaf59d2511275be52772ad028d3",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.160",
-			"date": "2026-01-30 15:34:02",
-			"commit_hash": "e69e43ac3d9be98a6fe345a6fa6fecee1eb414d8",
+			"date": "2026-01-30 15:34:09 +0100",
+			"commit_hash": "a763eb6e2b340e9ba5ce74013aa000c9cb4df151",
 			"changes_count": 3
 		},
 		{
 			"version": "v 0.0.159",
-			"date": "2026-01-30 14:36:42",
-			"commit_hash": "4df8eac8e2ee9ca3a9b23d00020893bd68336e7b",
+			"date": "2026-01-30 14:36:49 +0100",
+			"commit_hash": "23dca603827ccdb7eb3feb8adb5f3dead4fbfe4a",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.158",
-			"date": "2026-01-30 14:18:12",
-			"commit_hash": "499a8609c5cc2b67e28182c6315255723181f0b4",
+			"date": "2026-01-30 14:18:19 +0100",
+			"commit_hash": "9271790c212720ccdcffc99b212111166eb18b5a",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.157",
-			"date": "2026-01-30 14:09:38",
-			"commit_hash": "20d519d256a4450fdccc6b670cb5551c55a9cc44",
+			"date": "2026-01-30 14:09:44 +0100",
+			"commit_hash": "60d6d3eb4dc6dca05270e7cba94d90a5d86083ef",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.156",
-			"date": "2026-01-30 14:02:45",
-			"commit_hash": "62abc3fc014fe5cab5eff1bf5c7d9fe9aa60cc12",
+			"date": "2026-01-30 14:02:52 +0100",
+			"commit_hash": "3dfeb074bb1e592f510ef86aa42a8fdba726bfc9",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.155",
-			"date": "2026-01-30 10:56:49",
-			"commit_hash": "2c11d9316366d408268abb7d8d17c192ac72f551",
+			"date": "2026-01-30 10:56:56 +0100",
+			"commit_hash": "9ccb5bc31c9d016873c2c7d5a551da00b0f7e37f",
 			"changes_count": 2
 		},
 		{
 			"version": "v 0.0.154",
-			"date": "2026-01-30 10:55:14",
-			"commit_hash": "5806936785631b0639bc28c34251e76b0fa1732c",
+			"date": "2026-01-30 10:55:21 +0100",
+			"commit_hash": "ccfc426c98f32482beaa2cc1b76fffbdfffb6923",
 			"changes_count": 1
 		},
 		{
 			"version": "v 0.0.153",
-			"date": "2026-01-30 10:26:58",
-			"commit_hash": "a335add367bcb774c47235ea96aa4dda142f4032",
+			"date": "2026-01-30 10:27:05 +0100",
+			"commit_hash": "1a0edbf4dd97cbb0babbe70c27c86d6596129e59",
 			"changes_count": 0
 		},
 		{
 			"version": "v 0.0.152",
-			"date": "2026-01-30 10:26:21",
-			"commit_hash": "e1deb33919ac2f38acfd465340b4b00268c57c1a",
+			"date": "2026-01-30 10:26:27 +0100",
+			"commit_hash": "0f7c653dbe550e1ae7f7c5bc265f3ac353cde5ef",
 			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.151",
+			"date": "2026-01-30 10:16:51 +0100",
+			"commit_hash": "d3cb5dfdf274d96aa85b8c33fd091f2b54305bc3",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.150",
+			"date": "2026-01-30 10:05:46 +0100",
+			"commit_hash": "8d3526cd58cabf695e7194c174abe2fcf47e3fff",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.149",
+			"date": "2026-01-29 18:40:35 +0100",
+			"commit_hash": "fb89c0ed01fbe208e5934e82d3dd9f7f74d39eac",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.148",
+			"date": "2026-01-29 15:33:02 +0100",
+			"commit_hash": "07de30ffee815cb01ba91a976ff055f2bca48879",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.147",
+			"date": "2026-01-29 15:30:07 +0100",
+			"commit_hash": "5157c076fa914ca0a47c1edd94a2583ffbd44841",
+			"changes_count": 4
+		},
+		{
+			"version": "v 0.0.146",
+			"date": "2026-01-29 14:55:08 +0100",
+			"commit_hash": "11029eba8972b9d72be75a9f97dde5efbdd134be",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.145",
+			"date": "2026-01-29 14:54:50 +0100",
+			"commit_hash": "1fed7722dcf0cfd3e2670d52f053b71fd982f4e2",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.144",
+			"date": "2026-01-29 14:54:38 +0100",
+			"commit_hash": "154f00ec1d5c6705ba2740a88e140041c9663b90",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.143",
+			"date": "2026-01-29 14:49:18 +0100",
+			"commit_hash": "1546d8b5bb7e8c6ecdf01fe8450ce0b231ceb43a",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.142",
+			"date": "2026-01-28 18:35:13 +0100",
+			"commit_hash": "f4c6daa8411c2f3c662bd070c770efbf9bdf42ff",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.141",
+			"date": "2026-01-28 18:33:30 +0100",
+			"commit_hash": "8858a01f1764aeec1dc248907f9e07ec13184e53",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.140",
+			"date": "2026-01-28 14:57:50 +0100",
+			"commit_hash": "84f326a8edf6eb9edab2fec61d87b0d8fb522fd9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.139",
+			"date": "2026-01-26 15:12:41 +0100",
+			"commit_hash": "379cf7363c8299ee659d1f75ae9b001dc5794d06",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.138",
+			"date": "2026-01-24 00:02:21 +0100",
+			"commit_hash": "6f89308a22c460766751c91dd983d06ca9607816",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.137",
+			"date": "2026-01-23 22:34:36 +0100",
+			"commit_hash": "5feefa91a65eb477cda949a035452c0e08dfceb0",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.136",
+			"date": "2026-01-22 15:13:24 +0100",
+			"commit_hash": "8d61bef28c3b567a58892a860d4c1388631d96a9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.135",
+			"date": "2026-01-22 15:07:33 +0100",
+			"commit_hash": "e83ec9464c466d84de4502630b116635abab3ca9",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.134",
+			"date": "2026-01-21 18:01:11 +0100",
+			"commit_hash": "c21b23a9b005434e5a88902086aeb335764dac8e",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.133",
+			"date": "2026-01-21 17:47:23 +0100",
+			"commit_hash": "50328f0814638bcc7fb24cf1a2749c6e81a8153f",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.132",
+			"date": "2026-01-21 17:40:08 +0100",
+			"commit_hash": "f402431e7f458c560ad3e36a48b71f2dc2d5ffc8",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.131",
+			"date": "2026-01-21 17:39:10 +0100",
+			"commit_hash": "59e69e4bff25962aefd8bee3c96971ce03e8f545",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.130",
+			"date": "2026-01-21 17:25:32 +0100",
+			"commit_hash": "f9cb400de7fa3ed566efa693c88655c1cb78bc71",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.129",
+			"date": "2026-01-21 16:00:31 +0100",
+			"commit_hash": "d608ed6cd1db70b5ab51e0b8155b4f11c1c02144",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.128",
+			"date": "2026-01-21 15:59:27 +0100",
+			"commit_hash": "aa27fb9c664ad31e438d046934ce3f09c7310476",
+			"changes_count": 12
+		},
+		{
+			"version": "v 0.0.127",
+			"date": "2026-01-21 15:20:32 +0100",
+			"commit_hash": "453048780ad6058c2fa6f3b0c5466552530a81e1",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.126",
+			"date": "2026-01-21 14:47:07 +0100",
+			"commit_hash": "0f2b0fa0b0d72c29a94e6c919e1ecd92d39742dd",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.125",
+			"date": "2026-01-21 14:46:13 +0100",
+			"commit_hash": "6bed291a2cdb8ec747908ba5228d1fc1b396cfa9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.124",
+			"date": "2026-01-21 14:43:57 +0100",
+			"commit_hash": "c023770cb5d9155efb1fcf25cebc0f1228510f94",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.123",
+			"date": "2026-01-21 10:55:25 +0100",
+			"commit_hash": "903a5185972c7fb949b21d12f0866094b2a7a5d5",
+			"changes_count": 10
+		},
+		{
+			"version": "v 0.0.122",
+			"date": "2026-01-21 09:23:15 +0100",
+			"commit_hash": "e16069d260db23fad2772c091a6fcb92c747860e",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.121",
+			"date": "2026-01-20 19:32:21 +0100",
+			"commit_hash": "ce26f35085ce025d907dab4b15a7475dedf8976b",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.120",
+			"date": "2026-01-20 18:56:35 +0100",
+			"commit_hash": "9106e0de57088432357b6c321f327586d978be04",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.119",
+			"date": "2026-01-20 18:35:37 +0100",
+			"commit_hash": "4e3912ceff87ba43562bfd6de7fa4b98ffd2f15a",
+			"changes_count": 4
+		},
+		{
+			"version": "v 0.0.118",
+			"date": "2026-01-20 18:29:39 +0100",
+			"commit_hash": "7d96c94ee289789ccce97d89e50296ece9aca530",
+			"changes_count": 41
+		},
+		{
+			"version": "v 0.0.117",
+			"date": "2026-01-20 11:08:55 +0100",
+			"commit_hash": "e62fe39af09cb1bb7ed7cdf68f237110a630dfed",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.116",
+			"date": "2026-01-20 11:06:39 +0100",
+			"commit_hash": "98f97795566ba93d28930b9526171a69e994db26",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.115",
+			"date": "2026-01-20 11:05:40 +0100",
+			"commit_hash": "e788dcb870cb60b8f641ce0ea7b6975fb7cac887",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.114",
+			"date": "2026-01-19 17:28:14 +0100",
+			"commit_hash": "95accd75c726616a458c70111626409c7e41f0cc",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.113",
+			"date": "2026-01-19 17:18:20 +0100",
+			"commit_hash": "e07f9deb46c780b3927987a6691b86555243370b",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.112",
+			"date": "2026-01-19 17:18:13 +0100",
+			"commit_hash": "b37ce2ee5dded35bdba8be0a5d008cf2447bbf34",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.111",
+			"date": "2026-01-16 21:22:29 +0100",
+			"commit_hash": "2e80d621390526dd9a71be927d7d088ba507212a",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.110",
+			"date": "2026-01-16 15:43:56 +0100",
+			"commit_hash": "a656ee80fb4b23f28459402cf9e4f90ab3b59fd1",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.109",
+			"date": "2026-01-16 12:39:28 +0100",
+			"commit_hash": "b1884c9300ebe05d759af459a647e44df2f2ae50",
+			"changes_count": 10
+		},
+		{
+			"version": "v 0.0.108",
+			"date": "2026-01-16 11:16:36 +0100",
+			"commit_hash": "12c9fbd2e24051c6f6adc9c9d4cb6f6c3d2883be",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.107",
+			"date": "2026-01-16 11:15:36 +0100",
+			"commit_hash": "deda0ac747dfc16422a1b075be281bb168d61883",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.106",
+			"date": "2026-01-16 11:11:53 +0100",
+			"commit_hash": "0c2f935418c9e70a4b9e6d4a062ff953970e9376",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.105",
+			"date": "2026-01-16 11:10:52 +0100",
+			"commit_hash": "96d6c33bb8034c55f13040290dbfa12024e16721",
+			"changes_count": 7
+		},
+		{
+			"version": "v 0.0.104",
+			"date": "2026-01-16 10:40:38 +0100",
+			"commit_hash": "dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd",
+			"changes_count": 15
+		},
+		{
+			"version": "v 0.0.103",
+			"date": "2026-01-16 00:12:18 +0100",
+			"commit_hash": "b947c87d8e7d7f47eeb0f18e109a8d36e3d3e91b",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.102",
+			"date": "2026-01-15 23:58:55 +0100",
+			"commit_hash": "c9ef9fe016b1066d48fa8b888cf20e7fe741c188",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.101",
+			"date": "2026-01-15 23:57:03 +0100",
+			"commit_hash": "3b2dbfef45247a6584ea1eb332d62ce17b477404",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.100",
+			"date": "2026-01-15 22:59:52 +0100",
+			"commit_hash": "e869d07a12c9f222fa3dec34d15dc49c6be6506a",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.99",
+			"date": "2026-01-15 22:56:41 +0100",
+			"commit_hash": "bef01cb1329c011b84f8b8f50d13565f7a813940",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.98",
+			"date": "2026-01-15 19:32:27 +0100",
+			"commit_hash": "66cc1f21de6bf22804d02edce8c29f52d92f4bd2",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.97",
+			"date": "2026-01-15 15:15:06 +0100",
+			"commit_hash": "8410f7a26d869d4e3a60a54a523773d88865056e",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.96",
+			"date": "2026-01-15 13:14:39 +0100",
+			"commit_hash": "82c2453a78362d24f6bf26e0b74fe266b705889e",
+			"changes_count": 12
+		},
+		{
+			"version": "v 0.0.95",
+			"date": "2026-01-15 13:08:00 +0100",
+			"commit_hash": "10bb5f0edddf5a13e7df9ff9706b74deb7a96ecb",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.94",
+			"date": "2026-01-15 12:53:33 +0100",
+			"commit_hash": "38c3f0737c4393e05330c747a3aa7a1066a258d8",
+			"changes_count": 9
+		},
+		{
+			"version": "v 0.0.93",
+			"date": "2026-01-15 12:34:25 +0100",
+			"commit_hash": "4c7ab06fcd2cd0fefb6af18249c15e5603ce65f1",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.92",
+			"date": "2026-01-14 22:43:03 +0100",
+			"commit_hash": "41917d755c726f58888a02fb6ec68a7f2ab5de74",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.91",
+			"date": "2026-01-14 19:42:58 +0100",
+			"commit_hash": "79bbd07a2e3911412cacae9acb118ed83e170bbd",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.90",
+			"date": "2026-01-14 19:39:16 +0100",
+			"commit_hash": "9e2e834d19e9adcebcdcf8baa9dd59aa2e76eb2a",
+			"changes_count": 6
+		},
+		{
+			"version": "v 0.0.89",
+			"date": "2026-01-14 19:28:44 +0100",
+			"commit_hash": "3186da46c1cf745acb111e0d4fd5ac96ca396564",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.88",
+			"date": "2026-01-14 19:28:08 +0100",
+			"commit_hash": "c67cc032a7bce739e9de411db05ea1328b86eb83",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.87",
+			"date": "2026-01-14 19:25:27 +0100",
+			"commit_hash": "2bcbaf240989a59baf7f344169e81b18a5bdfdc1",
+			"changes_count": 30
+		},
+		{
+			"version": "v 0.0.86",
+			"date": "2026-01-14 17:39:12 +0100",
+			"commit_hash": "8a6c5b4931264d9212bdfacb8a31bdbe033e45b6",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.85",
+			"date": "2026-01-14 14:49:39 +0100",
+			"commit_hash": "df50bb123f26fd732efa73a497e1ccd21d46849e",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.84",
+			"date": "2026-01-14 14:19:45 +0100",
+			"commit_hash": "7dd17ded0ea432112fd9fdbebd3f33236a4f3a5c",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.83",
+			"date": "2026-01-14 14:19:09 +0100",
+			"commit_hash": "757b19f5cb53212e541982ec821b125acdda0b1d",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.82",
+			"date": "2026-01-14 14:18:09 +0100",
+			"commit_hash": "f7f736cf601cb7f18cb54ca6f7dd57c5c58307c2",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.81",
+			"date": "2026-01-14 13:44:39 +0100",
+			"commit_hash": "381f9e54dd64569729eb51022f3ff8503aaab9a7",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.80",
+			"date": "2026-01-14 13:02:57 +0100",
+			"commit_hash": "63a5b2f279b8b0df3a48ebad9a833007d94eda97",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.79",
+			"date": "2026-01-14 08:46:00 +0100",
+			"commit_hash": "e6a25d2151d14c7a7b72d6c29f69a603567d6373",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.78",
+			"date": "2026-01-14 08:43:19 +0100",
+			"commit_hash": "2d6e8a23513c4f6e473f174710c3aa9c83993041",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.77",
+			"date": "2026-01-13 19:18:51 +0100",
+			"commit_hash": "7cb7d6532cc839d0e315e03b9c418e90801bd97a",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.76",
+			"date": "2026-01-13 19:15:25 +0100",
+			"commit_hash": "52d5b312c578f6686a5d89890079a1a6c2d2fd1e",
+			"changes_count": 4
+		},
+		{
+			"version": "v 0.0.75",
+			"date": "2026-01-13 17:53:54 +0100",
+			"commit_hash": "a684b7e56c3d302b7317ed6d52240af9d8a49759",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.74",
+			"date": "2026-01-13 17:52:14 +0100",
+			"commit_hash": "c79f8a6cecd622cc46f5ebc94e3f62dfc03e11a4",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.73",
+			"date": "2026-01-13 17:50:52 +0100",
+			"commit_hash": "0c9ff5f84e5a2a1c62d0afd396f1ad3eb48ddb28",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.72",
+			"date": "2026-01-13 17:13:54 +0100",
+			"commit_hash": "c464a6b2d7f22bbce2055238faddcaeb5175d8bd",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.71",
+			"date": "2026-01-13 17:12:11 +0100",
+			"commit_hash": "a87c0d570eeac4c448dcbc391c2034dc303bd45e",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.70",
+			"date": "2026-01-13 16:55:27 +0100",
+			"commit_hash": "5f11963eb5b53d85d9bf532fc6b5b30716fcdac9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.69",
+			"date": "2026-01-13 16:54:40 +0100",
+			"commit_hash": "dc9464df682edcfce5c7e8c2831b79e7f07bd28b",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.68",
+			"date": "2026-01-13 16:51:46 +0100",
+			"commit_hash": "b50ad706a80088aca67c8b363a4c8f325f150c6a",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.67",
+			"date": "2026-01-13 15:19:42 +0100",
+			"commit_hash": "559737f0343548371a33f61eaa2ba252debb76fa",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.66",
+			"date": "2026-01-13 14:50:14 +0100",
+			"commit_hash": "fe1a0332cb5fda514cc16c391db4717aa3a611f8",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.65",
+			"date": "2026-01-13 14:41:44 +0100",
+			"commit_hash": "54b48df4e9f4cbe7231dfc7a1157222a9ebfe84b",
+			"changes_count": 4
+		},
+		{
+			"version": "v 0.0.64",
+			"date": "2026-01-13 10:50:56 +0100",
+			"commit_hash": "365f227f424503de5cd6503c65771e6cce672459",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.63",
+			"date": "2026-01-13 10:27:06 +0100",
+			"commit_hash": "03b505e529b98f80104e25f659edbfb8911a56b9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.62",
+			"date": "2026-01-13 10:20:31 +0100",
+			"commit_hash": "4841b12c441893306331c35dd3f1102c494a28dc",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.61",
+			"date": "2026-01-13 09:37:06 +0100",
+			"commit_hash": "7031e5457ff93a77cdbe4a471f599dd0a946a011",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.60",
+			"date": "2026-01-13 09:23:25 +0100",
+			"commit_hash": "9b4267335604360a891728e4b48fd07d2b08b3de",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.59",
+			"date": "2026-01-13 09:11:06 +0100",
+			"commit_hash": "e502b0b5be5276c4dca06f47919b3b384f525819",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.58",
+			"date": "2026-01-13 08:40:27 +0100",
+			"commit_hash": "c357961587e7a8b1f49ab1c3037c71eecfd8f819",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.57",
+			"date": "2026-01-13 07:45:46 +0100",
+			"commit_hash": "49f345b5b5bb62eaf3a632fa87f39a742da640a6",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.56",
+			"date": "2026-01-13 07:42:44 +0100",
+			"commit_hash": "d6df088278023c0877e1b5d3c7ce060ec237fd7e",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.55",
+			"date": "2026-01-12 23:39:26 +0100",
+			"commit_hash": "7feaab24cec6ab70e57301f20448a4c750379d1d",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.54",
+			"date": "2026-01-12 23:07:55 +0100",
+			"commit_hash": "a6fbf935b803a8f062d9637455f7df3515c6e227",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.53",
+			"date": "2026-01-12 20:13:58 +0100",
+			"commit_hash": "94ed99c5037c58f5fe781bbd2bdfba9bc751e4bb",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.52",
+			"date": "2026-01-12 20:06:14 +0100",
+			"commit_hash": "20f2eb1c0cce04034b63f67a5aa84005c8eb9b3e",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.51",
+			"date": "2026-01-12 20:05:07 +0100",
+			"commit_hash": "37cd040ce27ca8d8482db5c5736849ae96535c7d",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.50",
+			"date": "2026-01-12 19:58:54 +0100",
+			"commit_hash": "7151e32b4fb6daf2a5c5e2b69284f77f0b6bc404",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.49",
+			"date": "2026-01-12 17:57:42 +0100",
+			"commit_hash": "02ea0637abfd80763410a4e6953b23b588599717",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.48",
+			"date": "2026-01-12 17:36:42 +0100",
+			"commit_hash": "409770460165d3e3d7c70c999b8bafb293e2cf3f",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.47",
+			"date": "2026-01-12 17:09:58 +0100",
+			"commit_hash": "6ae44726fa43a4fd7b34c99f4903907c580ff939",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.46",
+			"date": "2026-01-12 16:42:38 +0100",
+			"commit_hash": "22133c16f9f400d8755bbd00ac55b9298a9ecc38",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.45",
+			"date": "2026-01-12 16:40:51 +0100",
+			"commit_hash": "9273c92fb8edcda99325eeafa93fc18371c0e2a2",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.44",
+			"date": "2026-01-12 16:39:55 +0100",
+			"commit_hash": "68c26b80992284e1ab42b62be51c4ca85c9054b9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.43",
+			"date": "2026-01-12 16:39:05 +0100",
+			"commit_hash": "7e27bdcf37c59216d548198fd66b3906d7a142b9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.42",
+			"date": "2026-01-12 16:38:36 +0100",
+			"commit_hash": "56ca9e0c2760e8170f8c7ab1c159509a072d52c2",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.41",
+			"date": "2026-01-12 13:57:16 +0100",
+			"commit_hash": "19bd02f565f17ab4ef574653a2145e0b5a3b1553",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.40",
+			"date": "2026-01-12 12:06:56 +0100",
+			"commit_hash": "71cc273fbac7fd6ee9fc8839a146e23a748edc4f",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.39",
+			"date": "2026-01-12 11:59:11 +0100",
+			"commit_hash": "7db113500222e652684ad6ee2b7a9e6521c939f2",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.38",
+			"date": "2026-01-12 11:45:23 +0100",
+			"commit_hash": "a4430862689e8a668d9c2f6319479e6fe7f685c1",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.37",
+			"date": "2026-01-12 11:32:32 +0100",
+			"commit_hash": "079922285551e9a11f1a745cc75eca7c35ed020c",
+			"changes_count": 2
+		},
+		{
+			"version": "v 0.0.36",
+			"date": "2026-01-12 11:20:48 +0100",
+			"commit_hash": "7e01418be9e460eeb63db97549172ec769e07602",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.35",
+			"date": "2026-01-12 11:19:39 +0100",
+			"commit_hash": "d220b3d25a2c408782625b6aadddc242b44069b5",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.34",
+			"date": "2026-01-12 11:12:06 +0100",
+			"commit_hash": "4b6a3766170bb3e588caf8a30d9e17069a00c494",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.33",
+			"date": "2026-01-12 10:24:47 +0100",
+			"commit_hash": "e26087adfbf1b3bdd667999eeb0a1e2f35e4ddc1",
+			"changes_count": 4
+		},
+		{
+			"version": "v 0.0.32",
+			"date": "2026-01-12 10:13:07 +0100",
+			"commit_hash": "98e23539b7c6f39a10646ec030953e81ab7f4f02",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.31",
+			"date": "2026-01-12 09:28:27 +0100",
+			"commit_hash": "d5c284beefbd60312ba805f49d588934d33abc4f",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.30",
+			"date": "2026-01-10 22:01:13 +0100",
+			"commit_hash": "503ec9064002cf01a51ba78c3b9f34035c0f6f48",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.29",
+			"date": "2026-01-10 21:59:23 +0100",
+			"commit_hash": "fdf763e52f570238260fb545abf228213d8d0f12",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.28",
+			"date": "2026-01-10 15:51:24 +0100",
+			"commit_hash": "118f6edc4d0879a1041d5f2170b511356923e7dd",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.27",
+			"date": "2026-01-10 15:15:01 +0100",
+			"commit_hash": "9fda2d9293fda1e8fb4979111e23560dac9a51f5",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.26",
+			"date": "2026-01-10 15:10:16 +0100",
+			"commit_hash": "85ae71ed8dd9c87bcb30c122eaa9317edd806d69",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.25",
+			"date": "2026-01-10 13:25:57 +0100",
+			"commit_hash": "194869578bd8dc3fd59cf1313e8b50e46f7885fa",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.24",
+			"date": "2026-01-09 16:58:20 +0100",
+			"commit_hash": "aff34ffc3e6e1f1da409812f97d78f5f383dd31c",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.23",
+			"date": "2026-01-09 14:25:05 +0100",
+			"commit_hash": "9cd216c77a1203d7a8f61f37b1627758574572f6",
+			"changes_count": 5
+		},
+		{
+			"version": "v 0.0.22",
+			"date": "2026-01-09 10:27:56 +0100",
+			"commit_hash": "078988f6a576303d595492a54d2172225625dcb9",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.21",
+			"date": "2026-01-09 10:11:47 +0100",
+			"commit_hash": "1b03e02d627b2eb79da4bb11a2fc27d347cc88ff",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.20",
+			"date": "2026-01-08 18:00:33 +0100",
+			"commit_hash": "37c7547b57675ffa0f4863c18f06090fbc88a965",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.19",
+			"date": "2026-01-08 17:27:14 +0100",
+			"commit_hash": "687f6f10861886ecf407f59af31e787273dd9cc1",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.18",
+			"date": "2026-01-08 15:52:11 +0100",
+			"commit_hash": "12961c4da8ed65514e17d7bb70468086c74110e5",
+			"changes_count": 3
+		},
+		{
+			"version": "v 0.0.17",
+			"date": "2026-01-08 12:51:08 +0100",
+			"commit_hash": "9e8a2438b090ddb64ce9a1a583e4f5fc3b1071b0",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.16",
+			"date": "2026-01-08 12:29:39 +0100",
+			"commit_hash": "dc4d76c6a2cdb12cf4d5db73262d6578cf29073a",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.15",
+			"date": "2026-01-08 11:54:05 +0100",
+			"commit_hash": "8dcb947e530f2e62f8de6935925d56cd267750dc",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.14",
+			"date": "2026-01-08 10:09:41 +0100",
+			"commit_hash": "4a35ce2314c64b56d6306316deb9b61a95f978e0",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.13",
+			"date": "2026-01-07 22:30:07 +0100",
+			"commit_hash": "fa610b83c5e13eb9868f63ae07ea292cf81b8af0",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.12",
+			"date": "2026-01-07 22:10:12 +0100",
+			"commit_hash": "11bcfd067fd014f0d7e81bfb1ab66e13381abac3",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.11",
+			"date": "2026-01-07 21:57:48 +0100",
+			"commit_hash": "64aa979ebb0f8b860a326004c6277910c925f7c2",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.10",
+			"date": "2026-01-07 17:44:09 +0100",
+			"commit_hash": "e11005302216064140679013370403c8f4b62f47",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.9",
+			"date": "2026-01-07 17:42:58 +0100",
+			"commit_hash": "4765c2de3a1401b1b2b6ad3b7a78d75a81d84ff5",
+			"changes_count": 1
+		},
+		{
+			"version": "v 0.0.8",
+			"date": "2026-01-07 17:06:28 +0100",
+			"commit_hash": "ec255175b23888fc0957261ed3665670a15712b2",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.7",
+			"date": "2026-01-07 17:01:52 +0100",
+			"commit_hash": "f0cfff6ac183619d37d03284fe5bc90688031959",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.6",
+			"date": "2026-01-07 17:01:17 +0100",
+			"commit_hash": "0a14be48b862619002b6653c18158d5a516672d6",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.5",
+			"date": "2026-01-07 17:00:47 +0100",
+			"commit_hash": "e572d203fda170f6ff9df93abbdd0326015cbc91",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.4",
+			"date": "2026-01-07 16:55:20 +0100",
+			"commit_hash": "8bfe7ccd1ebd500f51bb9d92c408f9c5b23d4a31",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.3",
+			"date": "2026-01-07 16:53:58 +0100",
+			"commit_hash": "e4bd9bba8b301afe31e7130f58e553a8e9371b38",
+			"changes_count": 0
+		},
+		{
+			"version": "v 0.0.2",
+			"date": "2026-01-07 15:45:09 +0100",
+			"commit_hash": "d4a172e4d1a5bfbbb71826ec4212c40a56da4d09",
+			"changes_count": 48
 		}
 	]
 }

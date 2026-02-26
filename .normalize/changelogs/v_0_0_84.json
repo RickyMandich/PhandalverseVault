@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.84",
+	"date": "2026-01-14 14:19:45 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 14 14:19 [v 0.0.84]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
+			"display_name": "Kṓkȳtos (gelo)",
+			"status": "Modified",
+			"diff": "commit 7dd17ded0ea432112fd9fdbebd3f33236a4f3a5c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 14:19:45 2026 +0100\n\n    aggiornamento 2026 01 14 14:19 [v 0.0.84]\n\ndiff --git a/artefatti/party/artefatto-sussurratore-del-gelo.md b/artefatti/party/artefatto-sussurratore-del-gelo.md\nindex 5a49c2a..61915ea 100644\n--- a/artefatti/party/artefatto-sussurratore-del-gelo.md\n+++ b/artefatti/party/artefatto-sussurratore-del-gelo.md\n@@ -1,7 +1,7 @@\n richiede sintonia, localizzazione geografica: Est\n # descrizione\n è una spilla a forma di stella alpina fatta di un cristallo molto resistente (ma non indistruttibile)\n-![[Kokytos.avif]]\n+![[Kokytos.png]]\n \n ---\n # magia gelida\n"
+		}
+	]
+}

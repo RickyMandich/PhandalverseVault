@@ -1,14 +1,14 @@
 {
 	"version": "v 0.0.177",
-	"date": "2026-02-06 11:16:55",
-	"commit_hash": "b2ef6c524afe9d395807b4bbf212e0e469058784",
+	"date": "2026-02-06 11:17:03 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 06 11:16 [v 0.0.177]",
 	"changes": [
 		{
 			"file": "definizioni/template/stat-block/homebrewery-v3.md",
-			"display_name": "Homebrewery V3",
+			"display_name": "homebrewery-v3",
 			"status": "Modified",
-			"diff": "diff --git a/definizioni/template/stat-block/homebrewery-v3.md b/definizioni/template/stat-block/homebrewery-v3.md\nindex a8de5a5..7785c30 100644\n--- a/definizioni/template/stat-block/homebrewery-v3.md\n+++ b/definizioni/template/stat-block/homebrewery-v3.md\n@@ -1,5 +1,3 @@\n-## Homebrewery V3\n-\n {{monster,frame\n ## Mostro\n *[specie] [taglia], [allineamento]*\n@@ -14,7 +12,7 @@ ___\n ___   \n **Senses** :: passive Perception 10   \n **Languages** :: \n-—   \n+___\n **Challenge** :: 1 (200 XP)   \n ___   \n }}\n\\ No newline at end of file\n"
+			"diff": "commit f998637be45d453c0c7b400bfbb56de130d46b05\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 6 11:17:00 2026 +0100\n\n    aggiornamento 2026 02 06 11:16 [v 0.0.177]\n\ndiff --git a/definizioni/template/stat-block/homebrewery-v3.md b/definizioni/template/stat-block/homebrewery-v3.md\nindex a8de5a5..7785c30 100644\n--- a/definizioni/template/stat-block/homebrewery-v3.md\n+++ b/definizioni/template/stat-block/homebrewery-v3.md\n@@ -1,5 +1,3 @@\n-## Homebrewery V3\n-\n {{monster,frame\n ## Mostro\n *[specie] [taglia], [allineamento]*\n@@ -14,7 +12,7 @@ ___\n ___   \n **Senses** :: passive Perception 10   \n **Languages** :: \n-—   \n+___\n **Challenge** :: 1 (200 XP)   \n ___   \n }}\n\\ No newline at end of file\n"
 		}
 	]
 }

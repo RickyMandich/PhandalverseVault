@@ -1,0 +1,68 @@
+{
+	"version": "v 0.0.123",
+	"date": "2026-01-21 10:55:25 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 21 10:55 [v 0.0.123]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-artefice.md",
+			"display_name": "Tól Niðavalla (armaiolo)",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/artefatti/party/artefatto-artefice.md b/artefatti/party/artefatto-artefice.md\nindex d19211b..1616c9b 100644\n--- a/artefatti/party/artefatto-artefice.md\n+++ b/artefatti/party/artefatto-artefice.md\n@@ -228,13 +228,10 @@ tabella esplicativa:\n \t</tbody>\n </table>\n \n-![[incantesimi/tutti/OndaTonante]]\n+![[incantesimi/tutti/onda-tonante]]\n ![[incantesimi/tutti/Frantumare]]\n-![[incantesimi/tutti/ImmagineSpeculare]] ![[incantesimi/tutti/Fulmine]]\n-![[incantesimi/tutti/TramaIpnotica]]![[incantesimi/tutti/InvisibilitaSuperiore]]![[incantesimi/tutti/ScudoDiFuoco]]![[incantesimi/tutti/MuroDiForza]]![[incantesimi/tutti/Passapareti]]\n-\n----\n-\n+![[incantesimi/tutti/Immagine-Speculare]] ![[incantesimi/tutti/Fulmine]]\n+![[incantesimi/tutti/trama-ipnotica]]![[incantesimi/tutti/invisibilita-superiore]]![[incantesimi/tutti/scudo-di-fuoco]]![[incantesimi/tutti/muro-di-forza]]![[incantesimi/tutti/Passapareti]]\n # Armatura arcana\n le ricerche metallurgiche portate avanti dal proprietario gli hanno permesso di trasformare l’armatura in un canale per la sua magia. Con un’azione, può trasformare l’armatura che indossa in un’armatura arcana.\n \n"
+		},
+		{
+			"file": "incantesimi/artefice/immagine-speculare.md",
+			"display_name": "immagine-speculare",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/artefice/immagine-speculare.md b/incantesimi/artefice/immagine-speculare.md\nindex c686c9f..b5940de 100644\n--- a/incantesimi/artefice/immagine-speculare.md\n+++ b/incantesimi/artefice/immagine-speculare.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/immaginespeculare]]\n\\ No newline at end of file\n+![[incantesimi/tutti/immagine-speculare]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/artefice/invisibilita-superiore.md",
+			"display_name": "invisibilita-superiore",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/artefice/invisibilita-superiore.md b/incantesimi/artefice/invisibilita-superiore.md\nindex 9c0fcf2..f7f8fdf 100644\n--- a/incantesimi/artefice/invisibilita-superiore.md\n+++ b/incantesimi/artefice/invisibilita-superiore.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/invisibilitasuperiore]]\n\\ No newline at end of file\n+![[incantesimi/tutti/invisibilita-superiore]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/artefice/muro-di-forza.md",
+			"display_name": "muro-di-forza",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/artefice/muro-di-forza.md b/incantesimi/artefice/muro-di-forza.md\nindex 9728faf..7da898c 100644\n--- a/incantesimi/artefice/muro-di-forza.md\n+++ b/incantesimi/artefice/muro-di-forza.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/murodiforza]]\n\\ No newline at end of file\n+![[incantesimi/tutti/muro-di-forza]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/artefice/onda-tonante.md",
+			"display_name": "onda-tonante",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/artefice/onda-tonante.md b/incantesimi/artefice/onda-tonante.md\nindex 78bc051..f2226f0 100644\n--- a/incantesimi/artefice/onda-tonante.md\n+++ b/incantesimi/artefice/onda-tonante.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/ondatonante]]\n\\ No newline at end of file\n+![[incantesimi/tutti/onda-tonante]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/artefice/scudo-di-fuoco.md",
+			"display_name": "scudo-di-fuoco",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/artefice/scudo-di-fuoco.md b/incantesimi/artefice/scudo-di-fuoco.md\nindex fdc36d1..22c0191 100644\n--- a/incantesimi/artefice/scudo-di-fuoco.md\n+++ b/incantesimi/artefice/scudo-di-fuoco.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/scudodifuoco]]\n\\ No newline at end of file\n+![[incantesimi/tutti/scudo-di-fuoco]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/artefice/trama-ipnotica.md",
+			"display_name": "trama-ipnotica",
+			"status": "Modified",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/artefice/trama-ipnotica.md b/incantesimi/artefice/trama-ipnotica.md\nindex f6a57fc..3dc1db6 100644\n--- a/incantesimi/artefice/trama-ipnotica.md\n+++ b/incantesimi/artefice/trama-ipnotica.md\n@@ -1 +1 @@\n-![[incantesimi/tutti/tramaipnotica]]\n\\ No newline at end of file\n+![[incantesimi/tutti/trama-ipnotica]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/necromante/ricrescita-scheletrica.md",
+			"display_name": "ricrescita-scheletrica",
+			"status": "Added",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/necromante/ricrescita-scheletrica.md b/incantesimi/necromante/ricrescita-scheletrica.md\nnew file mode 100644\nindex 0000000..fd9870e\n--- /dev/null\n+++ b/incantesimi/necromante/ricrescita-scheletrica.md\n@@ -0,0 +1 @@\n+![[incantesimi/tutti/ricrescita-scheletrica]]\n"
+		},
+		{
+			"file": "incantesimi/necromante/ricresita-scheletrica.md",
+			"display_name": "ricresita-scheletrica",
+			"status": "Deleted",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/necromante/ricresita-scheletrica.md b/incantesimi/necromante/ricresita-scheletrica.md\ndeleted file mode 100644\nindex f91a1dc..0000000\n--- a/incantesimi/necromante/ricresita-scheletrica.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[ricrescita-scheletrica]]\n"
+		},
+		{
+			"file": "incantesimi/tutti/corpse-explosion.md",
+			"display_name": "corpse-explosion",
+			"status": "Deleted",
+			"diff": "commit 903a5185972c7fb949b21d12f0866094b2a7a5d5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 10:55:25 2026 +0100\n\n    aggiornamento 2026 01 21 10:55 [v 0.0.123]\n\ndiff --git a/incantesimi/tutti/corpse-explosion.md b/incantesimi/tutti/corpse-explosion.md\ndeleted file mode 100644\nindex 91a2c90..0000000\n--- a/incantesimi/tutti/corpse-explosion.md\n+++ /dev/null\n@@ -1,15 +0,0 @@\n-## Corpse Explosion\n-*2° livello, Necromanzia*\n-\n-- **Tempo di lancio:** 1 azione\n-- **Raggio d'azione:** 18m\n-- **Componenti:** S\n-- **Durata:** Istantaneo\n-\n-As you snap your fingers, a dead creature within range explodes with necrotic energy. Each creature in a 15-foot-radius sphere centered on the dead creature must make a Dexterity saving throw. A target takes 2d8 necrotic damage on a failed save, or half as much damage on a successful one. If you reduce a creature to 0 hit points with this spell, the creature explodes, repeating the same effect as this spell. If an undead creature is affected by this spell or its explosion, then it must succeed on a Constitution saving throw or explode, repeating the same effect as this spell a number of times equal to half its CR (a minimum of 1 time).\n-\n-**Ai livelli superiori:** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd\n-\n-**Classi:** Chierico, Stregone, Warlock, Mago\n-\n----\n"
+		}
+	]
+}

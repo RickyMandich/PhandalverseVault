@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.97",
+	"date": "2026-01-15 15:15:06 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 15 15:15 [v 0.0.97]",
+	"changes": [
+		{
+			"file": "Personaggi/gruppi/la-mano-rossa.md",
+			"display_name": "la-mano-rossa",
+			"status": "Modified",
+			"diff": "commit 8410f7a26d869d4e3a60a54a523773d88865056e\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 15:15:06 2026 +0100\n\n    aggiornamento 2026 01 15 15:15 [v 0.0.97]\n\ndiff --git a/Personaggi/gruppi/la-mano-rossa.md b/Personaggi/gruppi/la-mano-rossa.md\nindex 0439338..1e252b9 100644\n--- a/Personaggi/gruppi/la-mano-rossa.md\n+++ b/Personaggi/gruppi/la-mano-rossa.md\n@@ -1,14 +1,9 @@\n #gruppo \n è il gruppo dei protagonisti, sono i prescelti provenienti da [[phandalmain]].\n-## [[vargas-paladino-nano-65|Vargas (Paladino Nano, 65)]]\n ![[vargas-paladino-nano-65]]\n-## [[than-warlock-tiefling-30|Than (Warlock tiefling, 30)]]\n ![[than-warlock-tiefling-30]]\n-## [[dontavious-ladro-mezzelfo-25|Dontavious (Ladro Mezzelfo, 25)]]\n ![[dontavious-ladro-mezzelfo-25]]\n-## [[morbiarum-paladino-dragonide-24|Morbiarum (Paladino Dragonide, 24)]]\n ![[morbiarum-paladino-dragonide-24]]\n-## [[attila-slayer-guerriero-elfo-100|Attila Slayer (Guerriero Elfo, 100)]]\n ![[attila-slayer-guerriero-elfo-100]]\n \n # punti esperienza\n"
+		},
+		{
+			"file": "saghe/saga-di-gemgrave.md",
+			"display_name": "Saga Di Gemgrave",
+			"status": "Modified",
+			"diff": "commit 8410f7a26d869d4e3a60a54a523773d88865056e\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 15:15:06 2026 +0100\n\n    aggiornamento 2026 01 15 15:15 [v 0.0.97]\n\ndiff --git a/saghe/saga-di-gemgrave.md b/saghe/saga-di-gemgrave.md\nindex ce11446..650bf2e 100644\n--- a/saghe/saga-di-gemgrave.md\n+++ b/saghe/saga-di-gemgrave.md\n@@ -35,4 +35,4 @@ tutti i giocatori prendono 125 punti esperienza lasciando in conto comune 0 xp\n Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la-mano-rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[kanye-ovest|cucciolo]] con cui [[dontavious-ladro-mezzelfo-25|dontavious]] fa amicizia . Nella stanza dopo trovano il pezzo della [[la-chiave|chiave]] e il draghetto uccide [[irving]]\n \n ## sessione di giovedì 2025 12 18\n-il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte della [[sacra-biblioteca-perduta-salvata-di-atlantide|sacra biblioteca perduta salvata di atlantide]]\n\\ No newline at end of file\n+il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte della [[sacra-biblioteca-perduta-salvata-di-atlantide|sacra biblioteca perduta salvata di atlantide]]  \n\\ No newline at end of file\n"
+		}
+	]
+}

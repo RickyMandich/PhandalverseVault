@@ -1,0 +1,38 @@
+{
+	"version": "v 0.0.80",
+	"date": "2026-01-14 13:02:57 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 14 13:02 [v 0.0.80]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-artefice.md",
+			"display_name": "Tól Niðavalla (armaiolo)",
+			"status": "Modified",
+			"diff": "commit 63a5b2f279b8b0df3a48ebad9a833007d94eda97\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 13:02:57 2026 +0100\n\n    aggiornamento 2026 01 14 13:02 [v 0.0.80]\n\ndiff --git a/artefatti/party/artefatto-artefice.md b/artefatti/party/artefatto-artefice.md\nindex a63bff2..5da61fb 100644\n--- a/artefatti/party/artefatto-artefice.md\n+++ b/artefatti/party/artefatto-artefice.md\n@@ -1,2 +1,3 @@\n+richiede sintonia, localizzazione geografica: Nord\n # descrizione\n questo artefatto è un set di strumenti da artefice\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-barbaro-divino.md",
+			"display_name": "Netjetheka (barbaro)",
+			"status": "Modified",
+			"diff": "commit 63a5b2f279b8b0df3a48ebad9a833007d94eda97\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 13:02:57 2026 +0100\n\n    aggiornamento 2026 01 14 13:02 [v 0.0.80]\n\ndiff --git a/artefatti/party/artefatto-barbaro-divino.md b/artefatti/party/artefatto-barbaro-divino.md\nindex 65c8efc..6025025 100644\n--- a/artefatti/party/artefatto-barbaro-divino.md\n+++ b/artefatti/party/artefatto-barbaro-divino.md\n@@ -1,4 +1,4 @@\n-richiede sintonia\n+richiede sintonia, localizzazione geografica: sud\n # tutti i cammini\n ## descrizione\n è un `per ankh`\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-dellombra.md",
+			"display_name": "Myrkvaðinn (ombra)",
+			"status": "Modified",
+			"diff": "commit 63a5b2f279b8b0df3a48ebad9a833007d94eda97\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 13:02:57 2026 +0100\n\n    aggiornamento 2026 01 14 13:02 [v 0.0.80]\n\ndiff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex ecc37ae..8344481 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -1,4 +1,4 @@\n-si pronuncia Murkvadinn, richiede sintonia\n+si pronuncia Murkvadinn, richiede sintonia, localizzazione geografica: Nord\n # descrizione\n \n # arti dell'ombra\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 63a5b2f279b8b0df3a48ebad9a833007d94eda97\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 13:02:57 2026 +0100\n\n    aggiornamento 2026 01 14 13:02 [v 0.0.80]\n\ndiff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex 8752519..769270b 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -1,4 +1,4 @@\n-richiede sintonia\n+richiede sintonia, localizzazione geografica: \n # descrizione\n \n # raccolto macabro\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
+			"display_name": "Kṓkȳtos (gelo)",
+			"status": "Modified",
+			"diff": "commit 63a5b2f279b8b0df3a48ebad9a833007d94eda97\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 13:02:57 2026 +0100\n\n    aggiornamento 2026 01 14 13:02 [v 0.0.80]\n\ndiff --git a/artefatti/party/artefatto-sussurratore-del-gelo.md b/artefatti/party/artefatto-sussurratore-del-gelo.md\nindex 52e9dba..9077d51 100644\n--- a/artefatti/party/artefatto-sussurratore-del-gelo.md\n+++ b/artefatti/party/artefatto-sussurratore-del-gelo.md\n@@ -1,6 +1,7 @@\n-richiede sintonia\n+richiede sintonia, localizzazione geografica: Est\n # descrizione\n-\n+è una spilla a forma di stella alpina fatta di un cristallo molto resistente (ma non indistruttibile)\n+![[Kṓkȳtos.avif]]\n \n ---\n # magia gelida\n"
+		}
+	]
+}

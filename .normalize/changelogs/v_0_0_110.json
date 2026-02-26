@@ -1,0 +1,38 @@
+{
+	"version": "v 0.0.110",
+	"date": "2026-01-16 15:43:56 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 16 15:43 [v 0.0.110]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-barbaro-divino.md",
+			"display_name": "Netjetheka (barbaro)",
+			"status": "Modified",
+			"diff": "commit a656ee80fb4b23f28459402cf9e4f90ab3b59fd1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 15:43:56 2026 +0100\n\n    aggiornamento 2026 01 16 15:43 [v 0.0.110]\n\ndiff --git a/artefatti/party/artefatto-barbaro-divino.md b/artefatti/party/artefatto-barbaro-divino.md\nindex 9ddb97f..f400822 100644\n--- a/artefatti/party/artefatto-barbaro-divino.md\n+++ b/artefatti/party/artefatto-barbaro-divino.md\n@@ -58,7 +58,7 @@ mentre sei in ira, Set ti concede il suo potere divino. Ottieni resistenza ai da\n # **Netjerheka** di Osiride\n # descrizione\n è un `per ankh` con il geroglifico `il pilastro di Djed` (simbolo di osiride) in centro all'Ankh\n-![[NetjerhekaDiOsiride.png]]\n+![[netjerheka-di-osiride.png]]\n ## sentiero del dio egizio\n mentre sei infuriato, diventi desideroso di consumare le forze vitali con la magia di Osiride che ti circonda. I tuoi attacchi con le armi infliggono un danno necrotico aggiuntivo pari al tuo modificatore di costituzione; con un colpo critico, ottieni punti ferita temporanei pari a tre volte quel danno necrotico extra.\n ## favore del dio egizio\n"
+		},
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit a656ee80fb4b23f28459402cf9e4f90ab3b59fd1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 15:43:56 2026 +0100\n\n    aggiornamento 2026 01 16 15:43 [v 0.0.110]\n\ndiff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex 559c3df..ab04ea5 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -1,6 +1,6 @@\n richiede sintonia, localizzazione geografica: \n # descrizione\n-![[occhioDiAtos.jpeg]]\n+![[occhio-di-atos.jpeg]]\n \n ---\n # raccolto macabro\n"
+		},
+		{
+			"file": "saghe/saga-della-biblioteca.md",
+			"display_name": "Saga Della Biblioteca",
+			"status": "Modified",
+			"diff": "commit a656ee80fb4b23f28459402cf9e4f90ab3b59fd1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 15:43:56 2026 +0100\n\n    aggiornamento 2026 01 16 15:43 [v 0.0.110]\n\ndiff --git a/saghe/saga-della-biblioteca.md b/saghe/saga-della-biblioteca.md\nindex 47b8091..bc753d6 100644\n--- a/saghe/saga-della-biblioteca.md\n+++ b/saghe/saga-della-biblioteca.md\n@@ -10,4 +10,5 @@ il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiav\n il posto in cui sbucano è una superficie piana e rocciosa e circa una ventina di metri davanti a loro sorge un torre circolare con un merletto in cima, una volta che [[la-mano-rossa]] riesce a salire in cima e scendere le scale a chiocciola che contiene trovano una porta meccanica molto complessa che [[vargas-paladino-nano-65|vargas]] cerca di aprire, non ci riesce ma [[giorgia-rossato|un gufo gigante]] apre la porta e li interroga su chi siano e cosa vogliono.\n scoprono che questo gufo è un entità un'entità molto antica che segue la conoscenza della tecnologia e la protegge.\n scoprono inoltre che [[nonno-roshi|roshi]] e [[asmodeus]] sono stati suoi studenti e che nella biblioteca è presente almeno una copia di ogni libro esistente.\n-una volta entrati cercano dei libri per informarsi su [[atlantide]]\n\\ No newline at end of file\n+una volta entrati cercano dei libri per informarsi su [[atlantide]] (durante la [[saga-di-merfolk]] avevano capito che il portale si trova lì)\n+poi trovano anche il pezzo di artefatto e tornano a [[gemgrave]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/saga-di-capodanno-1312.md",
+			"display_name": "Saga Di Capodanno 1312",
+			"status": "Modified",
+			"diff": "commit a656ee80fb4b23f28459402cf9e4f90ab3b59fd1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 15:43:56 2026 +0100\n\n    aggiornamento 2026 01 16 15:43 [v 0.0.110]\n\ndiff --git a/saghe/saga-di-capodanno-1312.md b/saghe/saga-di-capodanno-1312.md\nindex 8127c3d..d929abb 100644\n--- a/saghe/saga-di-capodanno-1312.md\n+++ b/saghe/saga-di-capodanno-1312.md\n@@ -1 +1,7 @@\n-#dm \n+#dm #saga\n+\n+|      saga precedente      | saga successiva |     macrosaga di appartenenza      |\n+| :-----------------------: | :-------------: | :--------------------------------: |\n+| [[saga-della-biblioteca]] |                 | [[macrosaga-della-chiave\\|chiave]] |\n+# sessioni\n+## sessione di venerdì 2026 01 16\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit a656ee80fb4b23f28459402cf9e4f90ab3b59fd1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 15:43:56 2026 +0100\n\n    aggiornamento 2026 01 16 15:43 [v 0.0.110]\n\ndiff --git a/todo.md b/todo.md\nindex d7a28f9..7d0eab3 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -1,3 +1,6 @@\n #dm \n+# fatte\n+- scrivere sessione di capodanno\n+# da fare\n - decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n - scrivere moduli futuri\n\\ No newline at end of file\n"
+		}
+	]
+}

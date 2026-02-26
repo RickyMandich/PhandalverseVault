@@ -1,20 +1,20 @@
 {
 	"version": "v 0.0.169",
-	"date": "2026-01-30 20:56:51",
-	"commit_hash": "278bb11301c2fe30c5182f5b82322a44d972e3a3",
+	"date": "2026-01-30 20:56:58 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 01 30 20:56 [v 0.0.169]",
 	"changes": [
+		{
+			"file": "artefatti/party/artefatto-sintonia-draconica.md",
+			"display_name": "Drakensyn (drago)",
+			"status": "Added",
+			"diff": "commit fb855a4dff3b3ff93420c895349b85e62449254b\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 30 20:56:55 2026 +0100\n\n    aggiornamento 2026 01 30 20:56 [v 0.0.169]\n\ndiff --git a/artefatti/party/artefatto-sintonia-draconica.md b/artefatti/party/artefatto-sintonia-draconica.md\nnew file mode 100644\nindex 0000000..058e1fe\n--- /dev/null\n+++ b/artefatti/party/artefatto-sintonia-draconica.md\n@@ -0,0 +1,14 @@\n+# descrizione\n+![[Drakensyn.avif]]\n+# dono draconico\n+Il legame che condividi con il tuo drago crea una connessione con la stirpe dei draghi, permettendoti di capirla e potenziando la tua presenza.\n+Ottieni i seguenti benefici:\n+- **Taumaturgia**\n+\tImpari il trucchetto [Taumaturgia](https://dungeonsanddragons.fandom.com/it/wiki/Taumaturgia).\n+- **Lingua dei draghi**\n+\tImpari a parlare, leggere e scrivere il Draconico.\n+---\n+# COMPAGNO DRAGO\n+Il drago è amichevole con te e con gli altri avventurieri e obbedisce ai tuoi ordini.\n+Le statistiche di gioco del tuo Compagno drago sono disponibili nella sua scheda delle statistiche, la quale usa il tuo bonus di competenza (BC) in diversi punti.\n+il drago in combattimento è una creatura autonoma, però tu puoi usare una azione bonus per dargli un ordine.\n\\ No newline at end of file\n"
+		},
 		{
 			"file": "universi/telmurkvadinn.md",
 			"display_name": "Tel'Murk'Vadinn",
 			"status": "Modified",
-			"diff": "diff --git a/universi/telmurkvadinn.md b/universi/telmurkvadinn.md\nindex f29c01f..ca62f99 100644\n--- a/universi/telmurkvadinn.md\n+++ b/universi/telmurkvadinn.md\n@@ -10,7 +10,6 @@ Le radici più profonde conducono a zone dove la forma si dissolve e la luce non\n ---\n \n ### **Aspetto**\n-\n Tel’Murk'vadinn appare come un intreccio infinito di:\n \n - rami neri e violacei, simili a legno fossilizzato\n"
-		},
-		{
-			"file": "artefatti/party/artefatto-sintonia-draconica.md",
-			"display_name": "Drakensyn",
-			"status": "Modified",
-			"diff": "\n"
+			"diff": "commit fb855a4dff3b3ff93420c895349b85e62449254b\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 30 20:56:55 2026 +0100\n\n    aggiornamento 2026 01 30 20:56 [v 0.0.169]\n\ndiff --git a/universi/telmurkvadinn.md b/universi/telmurkvadinn.md\nindex f29c01f..ca62f99 100644\n--- a/universi/telmurkvadinn.md\n+++ b/universi/telmurkvadinn.md\n@@ -10,7 +10,6 @@ Le radici più profonde conducono a zone dove la forma si dissolve e la luce non\n ---\n \n ### **Aspetto**\n-\n Tel’Murk'vadinn appare come un intreccio infinito di:\n \n - rami neri e violacei, simili a legno fossilizzato\n"
 		}
 	]
 }

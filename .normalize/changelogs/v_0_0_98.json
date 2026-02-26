@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.98",
+	"date": "2026-01-15 19:32:27 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 15 19:32 [v 0.0.98]",
+	"changes": [
+		{
+			"file": "Personaggi/non-giocanti/giorgia-rossato.md",
+			"display_name": "giorgia-rossato",
+			"status": "Added",
+			"diff": "commit 66cc1f21de6bf22804d02edce8c29f52d92f4bd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 19:32:27 2026 +0100\n\n    aggiornamento 2026 01 15 19:32 [v 0.0.98]\n\ndiff --git a/Personaggi/non-giocanti/giorgia-rossato.md b/Personaggi/non-giocanti/giorgia-rossato.md\nnew file mode 100644\nindex 0000000..4772e57\n--- /dev/null\n+++ b/Personaggi/non-giocanti/giorgia-rossato.md\n@@ -0,0 +1,6 @@\n+# caratterizzazione generale\n+una civetta gigante (taglia media, è alta circa quanto un goliath o un orco), anche se quando ne ha li sgrida spesso anche per i motivi più stupidi tiene molto ai suoi studenti\n+#startMaster \n+# inizio dei tempi - epoca leggendaria\n+lei nasce quando per la prima volta un essere senziente ha scoperto la tecnologia più basica ed è stata la mentore delle menti più eccelse della storia, conosce tutto ciò che è legato alla tecnologia e alla scienza anche se a volte non te lo saprebbe dire di punto in bianco, quando è nata l'accademia di atlantide lei ne era la preside\n+#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+			"display_name": "Sacra Biblioteca Perduta Salvata di Atlantide",
+			"status": "Modified",
+			"diff": "commit 66cc1f21de6bf22804d02edce8c29f52d92f4bd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 19:32:27 2026 +0100\n\n    aggiornamento 2026 01 15 19:32 [v 0.0.98]\n\ndiff --git a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\nindex e69de29..01b4044 100644\n--- a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n+++ b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n@@ -0,0 +1,5 @@\n+una biblioteca magica che contiene almeno una copia di almeno una versione di ogni libro scritto in ogni mondo di questo universo\n+#startMaster \n+La sua esistenza è un segreto ben custodito e ad ora conosciuto a pochi e tra chi sapeva dalle sua esistenza molti ora credono sia andata distrutta con la distruzione di atlantide, invece si è solo spostata e ora esiste fisicamente solo il suo ingresso, la biblioteca in sè si trova in uno spazio extradimensionale\n+#endMaster \n+la custode della biblioteca è [[giorgia-rossato]]\n\\ No newline at end of file\n"
+		}
+	]
+}

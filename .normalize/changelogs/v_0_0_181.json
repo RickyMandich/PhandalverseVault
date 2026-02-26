@@ -1,7 +1,14 @@
 {
 	"version": "v 0.0.181",
-	"date": "2026-02-10 08:03:18",
-	"commit_hash": "63397cee533b171e6019849b6681ed66d56b43ec",
+	"date": "2026-02-10 08:03:43 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 10 08:03 [v 0.0.181]",
-	"changes": []
+	"changes": [
+		{
+			"file": "materiale/stat-block/spirito-mietitore.md",
+			"display_name": "Spirito Mietitore",
+			"status": "Added",
+			"diff": "commit 75487779e9683f96670d506186b81435bc5a8535\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 10 08:03:35 2026 +0100\n\n    aggiornamento 2026 02 10 08:03 [v 0.0.181]\n\ndiff --git a/materiale/stat-block/spirito-mietitore.md b/materiale/stat-block/spirito-mietitore.md\nnew file mode 100644\nindex 0000000..18e6d62\n--- /dev/null\n+++ b/materiale/stat-block/spirito-mietitore.md\n@@ -0,0 +1,25 @@\n+___\n+> ## Spirito Mietitore\n+> *Non morto Medio, Neutrale*\n+> ___\n+> - **Classe Armatura** 11 + livello dell'incantesimo che lo evoca (armatura naturale)\n+> - **Punti Vita** 40 + 10 * lvl di spell sopra al 4\n+> - **Velocità** 9m, volo 9m\n+> ___\n+> |FOR|DES|COS|INT|SAG|CAR|\n+> |:---:|:---:|:---:|:---:|:---:|:---:|\n+> |16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)|\n+> ___\n+> - **Immunità ai Danni** Necrotici e velenosi\n+> - **Immunità alle condizioni** Affascinato, Esausto, Spaventato, Paralizzato, Avvelenato\n+> - **Sensi** scurovisione 18m, percezione passiva 13\n+> - **Linguaggi** capisce le lingue di chi casta l'incantesimo\n+> - **Bonus Competenza** uguale a quello dell'incantatore\n+> - ***Movimento incorporeo*** il mietitore può muoversi attraverso creature e oggetti come se fossero terreno difficile. se finisce il suo turno dentro a un oggetto viene deviato fino allo spazio libero più vicino e prende 1d10 danni da forza per ogni 1.5m attraversati\n+> ___\n+> ## Azioni\n+> **Attacco Extra** il Mietitore fa un numero di attacchi `Falce Mietitrice` pari al livello dell'incantesimo arrotondato per difetto\n+> **Falce Mietitrice** *Attacco con arma da mischia*  il modificatore di attacco per gli incantesimi dell'incantatore con vantaggio, 1.5m, un solo bersaglio. *Colpito* 1d8+3+livello dell'incantesimo che lo evoca danni necrotici\n+> ___\n+> ## Azioni Bonus\n+> **Perseguita Creatura** lo spirito bersaglia una creatura che può vedere entro 3 metri e comincia a perseguitarla. finchè il bersaglio è perseguitato sia l'incantatore che lo spirito percepiscono direzione e distanza del bersaglio a patto che si trovino nello spesso piano dell'esistenza. inoltre se il bersaglio inizia il suo turno entro 3 metri dallo spirito deve superare un tiro salvezza su saggezza o essere spaventato fino all'inizio del suo prossimo turno. il bersaglio rimane perseguitato fino alla sua morte, fino alla scomparsa dello spirito o fino a che lo spirito non usa di nuovo questa abilità\n\\ No newline at end of file\n"
+		}
+	]
 }

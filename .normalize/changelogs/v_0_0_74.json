@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.74",
+	"date": "2026-01-13 17:52:14 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 13 17:52 [v 0.0.74]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-barbaro-divino.md",
+			"display_name": "Netjetheka (barbaro)",
+			"status": "Modified",
+			"diff": "commit c79f8a6cecd622cc46f5ebc94e3f62dfc03e11a4\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 17:52:14 2026 +0100\n\n    aggiornamento 2026 01 13 17:52 [v 0.0.74]\n\ndiff --git a/artefatti/party/artefatto-barbaro-divino.md b/artefatti/party/artefatto-barbaro-divino.md\nindex cd7f470..6054a0e 100644\n--- a/artefatti/party/artefatto-barbaro-divino.md\n+++ b/artefatti/party/artefatto-barbaro-divino.md\n@@ -33,7 +33,7 @@ Una volta entrato in ira per il numero di volte indicato dal suo livello di barb\n |   17    |      6       |       +4       |\n |   18    |      6       |       +4       |\n |   19    |      6       |       +4       |\n-|   20    |   $\\infty$   |       +4       |\n+|   20    |   &infin;    |       +4       |\n \n ## attacco irruento\n Un barbaro può ignorare ogni preoccupazione per la sua difesa e attaccare in preda a una feroce disperazione. Quando effettua il suo primo attacco nel suo turno, può decidere di sferrare un attacco irruento. Così facondo dispone di vantaggio ai tiri per colpire in mischia che usano Forza durante questo turno, ma i tiri per colpire contro di lui dispongono di vantaggio fino al suo turno successivo.\n"
+		}
+	]
+}

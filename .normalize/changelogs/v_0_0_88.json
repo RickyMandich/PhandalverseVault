@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.88",
+	"date": "2026-01-14 19:28:08 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 14 19:28 [v 0.0.88]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-artefice.md",
+			"display_name": "Tól Niðavalla (armaiolo)",
+			"status": "Modified",
+			"diff": "commit c67cc032a7bce739e9de411db05ea1328b86eb83\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 14 19:28:08 2026 +0100\n\n    aggiornamento 2026 01 14 19:28 [v 0.0.88]\n\ndiff --git a/artefatti/party/artefatto-artefice.md b/artefatti/party/artefatto-artefice.md\nindex 2942cd4..33b2988 100644\n--- a/artefatti/party/artefatto-artefice.md\n+++ b/artefatti/party/artefatto-artefice.md\n@@ -232,7 +232,7 @@ tabella esplicativa:\n ![[incantesimi/artefice/OndaTonante]]\n ![[incantesimi/artefice/Frantumare]]\n ![[incantesimi/artefice/ImmagineSpeculare]] ![[incantesimi/artefice/Fulmine]]\n-![[incantesimi/artefice/TramaIpnotica]]![[incantesimi/artefice/InvisibilitàSuperiore]]![[incantesimi/artefice/ScudoDiFuoco]]![[incantesimi/artefice/MuroDiForza]]![[incantesimi/artefice/Passapareti]]\n+![[incantesimi/artefice/TramaIpnotica]]![[incantesimi/artefice/InvisibilitaSuperiore]]![[incantesimi/artefice/ScudoDiFuoco]]![[incantesimi/artefice/MuroDiForza]]![[incantesimi/artefice/Passapareti]]\n \n ---\n \n"
+		}
+	]
+}

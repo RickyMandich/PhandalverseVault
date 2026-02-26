@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.52",
+	"date": "2026-01-12 20:06:14 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 12 20:06 [v 0.0.52]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 20f2eb1c0cce04034b63f67a5aa84005c8eb9b3e\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 12 20:06:14 2026 +0100\n\n    aggiornamento 2026 01 12 20:06 [v 0.0.52]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex 2576d8a..b44ef2f 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -209,6 +209,7 @@ La creatura rimane sotto il controllo dell'incantatore per 24 ore, dopodiché sm\n - **Raggio d'azione:** 18m\n - **Componenti:** S\n - **Durata:** Istantaneo\n+\n Come schiocchi le dita una creatura morta entro gittata esplode con energia necrotica. ogni creatura in una sfera con un raggio di 4.5m con centro sulla creatura bersaglio deve fare un tiro salvezza su destrezza. subisce 2d8 danni necrotici se fallisce e la metà se ha successo. se riduci una creatura a 0 HP con questo incantesimo la creatura esplode ripetendo lo stesso effetto di questo incantesimo. se una creatura non morta è vittima di questo incantesimo o della sua esplosione deve avere successo su un tiro salvezza su costituzione o esplodere ripetendo lo stesso effetto di questo incantesimo un numero di volte pari a metà del suo grado sfida (minimo 1)\n se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggiorata di 5 su di un bersagio che non controlli o con la cd normale su di un bersagio che controlli per convincerlo ad andare dove vuoi e farti usare questo incantesimo su di lui, continuano a valere le regole del privilegio (in caso di dubbi o incertezze il tutto è a discrezione del DM seguendo la rule of coolness)\n \n"
+		}
+	]
+}

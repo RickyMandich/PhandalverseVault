@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.18",
+	"date": "2026-01-08 15:52:11 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 08 15:52 [v 0.0.18]",
+	"changes": [
+		{
+			"file": "mezzi/Skiblanir.md",
+			"display_name": "Skiblanir",
+			"status": "Renamed",
+			"diff": "commit 12961c4da8ed65514e17d7bb70468086c74110e5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 8 15:52:11 2026 +0100\n\n    aggiornamento 2026 01 08 15:52 [v 0.0.18]\n\ndiff --git a/mezzi/Skiblanir.md b/mezzi/Skiblanir.md\ndeleted file mode 100644\nindex ec5ef1d..0000000\n--- a/mezzi/Skiblanir.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-un drakkar volante che durante il primo millennio [[nonno-roshi|nonno Roshi]] ha dotato di un automa per la guida autonoma\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/saga-di-gemgrave.md",
+			"display_name": "Saga Di Gemgrave",
+			"status": "Modified",
+			"diff": "commit 12961c4da8ed65514e17d7bb70468086c74110e5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 8 15:52:11 2026 +0100\n\n    aggiornamento 2026 01 08 15:52 [v 0.0.18]\n\ndiff --git a/saghe/saga-di-gemgrave.md b/saghe/saga-di-gemgrave.md\nindex a303b4f..a9ff6b1 100644\n--- a/saghe/saga-di-gemgrave.md\n+++ b/saghe/saga-di-gemgrave.md\n@@ -21,7 +21,7 @@ totale xp: 0 + 700 + 25 * 5 = 0 + 700 + 125 = 825\n tutti i giocatori prendono 150 punti esperienza lasciando in conto comune 75 xp\n \n ## sessione di venerdì 2025 11 21\n-appreso che uno dei pezzi della [[la-chiave|chiave]] è in fondo alla [[fossa-delle-marie|fossa delle marie]], Roshi, munendo [[la-mano-rossa|la mano rossa]] di [[Skiblanir]] e di branchie artificiali spedisce gli eroi in missione. Arrivati al punto di immersione con la nave, la compagnia, grazie alle branchie, inizia la sua discesa seguendo [[la-bussola|la bussola]], in una caverna incontrano due esseri marini di nome [[Mussel]] (amico di Roshi) e la sua compagna, e dopo un breve conflitto risolto rapidamente vengono introdotti a [[Blob]], assistente del primo, che li guida verso la loro città e l’obbiettivo del gruppo. Questi ci racconta delle storie dal passato e ci portano a Merfolk, città marina in cui la compagnia ne approfitta per passare la notte e rifocillarsi, dopo aver comprato degli oggetti particolari in un negozio di cianfrusaglie\n+appreso che uno dei pezzi della [[la-chiave|chiave]] è in fondo alla [[fossa-delle-marie|fossa delle marie]], Roshi, munendo [[la-mano-rossa|la mano rossa]] di [[skiblandir]] e di branchie artificiali spedisce gli eroi in missione. Arrivati al punto di immersione con la nave, la compagnia, grazie alle branchie, inizia la sua discesa seguendo [[la-bussola|la bussola]], in una caverna incontrano due esseri marini di nome [[Mussel]] (amico di Roshi) e la sua compagna, e dopo un breve conflitto risolto rapidamente vengono introdotti a [[Blob]], assistente del primo, che li guida verso la loro città e l’obbiettivo del gruppo. Questi ci racconta delle storie dal passato e ci portano a Merfolk, città marina in cui la compagnia ne approfitta per passare la notte e rifocillarsi, dopo aver comprato degli oggetti particolari in un negozio di cianfrusaglie\n \n ## sessione di giovedì 2025 11 27\n [[la-mano-rossa|la mano rossa]] continua la sua discesa negli abissi marini guidati prima da [[blob]] e poi da [[viper]] fino ad arrivare nel labirinto subacqueo loro obbiettivo.\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 12961c4da8ed65514e17d7bb70468086c74110e5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 8 15:52:11 2026 +0100\n\n    aggiornamento 2026 01 08 15:52 [v 0.0.18]\n\ndiff --git a/todo.md b/todo.md\nindex 4aafb2a..bb1dae5 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -1,5 +1,5 @@\n #dm \n-- creare un calendario dettagliato (13 mesi)\n-- sistemare irving e roshi\n+- creare un calendario dettagliato (13 mesi) [[calendario]]\n+- sistemare [[irving]] e [[nonno-roshi|roshi]]\n - scrivere moduli futuri\n - decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n\\ No newline at end of file\n"
+		}
+	]
+}

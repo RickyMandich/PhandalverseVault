@@ -1,0 +1,98 @@
+{
+	"version": "v 0.0.104",
+	"date": "2026-01-16 10:40:38 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 16 10:40 [v 0.0.104]",
+	"changes": [
+		{
+			"file": "Personaggi/non-giocanti/artefatti/atos.md",
+			"display_name": "atos",
+			"status": "Added",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/artefatti/atos.md b/Personaggi/non-giocanti/artefatti/atos.md\nnew file mode 100644\nindex 0000000..08c9e20\n--- /dev/null\n+++ b/Personaggi/non-giocanti/artefatti/atos.md\n@@ -0,0 +1 @@\n+#dm\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/atos.md",
+			"display_name": "atos",
+			"status": "Deleted",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/atos.md b/Personaggi/non-giocanti/atos.md\ndeleted file mode 100644\nindex 001e4fc..0000000\n--- a/Personaggi/non-giocanti/atos.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-#dm \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/fumero.md",
+			"display_name": "fumero",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/fumero.md b/Personaggi/non-giocanti/fumero.md\ndeleted file mode 100644\nindex ef39a9d..0000000\n--- a/Personaggi/non-giocanti/fumero.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-capo mercenario del gruppo di cui per un periodo ha fatto parte anche [[vargas-paladino-nano-65|Vargas (Paladino Nano, 65)]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/kaia.md",
+			"display_name": "kaia",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/kaia.md b/Personaggi/non-giocanti/kaia.md\ndeleted file mode 100644\nindex 46cf0b9..0000000\n--- a/Personaggi/non-giocanti/kaia.md\n+++ /dev/null\n@@ -1,3 +0,0 @@\n-#phandalmain \n-abitante di [[GemGrave]]\n-è praticamente orfana (è figlia di [[perrin-cauthon|perrin cauthon]] ma non si considera tale in quanto come reazione alla morte delle moglie si è isolato nella sua fucina o nel ruolo di capovillaggio), è stata sostanzialmente cresciuta da [[nonno-roshi|Roshi]] che considera suo nonno anche più del resto degli abitanti del villaggio\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/perrin-cauthon.md",
+			"display_name": "perrin-cauthon",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/perrin-cauthon.md b/Personaggi/non-giocanti/perrin-cauthon.md\ndeleted file mode 100644\nindex 8c560ca..0000000\n--- a/Personaggi/non-giocanti/perrin-cauthon.md\n+++ /dev/null\n@@ -1,12 +0,0 @@\n-#phandalmain capovillaggio di [[GemGrave]] ![[perrin.jpg]]\n-\n-Perrin Cauthon è un nano dalla presenza calma e solida, noto per la sua forza fisica e per l’indole riflessiva che lo rende un punto di riferimento per gli abitanti di GemGrave.  \n-Non cerca il comando, ma la gente tende naturalmente a seguirlo: la sua voce è misurata, i suoi giudizi ponderati, e raramente agisce senza una buona ragione.\n-\n-Lavora spesso come fabbro, arte che gli sembra calzare addosso come una seconda pelle. Il suo martello, [[fyrbrand]], è sempre con lui: più uno strumento che un’arma, ma nessuno che abbia visto Perrin usarlo dubita della sua potenza.\n-\n-Nonostante la sua natura pacifica, Perrin porta negli occhi un’ombra antica, come se osservasse sempre qualcosa che gli altri non possono vedere.\n-\n-#startMaster\n-è un [[fratelli-dei-lupi|fratello dei lupi]]\n-#endMaster\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/dark-kaia.md",
+			"display_name": "dark-kaia",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/dark-kaia.md b/Personaggi/non-giocanti/dark-kaia.md\ndeleted file mode 100644\nindex fcbedf2..0000000\n--- a/Personaggi/non-giocanti/dark-kaia.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#dm \n-è una dei prescelti di [[fandalmein]]\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/giorgia-rossato.md",
+			"display_name": "giorgia-rossato",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/giorgia-rossato.md b/Personaggi/non-giocanti/giorgia-rossato.md\ndeleted file mode 100644\nindex 4772e57..0000000\n--- a/Personaggi/non-giocanti/giorgia-rossato.md\n+++ /dev/null\n@@ -1,6 +0,0 @@\n-# caratterizzazione generale\n-una civetta gigante (taglia media, è alta circa quanto un goliath o un orco), anche se quando ne ha li sgrida spesso anche per i motivi più stupidi tiene molto ai suoi studenti\n-#startMaster \n-# inizio dei tempi - epoca leggendaria\n-lei nasce quando per la prima volta un essere senziente ha scoperto la tecnologia più basica ed è stata la mentore delle menti più eccelse della storia, conosce tutto ciò che è legato alla tecnologia e alla scienza anche se a volte non te lo saprebbe dire di punto in bianco, quando è nata l'accademia di atlantide lei ne era la preside\n-#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/nonno-roshi.md",
+			"display_name": "nonno-roshi",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/nonno-roshi.md b/Personaggi/non-giocanti/nonno-roshi.md\ndeleted file mode 100644\nindex 28e25f6..0000000\n--- a/Personaggi/non-giocanti/nonno-roshi.md\n+++ /dev/null\n@@ -1,19 +0,0 @@\n-#phandalmain \n-# Origini\n-## [[epoca-leggendaria|epoca leggendaria]]\n-è un nano nato nel **200 [[calendario|AP]]**. al momento della [[la-frattura|frattura]] aveva circa **70 anni umani**, trovandosi già nella fase iniziale della vecchiaia.\n-\n-era un **[[artefici#Prometeici|artefice prometeico]]**, specializzato nella modellazione teorica dei fenomeni magici e nello studio dei limiti operativi delle forze primordiali dell’[[universo]]. roshi riteneva che la conoscenza disponibile sulla magia fosse ancora insufficiente per manipolarla su larga scala, soprattutto in combinazione con la tecnologia.\n-\n-pur condividendo queste riserve, non credeva che il progresso potesse essere arrestato tramite il rifiuto o l’imposizione dell’autorità. quando gli [[artefici#Epimeteici|Epimeteici]] decisero di procedere con l’esperimento di creazione di nuovi portali tra [[phandalmain]] e [[fandalmein]], roshi tentò inizialmente di convincerli a rimandare l’iniziativa.\n-\n-fallito il tentativo, fu **lui stesso a chiedere di partecipare all’esperimento**, non come promotore, ma come **testimone e , anche se non manifesta questa motivazione agli Epimeteici, garante del contenimento**, convinto che la presenza di un prometeico fosse necessaria per limitare i danni nel caso in cui qualcosa fosse andato storto.\n-\n-l’esperimento fallì in modo catastrofico, causando la frattura. come effetto collaterale diretto dell’evento, roshi smise di invecchiare, diventando **virtualmente immortale**: il suo corpo non subisce più il decadimento del tempo, pur rimanendo vulnerabile alla morte violenta.\n-\n-non si aspettava minimamente l’entità dei danni causati dalla frattura, né le conseguenze politiche che ne sarebbero derivate. sopravvisse alla successiva [[la-purga|purga]] unicamente per circostanza e posizione, diventando uno dei pochissimi testimoni diretti dell’epoca leggendaria e della fine degli [[artefici]].\n-\n-## [[epoca-terza|epoca terza]]\n-durante i 2 secoli successivi si nascose per evitare [[i-purgatori|i purgatori]] e allo stesso tempo fece indagini e piccoli esperimenti per analizzare la situazione e capire quanto critica fosse e se ci fosse un pericolo di strutturalità dell'[[universo]]. ai tempi sembrò tutto a posto per cui dopo il primo secolo smise di indagare.\n-dal R|III| secolo DP ricominciò a crearsi una vita nella sua città natale, [[gemgrave]].\n-lì si costruì un negozio in cui vende un po' di tutto, soprattutto cose che ai tempi dell'[[epoca-leggendaria|epoca leggendaria]] erano di poco conto mentre ora sono abbastanza prodigiose, in quella che ai tempi era la parte più profonda della città e che ora si trova ai 2/3 della città\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/blob.md",
+			"display_name": "blob",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/blob.md b/Personaggi/non-giocanti/blob.md\ndeleted file mode 100644\nindex 2f471fe..0000000\n--- a/Personaggi/non-giocanti/blob.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-servitore di [[mussel]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/irving.md",
+			"display_name": "irving",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/irving.md b/Personaggi/non-giocanti/irving.md\ndeleted file mode 100644\nindex f7e1d97..0000000\n--- a/Personaggi/non-giocanti/irving.md\n+++ /dev/null\n@@ -1,7 +0,0 @@\n-#phandalmain \n-mezzelfo abitante di una grotta in fondo alla [[fossa-delle-marie|fossa delle marie]]\n-ha dedicato la maggior parte della sua vita (dalla [[la-frattura|frattura]] fino alla sua morte) a proteggere il pezzo di [[la-chiave|chiave]] custodito in fondo al complesso di caverne collegato alla grotta in cui viveva\n-lui è stato una degli unici 2 [[artefici]] a sopravvivere alla [[la-frattura|frattura]] (ndt. [[nonno-roshi|roshi]])\n-#startMaster \n-durante l'[[epoca-leggendaria|epoca leggendaria]] era il più grande rivale di [[nonno-roshi|roshi]], cominciarono a fare amicizia e a informarsi a vicenda quando i due cominciarono a seguire i due opposti rami ideologici degli [[artefici]]: [[irving]] era un [[artefici#Epimeteici|epimeteico]], [[nonno-roshi|roshi]] invece era [[artefici#Prometeici|prometeico]]\n-#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/mussel.md",
+			"display_name": "mussel",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/mussel.md b/Personaggi/non-giocanti/mussel.md\ndeleted file mode 100644\nindex cc7b051..0000000\n--- a/Personaggi/non-giocanti/mussel.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-è un merfolk cozza che vive in una caverna subacquea a est del continente (circa all'altezza di gemgrave) \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/viper.md",
+			"display_name": "viper",
+			"status": "Renamed",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/Personaggi/non-giocanti/viper.md b/Personaggi/non-giocanti/viper.md\ndeleted file mode 100644\nindex bbd1210..0000000\n--- a/Personaggi/non-giocanti/viper.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#phandalmain \n-è un marinide di profondità, vive sul fondo della [[fossa-delle-marie|fossa delle marie]] e spesso lavora come guida per chi lo vuole esplorare\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/capodanno1-boss.md",
+			"display_name": "capodanno1-boss",
+			"status": "Modified",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1-boss.md b/saghe/moduli-non-usati/capodanno1-boss.md\nindex df903ab..bfc7696 100644\n--- a/saghe/moduli-non-usati/capodanno1-boss.md\n+++ b/saghe/moduli-non-usati/capodanno1-boss.md\n@@ -1,3 +1,4 @@\n+#dm\n # 🔥 STAT BLOCK – BOSS\n \n ## Il Cuore dell’Anno Vecchio\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/capodanno1-minion.md",
+			"display_name": "capodanno1-minion",
+			"status": "Modified",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1-minion.md b/saghe/moduli-non-usati/capodanno1-minion.md\nindex 88eeba5..6fd191f 100644\n--- a/saghe/moduli-non-usati/capodanno1-minion.md\n+++ b/saghe/moduli-non-usati/capodanno1-minion.md\n@@ -1,3 +1,4 @@\n+#dm\n # 👥 STAT BLOCK – MINION\n \n ## Creature dell’Anno Vecchio\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/capodanno1.md",
+			"display_name": "capodanno1",
+			"status": "Modified",
+			"diff": "commit dc22eb5a2e209e2a41eeca36a8b3957e6930b7fd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 10:40:38 2026 +0100\n\n    aggiornamento 2026 01 16 10:40 [v 0.0.104]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1.md b/saghe/moduli-non-usati/capodanno1.md\nindex dd7bab0..8f410a9 100644\n--- a/saghe/moduli-non-usati/capodanno1.md\n+++ b/saghe/moduli-non-usati/capodanno1.md\n@@ -1,3 +1,4 @@\n+#dm\n ### ATTO 1 – Presentazione\n \n _Una notte di Capodanno, il villaggio è avvolto da fuochi d'artificio, canti e un'atmosfera di gioia. I personaggi si trovano al centro della festa, circondati da amici, cibo e musica, ma un'ombra si aggira ai margini, portando un presagio di pericolo._\n"
+		}
+	]
+}

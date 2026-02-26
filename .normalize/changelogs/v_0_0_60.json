@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.60",
+	"date": "2026-01-13 09:23:25 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 13 09:23 [v 0.0.60]",
+	"changes": [
+		{
+			"file": "Personaggi/non-giocanti/atos.md",
+			"display_name": "atos",
+			"status": "Added",
+			"diff": "commit 9b4267335604360a891728e4b48fd07d2b08b3de\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 09:23:25 2026 +0100\n\n    aggiornamento 2026 01 13 09:23 [v 0.0.60]\n\ndiff --git a/Personaggi/non-giocanti/atos.md b/Personaggi/non-giocanti/atos.md\nnew file mode 100644\nindex 0000000..001e4fc\n--- /dev/null\n+++ b/Personaggi/non-giocanti/atos.md\n@@ -0,0 +1 @@\n+#dm \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 9b4267335604360a891728e4b48fd07d2b08b3de\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 09:23:25 2026 +0100\n\n    aggiornamento 2026 01 13 09:23 [v 0.0.60]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex bc9122c..291adc8 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -4,7 +4,7 @@ Una volta per turno, quando uccide una o più creature con un incantesimo di liv\n Se uccide una o più creature con un trucchetto recupera 1 punto ferita, 2 se il trucchetto appartiene alla Scuola Necromanzia.  \n Non ottiene questo beneficio se uccide dei costrutti o dei non morti.\n # servitori non morti\n-Conosce l'incantesimo \"[[artefatto-necromante#incantesimi ottenuto dall'artefatto#Animare Morti|Animare Morti]]\".\n+Conosce l'incantesimo \"[[artefatto-necromante#incantesimi#Animare Morti|Animare Morti]]\".\n Quando lancia animare morti, può bersagliare un cadavere o un cumulo di ossa aggiuntivo per creare un altro scheletro o zombi, come appropriato.  \n Ogni volta che crea un non morto usando un incantesimo di necromanzia, quella creatura ottiene i benefici seguenti:  \n • Il massimo dei punti ferita della creatura aumenta di un ammontare pari al livello del warlock.  \n@@ -245,6 +245,7 @@ se possiedi il privilegio `Comandare i Senz'anima` puoi usare con una cd maggior\n # portatori\n a capodanno dell'anno 1312 [[than-warlock-tiefling-30|than]] diventa il portatore di questo artefatto\n # intervento di [[asmodeus]]\n-dopo che than muore [[Asmodeus]] lo salva modificando un po' l'artefatto\n+dopo che [[than-warlock-tiefling-30|than]] muore [[Asmodeus]] lo salva modificando un po' l'artefatto\n #startMaster \n+crea una sorta di barriera mentale per isolare la coscienza di [[atos]] da quella di [[than-warlock-tiefling-30|than]] per evitare che le cose finiscano malamente di nuovo, inoltre come conseguenza alla morte e conseguente resurrezione operata da [[asmodeus]] \n #endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 9b4267335604360a891728e4b48fd07d2b08b3de\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 09:23:25 2026 +0100\n\n    aggiornamento 2026 01 13 09:23 [v 0.0.60]\n\ndiff --git a/todo.md b/todo.md\nindex bb1dae5..93ee53d 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -1,5 +1,7 @@\n #dm \n-- creare un calendario dettagliato (13 mesi) [[calendario]]\n-- sistemare [[irving]] e [[nonno-roshi|roshi]]\n - scrivere moduli futuri\n-- decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n\\ No newline at end of file\n+- decidere se dare xp anche al gioco regolare oltre ai combattimenti (spoiler: sì, svegliati e decidi quanto e come)\n+- [[artefatto-artefice]]\n+- [[artefatto-dellombra]]\n+- artefatto per [[attila-slayer-guerriero-elfo-100]]\n+- artefatto per [[morbiarum-paladino-dragonide-24]]\n\\ No newline at end of file\n"
+		}
+	]
+}

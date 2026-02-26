@@ -1,0 +1,68 @@
+{
+	"version": "v 0.0.109",
+	"date": "2026-01-16 12:39:28 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 16 12:39 [v 0.0.109]",
+	"changes": [
+		{
+			"file": "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
+			"display_name": "attila-slayer-guerriero-elfo-100",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md b/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md\nindex bdc9cb3..ddb3927 100644\n--- a/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md\n+++ b/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md\n@@ -5,4 +5,4 @@ quando aveva 30 anni suo fratello parte all'avventura e ci resta secco.\n questo lo porta a voler diventare più forte per non perdere più nessuno\n # Campagna\n ora si è unito a [[la-mano-rossa|la mano rossa]]\n-![[saga-di-gemgrave]]\n+![[macrosaga-della-chiave]]\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md",
+			"display_name": "dontavious-ladro-mezzelfo-25",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md b/Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md\nindex e814dd2..7d095e8 100644\n--- a/Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md\n+++ b/Personaggi/Giocanti/dontavious-ladro-mezzelfo-25.md\n@@ -5,4 +5,4 @@ Andrea rallo\n in questo villaggio i membri del circo muoiono e conosce [[than-warlock-tiefling-30|Than]] con cui scapperà assieme.\n # Campagna\n ora si è unito a [[la-mano-rossa]]\n-![[Saga-di-GemGrave]]\n+![[macrosaga-della-chiave]]\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/morbiarum-paladino-dragonide-24.md",
+			"display_name": "morbiarum-paladino-dragonide-24",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/Personaggi/Giocanti/morbiarum-paladino-dragonide-24.md b/Personaggi/Giocanti/morbiarum-paladino-dragonide-24.md\nindex 5aaf558..6452a59 100644\n--- a/Personaggi/Giocanti/morbiarum-paladino-dragonide-24.md\n+++ b/Personaggi/Giocanti/morbiarum-paladino-dragonide-24.md\n@@ -5,4 +5,4 @@ clan di origine sterminato dalla [[gli-asmodeici|gli asmodeici]] per cui lui la\n viene adottato da una coppia di halfling che lo crescono con amore e ai suoi 18 anni (maturità) i genitori gli rivelano la sua vera origine e lo sterminio del suo clan, questo il momento in cui giura vendetta\n # Campagna\n ora si è unito a [[la-mano-rossa|la mano rossa]]\n-![[Saga-di-GemGrave]]\n\\ No newline at end of file\n+![[macrosaga-della-chiave]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/than-warlock-tiefling-30.md",
+			"display_name": "than-warlock-tiefling-30",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/Personaggi/Giocanti/than-warlock-tiefling-30.md b/Personaggi/Giocanti/than-warlock-tiefling-30.md\nindex 2b82fce..5d1cb4a 100644\n--- a/Personaggi/Giocanti/than-warlock-tiefling-30.md\n+++ b/Personaggi/Giocanti/than-warlock-tiefling-30.md\n@@ -7,5 +7,5 @@ i suoi poteri da worlock (li ottiene a 16 anni in una cerimonia di maturità in\n quando ha 29 anni arriva nel suo villaggio la carovana di un circo che la setta vuole sacrificare, sopravvive solo [[dontavious-ladro-mezzelfo-25|Dontavious]] che cerca di rubare l'artefatto del villaggio, Than lo coglie sul fatto e toccando l'artefatto risveglia [[Thraal]], l'imp del primo tiefling del villaggio che si lega a lui. alla fine scappa con Dontavius.\n # Campagna\n ora si è unito a [[la-mano-rossa]]\n-![[Saga-di-GemGrave]]\n+![[macrosaga-della-chiave]]\n ora possiede [[artefatto-necromante|l'occhio di Atos]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/Giocanti/vargas-paladino-nano-65.md",
+			"display_name": "vargas-paladino-nano-65",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/Personaggi/Giocanti/vargas-paladino-nano-65.md b/Personaggi/Giocanti/vargas-paladino-nano-65.md\nindex 90bc598..1be5c07 100644\n--- a/Personaggi/Giocanti/vargas-paladino-nano-65.md\n+++ b/Personaggi/Giocanti/vargas-paladino-nano-65.md\n@@ -7,7 +7,7 @@ con gli anni trova moglie tra le ragazze del villaggio quindi ci si trasferisce\n quando Vargas cerca di smettere di partecipare alle missioni da mercenario (il villaggio si sta ingrandendo per cui la taverna basta come mezzo di sostentamento) [[Fumero]] non accetta la scelta e per vendetta brucia la taverna con la sua famiglia dentro. in risposta a questo Vargas fa un giuramento di vendetta contro il gruppo mercenario di [[Fumero]]\n # Campagna\n ora si è unito a [[la-mano-rossa]]\n-![[Saga-di-GemGrave]]\n+![[macrosaga-della-chiave]]\n # appunti da inserire\n SVILUPPO DEL PERSONAGGIO: VARGAS\n paladino con due sottoclassi, della paladino della vendetta e paladino costruttore (o inventore), privilegi del paladino rimarranno invariati, i privilegi delle sottoclassi resteranno un po’ indietro (es; al lv 4, la sottoclasse della vendetta sarà al 3 e invece il lv dell’inventore all 1).\n"
+		},
+		{
+			"file": "entita/demoni/anubius.md",
+			"display_name": "Anubius",
+			"status": "Added",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/entita/demoni/anubius.md b/entita/demoni/anubius.md\nnew file mode 100644\nindex 0000000..43ee9ab\n--- /dev/null\n+++ b/entita/demoni/anubius.md\n@@ -0,0 +1 @@\n+è il servitore che fa tutti i lavori più sporchi e pericolosi per conto di [[asmodeus]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/macrosaga-della-chiave.md",
+			"display_name": "Macrosaga della Chiave",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/saghe/macrosaga-della-chiave.md b/saghe/macrosaga-della-chiave.md\nindex e4b1892..e34763d 100644\n--- a/saghe/macrosaga-della-chiave.md\n+++ b/saghe/macrosaga-della-chiave.md\n@@ -1,7 +1,8 @@\n #macrosaga\n-saghe che la compongono\n-- [[saga-di-gemgrave|Saga di GemGrave]]\n-- [[saga-della-magione|Saga della Magione]]\n-- [[saga-di-merfolk|Saga di Merfolk]]\n-- [[saga-della-biblioteca|Saga della Biblioteca]]\n-#startMaster - [[saga-di-capodanno-1312]] #endMaster \n\\ No newline at end of file\n+![[saga-di-gemgrave]]\n+![[saga-della-magione]]\n+![[saga-di-merfolk]]\n+![[saga-della-biblioteca]]\n+#startMaster \n+![[saga-di-capodanno-1312]]\n+#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/saga-della-biblioteca.md",
+			"display_name": "Saga Della Biblioteca",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/saghe/saga-della-biblioteca.md b/saghe/saga-della-biblioteca.md\nindex c896c5d..47b8091 100644\n--- a/saghe/saga-della-biblioteca.md\n+++ b/saghe/saga-della-biblioteca.md\n@@ -6,4 +6,8 @@\n \n # sessioni\n ## sessione di giovedì 2025 12 18\n-il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte della [[sacra-biblioteca-perduta-salvata-di-atlantide|sacra biblioteca perduta salvata di atlantide]]  \n\\ No newline at end of file\n+il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte della [[sacra-biblioteca-perduta-salvata-di-atlantide|sacra biblioteca perduta salvata di atlantide]].\n+il posto in cui sbucano è una superficie piana e rocciosa e circa una ventina di metri davanti a loro sorge un torre circolare con un merletto in cima, una volta che [[la-mano-rossa]] riesce a salire in cima e scendere le scale a chiocciola che contiene trovano una porta meccanica molto complessa che [[vargas-paladino-nano-65|vargas]] cerca di aprire, non ci riesce ma [[giorgia-rossato|un gufo gigante]] apre la porta e li interroga su chi siano e cosa vogliono.\n+scoprono che questo gufo è un entità un'entità molto antica che segue la conoscenza della tecnologia e la protegge.\n+scoprono inoltre che [[nonno-roshi|roshi]] e [[asmodeus]] sono stati suoi studenti e che nella biblioteca è presente almeno una copia di ogni libro esistente.\n+una volta entrati cercano dei libri per informarsi su [[atlantide]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/saga-di-merfolk.md",
+			"display_name": "Saga Di Merfolk",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/saghe/saga-di-merfolk.md b/saghe/saga-di-merfolk.md\nindex e16c2bd..9929e2a 100644\n--- a/saghe/saga-di-merfolk.md\n+++ b/saghe/saga-di-merfolk.md\n@@ -1,8 +1,8 @@\n #saga\n \n-|    saga precedente     |      saga successiva      |     macrosaga di appartenenza      |\n-| :--------------------: | :-----------------------: | :--------------------------------: |\n-| [[saga-della-magione]] | [[saga-della-biblioteca]] | [[macrosaga-della-chiave\\|chiave]] |\n+|              saga precedente               |                 saga successiva                  |     macrosaga di appartenenza      |\n+| :----------------------------------------: | :----------------------------------------------: | :--------------------------------: |\n+| [[saga-della-magione\\|Saga della Magione]] | [[saga-della-biblioteca\\|Saga della Biblioteca]] | [[macrosaga-della-chiave\\|chiave]] |\n \n # sessioni\n ## sessione di venerdì 2025 11 21\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide.md",
+			"display_name": "Atlantide",
+			"status": "Modified",
+			"diff": "commit b1884c9300ebe05d759af459a647e44df2f2ae50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 12:39:28 2026 +0100\n\n    aggiornamento 2026 01 16 12:39 [v 0.0.109]\n\ndiff --git a/universi/phandalmain/atlantide.md b/universi/phandalmain/atlantide.md\nindex da5e4fc..cd54291 100644\n--- a/universi/phandalmain/atlantide.md\n+++ b/universi/phandalmain/atlantide.md\n@@ -1,2 +1,5 @@\n-#dm \n-isola al centro del lago continentale di [[phandalmain]], durante l'[[epoca-leggendaria|epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua\n\\ No newline at end of file\n+#startMaster \n+isola al centro del lago continentale di [[phandalmain]].\n+la città che si è creata su quest'isola si chiama comunque così\n+#endMaster \n+durante l'[[epoca-leggendaria|epoca leggendaria]] era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua\n\\ No newline at end of file\n"
+		}
+	]
+}

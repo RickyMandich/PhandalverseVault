@@ -1,14 +1,14 @@
 {
 	"version": "v 0.0.159",
-	"date": "2026-01-30 14:36:42",
-	"commit_hash": "4df8eac8e2ee9ca3a9b23d00020893bd68336e7b",
+	"date": "2026-01-30 14:36:49 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 01 30 14:36 [v 0.0.159]",
 	"changes": [
 		{
 			"file": "universi/mondo-dellombra.md",
-			"display_name": "Mondo dell'Ombra",
+			"display_name": "mondo-dellombra",
 			"status": "Modified",
-			"diff": "diff --git a/universi/mondo-dellombra.md b/universi/mondo-dellombra.md\nindex 139597f..8b13789 100644\n--- a/universi/mondo-dellombra.md\n+++ b/universi/mondo-dellombra.md\n@@ -1,2 +1 @@\n \n-\n"
+			"diff": "commit 23dca603827ccdb7eb3feb8adb5f3dead4fbfe4a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 30 14:36:46 2026 +0100\n\n    aggiornamento 2026 01 30 14:36 [v 0.0.159]\n\ndiff --git a/universi/mondo-dellombra.md b/universi/mondo-dellombra.md\nindex 139597f..8b13789 100644\n--- a/universi/mondo-dellombra.md\n+++ b/universi/mondo-dellombra.md\n@@ -1,2 +1 @@\n \n-\n"
 		}
 	]
 }

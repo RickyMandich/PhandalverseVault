@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.45",
+	"date": "2026-01-12 16:40:51 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 12 16:40 [v 0.0.45]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 9273c92fb8edcda99325eeafa93fc18371c0e2a2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 12 16:40:51 2026 +0100\n\n    aggiornamento 2026 01 12 16:40 [v 0.0.45]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex 962dbcf..b992352 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -135,7 +135,7 @@ You afflict up to 3 targets which possess skeletons. and are within a 20' cube.\n **Ai livelli superiori:** Casting this spell with a higher level spell slot increases the number of targets affected by 1 per level.\n \n **Classi:** \n-https://it.scribd.com/document/578830707/5e-Osteomancy-Spells\n+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)\n \n ---\n # SHOWER OF SHARDS\n@@ -149,6 +149,6 @@ https://it.scribd.com/document/578830707/5e-Osteomancy-Spells\n The bone dagger in your hand sprouts four copies of itself out of its blade, which then sprout their own copies until you momentarily hold a hundred bone daggers joined together by thin rods of bone. They then fling themselves at your foes all at once, dealing 8d6 piercing damage in a 45' cone or in a 60'×10' line.A successful Dexterity save halves the damage.\n \n **Classi:**   \n-(https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)\n+[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells]\n \n ---\n"
+		}
+	]
+}

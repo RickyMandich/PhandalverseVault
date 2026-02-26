@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.135",
+	"date": "2026-01-22 15:07:33 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 22 15:07 [v 0.0.135]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
+			"display_name": "Kṓkȳtos (gelo)",
+			"status": "Modified",
+			"diff": "commit e83ec9464c466d84de4502630b116635abab3ca9\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 22 15:07:33 2026 +0100\n\n    aggiornamento 2026 01 22 15:07 [v 0.0.135]\n\ndiff --git a/artefatti/party/artefatto-sussurratore-del-gelo.md b/artefatti/party/artefatto-sussurratore-del-gelo.md\nindex 64c3e9d..0c68320 100644\n--- a/artefatti/party/artefatto-sussurratore-del-gelo.md\n+++ b/artefatti/party/artefatto-sussurratore-del-gelo.md\n@@ -274,7 +274,7 @@ tabella esplicativa:\n \n ![[incantesimi/tutti/folata-di-vento]]\n ![[incantesimi/tutti/silenzio]]\n-![[tempesta-di-nevischio]]\n+![[incantesimi/tutti/tempesta-di-nevischio|tempesta-di-nevischio]]\n ![[incantesimi/tutti/tempesta-di-ghiaccio]]\n ![[incantesimi/tutti/evoca-pioggia-di-armi]]\n ## lista ranger\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/capodanno1/capodanno1-boss.md",
+			"display_name": "capodanno1-boss",
+			"status": "Modified",
+			"diff": "commit e83ec9464c466d84de4502630b116635abab3ca9\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 22 15:07:33 2026 +0100\n\n    aggiornamento 2026 01 22 15:07 [v 0.0.135]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1/capodanno1-boss.md b/saghe/moduli-non-usati/capodanno1/capodanno1-boss.md\nindex bfc7696..4befc57 100644\n--- a/saghe/moduli-non-usati/capodanno1/capodanno1-boss.md\n+++ b/saghe/moduli-non-usati/capodanno1/capodanno1-boss.md\n@@ -40,18 +40,14 @@ Il Cuore non può morire definitivamente finché l’anno non termina.\n Due *Colpi del Tempo Stagnante*.\n \n ***Colpo del Tempo Stagnante.***  \n-+7 a colpire, portata 3 m.  \n-**Danni:** 2d10 + 4 contundenti + 1d6 necrotici. *Tiro salvezza di Destrezza (DC 13) per dimezzare i danni.*\n+portata 3 m.  \n+**Danni:** 2d10 + for (4) contundenti + 1d6 necrotici. *Tiro salvezza di Destrezza (DC 13) per dimezzare i danni.*\n \n ***Evocazione dell’Anno Vecchio.***  \n-Il Cuore evoca **5–6 Creature dell’Anno Vecchio**.  \n-Se usa questa azione, **non può attaccare** questo turno.\n+Il Cuore evoca **5–6 Creature dell’Anno Vecchio**.\n \n ---\n \n ### Suggerimenti di movimento\n \n-- **Volo fluttuante**: Il Cuore può muoversi sopra il terreno, ignorando ostacoli a bassa altezza. Usa la sua velocità di 6 m per spostarsi in 3 m di altezza e 3 m in orizzontale per turno.\n-- **Teletrasporto rituale**: Una volta ogni 3 round, può teletrasportarsi entro 12 m verso un punto visibile, forzando i minion a seguirlo.\n-- **Attacco a distanza**: Quando è circondato da più di 4 minion, preferisce mantenere la distanza (6 m) e usare il *Colpo del Tempo Stagnante*.\n-- **Interazione con il rituale**: Se il rituale è attivo, il Cuore può rimanere immobile per mantenere il progresso, ma può comunque volare per evitare attacchi a distanza.\n+- **Volo fluttuante**: Il Cuore può muoversi sopra il terreno, ignorando ostacoli a bassa altezza. Usa la sua velocità di 6 m per spostarsi in 3 m di altezza e 3 m in orizzontale per turno.\n\\ No newline at end of file\n"
+		}
+	]
+}

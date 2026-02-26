@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.55",
+	"date": "2026-01-12 23:39:26 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 12 23:39 [v 0.0.55]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 7feaab24cec6ab70e57301f20448a4c750379d1d\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 12 23:39:26 2026 +0100\n\n    aggiornamento 2026 01 12 23:39 [v 0.0.55]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex 7dcfed3..6a61c67 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -94,6 +94,23 @@ se l'arma cresce dal braccio scheletrico hai vantaggio per colpire.\n [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)\n \n ---\n+## Tocco del Vampiro Occultista\n+*Trucchetto, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** tocco\n+- **Componenti:** V, S\n+- **Durata:** Istantaneo\n+\n+Il tocco della mano dell'incantatore, avviluppata in una cortina d'ombra, può risucchiare l'energia vitale delle altre creature per curare le proprie ferite. L'incantatore effettua un attacco con incantesimo in mischia contro una creatura entro portata. Se colpisce, il bersaglio subisce 2d6 danni necrotici e l'incantatore recupera un ammontare di punti ferita pari alla metà dei danni necrotici inflitti.\n+\n+**Ai livelli superiori:** fa 4d6 al 5° livello, 6d6 all'11° livello e 8d6 al 17° livello.\n+\n+**Classi:** Warlock\n+fatto da noi\n+\n+---\n+\n ## CALCIFIC SPIKES\n *trucchetto, trasmutazione*\n \n"
+		}
+	]
+}

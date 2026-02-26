@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.93",
+	"date": "2026-01-15 12:34:25 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 15 12:34 [v 0.0.93]",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/capodanno1.md",
+			"display_name": "capodanno1",
+			"status": "Added",
+			"diff": "commit 4c7ab06fcd2cd0fefb6af18249c15e5603ce65f1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:34:25 2026 +0100\n\n    aggiornamento 2026 01 15 12:34 [v 0.0.93]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1.md b/saghe/moduli-non-usati/capodanno1.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		}
+	]
+}

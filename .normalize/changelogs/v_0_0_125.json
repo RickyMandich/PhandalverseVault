@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.125",
+	"date": "2026-01-21 14:46:13 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 21 14:46 [v 0.0.125]",
+	"changes": [
+		{
+			"file": "saghe/saga-di-capodanno-1312.md",
+			"display_name": "Saga Di Capodanno 1312",
+			"status": "Modified",
+			"diff": "commit 6bed291a2cdb8ec747908ba5228d1fc1b396cfa9\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jan 21 14:46:13 2026 +0100\n\n    aggiornamento 2026 01 21 14:46 [v 0.0.125]\n\ndiff --git a/saghe/saga-di-capodanno-1312.md b/saghe/saga-di-capodanno-1312.md\nindex b4ef60d..344f29c 100644\n--- a/saghe/saga-di-capodanno-1312.md\n+++ b/saghe/saga-di-capodanno-1312.md\n@@ -1,10 +1,13 @@\n-#dm #saga\n+#saga\n \n |      saga precedente      | saga successiva |     macrosaga di appartenenza      |\n | :-----------------------: | :-------------: | :--------------------------------: |\n | [[saga-della-biblioteca]] |                 | [[macrosaga-della-chiave\\|chiave]] |\n+#startMaster \n+questa saga è schematizzata da [[capodanno1]]\n+#endMaster \n # sessioni\n ## sessione di venerdì 2026 01 16\n mentre [[la-mano-rossa|il party]] si sta divertendo al festival di capodanno di [[GemGrave]]  il posto viene attaccato da 9 [[capodanno1-minion|greature magiche]] non meglio definite e il party le combatte per salvare se stessi e gli altri.\n-dopo uno scontro molto combattuto che li ha quasi uccisi roshi arriva e li salva usando dei poteri mai visti prima.\n+dopo uno scontro molto combattuto che li ha quasi uccisi [[nonno-roshi]] arriva e li salva usando dei poteri mai visti prima.\n ## sessione di venerdì 2026 01 23\n\\ No newline at end of file\n"
+		}
+	]
+}

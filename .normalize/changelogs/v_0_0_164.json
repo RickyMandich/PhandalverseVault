@@ -1,14 +1,14 @@
 {
 	"version": "v 0.0.164",
-	"date": "2026-01-30 16:52:54",
-	"commit_hash": "aeff0f2292388fb054b4f3c8c0b09cceb466d4d4",
+	"date": "2026-01-30 16:53:01 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 01 30 16:52 [v 0.0.164]",
 	"changes": [
 		{
 			"file": "artefatti/party/artefatto-dellombra.md",
-			"display_name": "Myrkvaðinn",
+			"display_name": "Myrkvaðinn (ombra)",
 			"status": "Modified",
-			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 3d4236b..c59d095 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -15,7 +15,7 @@ quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su\n \n ---\n # passo dell'ombra\n-il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità\n+il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità.\n \n Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.\n \n"
+			"diff": "commit e0be33e76fc5b18eab04168e5e7766ee579b2195\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 30 16:52:58 2026 +0100\n\n    aggiornamento 2026 01 30 16:52 [v 0.0.164]\n\ndiff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 3d4236b..c59d095 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -15,7 +15,7 @@ quando lancia l'incantesimo [[incantesimi/tutti/scurovisione|scurovisione]] su\n \n ---\n # passo dell'ombra\n-il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità\n+il proprietario ottiene la capacità di entrare e uscire dal [[mondo-dellombra]]. Quando si trova in condizioni di luce fioca o di oscurità, con un'azione bonus può teletrasportarsi passando per il [[mondo-dellombra]] fino a uno spazio libero che egli sia in grado di vedere e che si trovi a sua volta in condizioni di luce fioca o di oscurità o un posto che conosce che sia in condizione di luce fioca o oscurità.\n \n Dispone poi di vantaggio al primo attacco in mischia che effettua prima della fine del turno.\n \n"
 		}
 	]
 }

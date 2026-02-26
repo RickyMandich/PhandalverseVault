@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.15",
+	"date": "2026-01-08 11:54:05 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 08 11:54 [v 0.0.15]",
+	"changes": [
+		{
+			"file": "Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md",
+			"display_name": "attila-slayer-guerriero-elfo-100",
+			"status": "Modified",
+			"diff": "commit 8dcb947e530f2e62f8de6935925d56cd267750dc\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 8 11:54:05 2026 +0100\n\n    aggiornamento 2026 01 08 11:54 [v 0.0.15]\n\ndiff --git a/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md b/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md\nindex 52b95ca..bdc9cb3 100644\n--- a/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md\n+++ b/Personaggi/Giocanti/attila-slayer-guerriero-elfo-100.md\n@@ -5,4 +5,4 @@ quando aveva 30 anni suo fratello parte all'avventura e ci resta secco.\n questo lo porta a voler diventare più forte per non perdere più nessuno\n # Campagna\n ora si è unito a [[la-mano-rossa|la mano rossa]]\n-![[Saga-di-GemGrave]]\n+![[saga-di-gemgrave]]\n"
+		}
+	]
+}

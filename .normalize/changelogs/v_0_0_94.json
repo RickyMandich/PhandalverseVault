@@ -1,0 +1,62 @@
+{
+	"version": "v 0.0.94",
+	"date": "2026-01-15 12:53:33 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 15 12:53 [v 0.0.94]",
+	"changes": [
+		{
+			"file": "entita/divinita/krystallo.md",
+			"display_name": "krystallo",
+			"status": "Deleted",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/entita/divinita/krystallo.md b/entita/divinita/krystallo.md\ndeleted file mode 100644\nindex 95ea22d..0000000\n--- a/entita/divinita/krystallo.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#divinità \n-Divinità di tutti i materiali cristallini (ghiaccio, vetro ...)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "entita/divinita/lithos.md",
+			"display_name": "lithos",
+			"status": "Deleted",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/entita/divinita/lithos.md b/entita/divinita/lithos.md\ndeleted file mode 100644\nindex f43f0e5..0000000\n--- a/entita/divinita/lithos.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#divinità \n-Divinità delle gemme minerali, alle volte associato anche a generiche pietre preziose\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "incantesimi/tutti/Animare Morti.md",
+			"display_name": "Animare Morti",
+			"status": "Renamed",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/incantesimi/tutti/Animare Morti.md b/incantesimi/tutti/Animare Morti.md\ndeleted file mode 100644\nindex cb916cd..0000000\n--- a/incantesimi/tutti/Animare Morti.md\t\n+++ /dev/null\n@@ -1,15 +0,0 @@\n-# Animare Morti\n-*3° livello, Necromanzia*\n-\n-- **Tempo di lancio:** 1 minuto\n-- **Raggio d'azione:** 3 m\n-- **Componenti:** V, S, M (una goccia di sangue, un brandello di carne, un pizzico di polvere d'osso)\n-- **Durata:** Istantanea\n-\n-Questo incantesimo crea un servitore non morto, scegliendo un cadavere di umanoide Medio o Piccolo entro gittata. Il suo incantesimo infonde nel bersaglio un'empia parvenza di vita, animandolo come creatura non morta. Il bersaglio diventa uno scheletro se l'incantatore ha scelto le ossa o uno zombi se ha scelto un cadavere. (Il DM possiede le statistiche di gioco di queste creature).\n-\n-**Ai livelli superiori:** Quando l'incantatore lancia questo incantesimo usando uno slot incantesimo di 4° livello o superiore, anima o ristabilisce il controllo su due creature non morte aggiuntive per ogni slot di livello superiore al 3°. Ognuna di queste creature deve provenire da un cumulo di ossa o da un cadavere diverso.\n-\n-**Classi:** Mago, Chierico, Warlock\n-\n----\n"
+		},
+		{
+			"file": "saghe/saga-di-gemgrave.md",
+			"display_name": "Saga Di Gemgrave",
+			"status": "Modified",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/saghe/saga-di-gemgrave.md b/saghe/saga-di-gemgrave.md\nindex b7378ab..17e5b52 100644\n--- a/saghe/saga-di-gemgrave.md\n+++ b/saghe/saga-di-gemgrave.md\n@@ -35,4 +35,4 @@ tutti i giocatori prendono 125 punti esperienza lasciando in conto comune 0 xp\n Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la-mano-rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[kanye-ovest|cucciolo]] con cui [[dontavious-ladro-mezzelfo-25|dontavious]] fa amicizia . Nella stanza dopo trovano il pezzo della [[la-chiave|chiave]] e il draghetto uccide [[irving]]\n \n ## sessione di giovedì 2025 12 18\n-il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte d\n\\ No newline at end of file\n+il party attraversa un portale per andare alla ricerca di un pezzo di [[la-chiave|chiave]] e finisce alle porte della \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Cristalgreiv.md",
+			"display_name": "Cristalgreiv",
+			"status": "Modified",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/universi/fandalmein/fandanolend/Cristalgreiv.md b/universi/fandalmein/fandanolend/Cristalgreiv.md\nindex ab95f8b..c5da1e1 100644\n--- a/universi/fandalmein/fandanolend/Cristalgreiv.md\n+++ b/universi/fandalmein/fandanolend/Cristalgreiv.md\n@@ -1,2 +1 @@\n-#citta \n-città costruita sul cadavere di [[Krystallo]]\n\\ No newline at end of file\n+#citta \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/GemGreiv.md",
+			"display_name": "GemGreiv",
+			"status": "Modified",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/universi/fandalmein/fandasulend/GemGreiv.md b/universi/fandalmein/fandasulend/GemGreiv.md\nindex 3657a47..c5da1e1 100644\n--- a/universi/fandalmein/fandasulend/GemGreiv.md\n+++ b/universi/fandalmein/fandasulend/GemGreiv.md\n@@ -1,2 +1 @@\n-#citta \n-città costruita sul cadavere di [[lithos|Líthos]]\n\\ No newline at end of file\n+#citta \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/Cristalgrave.md",
+			"display_name": "Cristalgrave",
+			"status": "Modified",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/universi/phandalmain/phandanoland/Cristalgrave.md b/universi/phandalmain/phandanoland/Cristalgrave.md\nindex c196b17..dbb987c 100644\n--- a/universi/phandalmain/phandanoland/Cristalgrave.md\n+++ b/universi/phandalmain/phandanoland/Cristalgrave.md\n@@ -1,2 +1 @@\n #citta  \n-città costruita sul cadavere di [[Krystallo]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/GemGrave.md",
+			"display_name": "GemGrave",
+			"status": "Modified",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/universi/phandalmain/phandasuland/GemGrave.md b/universi/phandalmain/phandasuland/GemGrave.md\nindex 3657a47..c5da1e1 100644\n--- a/universi/phandalmain/phandasuland/GemGrave.md\n+++ b/universi/phandalmain/phandasuland/GemGrave.md\n@@ -1,2 +1 @@\n-#citta \n-città costruita sul cadavere di [[lithos|Líthos]]\n\\ No newline at end of file\n+#citta \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+			"display_name": "Sacra Biblioteca Perduta Salvata di Atlantide",
+			"status": "Added",
+			"diff": "commit 38c3f0737c4393e05330c747a3aa7a1066a258d8\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 12:53:33 2026 +0100\n\n    aggiornamento 2026 01 15 12:53 [v 0.0.94]\n\ndiff --git a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		}
+	]
+}

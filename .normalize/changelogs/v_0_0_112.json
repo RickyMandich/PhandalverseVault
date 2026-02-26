@@ -1,0 +1,38 @@
+{
+	"version": "v 0.0.112",
+	"date": "2026-01-19 17:18:13 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 19 17:18 [v 0.0.112]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit b37ce2ee5dded35bdba8be0a5d008cf2447bbf34\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 19 17:18:13 2026 +0100\n\n    aggiornamento 2026 01 19 17:18 [v 0.0.112]\n\ndiff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex 722bb15..2b09aaa 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -553,41 +553,8 @@ tabella esplicativa:\n \t</tbody>\n </table>\n \n-## sciame di parassiti\n-*1° livello, necromanzia*  \n-\n-- **Tempo di lancio:** 1 azione\n-- **Gittata:** 9m\n-- **Componenti:** V, S\n-- **Durata:** Concentrazione, fino a 1 minute\n-\n-Uno sciame di insetti prende vita dalla punta delle tue dita e vola verso una creatura entro gittata. Una creatura che fallisce un tiro salvezza su Destrezza subisce 1d6 danni da veleno, o la metà in caso di successo.\n-\n-Nei turni successivi, puoi dirigere lo sciame ad attaccare un'altra creatura entro gittata, o tornare verso di te, come azione bonus. Se lo sciame esce dalla gittata, l'incantesimo termina.\n-\n-**Ai livelli superiori.** quando lanci questo incantesimo con uno slot di livello 2 o superiore il danno aumenta di 1d6 per ogni livello superiore al 1\n-\n-**Classi**: Mago\n-[https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)\n-\n----\n-## falce di ade\n-*2° livello, Necromanzia*\n-\n-- **Tempo di lancio:** 1 azione\n-- **Gittata:** 1.5m\n-- **Componenti:** V, S\n-- **Durata:** Istantaneo\n-\n-Crei una Falce di energia necrotica e la usi per colpire una creatura entro gittata. fai un tiro per colpire in mischia (è comunque un'arma magica quindi usi il tuo bonus da incantatore) e se colpisci sono 4d6 danni necrotici.\n-A un essere umanoide che muore di conseguenza a questo incantesimo la cane viene strappata dalle ossa e sorge come scheletro sotto il tuo controllo. lo scheletro tira la sua iniziativa e può combattere indipendentemente \n-\n-**Ai livelli superiori:** quando lanci questo incantesimo con uno slot di 3 livello o superiore il danno aumenta di 1d6 per ogni livello sopra al 2. la gittata aumenta di 0.5 m per ogni slot sopra al 2, da quando raggiunge i 3m prende i nemici su un cono di 90° ma può creare un numero di scheletri per attacco pari al proprio bonus da incantatore\n-\n-**Classi**: Mago\n-[https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)\n-\n----\n+![[incantesimi/tutti/sciamediparassiti]]\n+![[incantesimi/tutti/falce-di-ade]]\n \n ## Peste putrida\n *3° livello, necromanzia*\n"
+		},
+		{
+			"file": "incantesimi/necromante/falce-di-ade.md",
+			"display_name": "falce-di-ade",
+			"status": "Added",
+			"diff": "commit b37ce2ee5dded35bdba8be0a5d008cf2447bbf34\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 19 17:18:13 2026 +0100\n\n    aggiornamento 2026 01 19 17:18 [v 0.0.112]\n\ndiff --git a/incantesimi/necromante/falce-di-ade.md b/incantesimi/necromante/falce-di-ade.md\nnew file mode 100644\nindex 0000000..d0f89e6\n--- /dev/null\n+++ b/incantesimi/necromante/falce-di-ade.md\n@@ -0,0 +1 @@\n+![[incantesimi/tutti/falce-di-ade]]\n"
+		},
+		{
+			"file": "incantesimi/necromante/sciamediparassiti.md",
+			"display_name": "sciamediparassiti",
+			"status": "Added",
+			"diff": "commit b37ce2ee5dded35bdba8be0a5d008cf2447bbf34\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 19 17:18:13 2026 +0100\n\n    aggiornamento 2026 01 19 17:18 [v 0.0.112]\n\ndiff --git a/incantesimi/necromante/sciamediparassiti.md b/incantesimi/necromante/sciamediparassiti.md\nnew file mode 100644\nindex 0000000..ce9460a\n--- /dev/null\n+++ b/incantesimi/necromante/sciamediparassiti.md\n@@ -0,0 +1 @@\n+![[incantesimi/tutti/sciamediparassiti]]\n"
+		},
+		{
+			"file": "incantesimi/tutti/falce-di-ade.md",
+			"display_name": "falce-di-ade",
+			"status": "Added",
+			"diff": "commit b37ce2ee5dded35bdba8be0a5d008cf2447bbf34\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 19 17:18:13 2026 +0100\n\n    aggiornamento 2026 01 19 17:18 [v 0.0.112]\n\ndiff --git a/incantesimi/tutti/falce-di-ade.md b/incantesimi/tutti/falce-di-ade.md\nnew file mode 100644\nindex 0000000..f835a64\n--- /dev/null\n+++ b/incantesimi/tutti/falce-di-ade.md\n@@ -0,0 +1,18 @@\n+## Falce di Ade\n+*2° livello, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** 1.5m\n+- **Componenti:** V, S\n+- **Durata:** Istantaneo\n+\n+Crei una Falce di energia necrotica e la usi per colpire una creatura entro gittata. fai un tiro per colpire in mischia (è comunque un'arma magica quindi usi il tuo bonus da incantatore) e se colpisci sono 4d6 danni necrotici.\n+A un essere umanoide che muore di conseguenza a questo incantesimo la carne viene strappata dalle ossa e sorge come scheletro sotto il tuo controllo. lo scheletro tira la sua iniziativa e può combattere indipendentemente\n+\n+**Ai livelli superiori:** Quando lanci questo incantesimo con uno slot di 3 livello o superiore il danno aumenta di 1d6 per ogni livello sopra al 2. la gittata aumenta di 0.5 m per ogni slot sopra al 2, da quando raggiunge i 3m prende i nemici su un cono di 90° ma può creare un numero di scheletri per attacco pari al proprio bonus da incantatore\n+\n+**Classi:** Mago\n+\n+**Sorgente:** [https://homebrewery.naturalcrit.com/share/rybU2vXOQB](https://homebrewery.naturalcrit.com/share/rybU2vXOQB)\n+\n+---\n"
+		},
+		{
+			"file": "incantesimi/tutti/sciamediparassiti.md",
+			"display_name": "sciamediparassiti",
+			"status": "Added",
+			"diff": "commit b37ce2ee5dded35bdba8be0a5d008cf2447bbf34\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 19 17:18:13 2026 +0100\n\n    aggiornamento 2026 01 19 17:18 [v 0.0.112]\n\ndiff --git a/incantesimi/tutti/sciamediparassiti.md b/incantesimi/tutti/sciamediparassiti.md\nnew file mode 100644\nindex 0000000..673b753\n--- /dev/null\n+++ b/incantesimi/tutti/sciamediparassiti.md\n@@ -0,0 +1,16 @@\n+## Sciame di Parassiti\n+*1° livello, Necromanzia*\n+\n+- **Tempo di lancio:** 1 azione\n+- **Raggio d'azione:** 9m\n+- **Componenti:** V, S\n+- **Durata:** Concentrazione, fino a 1 minuto\n+\n+Uno sciame di insetti prende vita dalla punta delle tue dita e vola verso una creatura entro gittata. Una creatura che fallisce un tiro salvezza su Destrezza subisce 1d6 danni da veleno, o la metà in caso di successo.\n+Nei turni successivi, puoi dirigere lo sciame ad attaccare un'altra creatura entro gittata, o tornare verso di te, come azione bonus. Se lo sciame esce dalla gittata, l'incantesimo termina.\n+\n+**Ai livelli superiori:** quando lanci questo incantesimo con uno slot di livello 2 o superiore il danno aumenta di 1d6 per ogni livello superiore al 1\n+\n+**Classi:** Mago\n+\n+---\n"
+		}
+	]
+}

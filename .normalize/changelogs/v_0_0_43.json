@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.43",
+	"date": "2026-01-12 16:39:05 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 12 16:39 [v 0.0.43]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 7e27bdcf37c59216d548198fd66b3906d7a142b9\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 12 16:39:05 2026 +0100\n\n    aggiornamento 2026 01 12 16:39 [v 0.0.43]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex 8c42708..579fadc 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -147,6 +147,6 @@ https://it.scribd.com/document/578830707/5e-Osteomancy-Spells\n \n The bone dagger in your hand sprouts four copies of itself out of its blade, which then sprout their own copies until you momentarily hold a hundred bone daggers joined together by thin rods of bone. They then fling themselves at your foes all at once, dealing 8d6 piercing damage in a 45' cone or in a 60'×10' line.A successful Dexterity save halves the damage.\n \n-**Classi:** \n+**Classi:**   \n https://it.scribd.com/document/578830707/5e-Osteomancy-Spells\n ---\n"
+		}
+	]
+}

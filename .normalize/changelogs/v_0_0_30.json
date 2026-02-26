@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.30",
+	"date": "2026-01-10 22:01:13 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 10 22:01 [v 0.0.30]",
+	"changes": [
+		{
+			"file": "Personaggi/gruppi/la-mano-rossa.md",
+			"display_name": "la-mano-rossa",
+			"status": "Modified",
+			"diff": "commit 503ec9064002cf01a51ba78c3b9f34035c0f6f48\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sat Jan 10 22:01:13 2026 +0100\n\n    aggiornamento 2026 01 10 22:01 [v 0.0.30]\n\ndiff --git a/Personaggi/gruppi/la-mano-rossa.md b/Personaggi/gruppi/la-mano-rossa.md\nindex 9de1137..0439338 100644\n--- a/Personaggi/gruppi/la-mano-rossa.md\n+++ b/Personaggi/gruppi/la-mano-rossa.md\n@@ -3,11 +3,11 @@\n ## [[vargas-paladino-nano-65|Vargas (Paladino Nano, 65)]]\n ![[vargas-paladino-nano-65]]\n ## [[than-warlock-tiefling-30|Than (Warlock tiefling, 30)]]\n-![[than-warlock-tiefling-30|Than (Warlock tiefling, 30)]]\n+![[than-warlock-tiefling-30]]\n ## [[dontavious-ladro-mezzelfo-25|Dontavious (Ladro Mezzelfo, 25)]]\n-![[dontavious-ladro-mezzelfo-25|Dontavious (Ladro Mezzelfo, 25)]]\n+![[dontavious-ladro-mezzelfo-25]]\n ## [[morbiarum-paladino-dragonide-24|Morbiarum (Paladino Dragonide, 24)]]\n-![[morbiarum-paladino-dragonide-24|Morbiarum (Paladino Dragonide, 24)]]\n+![[morbiarum-paladino-dragonide-24]]\n ## [[attila-slayer-guerriero-elfo-100|Attila Slayer (Guerriero Elfo, 100)]]\n ![[attila-slayer-guerriero-elfo-100]]\n \n"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.107",
+	"date": "2026-01-16 11:15:36 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 16 11:15 [v 0.0.107]",
+	"changes": [
+		{
+			"file": "saghe/macrosaga-della-chiave.md",
+			"display_name": "Macrosaga della Chiave",
+			"status": "Modified",
+			"diff": "commit deda0ac747dfc16422a1b075be281bb168d61883\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 16 11:15:36 2026 +0100\n\n    aggiornamento 2026 01 16 11:15 [v 0.0.107]\n\ndiff --git a/saghe/macrosaga-della-chiave.md b/saghe/macrosaga-della-chiave.md\nindex e4b1892..1b32b1b 100644\n--- a/saghe/macrosaga-della-chiave.md\n+++ b/saghe/macrosaga-della-chiave.md\n@@ -4,4 +4,5 @@ saghe che la compongono\n - [[saga-della-magione|Saga della Magione]]\n - [[saga-di-merfolk|Saga di Merfolk]]\n - [[saga-della-biblioteca|Saga della Biblioteca]]\n-#startMaster - [[saga-di-capodanno-1312]] #endMaster \n\\ No newline at end of file\n+#startMaster - [[saga-di-capodanno-1312]] #endMaster \n+arwiusghsdkgvbdskghbdskbdksvbdskvbd\n\\ No newline at end of file\n"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.24",
+	"date": "2026-01-09 16:58:20 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 09 16:58 [v 0.0.24]",
+	"changes": [
+		{
+			"file": "Personaggi/gruppi/i-purgatori.md",
+			"display_name": "i-purgatori",
+			"status": "Modified",
+			"diff": "commit aff34ffc3e6e1f1da409812f97d78f5f383dd31c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 9 16:58:20 2026 +0100\n\n    aggiornamento 2026 01 09 16:58 [v 0.0.24]\n\ndiff --git a/Personaggi/gruppi/i-purgatori.md b/Personaggi/gruppi/i-purgatori.md\nindex e69de29..e0e63f7 100644\n--- a/Personaggi/gruppi/i-purgatori.md\n+++ b/Personaggi/gruppi/i-purgatori.md\n@@ -0,0 +1,2 @@\n+# fondazione\n+vengono fondati all'inizio della [[la-purga|purga]] per trovare e giustiziare tutti gli [[artefici]] e eliminare o usare per i loro scopi. tutte le invenzione che verranno requisite per dare la caccia agli [[artefici]] andranno distrutte alla morte dell'ultimo artefice\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/irving.md",
+			"display_name": "irving",
+			"status": "Modified",
+			"diff": "commit aff34ffc3e6e1f1da409812f97d78f5f383dd31c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 9 16:58:20 2026 +0100\n\n    aggiornamento 2026 01 09 16:58 [v 0.0.24]\n\ndiff --git a/Personaggi/non-giocanti/irving.md b/Personaggi/non-giocanti/irving.md\nindex a96533e..f7e1d97 100644\n--- a/Personaggi/non-giocanti/irving.md\n+++ b/Personaggi/non-giocanti/irving.md\n@@ -3,5 +3,5 @@ mezzelfo abitante di una grotta in fondo alla [[fossa-delle-marie|fossa delle ma\n ha dedicato la maggior parte della sua vita (dalla [[la-frattura|frattura]] fino alla sua morte) a proteggere il pezzo di [[la-chiave|chiave]] custodito in fondo al complesso di caverne collegato alla grotta in cui viveva\n lui è stato una degli unici 2 [[artefici]] a sopravvivere alla [[la-frattura|frattura]] (ndt. [[nonno-roshi|roshi]])\n #startMaster \n-durante l'[[epoca-leggendaria|epoca leggendaria]] era il più grande rivale di [[nonno-roshi|roshi]], cominciarono a fare amicizia e a informarsi a vicenda quando i due cominciarono a seguire i due opposti rami ideologici degli [[artefici]]: secondo [[irving]] bisognava svelare tutti i segreti della magia e imparare a creare tecnologia incantata, [[nonno-roshi|roshi]] invece credeva nella tecnologia nella sua forma più pura\n+durante l'[[epoca-leggendaria|epoca leggendaria]] era il più grande rivale di [[nonno-roshi|roshi]], cominciarono a fare amicizia e a informarsi a vicenda quando i due cominciarono a seguire i due opposti rami ideologici degli [[artefici]]: [[irving]] era un [[artefici#Epimeteici|epimeteico]], [[nonno-roshi|roshi]] invece era [[artefici#Prometeici|prometeico]]\n #endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "Personaggi/non-giocanti/nonno-roshi.md",
+			"display_name": "nonno-roshi",
+			"status": "Modified",
+			"diff": "commit aff34ffc3e6e1f1da409812f97d78f5f383dd31c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 9 16:58:20 2026 +0100\n\n    aggiornamento 2026 01 09 16:58 [v 0.0.24]\n\ndiff --git a/Personaggi/non-giocanti/nonno-roshi.md b/Personaggi/non-giocanti/nonno-roshi.md\nindex 8484e4a..66a97be 100644\n--- a/Personaggi/non-giocanti/nonno-roshi.md\n+++ b/Personaggi/non-giocanti/nonno-roshi.md\n@@ -1,5 +1,5 @@\n #phandalmain \n-# origini\n+# Origini\n ## [[epoca-leggendaria|epoca leggendaria]]\n è un nano nato nel **200 [[calendario|AP]]**. al momento della [[la-frattura|frattura]] aveva circa **70 anni umani**, trovandosi già nella fase iniziale della vecchiaia.\n \n"
+		}
+	]
+}

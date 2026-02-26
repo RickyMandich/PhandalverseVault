@@ -1,26 +1,26 @@
 {
 	"version": "v 0.0.211",
-	"date": "2026-02-24 06:56:22",
-	"commit_hash": "56053d0d228a7a278a80b18b4eac7a8c567e7618",
+	"date": "2026-02-24 06:56:57 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 24 06:56 [v 0.0.211]",
 	"changes": [
 		{
 			"file": "entita/divinita/Waukenn.md",
 			"display_name": "Waukenn",
 			"status": "Modified",
-			"diff": "diff --git a/entita/divinita/Waukenn.md b/entita/divinita/Waukenn.md\nindex 4e0a8a6..539eab6 100644\n--- a/entita/divinita/Waukenn.md\n+++ b/entita/divinita/Waukenn.md\n@@ -1,5 +1,5 @@\n # dominio\n-commercio, ricchezza, contratti, prosperità\n+commercio, ricchezza, contratti, prosperità, inganno\n # allineamento\n neutrale\n # simbolo sacro\n"
+			"diff": "commit cd5e53de6c4916a32672b647246cbf6e2f8805f4\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 24 06:56:47 2026 +0100\n\n    aggiornamento 2026 02 24 06:56 [v 0.0.211]\n\ndiff --git a/entita/divinita/Waukenn.md b/entita/divinita/Waukenn.md\nindex 4e0a8a6..539eab6 100644\n--- a/entita/divinita/Waukenn.md\n+++ b/entita/divinita/Waukenn.md\n@@ -1,5 +1,5 @@\n # dominio\n-commercio, ricchezza, contratti, prosperità\n+commercio, ricchezza, contratti, prosperità, inganno\n # allineamento\n neutrale\n # simbolo sacro\n"
 		},
 		{
 			"file": "epoche/epoca-terza.md",
 			"display_name": "Epoca Terza",
 			"status": "Modified",
-			"diff": "diff --git a/epoche/epoca-terza.md b/epoche/epoca-terza.md\nindex 4ed98fe..0027f05 100644\n--- a/epoche/epoca-terza.md\n+++ b/epoche/epoca-terza.md\n@@ -1,2 +1,2 @@\n-è l'epoca corrente, inizia nell'anno [[calendario|0]] con [[la-purga|La purga]].\n+è l'epoca corrente, inizia nell'anno [[calendario| 0 ]] con [[la-purga|La purga]].\n questa epoca è caratterizzata da sporadiche reliquie scientifiche (trattate al pari di artefatti magici, per quel che se ne riesce a capire visto che alle volte gli uni vengono scambiati per gli altri) e ha un livello scientifico pari a quello medievale\n\\ No newline at end of file\n"
+			"diff": "commit cd5e53de6c4916a32672b647246cbf6e2f8805f4\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 24 06:56:47 2026 +0100\n\n    aggiornamento 2026 02 24 06:56 [v 0.0.211]\n\ndiff --git a/epoche/epoca-terza.md b/epoche/epoca-terza.md\nindex 4ed98fe..0027f05 100644\n--- a/epoche/epoca-terza.md\n+++ b/epoche/epoca-terza.md\n@@ -1,2 +1,2 @@\n-è l'epoca corrente, inizia nell'anno [[calendario|0]] con [[la-purga|La purga]].\n+è l'epoca corrente, inizia nell'anno [[calendario| 0 ]] con [[la-purga|La purga]].\n questa epoca è caratterizzata da sporadiche reliquie scientifiche (trattate al pari di artefatti magici, per quel che se ne riesce a capire visto che alle volte gli uni vengono scambiati per gli altri) e ha un livello scientifico pari a quello medievale\n\\ No newline at end of file\n"
 		},
 		{
 			"file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
-			"display_name": "Salvataggio A",
+			"display_name": "Salvataggio a Tel'Mur'Vadinn",
 			"status": "Modified",
-			"diff": "diff --git a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\nindex 6d12a5b..a275681 100644\n--- a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n+++ b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n@@ -1,3 +1,4 @@\n+#dm\n # storia\n ## atto 1 (situazione di partenza) e atto 2 (crisi iniziale)\n [[dontavious-ladro-mezzelfo-25]] viene risucchiato nel [[telmurkvadinn|piano delle ombre]] durante la notte e il party deve salvarlo.\n"
+			"diff": "commit cd5e53de6c4916a32672b647246cbf6e2f8805f4\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Feb 24 06:56:47 2026 +0100\n\n    aggiornamento 2026 02 24 06:56 [v 0.0.211]\n\ndiff --git a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\nindex 6d12a5b..a275681 100644\n--- a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n+++ b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n@@ -1,3 +1,4 @@\n+#dm\n # storia\n ## atto 1 (situazione di partenza) e atto 2 (crisi iniziale)\n [[dontavious-ladro-mezzelfo-25]] viene risucchiato nel [[telmurkvadinn|piano delle ombre]] durante la notte e il party deve salvarlo.\n"
 		}
 	]
 }

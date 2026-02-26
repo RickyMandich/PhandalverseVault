@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.27",
+	"date": "2026-01-10 15:15:01 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 10 15:15 [v 0.0.27]",
+	"changes": [
+		{
+			"file": "saghe/saga-di-gemgrave.md",
+			"display_name": "Saga Di Gemgrave",
+			"status": "Modified",
+			"diff": "commit 9fda2d9293fda1e8fb4979111e23560dac9a51f5\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sat Jan 10 15:15:01 2026 +0100\n\n    aggiornamento 2026 01 10 15:15 [v 0.0.27]\n\ndiff --git a/saghe/saga-di-gemgrave.md b/saghe/saga-di-gemgrave.md\nindex 30571da..81c2d68 100644\n--- a/saghe/saga-di-gemgrave.md\n+++ b/saghe/saga-di-gemgrave.md\n@@ -32,7 +32,6 @@ totale xp: 75 + 450 + 50 * 2 = 75 + 450 + 100 = 625\n tutti i giocatori prendono 125 punti esperienza lasciando in conto comune 0 xp\n \n ## sessione di venerdì 2025 12 05\n-Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la-mano-rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[kanye-ovest|cucciolo]] con cui [[dontavious-ladro-mezzelfo-25|dontavious]] fa amicizia. Nella stanza dopo trovano il pezzo della [[la-chiave|chiave]] e il draghetto uccide [[irving]]\n+Dopo aver sconfitto i serpenti, [[irving]] continua ad accompagnare [[la-mano-rossa|i nostri eroi]] per il labirinto e, dopo aver sconfitto un minotauro, si trovarono in una stanza  con il cadavere ormai quasi decomposto di un drago rosso antico e ci trovano il suo [[kanye-ovest|cucciolo]] #startMaster con cui [[dontavious-ladro-mezzelfo-25|dontavious]] fa amicizia #endMaster . Nella stanza dopo trovano il pezzo della [[la-chiave|chiave]] e il draghetto uccide [[irving]]\n \n ## sessione di giovedì 2025 12 18\n-EWYIGISUEGHSK #startMaster s,rughskufgy #endMaster  EUGHSDUGHFVISDUGHSDIGHSDIUGHSDIUGSDIUGSDUIGSDUGkjudddddddddddhdfjgseifgused\n\\ No newline at end of file\n"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.70",
+	"date": "2026-01-13 16:55:27 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 13 16:55 [v 0.0.70]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-sussurratore-del-gelo.md",
+			"display_name": "Kṓkȳtos (gelo)",
+			"status": "Modified",
+			"diff": "commit 5f11963eb5b53d85d9bf532fc6b5b30716fcdac9\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 13 16:55:27 2026 +0100\n\n    aggiornamento 2026 01 13 16:55 [v 0.0.70]\n\ndiff --git a/artefatti/party/artefatto-sussurratore-del-gelo.md b/artefatti/party/artefatto-sussurratore-del-gelo.md\nindex b8c9e99..0dbadc7 100644\n--- a/artefatti/party/artefatto-sussurratore-del-gelo.md\n+++ b/artefatti/party/artefatto-sussurratore-del-gelo.md\n@@ -265,6 +265,7 @@ tabella esplicativa:\n \t\t</tr>\n \t</tbody>\n </table>\n+\n ## Folata di Vento\n *2° livello, Invocazione*\n \n"
+		}
+	]
+}

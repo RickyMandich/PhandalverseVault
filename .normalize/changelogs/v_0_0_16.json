@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.16",
+	"date": "2026-01-08 12:29:39 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 08 12:29 [v 0.0.16]",
+	"changes": [
+		{
+			"file": "saghe/saga-di-gemgrave.md",
+			"display_name": "Saga Di Gemgrave",
+			"status": "Modified",
+			"diff": "commit dc4d76c6a2cdb12cf4d5db73262d6578cf29073a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 8 12:29:39 2026 +0100\n\n    aggiornamento 2026 01 08 12:29 [v 0.0.16]\n\ndiff --git a/saghe/saga-di-gemgrave.md b/saghe/saga-di-gemgrave.md\nindex b9dbcaf..311085a 100644\n--- a/saghe/saga-di-gemgrave.md\n+++ b/saghe/saga-di-gemgrave.md\n@@ -1,7 +1,3 @@\n----\n-tags:\n-  - saga\n----\n #saga\n \n | saga precedente | saga successiva |     macrosaga di appartenenza      |\n"
+		}
+	]
+}

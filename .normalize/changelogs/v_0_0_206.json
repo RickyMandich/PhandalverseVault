@@ -1,26 +1,26 @@
 {
 	"version": "v 0.0.206",
-	"date": "2026-02-22 13:17:47",
-	"commit_hash": "cb52eaa665164994096dc3ec6a075c5a0e10d756",
+	"date": "2026-02-22 13:17:57 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 22 13:17 [v 0.0.206]",
 	"changes": [
 		{
 			"file": "entita/demoni/asmodeus.md",
 			"display_name": "Asmodeus",
 			"status": "Modified",
-			"diff": "diff --git a/entita/demoni/asmodeus.md b/entita/demoni/asmodeus.md\nindex 028c5d0..45e41d1 100644\n--- a/entita/demoni/asmodeus.md\n+++ b/entita/demoni/asmodeus.md\n@@ -1,4 +1,6 @@\n-Il più potente fra tutti i demoni e signore di 9 inferni\n+Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni\n+# storia\n+vive la sua vita da umano \n # famiglia\n molti demoni superiori sono suoi figli anche se non c'è propriamente un legame familiare all'interno di questa famiglia.\n soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.\n"
+			"diff": "commit d6cf8ecbbbcda74ff7a907308b65cff6e444dc86\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sun Feb 22 13:17:54 2026 +0100\n\n    aggiornamento 2026 02 22 13:17 [v 0.0.206]\n\ndiff --git a/entita/demoni/asmodeus.md b/entita/demoni/asmodeus.md\nindex 028c5d0..45e41d1 100644\n--- a/entita/demoni/asmodeus.md\n+++ b/entita/demoni/asmodeus.md\n@@ -1,4 +1,6 @@\n-Il più potente fra tutti i demoni e signore di 9 inferni\n+Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni\n+# storia\n+vive la sua vita da umano \n # famiglia\n molti demoni superiori sono suoi figli anche se non c'è propriamente un legame familiare all'interno di questa famiglia.\n soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.\n"
+		},
+		{
+			"file": "entita/demoni/demone.md",
+			"display_name": "Demone",
+			"status": "Added",
+			"diff": "commit d6cf8ecbbbcda74ff7a907308b65cff6e444dc86\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sun Feb 22 13:17:54 2026 +0100\n\n    aggiornamento 2026 02 22 13:17 [v 0.0.206]\n\ndiff --git a/entita/demoni/demone.md b/entita/demoni/demone.md\nnew file mode 100644\nindex 0000000..7aa0cb5\n--- /dev/null\n+++ b/entita/demoni/demone.md\n@@ -0,0 +1 @@\n+un demone è un essere mortale che quando finisce all'inferno viene \n\\ No newline at end of file\n"
 		},
 		{
 			"file": "todo.md",
 			"display_name": "TODO",
 			"status": "Modified",
-			"diff": "diff --git a/todo.md b/todo.md\nindex 6965bb1..ea2f853 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -15,6 +15,7 @@\n \t- [x] scrivere blocca mostri\n - [x] inventare ombrocinesi\n - [X] [[atos]]\n+- [ ] definizione di [[demone]]\n - [ ] [[asmodeus]]\n - [x] [[la-chiave]]\n - [ ] completar pagine minori di contesto\n"
-		},
-		{
-			"file": "entita/demoni/demone.md",
-			"display_name": "Demone",
-			"status": "Modified",
-			"diff": "\n"
+			"diff": "commit d6cf8ecbbbcda74ff7a907308b65cff6e444dc86\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sun Feb 22 13:17:54 2026 +0100\n\n    aggiornamento 2026 02 22 13:17 [v 0.0.206]\n\ndiff --git a/todo.md b/todo.md\nindex 6965bb1..ea2f853 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -15,6 +15,7 @@\n \t- [x] scrivere blocca mostri\n - [x] inventare ombrocinesi\n - [X] [[atos]]\n+- [ ] definizione di [[demone]]\n - [ ] [[asmodeus]]\n - [x] [[la-chiave]]\n - [ ] completar pagine minori di contesto\n"
 		}
 	]
 }

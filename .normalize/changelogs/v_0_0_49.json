@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.49",
+	"date": "2026-01-12 17:57:42 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 12 17:57 [v 0.0.49]",
+	"changes": [
+		{
+			"file": "artefatti/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 02ea0637abfd80763410a4e6953b23b588599717\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Jan 12 17:57:42 2026 +0100\n\n    aggiornamento 2026 01 12 17:57 [v 0.0.49]\n\ndiff --git a/artefatti/artefatto-necromante.md b/artefatti/artefatto-necromante.md\nindex 1f5a09a..749be29 100644\n--- a/artefatti/artefatto-necromante.md\n+++ b/artefatti/artefatto-necromante.md\n@@ -1,4 +1,4 @@\n-\n+# \n # incantesimi ottenuto dall'artefatto\n ## SWARM PEST\n *1° livello, necromanzia*  \n"
+		}
+	]
+}

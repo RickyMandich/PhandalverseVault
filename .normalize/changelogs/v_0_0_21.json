@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.21",
+	"date": "2026-01-09 10:11:47 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 09 10:11 [v 0.0.21]",
+	"changes": [
+		{
+			"file": "universi/fandalmein/fandalmein.md",
+			"display_name": "Fandalmein",
+			"status": "Modified",
+			"diff": "commit 1b03e02d627b2eb79da4bb11a2fc27d347cc88ff\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 9 10:11:47 2026 +0100\n\n    aggiornamento 2026 01 09 10:11 [v 0.0.21]\n\ndiff --git a/universi/fandalmein/fandalmein.md b/universi/fandalmein/fandalmein.md\nindex d384213..7028efe 100644\n--- a/universi/fandalmein/fandalmein.md\n+++ b/universi/fandalmein/fandalmein.md\n@@ -1,5 +1,6 @@\n-#universo \n+#startMaster  \n [[universo]] codipendente di [[phandalmain]]\n+#endMaster \n # regni\n - [[fandanolend]]\n - [[fandasulend]]\n\\ No newline at end of file\n"
+		}
+	]
+}

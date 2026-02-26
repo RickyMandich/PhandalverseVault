@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.137",
+	"date": "2026-01-23 22:34:36 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 23 22:34 [v 0.0.137]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 5feefa91a65eb477cda949a035452c0e08dfceb0\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Jan 23 22:34:36 2026 +0100\n\n    aggiornamento 2026 01 23 22:34 [v 0.0.137]\n\ndiff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex a926775..afd47b2 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -1,4 +1,4 @@\n-richiede sintonia, localizzazione geografica: \n+richiede sintonia, localizzazione geografica: Est\n # descrizione\n ![[occhio-di-atos.jpeg]]\n \n"
+		}
+	]
+}

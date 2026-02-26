@@ -1,20 +1,20 @@
 {
 	"version": "v 0.0.194",
-	"date": "2026-02-12 11:20:58",
-	"commit_hash": "13d583312fecc042e5674a17da655a4cb8242e9b",
+	"date": "2026-02-12 11:21:08 +0100",
+	"commit_hash": "",
 	"commit_message": "aggiornamento 2026 02 12 11:21 [v 0.0.194]",
 	"changes": [
 		{
 			"file": "artefatti/party/artefatto-dellombra.md",
 			"display_name": "Myrkvaðinn (ombra)",
 			"status": "Modified",
-			"diff": "diff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 9bb40e1..de7916c 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -538,6 +538,7 @@ tabella esplicativa:\n ![[materiale/incantesimi/tutti/silenzio]]\n ![[materiale/incantesimi/tutti/illusione-minore]]\n ![[materiale/incantesimi/tutti/ombra-di-moil]]\n+___\n # visione dell'ombra\n quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.\n \n@@ -568,7 +569,7 @@ Recuperare un oggetto dall'inventario oscuro richiede l’uso di un’azione. Le\n # punti ombrocinesi\n possiedi tanti punti ombrocinesi pari al tuo livello \\* 2 tranne al 1 che ne hai 0, con un riposo lungo si ripristinano mentre con un riposo breve ne recuperi la metà\n \n-puoi convertire punti ombrocinesi e slot incantesimi con queste proporzioni:\n+puoi convertire punti ombrocinesi e slot incantesimi con queste proporzioni usando un'azione bonus:\n \n | livello slot | punti ombrocinesi |\n | :----------: | :--------------: |\n"
+			"diff": "commit c0823395d5650ccce7fb07829b22f4f998b20e43\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Feb 12 11:21:04 2026 +0100\n\n    aggiornamento 2026 02 12 11:21 [v 0.0.194]\n\ndiff --git a/artefatti/party/artefatto-dellombra.md b/artefatti/party/artefatto-dellombra.md\nindex 9bb40e1..de7916c 100644\n--- a/artefatti/party/artefatto-dellombra.md\n+++ b/artefatti/party/artefatto-dellombra.md\n@@ -538,6 +538,7 @@ tabella esplicativa:\n ![[materiale/incantesimi/tutti/silenzio]]\n ![[materiale/incantesimi/tutti/illusione-minore]]\n ![[materiale/incantesimi/tutti/ombra-di-moil]]\n+___\n # visione dell'ombra\n quando lancia l'incantesimo [[materiale/incantesimi/tutti/scurovisione|scurovisione]] su se stesso utilizzando Arti dell'Ombra può anche vedere attraverso l'oscurità magica che crea con Arti dell'Ombra.\n \n@@ -568,7 +569,7 @@ Recuperare un oggetto dall'inventario oscuro richiede l’uso di un’azione. Le\n # punti ombrocinesi\n possiedi tanti punti ombrocinesi pari al tuo livello \\* 2 tranne al 1 che ne hai 0, con un riposo lungo si ripristinano mentre con un riposo breve ne recuperi la metà\n \n-puoi convertire punti ombrocinesi e slot incantesimi con queste proporzioni:\n+puoi convertire punti ombrocinesi e slot incantesimi con queste proporzioni usando un'azione bonus:\n \n | livello slot | punti ombrocinesi |\n | :----------: | :--------------: |\n"
 		},
 		{
 			"file": "todo.md",
 			"display_name": "TODO",
 			"status": "Modified",
-			"diff": "diff --git a/todo.md b/todo.md\nindex ab4f6cc..72923f9 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -13,5 +13,5 @@\n \t- [x] scrivere blocca persone\n \t- [x] scrivere sfera elastica\n \t- [x] scrivere blocca mostri\n-- [ ] inventare ombrocinesi\n+- [x] inventare ombrocinesi\n - [ ] scrivere moduli futuri\n\\ No newline at end of file\n"
+			"diff": "commit c0823395d5650ccce7fb07829b22f4f998b20e43\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Feb 12 11:21:04 2026 +0100\n\n    aggiornamento 2026 02 12 11:21 [v 0.0.194]\n\ndiff --git a/todo.md b/todo.md\nindex ab4f6cc..72923f9 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -13,5 +13,5 @@\n \t- [x] scrivere blocca persone\n \t- [x] scrivere sfera elastica\n \t- [x] scrivere blocca mostri\n-- [ ] inventare ombrocinesi\n+- [x] inventare ombrocinesi\n - [ ] scrivere moduli futuri\n\\ No newline at end of file\n"
 		}
 	]
 }

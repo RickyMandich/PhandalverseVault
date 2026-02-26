@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.102",
+	"date": "2026-01-15 23:58:55 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 15 23:58 [v 0.0.102]",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/capodanno1-boss.md",
+			"display_name": "capodanno1-boss",
+			"status": "Modified",
+			"diff": "commit c9ef9fe016b1066d48fa8b888cf20e7fe741c188\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 23:58:55 2026 +0100\n\n    aggiornamento 2026 01 15 23:58 [v 0.0.102]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1-boss.md b/saghe/moduli-non-usati/capodanno1-boss.md\nindex 8be7d2c..df903ab 100644\n--- a/saghe/moduli-non-usati/capodanno1-boss.md\n+++ b/saghe/moduli-non-usati/capodanno1-boss.md\n@@ -3,10 +3,10 @@\n ## Il Cuore dell’Anno Vecchio\n \n ---\n-name: Il Cuore dell’Anno Vecchio\n-type: costrutto magico grande\n-alignment: Neutrale\n-cr: 6\n+nome: Il Cuore dell’Anno Vecchio\n+tipo: costrutto magico grande\n+allineamento: Neutrale\n+Grado sfida: 6\n ---\n \n **Classe Armatura** 13  \n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/capodanno1-minion.md",
+			"display_name": "capodanno1-minion",
+			"status": "Modified",
+			"diff": "commit c9ef9fe016b1066d48fa8b888cf20e7fe741c188\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Jan 15 23:58:55 2026 +0100\n\n    aggiornamento 2026 01 15 23:58 [v 0.0.102]\n\ndiff --git a/saghe/moduli-non-usati/capodanno1-minion.md b/saghe/moduli-non-usati/capodanno1-minion.md\nindex 916ca82..88eeba5 100644\n--- a/saghe/moduli-non-usati/capodanno1-minion.md\n+++ b/saghe/moduli-non-usati/capodanno1-minion.md\n@@ -3,10 +3,10 @@\n ## Creature dell’Anno Vecchio\n \n ---\n-name: Creatura dell’Anno Vecchio\n-type: creatura magica media\n-alignment: Neutrale\n-cr: 1\n+nome: Creatura dell’Anno Vecchio\n+tipo: creatura magica media\n+allineamento: Neutrale\n+Grado Sfida: 1\n ---\n \n **Classe Armatura** 12  \n"
+		}
+	]
+}

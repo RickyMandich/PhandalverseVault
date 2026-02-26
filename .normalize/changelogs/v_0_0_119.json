@@ -1,0 +1,32 @@
+{
+	"version": "v 0.0.119",
+	"date": "2026-01-20 18:35:37 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 01 20 18:35 [v 0.0.119]",
+	"changes": [
+		{
+			"file": "artefatti/party/artefatto-necromante.md",
+			"display_name": "artefatto-necromante",
+			"status": "Modified",
+			"diff": "commit 4e3912ceff87ba43562bfd6de7fa4b98ffd2f15a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 20 18:35:37 2026 +0100\n\n    aggiornamento 2026 01 20 18:35 [v 0.0.119]\n\ndiff --git a/artefatti/party/artefatto-necromante.md b/artefatti/party/artefatto-necromante.md\nindex ac3817d..f727ca3 100644\n--- a/artefatti/party/artefatto-necromante.md\n+++ b/artefatti/party/artefatto-necromante.md\n@@ -557,25 +557,9 @@ tabella esplicativa:\n ![[incantesimi/tutti/falce-di-ade]]\n \n ![[incantesimi/tutti/peste-putrida]]\n-![[lama-dosso]]\n+![[tutti/lama-dosso]]\n ![[tutti/tocco-del-vampiro-occultista]]\n-\n-## spine ossee\n-*trucchetto, trasmutazione*\n-\n-- **Tempo di lancio:** 1 azione\n-- **Gittata:** se stesso\n-- **Componenti:** M (lo scheletro dell'incantatore o un esoscheletro)\n-- **Durata:** 1 minuto\n-\n-Proietti degli spini di osso dalle ginocchia, dai gomiti e dalle spalle, facendo sì che qualsiasi creatura che ti afferri o ti inghiotta subisca 2d6 danni perforanti all'inizio di ogni suo turno.\n-\n-**Ai livelli superiori:** il danno di questo incantesimo aumenta di 1d6 quando raggiungi il 5° (3d6), l'11° (4d6) e il 17° livello (5d6)\n-\n-**Classi**: Mago, Warlock\n-[https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)\n-\n----\n+![[incantesimi/tutti/spine-ossee]]\n ## radar osseo\n *1° livello, Divinazione*\n \n"
+		},
+		{
+			"file": "incantesimi/necromante/lama-d'osso.md",
+			"display_name": "lama-d'osso",
+			"status": "Deleted",
+			"diff": "commit 4e3912ceff87ba43562bfd6de7fa4b98ffd2f15a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 20 18:35:37 2026 +0100\n\n    aggiornamento 2026 01 20 18:35 [v 0.0.119]\n\ndiff --git a/incantesimi/necromante/lama-d'osso.md b/incantesimi/necromante/lama-d'osso.md\ndeleted file mode 100644\nindex fdd9aa2..0000000\n--- a/incantesimi/necromante/lama-d'osso.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[tutti/lama-d'osso]]\n"
+		},
+		{
+			"file": "incantesimi/necromante/lama-dosso.md",
+			"display_name": "lama-dosso",
+			"status": "Added",
+			"diff": "commit 4e3912ceff87ba43562bfd6de7fa4b98ffd2f15a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 20 18:35:37 2026 +0100\n\n    aggiornamento 2026 01 20 18:35 [v 0.0.119]\n\ndiff --git a/incantesimi/necromante/lama-dosso.md b/incantesimi/necromante/lama-dosso.md\nnew file mode 100644\nindex 0000000..d73b1c0\n--- /dev/null\n+++ b/incantesimi/necromante/lama-dosso.md\n@@ -0,0 +1 @@\n+![[incantesimi/tutti/lama-dosso]]\n"
+		},
+		{
+			"file": "incantesimi/tutti/lama-d'osso.md",
+			"display_name": "lama-d'osso",
+			"status": "Renamed",
+			"diff": "commit 4e3912ceff87ba43562bfd6de7fa4b98ffd2f15a\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Jan 20 18:35:37 2026 +0100\n\n    aggiornamento 2026 01 20 18:35 [v 0.0.119]\n\ndiff --git a/incantesimi/tutti/lama-d'osso.md b/incantesimi/tutti/lama-d'osso.md\ndeleted file mode 100644\nindex cc4ab8b..0000000\n--- a/incantesimi/tutti/lama-d'osso.md\n+++ /dev/null\n@@ -1,24 +0,0 @@\n-## Lama d'Osso\n-*Trucchetto, Trasmutazione*\n-\n-- **Tempo di lancio:** 1 azione bonus\n-- **Raggio d'azione:** se stesso\n-- **Componenti:** M (lo scheletro dell'incantatore o un esoscheletro)\n-- **Durata:** fino a che ti serve\n-\n-Quando lanci questo incantesimo, ti spuntano degli artigli dalla punta delle dita o estendi una protuberanza simile a una spada corta dal polso. Puoi attaccare con queste armi come se fossero un'arma da mischia in cui sei competente.\n-le armi fanno i seguenti danni:\n-la spada corta: 1d8 + (FOR o DES, deve essere concorde a quella aggiunta al tiro per colpire)\n-gli artigli: 1d6 + (FOR o DES, deve essere concorde a quella aggiunta al tiro per colpire), ogni mano è un'arma a se stante, ma se usi la tua azione di attacco per una delle mani puoi attaccare con l'altra come azione bonus.\n-Se l'osso si rompe, svanisce.\n-se l'arma cresce dal braccio scheletrico hai vantaggio per colpire.\n-alternativamente puoi usare questo trucchetto per creare una qualsiasi arma d'osso\n-se non sei tu a usare quest'arma ogni volta che viene usata l'utilizzatore farà un tiro salvezza su costituzione e, in caso di fallimento, l'arma si romperà.\n-\n-**Ai livelli superiori:** dal 5° livello l'arma diventa magica e ottieni +1 per colpire e per i danni, all'11° diventa +2 e al 17° +3.\n-\n-**Classi:** Mago, Stregone (se inerente alle ossa o alla morte), Warlock (stesse condizioni dello stregone)\n-\n-**Sorgente:** [https://it.scribd.com/document/578830707/5e-Osteomancy-Spells](https://it.scribd.com/document/578830707/5e-Osteomancy-Spells)\n-\n----\n"
+		}
+	]
+}
