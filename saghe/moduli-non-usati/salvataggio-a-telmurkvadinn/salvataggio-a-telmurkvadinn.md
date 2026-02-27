@@ -9,7 +9,7 @@ sempre [[roshi]] spiega a [[la-mano-rossa]] che ha in mente 2 modi per entrare n
 2) cercare e usare un altro artefatto che dia accesso al mondo delle ombre sopravvissuto [[la-purga|alla purga]], anche questa una missione molto lunga
 inoltre consegna al party una statuetta che somiglia molto a [[dontavious-ladro-mezzelfo-25]] dicendogli che è magia iconografica, e devono metterci dentro l'ombra del loro amico per portarsela nel [[telmurkvadinn]] e, una volta dentro, spaccarla così che l'ombra venga liberata e torni al suo proprietario.
 ### [[dontavious-ladro-mezzelfo-25|dontavious]]
-quando si addormenta fa un sogno in cui rivede i suoi vecchi compagni del circo che lo accusano di averli lasciati morire a [[decidere-nome-del-villaggio-degli-asmodeici]].
+quando si addormenta fa un sogno in cui rivede i suoi vecchi compagni del circo che lo accusano di averli lasciati morire a [[morkhaus]].
 volendo fuggire da tutto ciò inconsciamente attiva i suoi poteri nel sonno e si trasla a [[telmurkvadinn]].
 A causa del modo in cui ci arriva non può uscirne normalmente, deve trovare un altro modo.
 come da ovunque all'interno del [[telmurkvadinn]] riesce a vedere il tronco centrale che è anche l'unico punto di riferimento di quel posto.

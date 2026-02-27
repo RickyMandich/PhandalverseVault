@@ -1,3 +1,3 @@
 è un gruppo di cultisti fanatici che venera [[Asmodeus]], per seguire le indicazioni del loro demone preferito inizialmente facevano governare il loro villaggio dallo stesso, dopo che è stato esorcizzato per l'ennesima volta hanno capito che non è praticabile mantenerlo nel loro villaggio e avere una vita comoda senza attirare troppo le attenzioni di varie chiese e cacciatori di demoni, per cui ormai è secoli che quando necessario evocano il demone per una notte così che possa giacere con una delle cultiste che poi partorirà il futuro capovillaggio (un tiefling).
 
-vivono nel villaggio [[decidere-nome-del-villaggio-degli-asmodeici]].
+vivono nel villaggio [[morkhaus]].

@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.225",
+	"date": "2026-02-27 19:05:07 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 02 27 19:05 [v 0.0.225]",
+	"changes": [
+		{
+			"file": "universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md",
+			"display_name": "decidere-nome-del-villaggio-degli-asmodeici",
+			"status": "Renamed",
+			"diff": "commit 8c39e8a2a953aa41158b11fa59985e4c3d3f0f7e\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 19:05:07 2026 +0100\n\n    aggiornamento 2026 02 27 19:05 [v 0.0.225]\n\ndiff --git a/universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md b/universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md\ndeleted file mode 100644\nindex 451d7da..0000000\n--- a/universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-villaggio dove vivono [[gli-asmodeici]], si trova tra le montagne che coprono la parte nord del continente\n\\ No newline at end of file\n"
+		}
+	]
+}
