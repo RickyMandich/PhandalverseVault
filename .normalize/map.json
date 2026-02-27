@@ -102,7 +102,9 @@
 				},
 				"signori-delle-ombre": {
 					"original": "Signori Delle Ombre",
-					"files": {},
+					"files": {
+						"malrythosar.md": "Malrythosar"
+					},
 					"directories": {}
 				}
 			}
@@ -552,7 +554,8 @@
 							"files": {
 								"kanye-ovest.md": "Kanye Ovest",
 								"ren.md": "Ren",
-								"thraal.md": "Thraal"
+								"thraal.md": "Thraal",
+								"tsevo-eynak.md": "Tsevo Eynak"
 							},
 							"directories": {}
 						}
@@ -561,6 +564,7 @@
 				"gruppi": {
 					"original": "Gruppi",
 					"files": {
+						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
 						"la-mano-rossa.md": "La Mano Rossa"
 					},
@@ -626,7 +630,6 @@
 					"original": "Organizzazioni",
 					"files": {
 						"artefici.md": "Artefici",
-						"gli-asmodeici.md": "Gli Asmodeici",
 						"la-coalizione.md": "La Coalizione"
 					},
 					"directories": {}
@@ -725,6 +728,7 @@
 							"original": "Phandanoland",
 							"files": {
 								"cristalgrave.md": "Cristalgrave",
+								"decidere-nome-del-villaggio-degli-asmodeici.md": "Decidere Nome Del Villaggio Degli Asmodeici",
 								"nordavilla.md": "Nordavilla",
 								"phandanoland.md": "Phandanoland",
 								"profondahar.md": "Profondahar",

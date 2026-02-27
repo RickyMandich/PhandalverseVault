@@ -65,4 +65,5 @@
     - [x] cambiare riferimento ai nuovi incantesimi
 - scrivere moduli futuri
 	- [ ] [[salvataggio-a-telmurkvadinn]]
+		- [ ] scrivere [[tsevo-eynak]]
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice

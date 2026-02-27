@@ -1,3 +1,4 @@
+#!/bin/bash
 # Funzione per caricare i file su FTP a partire dal commit
 function uploadFilesFromCommit() {
     # Itera sui file modificati e carica ciascuno di essi (usando while read per gestire spazi nei nomi)

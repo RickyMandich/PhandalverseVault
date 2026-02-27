@@ -1,3 +1,4 @@
+#!/bin/bash
 # Funzione per caricare i file su FTP a partire dal commit
 function uploadFilesFromCommit() {
     # Verifica che sia stato passato l'ID del commit
