@@ -65,5 +65,21 @@
     - [x] cambiare riferimento ai nuovi incantesimi
 - scrivere moduli futuri
 	- [ ] [[salvataggio-a-telmurkvadinn]]
-		- [ ] scrivere [[tsevo-eynak]]
+- [ ] scrivere [[tsevo-eynak]]
+- [ ] parti dell'anima
+	- 1. **Ka** – La forza vitale o "doppio" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.
+	- 2. **Ba** – Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.
+	- 3. **Ib** – Il cuore, sede della coscienza, delle emozioni e della moralità.  Viene pesato contro la piuma di Maat per determinare l’accesso all’aldilà.
+	- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.
+	- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona
+- personaggi del background di dontavious
+	- [ ] [[bront]]
+	Bront era il cuoco del circo e quindi era necessario farselo amico in quanto era lui che gestiva e distribuiva le razioni di cibo ai circensi. Data la sua natura era un po' irascibile, però con qualche complimento alle sue ricette sono riuscito a entrare nelle sue grazie, così da avere sempre la pancia piena, cosa non scontata in un circo itinerante.
+	- [ ] [[kael-valmorra]]
+	- [ ] [[serena-valmorra]]
+	Fratello e sorella trapezisti, erano 2 ragazzi di 10-12 anni più grandi di me con i quali condividevo alcuni numeri. Loro dopo la morte di mia madre sono stati coloro che più di tutti mi hanno cresciuto, anche perché così gli fu ordinato dal capo del circo. Con loro avevo un buon rapporto, anche se è sempre stato chiaro come il loro ruolo fosse più imposto che voluto.
+	- [ ] [[tinkrin-cobblegear]]
+	Tinkrin era lo gnomo che faceva il presentatore degli artisti, attività in cui eccelleva grazie alla sua parlantina e il suo senso dell'umorismo impeccabile. Oltre alla sua abilità con le parole però Tinkrin aveva un'altra qualità molto apprezzabile ovvero la sua rapidità di mano, esso era infatti uno dei più abili ladruncoli del circo. Lo gnomo viaggiava nella stessa sezione degli acrobati ed è lì che l'ho conosciuto, mi prese subito sotto la sua ala insegnandomi l'arte del furto e dell'inganno. (la seguente sezione è opzionale in base a cosa vuoi fare) Tinkrin muore prima dell'assalto della setta dopo che in un villaggio di nani è stato scoperto in casa di uno dei capi villaggio e viene impiccato
+	- [ ] [[cosmo-sylvaranth]]
+	Era l'elfo direttore della sezione acrobatica del circo, fondamentalmente il capo mio, di Kael e Serena. La sua era una figura autorevole che tutti rispettavano, ma anche temevano dal momento che aveva potere decisionale sulle nostre carriere. Gli ero molto riconoscente per come si era comportato dopo la morte di mia madre, dal momento che non era per nulla scontato l'accogliermi nel circo.
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice

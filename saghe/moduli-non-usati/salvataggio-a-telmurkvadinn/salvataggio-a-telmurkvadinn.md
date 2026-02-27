@@ -12,10 +12,21 @@ quando si addormenta fa un sogno in cui rivede i suoi vecchi compagni del circo 
 volendo fuggire da tutto ciò inconsciamente attiva i suoi poteri nel sonno e si trasla a [[telmurkvadinn]].
 A causa del modo in cui ci arriva non può uscirne normalmente, deve trovare un altro modo.
 come da ovunque all'interno del [[telmurkvadinn]] riesce a vedere il tronco centrale che è anche l'unico punto di riferimento di quel posto.
-durante il viaggio (1d10 ore da quando comincia a camminare) incontra [[tsevo-eynak]], un draghetto che gli ricorda [[kanye-ovest]] per forma e dimensione e gli spiega come funziona la dinamica di potere e di controllo appartenente a quel piano (si trova nel dominio di [[malrythosar]])
+durante il viaggio (1d10 ore da quando comincia a camminare) incontra [[tsevo-eynak]], un draghetto che gli ricorda [[kanye-ovest]] per forma e dimensione e gli spiega come funziona la dinamica di potere e di controllo appartenente a quel piano (si trova nel dominio governato dal signore delle ombre [[malrythosar]])
 ## atto 3 (miglioramento/riunione strategica)
+### party
 trovano il modo di entrare nel mondo delle ombre (probabilmente [[Atos]] si manifesta per la prima volta per cominciare a plagiare [[than-warlock-tiefling-30|than]]).
 una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un [[mind-flayer|membro del clan dell'ombra (mind flayer reskinnato)]] per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]].
+### [[dontavious-ladro-mezzelfo-25|dontavious]]
+guidato da [[tsevo-eynak]], [[dontavious-ladro-mezzelfo-25]], riesce a raggiungere il quartier generale di [[malrythosar]].
+dopo essersi informato da alcuni servitori del palazzo informa [[tsevo-eynak]] informa il ladro che il portale si trova nella sala del trono.
+la sala del trono è un enorme ambiente grande circa 60m \* 100 m
+hanno due opzioni (a meno che al giocatore non vengano in mente altre soluzioni):
+- infiltrarsi nel castello e usare di nascosto il portale (sperando che il signore delle ombre esca dalla sala del trono con le sue guardie)
+	in questo caso il resto del party arriverà nel [[telmurkvadinn]] (NON dove si trova Dontavious ma dove è comparso lui al suo arrivo) portandosi dietro l'ombra di Dontavious e appena arrivano l'ombra si ricongiungerà al suo proprietario immediatamente. subito dopo [[malrythosar]] e le sue guardie tornano di corsa nella sala del trono e mentre entrano crea un tavolo fatto di ombra dove (`percezione CD 15`) si può vedere tutto il suo dominio compresi edifici e abitanti in miniatura che si muovono(è molto vasto per cui si vedono giusto dei puntini, alcuni di questi sono più chiari di altri con varie sfumature, con `20 nat` nel percezione di prima si rende conto che quelli fatti puramente di ombra sono circa l'85% e che gli unici pallini puramente chiari (sembrano un'ombra violacea) sono 3 e sono tutti assieme in un punto quasi al confine del dominio, circa 10 ore a piedi). appena fa un paio di decine di metri il signore delle ombre si rende conto di Dontavious. inizialmente sarà infastidito (non lo vede minimamente come minaccia) ma poi si rende conto del suo potenziale.
+	
+- farsi ricevere dal signore delle ombre e convincerlo a dargli il permesso di tornare nel piano terreno attraverso il portale
+
 ## atto 4 (scontro finale)
 
 ## atto 5 (epilogo)

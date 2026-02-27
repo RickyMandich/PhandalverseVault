@@ -1,0 +1,44 @@
+{
+	"version": "v 0.0.222",
+	"date": "2026-02-27 13:18:22 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious",
+	"changes": [
+		{
+			"file": "entita/signori-delle-ombre/malrythosar.md",
+			"display_name": "Malrythosar",
+			"status": "Added",
+			"diff": "commit 3f32d0abc8afea07a5663879b2bbaeac6a370f5f\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 13:18:22 2026 +0100\n\n    aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious\n\ndiff --git a/entita/signori-delle-ombre/malrythosar.md b/entita/signori-delle-ombre/malrythosar.md\nnew file mode 100644\nindex 0000000..0f3ece5\n--- /dev/null\n+++ b/entita/signori-delle-ombre/malrythosar.md\n@@ -0,0 +1,2 @@\n+#dm \n+è un [[signore-delle-ombre]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/pet/tsevo-eynak.md",
+			"display_name": "Tsevo Eynak",
+			"status": "Added",
+			"diff": "commit 3f32d0abc8afea07a5663879b2bbaeac6a370f5f\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 13:18:22 2026 +0100\n\n    aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious\n\ndiff --git a/personaggi/giocanti/pet/tsevo-eynak.md b/personaggi/giocanti/pet/tsevo-eynak.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "personaggi/organizzazioni/gli-asmodeici.md",
+			"display_name": "gli-asmodeici",
+			"status": "Renamed",
+			"diff": "commit 3f32d0abc8afea07a5663879b2bbaeac6a370f5f\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 13:18:22 2026 +0100\n\n    aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious\n\ndiff --git a/personaggi/organizzazioni/gli-asmodeici.md b/personaggi/organizzazioni/gli-asmodeici.md\ndeleted file mode 100644\nindex 5919e56..0000000\n--- a/personaggi/organizzazioni/gli-asmodeici.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-è un gruppo di cultisti fanatici che venera [[Asmodeus]], per seguire le indicazioni del loro demone preferito inizialmente facevano governare il loro villaggio dallo stesso, dopo che è stato esorcizzato per l'ennesima volta hanno capito che non è praticabile mantenerlo nel loro villaggio e avere una vita comoda senza attirare troppo le attenzioni di varie chiese e cacciatori di demoni, per cui ormai è secoli che quando necessario evocano il demone per una notte così che possa giacere con una delle cultiste che poi partorirà il futuro capovillaggio (un tiefling)\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+			"display_name": "Salvataggio a Tel'Mur'Vadinn",
+			"status": "Modified",
+			"diff": "commit 3f32d0abc8afea07a5663879b2bbaeac6a370f5f\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 13:18:22 2026 +0100\n\n    aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious\n\ndiff --git a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\nindex 913f5d6..67a05a0 100644\n--- a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n+++ b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n@@ -1,11 +1,18 @@\n #dm\n # storia\n ## atto 1 (situazione di partenza) e atto 2 (crisi iniziale)\n+### party\n [[dontavious-ladro-mezzelfo-25]] viene risucchiato nel [[telmurkvadinn|piano delle ombre]] durante la notte e il party deve salvarlo.\n loro non hanno idea di cosa sia successo non riconoscendo niente ma sapevano che l'artefatto che usava era legato alle ombre, [[roshi]] spiega loro dove è stato risucchiato il loro amico e si scusa per il fatto che non gli ha insegnato come proteggersi visto che non credeva che avendolo da meno di 12 ore avrebbe già capito come viaggiare tra le ombre da sveglio, figurarsi nei sogni.\n sempre [[roshi]] spiega a [[la-mano-rossa]] che ha in mente 2 modi per entrare nel [[telmurkvadinn]] (questo il nome del piano delle ombre in cui [[dontavious-ladro-mezzelfo-25]] si è traslato per errore):\n 1) usare l'incantesimo [[materiale/incantesimi/tutti/spostamento-planare|spostamento-planare]] che, però, lui non conosce e non sa lanciare e in città nessuno ha un grimorio, un manuale o una pergamena con questo incantesimo. bisogna andare o alla biblioteca scoperta il mese scorso e riuscire a trovarlo o vagare per il mondo fino a trovare qualcuno che glielo insegni o le istruzioni scritte da qualche parte, anche queste opzioni occuperebbero molto tempo e a loro non è dato sapere quanto a lungo il loro amico potrebbe sopravvivere da solo nelle ombre\n 2) cercare e usare un altro artefatto che dia accesso al mondo delle ombre sopravvissuto [[la-purga|alla purga]], anche questa una missione molto lunga\n+### [[dontavious-ladro-mezzelfo-25|dontavious]]\n+quando si addormenta fa un sogno in cui rivede i suoi vecchi compagni del circo che lo accusano di averli lasciati morire a [[decidere-nome-del-villaggio-degli-asmodeici]].\n+volendo fuggire da tutto ciò inconsciamente attiva i suoi poteri nel sonno e si trasla a [[telmurkvadinn]].\n+A causa del modo in cui ci arriva non può uscirne normalmente, deve trovare un altro modo.\n+come da ovunque all'interno del [[telmurkvadinn]] riesce a vedere il tronco centrale che è anche l'unico punto di riferimento di quel posto.\n+durante il viaggio (1d10 ore da quando comincia a camminare) incontra [[tsevo-eynak]], un draghetto che gli ricorda [[kanye-ovest]] per forma e dimensione e gli spiega come funziona la dinamica di potere e di controllo appartenente a quel piano (si trova nel dominio di [[malrythosar]])\n ## atto 3 (miglioramento/riunione strategica)\n trovano il modo di entrare nel mondo delle ombre (probabilmente [[Atos]] si manifesta per la prima volta per cominciare a plagiare [[than-warlock-tiefling-30|than]]).\n una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un [[mind-flayer|membro del clan dell'ombra (mind flayer reskinnato)]] per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]].\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 3f32d0abc8afea07a5663879b2bbaeac6a370f5f\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 13:18:22 2026 +0100\n\n    aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious\n\ndiff --git a/todo.md b/todo.md\nindex 049773d..34fce2f 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -65,4 +65,5 @@\n     - [x] cambiare riferimento ai nuovi incantesimi\n - scrivere moduli futuri\n \t- [ ] [[salvataggio-a-telmurkvadinn]]\n+\t\t- [ ] scrivere [[tsevo-eynak]]\n - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md",
+			"display_name": "Decidere Nome Del Villaggio Degli Asmodeici",
+			"status": "Added",
+			"diff": "commit 3f32d0abc8afea07a5663879b2bbaeac6a370f5f\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 13:18:22 2026 +0100\n\n    aggiornamento 2026 02 27 13:18 [v 0.0.222] - trasformato l'atto 1 esistente nella sottosezione dell'atto 1 dedicata al party e aggiunta la sottosezione dedicata a dontavious\n\ndiff --git a/universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md b/universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md\nnew file mode 100644\nindex 0000000..451d7da\n--- /dev/null\n+++ b/universi/phandalmain/phandanoland/decidere-nome-del-villaggio-degli-asmodeici.md\n@@ -0,0 +1 @@\n+villaggio dove vivono [[gli-asmodeici]], si trova tra le montagne che coprono la parte nord del continente\n\\ No newline at end of file\n"
+		}
+	]
+}

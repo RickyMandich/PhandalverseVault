@@ -592,10 +592,27 @@
 						},
 						"background-pg": {
 							"original": "Background Pg",
-							"files": {
-								"fumero.md": "Fumero"
-							},
-							"directories": {}
+							"files": {},
+							"directories": {
+								"dontavious": {
+									"original": "Dontavious",
+									"files": {
+										"bront.md": "Bront",
+										"cosmo-sylvaranth.md": "Cosmo Sylvaranth",
+										"kael-valmorra.md": "Kael Valmorra",
+										"serena-valmorra.md": "Serena Valmorra",
+										"tinkrin-cobblegear.md": "Tinkrin Cobblegear"
+									},
+									"directories": {}
+								},
+								"vargas": {
+									"original": "Vargas",
+									"files": {
+										"fumero.md": "Fumero"
+									},
+									"directories": {}
+								}
+							}
 						},
 						"gemgrave": {
 							"original": "Gemgrave",
