@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.226",
+	"date": "2026-02-27 19:07:13 +0100",
+	"commit_hash": "",
+	"commit_message": "aggiornamento 2026 02 27 19:07 [v 0.0.226] - sistemata mappatura dei wikilink tramite obsidian per il villaggio di davide",
+	"changes": [
+		{
+			"file": "personaggi/gruppi/gli-asmodeici.md",
+			"display_name": "Gli Asmodeici",
+			"status": "Modified",
+			"diff": "commit 2f97f705d7af81b04167f98e3df4007612c12c8e\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 19:07:13 2026 +0100\n\n    aggiornamento 2026 02 27 19:07 [v 0.0.226] - sistemata mappatura dei wikilink tramite obsidian per il villaggio di davide\n\ndiff --git a/personaggi/gruppi/gli-asmodeici.md b/personaggi/gruppi/gli-asmodeici.md\nindex 0957a52..8f6131a 100644\n--- a/personaggi/gruppi/gli-asmodeici.md\n+++ b/personaggi/gruppi/gli-asmodeici.md\n@@ -1,3 +1,3 @@\n è un gruppo di cultisti fanatici che venera [[Asmodeus]], per seguire le indicazioni del loro demone preferito inizialmente facevano governare il loro villaggio dallo stesso, dopo che è stato esorcizzato per l'ennesima volta hanno capito che non è praticabile mantenerlo nel loro villaggio e avere una vita comoda senza attirare troppo le attenzioni di varie chiese e cacciatori di demoni, per cui ormai è secoli che quando necessario evocano il demone per una notte così che possa giacere con una delle cultiste che poi partorirà il futuro capovillaggio (un tiefling).\n \n-vivono nel villaggio [[decidere-nome-del-villaggio-degli-asmodeici]].\n\\ No newline at end of file\n+vivono nel villaggio [[morkhaus]].\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+			"display_name": "Salvataggio a Tel'Murk'Vadinn",
+			"status": "Modified",
+			"diff": "commit 2f97f705d7af81b04167f98e3df4007612c12c8e\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Feb 27 19:07:13 2026 +0100\n\n    aggiornamento 2026 02 27 19:07 [v 0.0.226] - sistemata mappatura dei wikilink tramite obsidian per il villaggio di davide\n\ndiff --git a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\nindex 9491402..2a930b1 100644\n--- a/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n+++ b/saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md\n@@ -9,7 +9,7 @@ sempre [[roshi]] spiega a [[la-mano-rossa]] che ha in mente 2 modi per entrare n\n 2) cercare e usare un altro artefatto che dia accesso al mondo delle ombre sopravvissuto [[la-purga|alla purga]], anche questa una missione molto lunga\n inoltre consegna al party una statuetta che somiglia molto a [[dontavious-ladro-mezzelfo-25]] dicendogli che è magia iconografica, e devono metterci dentro l'ombra del loro amico per portarsela nel [[telmurkvadinn]] e, una volta dentro, spaccarla così che l'ombra venga liberata e torni al suo proprietario.\n ### [[dontavious-ladro-mezzelfo-25|dontavious]]\n-quando si addormenta fa un sogno in cui rivede i suoi vecchi compagni del circo che lo accusano di averli lasciati morire a [[decidere-nome-del-villaggio-degli-asmodeici]].\n+quando si addormenta fa un sogno in cui rivede i suoi vecchi compagni del circo che lo accusano di averli lasciati morire a [[morkhaus]].\n volendo fuggire da tutto ciò inconsciamente attiva i suoi poteri nel sonno e si trasla a [[telmurkvadinn]].\n A causa del modo in cui ci arriva non può uscirne normalmente, deve trovare un altro modo.\n come da ovunque all'interno del [[telmurkvadinn]] riesce a vedere il tronco centrale che è anche l'unico punto di riferimento di quel posto.\n"
+		}
+	]
+}

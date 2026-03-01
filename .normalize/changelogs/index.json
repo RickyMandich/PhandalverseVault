@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"version": "v 0.0.226",
+			"date": "2026-02-27 19:07:13 +0100",
+			"commit_hash": "2f97f705d7af81b04167f98e3df4007612c12c8e",
+			"changes_count": 2
+		},
+		{
 			"version": "v 0.0.225",
 			"date": "2026-02-27 19:05:07 +0100",
 			"commit_hash": "8c39e8a2a953aa41158b11fa59985e4c3d3f0f7e",

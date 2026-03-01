@@ -1,7 +1,9 @@
 nel calendario vengono contati gli anni usando come riferimento [[la-purga|la purga]]
+# anni
 come in ogni calendario si intende:
 - AP: avanti purga, quindi si contano gli anni precedenti
 - DP: dopo purga, quindi si contano gli anni successivi
+# mesi
 in questo calendario ci sono 13 mesi da 28 giorni ciascuno
 1) Aurilith - dedicato a [[Auril]]
 2) Torman - dedicato a [[Torm]]
@@ -16,6 +18,7 @@ in questo calendario ci sono 13 mesi da 28 giorni ciascuno
 11) Kelemvoris - dedicato a [[Kelemvor]]
 12) Tyrion - dedicato a [[Tyr]]
 13) Ao’thar - dedicato a [[Ao]]
+# settimane
 in ogni mese ci sono esattamente 4 settimane composte da:
 - lunedì
 - martedì
@@ -25,5 +28,5 @@ in ogni mese ci sono esattamente 4 settimane composte da:
 - sabato (giorno di riposo)
 - domenica (secondo giorno di riposo)
 ogni mese inizia di lunedì
-festività
+# festività
 - capodanno: 28 bisesto

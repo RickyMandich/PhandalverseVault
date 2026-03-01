@@ -83,3 +83,4 @@
 	- [ ] [[cosmo-sylvaranth]]
 	Era l'elfo direttore della sezione acrobatica del circo, fondamentalmente il capo mio, di Kael e Serena. La sua era una figura autorevole che tutti rispettavano, ma anche temevano dal momento che aveva potere decisionale sulle nostre carriere. Gli ero molto riconoscente per come si era comportato dopo la morte di mia madre, dal momento che non era per nulla scontato l'accogliermi nel circo.
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice
+- [ ] scrivere definizione domini delle ombre
