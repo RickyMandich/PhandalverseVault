@@ -1,5 +1,5 @@
 {
-  "spellcheck": false,
+  "spellcheck": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showUnsupportedFiles": true,

@@ -1,4 +1,5 @@
 # descrizione
+è una spada magica +2 rossa
 ![[Drakensyn.avif]]
 # dono draconico
 *privilegio di 3° livello*
