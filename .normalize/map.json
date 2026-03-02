@@ -100,12 +100,26 @@
 					},
 					"directories": {}
 				},
-				"signori-delle-ombre": {
-					"original": "Signori Delle Ombre",
-					"files": {
-						"malrythosar.md": "Malrythosar"
-					},
-					"directories": {}
+				"ombra": {
+					"original": "Ombra",
+					"files": {},
+					"directories": {
+						"cacombra": {
+							"original": "Cacombra",
+							"files": {
+								"cacombra.md": "Cacombra",
+								"tsevo-eynak.md": "Tsevo Eynak"
+							},
+							"directories": {}
+						},
+						"signori-delle-ombre": {
+							"original": "Signori Delle Ombre",
+							"files": {
+								"malrythosar.md": "Malrythosar"
+							},
+							"directories": {}
+						}
+					}
 				}
 			}
 		},
@@ -554,8 +568,7 @@
 							"files": {
 								"kanye-ovest.md": "Kanye Ovest",
 								"ren.md": "Ren",
-								"thraal.md": "Thraal",
-								"tsevo-eynak.md": "Tsevo Eynak"
+								"thraal.md": "Thraal"
 							},
 							"directories": {}
 						}

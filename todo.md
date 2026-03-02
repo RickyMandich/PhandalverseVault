@@ -63,20 +63,21 @@
     - [x] terreno illusorio (salvato nel terminale)
     - [x] telecinesi (salvato nel terminale)
     - [x] cambiare riferimento ai nuovi incantesimi
-- scrivere moduli futuri
-	- [x] [[salvataggio-a-telmurkvadinn]]
-- [ ] scrivere [[tsevo-eynak]]
-- [ ] parti dell'anima
-	- 1. **Ka** – La forza vitale o "doppio" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.
-	- 2. **Ba** – Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.
-	- 3. **Ib** – Il cuore, sede della coscienza, delle emozioni e della moralità.  Viene pesato contro la piuma di Maat per determinare l’accesso all’aldilà.
-	- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.
-	- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona
 - personaggi del background di dontavious
 	- [x] [[bront]]
 	- [x] [[kael-valmorra]]
 	- [x] [[serena-valmorra]]
 	- [x] [[tinkrin-cobblegear]]
 	- [x] [[cosmo-sylvaranth]]
+- scrivere moduli futuri
+	- [x] [[salvataggio-a-telmurkvadinn]]
+- [x] scrivere [[tsevo-eynak]]
+- [ ] parti dell'anima
+	- 1. **Ka** – La forza vitale o "doppio" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.
+	- 2. **Ba** – Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.
+	- 3. **Ib** – Il cuore, sede della coscienza, delle emozioni e della moralità.  Viene pesato contro la piuma di Maat per determinare l’accesso all’aldilà.
+	- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.
+	- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice
 - [ ] scrivere definizione domini delle ombre
+- [ ] scrivere definizione [[cacombra]]
