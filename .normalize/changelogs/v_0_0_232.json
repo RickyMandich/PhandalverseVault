@@ -1,0 +1,32 @@
+{
+	"version": "v 0.0.232",
+	"date": "2026-03-02 13:02:53 +0100",
+	"commit_hash": "4941053bb91a3158a774a9ef3e44aac418d74b58",
+	"commit_message": "aggiornamento 2026 03 02 13:03 [v 0.0.232] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/giocanti/pet/tsevo-eynak.md",
+			"display_name": "tsevo-eynak",
+			"status": "Renamed",
+			"diff": "commit d500e18a1f6fdea40690469cc28ae67431511e95\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Mar 2 13:02:53 2026 +0100\n\n    aggiornamento 2026 03 02 13:02 [v 0.0.232] - riorganizzazione entità legate alle ombre, scritta descrizione di tsevo eynak\n\ndiff --git a/personaggi/giocanti/pet/tsevo-eynak.md b/personaggi/giocanti/pet/tsevo-eynak.md\ndeleted file mode 100644\nindex e69de29..0000000\n"
+		},
+		{
+			"file": "entita/ombra/cacombra/tsevo-eynak.md",
+			"display_name": "Tsevo Eynak",
+			"status": "Added",
+			"diff": "commit d500e18a1f6fdea40690469cc28ae67431511e95\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Mar 2 13:02:53 2026 +0100\n\n    aggiornamento 2026 03 02 13:02 [v 0.0.232] - riorganizzazione entità legate alle ombre, scritta descrizione di tsevo eynak\n\ndiff --git a/entita/ombra/cacombra/tsevo-eynak.md b/entita/ombra/cacombra/tsevo-eynak.md\nnew file mode 100644\nindex 0000000..5f59102\n--- /dev/null\n+++ b/entita/ombra/cacombra/tsevo-eynak.md\n@@ -0,0 +1,4 @@\n+è un [[cacombra]] creata da [[malrythosar]].\n+#startMaster \n+è nato dall'ombra di [[kanye-ovest]]\n+#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "entita/signori-delle-ombre/malrythosar.md",
+			"display_name": "malrythosar",
+			"status": "Renamed",
+			"diff": "commit d500e18a1f6fdea40690469cc28ae67431511e95\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Mar 2 13:02:53 2026 +0100\n\n    aggiornamento 2026 03 02 13:02 [v 0.0.232] - riorganizzazione entità legate alle ombre, scritta descrizione di tsevo eynak\n\ndiff --git a/entita/signori-delle-ombre/malrythosar.md b/entita/signori-delle-ombre/malrythosar.md\ndeleted file mode 100644\nindex 0f3ece5..0000000\n--- a/entita/signori-delle-ombre/malrythosar.md\n+++ /dev/null\n@@ -1,2 +0,0 @@\n-#dm \n-è un [[signore-delle-ombre]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit d500e18a1f6fdea40690469cc28ae67431511e95\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Mar 2 13:02:53 2026 +0100\n\n    aggiornamento 2026 03 02 13:02 [v 0.0.232] - riorganizzazione entità legate alle ombre, scritta descrizione di tsevo eynak\n\ndiff --git a/todo.md b/todo.md\nindex a8d79bc..07f71e7 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -63,20 +63,21 @@\n     - [x] terreno illusorio (salvato nel terminale)\n     - [x] telecinesi (salvato nel terminale)\n     - [x] cambiare riferimento ai nuovi incantesimi\n+- personaggi del background di dontavious\n+\t- [x] [[bront]]\n+\t- [x] [[kael-valmorra]]\n+\t- [x] [[serena-valmorra]]\n+\t- [x] [[tinkrin-cobblegear]]\n+\t- [x] [[cosmo-sylvaranth]]\n - scrivere moduli futuri\n \t- [x] [[salvataggio-a-telmurkvadinn]]\n-- [ ] scrivere [[tsevo-eynak]]\n+- [x] scrivere [[tsevo-eynak]]\n - [ ] parti dell'anima\n \t- 1. **Ka** – La forza vitale o \"doppio\" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.\n \t- 2. **Ba** – Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.\n \t- 3. **Ib** – Il cuore, sede della coscienza, delle emozioni e della moralità.  Viene pesato contro la piuma di Maat per determinare l’accesso all’aldilà.\n \t- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.\n \t- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona\n-- personaggi del background di dontavious\n-\t- [x] [[bront]]\n-\t- [x] [[kael-valmorra]]\n-\t- [x] [[serena-valmorra]]\n-\t- [x] [[tinkrin-cobblegear]]\n-\t- [x] [[cosmo-sylvaranth]]\n - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice\n - [ ] scrivere definizione domini delle ombre\n+- [ ] scrivere definizione [[cacombra]]\n\\ No newline at end of file\n"
+		}
+	]
+}
