@@ -146,6 +146,15 @@ fi
 echo "map.json aggiornato con successo"
 echo ""
 
+# Esegui gli script usando il percorso completo
+# Passa il messaggio personalizzato a cmt.sh se presente
+if [ -n "$COMMIT_MESSAGE" ]; then
+    "$SCRIPT_DIR/cmt.sh" -m "$COMMIT_MESSAGE"
+else
+    "$SCRIPT_DIR/cmt.sh"
+fi
+bash "$SCRIPT_DIR/onlyFtpOfLastCmt.sh"
+
 # Genera il changelog per questa versione PRIMA del commit
 echo ""
 echo "=========================================="
@@ -161,13 +170,7 @@ fi
 echo "Changelog generato con successo"
 echo ""
 
-# Esegui gli script usando il percorso completo
-# Passa il messaggio personalizzato a cmt.sh se presente
-if [ -n "$COMMIT_MESSAGE" ]; then
-    "$SCRIPT_DIR/cmt.sh" -m "$COMMIT_MESSAGE"
-else
-    "$SCRIPT_DIR/cmt.sh"
-fi
+bash "$SCRIPT_DIR/cmt.sh" -m "aggiunti file di changelog"
 
 # Aggiorna il commit hash nel changelog e fai amend del commit
 echo ""
