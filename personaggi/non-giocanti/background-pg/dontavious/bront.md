@@ -1,0 +1,1 @@
+Bront era il cuoco del circo in cui [[dontavious-ladro-mezzelfo-25]] cresce. Data la sua natura era un po' irascibile, però con qualche complimento alle sue ricette [[dontavious-ladro-mezzelfo-25]] riesce a entrare nelle sue grazie, così da avere sempre la pancia piena, cosa non scontata in un circo itinerante.

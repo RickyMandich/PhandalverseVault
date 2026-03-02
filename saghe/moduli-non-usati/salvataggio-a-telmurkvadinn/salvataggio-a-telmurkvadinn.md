@@ -18,6 +18,7 @@ durante il viaggio (1d10 ore da quando comincia a camminare) incontra [[tsevo-ey
 ### party
 trovano il modo di entrare nel mondo delle ombre (probabilmente [[Atos]] si manifesta per la prima volta per cominciare a plagiare [[than-warlock-tiefling-30|than]]).
 una volta dentro, come da indicazioni di [[roshi]], fanno in modo di venire individuati da un [[mind-flayer|membro del clan dell'ombra (mind flayer reskinnato)]] per poterlo usare come guida per ritrovare [[dontavious-ladro-mezzelfo-25|dontavious]].
+si fanno guidare fino al quartier generale del Signore delle ombre e lì si fanno ricevere chiedendo di riavere indietro il loro compagno ma [[malrythosar]] rifiuta tassativamente. 
 ### [[dontavious-ladro-mezzelfo-25|dontavious]]
 guidato da [[tsevo-eynak]], [[dontavious-ladro-mezzelfo-25]], riesce a raggiungere il quartier generale di [[malrythosar]].
 dopo essersi informato da alcuni servitori del palazzo informa [[tsevo-eynak]] informa il ladro che il portale si trova nella sala del trono.
@@ -28,7 +29,11 @@ hanno due opzioni (a meno che al giocatore non vengano in mente altre soluzioni)
 - farsi ricevere dal signore delle ombre e convincerlo a dargli il permesso di tornare nel piano terreno attraverso il portale
 		in questo caso appena arrivi e fai la tua richiesta a [[malrythosar]] lui ti ride in faccia e ti chiede per quale assurdo motivo dovrebbe acconsentire alla tua richiesta.
 		in questo momento il party entra nel [[telmurkvadinn]] portandosi dietro la tua ombra che si ricongiunge al tuo corpo, appena questo succede il signore delle ombre si rende conto del suo potenziale con il potere delle ombre.
-dopo essersi reso conto del suo potenziale lo fa sedere su una poltrona d'ombra (creata sul momento) e gli parla chiedendogli se conosce e nel caso quanto i suoi poteri dell'ombra
+dopo essersi reso conto del suo potenziale lo fa sedere su una poltrona d'ombra (creata sul momento) e gli parla chiedendogli se conosce e nel caso quanto i suoi poteri dell'ombra.
+dopo il rifiuto di [[dontavious-ladro-mezzelfo-25]] gli insegna comunque le basi delle tecniche dell'ombra in cui ha potenziale per fargli capire a cosa sta rifiutando, dopo questo preve allenamento lo rimanda nella sua cella.
 ## atto 4 (scontro finale)
-
+alla fine [[malrythosar]] concede a [[la-mano-rossa]] di combatterlo, in caso di vittoria [[dontavious-ladro-mezzelfo-25]] avrebbe dovuto ucciderlo ottenendo tutti i suoi poteri, altrimenti sarebbe rimasto come suo allievo come da sua volontà originaria.
+il combattimento si svolge in una sala d'addestramento creata sul momento dal Signore delle Ombre che fa anche in modo che tutti i suoi sudditi stiano lontani, proprio per dare a dontavious la possibilità di esprimere il suo potenziale magico.
 ## atto 5 (epilogo)
+improvvisazione in base alle scelte dei giocatori, unica cosa da ricordarsi è spiegare bene a dontavious le possibilità che ottiene con il suo nuovo rango, tipo il fatto che le creature d'ombra nascono dalle ombre di esseri viventi che le hanno cedute dopo patti fatti con lui.
+ottiene anche tutte le proprietà di [[malrythosar]]

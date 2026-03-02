@@ -34,37 +34,9 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "be1f829645429a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "salvataggio-a-telmurkvadinn"
-            }
-          },
-          {
-            "id": "4f70c32514b4ef85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/saga-del-salvataggio-di-dontavious.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "saga-del-salvataggio-di-dontavious"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,33 +204,34 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "4f70c32514b4ef85",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
-    "personaggi/gruppi/la-mano-rossa.md",
-    "saghe/saga-del-salvataggio-di-dontavious.md",
-    "saghe/saga-di-capodanno-1312.md",
-    "materiale/stat-block/mind-flayer.md",
-    "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
-    "artefatti/party/artefatto-sintonia-draconica.md",
-    "materiale/stat-block/signore-delle-ombre.md",
-    "todo.md",
-    "definizioni/calendario.md",
-    "bash/d2utmpwMifBl",
-    "bash/d2utmplTygf2",
-    "bash/d2utmpjqc35J",
-    "bash/d2utmp0K4uvz",
-    "bash/d2utmprxVOEn",
-    "bash/d2utmpEDsyw4",
-    "bash/d2utmpDQaawU",
-    "bash/d2utmpJUnvF3",
-    "bash/d2utmpNawohg",
-    "bash/d2utmp266RE7",
-    "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
+    "bash/d2utmpnVjgwp",
+    "bash/d2utmp1qIppP",
+    "bash/d2utmp35HxNx",
+    "bash/d2utmpb2i8dx",
+    "bash/d2utmpfud9Yq",
+    "bash/d2utmp26LwIY",
+    "bash/d2utmpy47ZSu",
+    "bash/d2utmpXpG4Wq",
+    "bash/d2utmppA9Jc6",
+    "bash/d2utmp6QggTl",
     "personaggi/non-giocanti/background-pg/dontavious/tinkrin-cobblegear.md",
+    "todo.md",
     "personaggi/non-giocanti/background-pg/dontavious/serena-valmorra.md",
     "personaggi/non-giocanti/background-pg/dontavious/kael-valmorra.md",
     "personaggi/non-giocanti/background-pg/dontavious/cosmo-sylvaranth.md",
     "personaggi/non-giocanti/background-pg/dontavious/bront.md",
+    "saghe/saga-del-salvataggio-di-dontavious.md",
+    "saghe/moduli-non-usati/salvataggio-a-telmurkvadinn/salvataggio-a-telmurkvadinn.md",
+    "personaggi/gruppi/la-mano-rossa.md",
+    "saghe/saga-di-capodanno-1312.md",
+    "materiale/stat-block/mind-flayer.md",
+    "artefatti/party/artefatto-sintonia-draconica.md",
+    "materiale/stat-block/signore-delle-ombre.md",
+    "definizioni/calendario.md",
+    "bash/d2utmpwMifBl",
+    "personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
     "personaggi/non-giocanti/background-pg/vargas/fumero.md",
     "personaggi/non-giocanti/background-pg/tinkrin-cobblegear.md",
     "personaggi/non-giocanti/background-pg/serena-valmorra.md",
@@ -269,7 +242,6 @@
     "kael-valmorra.md",
     "serena-valmorra.md",
     "tinkrin-cobblegear.md",
-    "cosmo-sylvaranth.md",
     "entita/signori-delle-ombre/signore-delle-ombre.png",
     "eventi/scomparsa-di-dontavious.jpg",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",
