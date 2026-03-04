@@ -79,5 +79,9 @@
 	- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.
 	- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice
-- [ ] scrivere definizione domini delle ombre
-- [ ] scrivere definizione [[cacombra]]
+- [x] scrivere definizione [[dominio|dominio (ombre)]]
+- [x] scrivere definizione [[cacombra]]
+- [x] scrivere definizione [[signore-delle-ombre]]
+- [ ] scrivere definizione [[dominio|dominio (demoniaco)]]
+- [ ] scrivere definizione [[cacodemone]]
+- [ ] scrivere definizione [[signore-dei-demoni]]

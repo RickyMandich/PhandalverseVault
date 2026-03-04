@@ -114,7 +114,9 @@
 				},
 				"ombra": {
 					"original": "Ombra",
-					"files": {},
+					"files": {
+						"dominio.md": "Dominio delle Ombre"
+					},
 					"directories": {
 						"cacombra": {
 							"original": "Cacombra",
@@ -127,7 +129,8 @@
 						"signori-delle-ombre": {
 							"original": "Signori Delle Ombre",
 							"files": {
-								"malrythosar.md": "Malrythosar"
+								"malrythosar.md": "Malrythosar",
+								"signore-delle-ombre.md": "Signore Delle Ombre"
 							},
 							"directories": {}
 						}
@@ -545,8 +548,8 @@
 				"stat-block": {
 					"original": "Stat Block",
 					"files": {
+						"malrythosar-stat.md": "Malrythosar",
 						"mind-flayer.md": "Mind Flayer",
-						"signore-delle-ombre.md": "Signore Delle Ombre",
 						"spirito-mietitore.md": "Spirito Mietitore",
 						"spirito-non-morto.md": "Spirito Non Morto"
 					},

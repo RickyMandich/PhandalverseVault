@@ -49,6 +49,7 @@ ___
 > Un Signore delle Ombre è un essere che ha completo controllo della sua zona del piano delle ombre ed è la più forte creatura che ci risiede.
 > 
 > Nessun portale, incantesimo, rituale finora tentato è riuscito a far uscire un Signore delle Ombre. La sua influenza può insinuarsi tra le crepe dei piani sotto forma delle ombre che controlla e delle sue progenie, ma il Signore delle Ombre in persona non può uscire dal piano delle ombre (e solitamente neanche dal suo dominio, anche se rare volte potrebbe andare a parlare con altri Signori delle Ombre).
+> ![[signore-delle-ombre.png]]
 > ___
 > ## Tana
 > Un Signore delle Ombre governa il suo dominio, ossia una zona del [[telmurkvadinn]]. All’interno del suo dominio il Signore delle Ombre da vita a orrori indicibili fatti di ombra e può ospitare altre creature aberranti che qui hanno trovato rifugio. Mostri di ogni genere sorgono all’ombra delle ali del Signore delle Ombre.
@@ -60,4 +61,3 @@ ___
 > - Il Signore delle Ombre ulula, facendo riecheggiare nel covo echi raggelanti. Tutti i nemici del Padre dei Mostri entro 90 metri che possono udire l’ululato devono superare un tiro salvezza su Saggezza con CD 15 o essere spaventati fino alla fine del loro turno successivo.
 > 
 > - Il Signore delle Ombre fa erompere catene di roccia dal terreno, dal soffitto o dalle pareti. Due creature che egli può vedere entro 36 metri devono superare un tiro salvezza su Forza con CD 15 o essere trattenute dalle catene fino all’iniziativa 20 del round successivo. Una creatura può liberarsi se essa o un’altra creatura usa un’azione per effettuare una prova di Forza con CD 15 e la supera. Le catene si sgretolano in polvere quando la creatura viene liberata.
-> ![[signore-delle-ombre.png]]
