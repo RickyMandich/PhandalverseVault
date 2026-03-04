@@ -1,4 +1,4 @@
 clear
 git pull
 echo "last commit:"
-git log -1 --pretty=%s
+git log -1 --pretty=%s HEAD~1

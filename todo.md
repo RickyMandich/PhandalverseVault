@@ -72,7 +72,7 @@
 - scrivere moduli futuri
 	- [x] [[salvataggio-a-telmurkvadinn]]
 - [x] scrivere [[tsevo-eynak]]
-- [ ] parti dell'anima
+- [x] parti dell'anima
 	- 1. **Ka** – La forza vitale o "doppio" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.
 	- 2. **Ba** – Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.
 	- 3. **Ib** – Il cuore, sede della coscienza, delle emozioni e della moralità.  Viene pesato contro la piuma di Maat per determinare l’accesso all’aldilà.

@@ -36,6 +36,18 @@
 				"villaggio.md": "Villaggio"
 			},
 			"directories": {
+				"anima": {
+					"original": "Anima",
+					"files": {
+						"anima.md": "Anima",
+						"ba.md": "Ba",
+						"ib.md": "Ib",
+						"ka.md": "Ka",
+						"ren.md": "Ren",
+						"sheut.md": "Sheut"
+					},
+					"directories": {}
+				},
 				"template": {
 					"original": "Template",
 					"files": {

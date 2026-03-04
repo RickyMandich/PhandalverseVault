@@ -1,0 +1,1 @@
+Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.

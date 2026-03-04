@@ -1,0 +1,1 @@
+É il nome segreto di ogni creatura, contiene l'essenza e l'identità di tale creatura, in caso di grossi cambiamenti personali per una creatura può cambiare.

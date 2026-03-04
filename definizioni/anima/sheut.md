@@ -1,0 +1,1 @@
+É l'ombra di ogni creatura, simboleggia protezione e presenza, corrisponde a una parte sia fisica che spirituale di tale creatura, spesso è necessaria per incantesimi molto difficili legati a una creatura specifica in mancanza di un corpo fisico.
