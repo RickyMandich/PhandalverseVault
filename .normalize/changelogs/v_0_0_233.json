@@ -1,0 +1,56 @@
+{
+	"version": "v 0.0.233",
+	"date": "2026-03-04 11:47:29 +0100",
+	"commit_hash": "7a005b18078f0e2016438e53acce82a01b64bda9",
+	"commit_message": "aggiornamento 2026 03 04 11:47 [v 0.0.233] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "definizioni/anima/anima.md",
+			"display_name": "Anima",
+			"status": "Added",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/definizioni/anima/anima.md b/definizioni/anima/anima.md\nnew file mode 100644\nindex 0000000..e407dcc\n--- /dev/null\n+++ b/definizioni/anima/anima.md\n@@ -0,0 +1,11 @@\n+l'anima è composta da 5 parti:\n+## ka\n+![[ka]]\n+## ba\n+![[ba]]\n+## ib\n+![[ib]]\n+## ren\n+![[definizioni/anima/ren|ren]]\n+## sheut\n+![[sheut]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/anima/ba.md",
+			"display_name": "Ba",
+			"status": "Added",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/definizioni/anima/ba.md b/definizioni/anima/ba.md\nnew file mode 100644\nindex 0000000..eb28fbd\n--- /dev/null\n+++ b/definizioni/anima/ba.md\n@@ -0,0 +1 @@\n+Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/anima/ib.md",
+			"display_name": "Ib",
+			"status": "Added",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/definizioni/anima/ib.md b/definizioni/anima/ib.md\nnew file mode 100644\nindex 0000000..53a3792\n--- /dev/null\n+++ b/definizioni/anima/ib.md\n@@ -0,0 +1 @@\n+Il cuore, sede della coscienza, delle emozioni e della moralità. É la parte dell'anima presa in considerazione quando si fanno ragionamenti relativi a moralità e purezza di cuore\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/anima/ka.md",
+			"display_name": "Ka",
+			"status": "Added",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/definizioni/anima/ka.md b/definizioni/anima/ka.md\nnew file mode 100644\nindex 0000000..3da92fe\n--- /dev/null\n+++ b/definizioni/anima/ka.md\n@@ -0,0 +1 @@\n+La forza vitale o \"doppio\" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/anima/ren.md",
+			"display_name": "Ren",
+			"status": "Added",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/definizioni/anima/ren.md b/definizioni/anima/ren.md\nnew file mode 100644\nindex 0000000..29f44a8\n--- /dev/null\n+++ b/definizioni/anima/ren.md\n@@ -0,0 +1 @@\n+É il nome segreto di ogni creatura, contiene l'essenza e l'identità di tale creatura, in caso di grossi cambiamenti personali per una creatura può cambiare.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "definizioni/anima/sheut.md",
+			"display_name": "Sheut",
+			"status": "Added",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/definizioni/anima/sheut.md b/definizioni/anima/sheut.md\nnew file mode 100644\nindex 0000000..be16160\n--- /dev/null\n+++ b/definizioni/anima/sheut.md\n@@ -0,0 +1 @@\n+É l'ombra di ogni creatura, simboleggia protezione e presenza, corrisponde a una parte sia fisica che spirituale di tale creatura, spesso è necessaria per incantesimi molto difficili legati a una creatura specifica in mancanza di un corpo fisico.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/pet/thraal.md",
+			"display_name": "Thraal",
+			"status": "Modified",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/personaggi/giocanti/pet/thraal.md b/personaggi/giocanti/pet/thraal.md\nindex a5510ed..828ad6a 100644\n--- a/personaggi/giocanti/pet/thraal.md\n+++ b/personaggi/giocanti/pet/thraal.md\n@@ -1,2 +1,2 @@\n # Thraal\n-è l'imp di [[than-warlock-tiefling-30]], quando è sotto forma di corvo viene presentato come [[ren]]\n\\ No newline at end of file\n+è l'imp di [[than-warlock-tiefling-30]], quando è sotto forma di corvo viene presentato come [[personaggi/giocanti/pet/ren]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 040442ffe418c0ca1044e92a1a992ee5ced7cfd2\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Mar 4 11:47:29 2026 +0100\n\n    aggiornamento 2026 03 04 11:47 [v 0.0.233] - scrittura dell'anima e leggera modifica dello script di pull (al posto di vedere il messaggio dell'ultimo commit si vede quello del penultimo, visto che dopo le modifiche allo script di upload l'ultimo commit mi dice solo a che versione ha aggiunto i changelog)\n\ndiff --git a/todo.md b/todo.md\nindex 07f71e7..4a572c2 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -72,7 +72,7 @@\n - scrivere moduli futuri\n \t- [x] [[salvataggio-a-telmurkvadinn]]\n - [x] scrivere [[tsevo-eynak]]\n-- [ ] parti dell'anima\n+- [x] parti dell'anima\n \t- 1. **Ka** – La forza vitale o \"doppio\" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.\n \t- 2. **Ba** – Lo spirito personale, raffigurato come un uccello con testa umana.  Può viaggiare tra il mondo dei vivi e l’aldilà ed esprime la personalità individuale.\n \t- 3. **Ib** – Il cuore, sede della coscienza, delle emozioni e della moralità.  Viene pesato contro la piuma di Maat per determinare l’accesso all’aldilà.\n"
+		}
+	]
+}
