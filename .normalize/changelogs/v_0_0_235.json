@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.235",
+	"date": "2026-03-05 17:00:29 +0100",
+	"commit_hash": "05d2dbcabc2b51e0bfc54b865b39569dd113bd4d",
+	"commit_message": "aggiornamento 2026 03 05 17:00 [v 0.0.235] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit b3d6611f044a9a17d2b15e08431a1cdc2cb836f1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Mar 5 17:00:29 2026 +0100\n\n    aggiornamento 2026 03 05 17:00 [v 0.0.235] - modifica leggera al todo\n\ndiff --git a/todo.md b/todo.md\nindex 379fee0..cb2837a 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -16,7 +16,7 @@\n - [x] inventare ombrocinesi\n - [X] [[atos]]\n - [x] definizione di [[demone]]\n-- [x] [[asmodeus]]\n+- [x] [asmodeus]]\n - [x] [[la-chiave]]\n -  completare pagine minori di contesto\n \t- [x] [[dark-kaia]]\n@@ -79,9 +79,11 @@\n \t- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.\n \t- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona\n - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice\n+- ombre\n - [x] scrivere definizione [[dominio|dominio (ombre)]]\n - [x] scrivere definizione [[cacombra]]\n - [x] scrivere definizione [[signore-delle-ombre]]\n+- demoni\n - [ ] scrivere definizione [[dominio|dominio (demoniaco)]]\n - [ ] scrivere definizione [[cacodemone]]\n - [ ] scrivere definizione [[signore-dei-demoni]]\n\\ No newline at end of file\n"
+		}
+	]
+}
