@@ -16,7 +16,7 @@
 - [x] inventare ombrocinesi
 - [X] [[atos]]
 - [x] definizione di [[demone]]
-- [x] [[asmodeus]]
+- [x] [asmodeus]]
 - [x] [[la-chiave]]
 -  completare pagine minori di contesto
 	- [x] [[dark-kaia]]
@@ -79,9 +79,11 @@
 	- 4. **Ren** – Il nome, che contiene l’essenza e l’identità della persona.  Conservare il nome significa mantenere viva l’anima.
 	- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice
+- ombre
 - [x] scrivere definizione [[dominio|dominio (ombre)]]
 - [x] scrivere definizione [[cacombra]]
 - [x] scrivere definizione [[signore-delle-ombre]]
+- demoni
 - [ ] scrivere definizione [[dominio|dominio (demoniaco)]]
 - [ ] scrivere definizione [[cacodemone]]
 - [ ] scrivere definizione [[signore-dei-demoni]]
