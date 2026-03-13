@@ -606,6 +606,8 @@ Quando viene colpito da un attacco può spendere punti ombrocinesi:
 - 6 punti → l’attacco manca e il portatore può teletrasportarsi fino a 9 metri in uno spazio in ombra visibile.
 
 Se l’attacco proviene dal bersaglio della Frattura del Predatore, il costo è ridotto di 2 punti.
+Se ti trovi in oscurità il costo è ridotto di 1.
+Se ti trovi in penombra e superi un tiro salvezza su destrezza il costo è ridotto di 1, altrimenti costa normalmente
 ___
 # frattura del predatore
 ***AZIONE***
