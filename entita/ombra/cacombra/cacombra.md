@@ -1,2 +1,2 @@
 queste creature sono fatte completamente di ombra e non hanno una forma fisica definita, anche se solitamente ne hanno una a cui tendono.
-non si possono riprodurre tra loro ma vengono creati a partire dallo [[sheut|sheut (ombra)]] da un [[malrythosar-stat]]. solitamente quest'ultimo ricava l'ombra da un patto fatto con qualcuno.
+non si possono riprodurre tra loro ma vengono creati a partire dallo [[sheut|sheut (ombra)]] da un [[signore-delle-ombre]]. solitamente quest'ultimo ricava l'ombra da un patto fatto con qualcuno.
