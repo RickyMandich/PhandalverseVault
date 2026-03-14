@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.237",
+	"date": "2026-03-14 15:13:04 +0100",
+	"commit_hash": "c28222f8803c9f3ab305265d7f6515d0c7aed81e",
+	"commit_message": "aggiornamento 2026 03 14 15:13 [v 0.0.237] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "entita/ombra/cacombra/cacombra.md",
+			"display_name": "Cacombra",
+			"status": "Modified",
+			"diff": "commit 8754154e085d1fc9a3896848fa6f142f16933f62\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sat Mar 14 15:13:04 2026 +0100\n\n    aggiornamento 2026 03 14 15:12 [v 0.0.237] - sistemato riferimento a signore delle ombre in cacombra\n\ndiff --git a/entita/ombra/cacombra/cacombra.md b/entita/ombra/cacombra/cacombra.md\nindex 380d7bd..5333584 100644\n--- a/entita/ombra/cacombra/cacombra.md\n+++ b/entita/ombra/cacombra/cacombra.md\n@@ -1,2 +1,2 @@\n queste creature sono fatte completamente di ombra e non hanno una forma fisica definita, anche se solitamente ne hanno una a cui tendono.\n-non si possono riprodurre tra loro ma vengono creati a partire dallo [[sheut|sheut (ombra)]] da un [[malrythosar-stat]]. solitamente quest'ultimo ricava l'ombra da un patto fatto con qualcuno.\n\\ No newline at end of file\n+non si possono riprodurre tra loro ma vengono creati a partire dallo [[sheut|sheut (ombra)]] da un [[signore-delle-ombre]]. solitamente quest'ultimo ricava l'ombra da un patto fatto con qualcuno.\n\\ No newline at end of file\n"
+		}
+	]
+}
