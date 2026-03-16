@@ -20,9 +20,18 @@ totale XP: 1 \* 2 900 = 2 900
 moltiplicatore numero nemici = 2 900 \* 1 (1 mostri) = 2 900
 tutti i giocatori prendono 725 punti esperienza
 ## sessione di domenica 2026 03 01
-il party si fa spiega il [[telmurkvadinn]] e guidare dalla creatura d'ombra soggiogata alla fine della scorsa sessione fino al tronco e alla base del Signore delle Ombre per poi liberarlo una volta arrivati, quando sono dentro cercano di farsi ridare [[dontavious-ladro-mezzelfo-25]] ma [[malrythosar]] non vuole, alle fine gli offre di combattere, se vincono loro [[dontavious-ladro-mezzelfo-25]] lo ucciderà diventando il prossimo signore delle ombre e a quel punto potranno fare ciò che vogliono, nel frattempo il Signore delle Ombre aveva insegnato a Dontavious come usare i suoi poteri
+il party si fa spiegare il [[telmurkvadinn]] e guidare dalla creatura d'ombra soggiogata alla fine della scorsa sessione fino al tronco e alla base del Signore delle Ombre e da [[dontavious-ladro-mezzelfo-25]] per poi liberarlo una volta arrivati, quando sono dentro cercano di farsi ridare [[dontavious-ladro-mezzelfo-25]] ma [[malrythosar]] non vuole, alle fine gli offre di combattere, se vincono loro [[dontavious-ladro-mezzelfo-25]] lo ucciderà diventando il prossimo signore delle ombre e a quel punto potranno fare ciò che vogliono, nel frattempo il Signore delle Ombre aveva insegnato a Dontavious come usare i suoi poteri
 ### XP
-nemici sconfitti: nessuno
+nemici sconfitti: nessuno = 0 mostri
 totale XP: 0 \* 0 = 0
 moltiplicatore numero nemici = 0 \* 0 (0 mostri) = 0
 tutti i giocatori prendono 0 punti esperienza
+## sessione di giovedì 2026 03 12
+[[la-mano-rossa|il party]] combatte contro [[malrythosar]] e, al termine di uno scontro molto rapido in cui [[dontavious-ladro-mezzelfo-25]] riesce a sfruttare un momento di distrazione del signore delle ombre per portare a segno un colpo caricato al massimo con il suo potere delle ombre, lo sconfiggono.
+Quando [[malrythosar]] muore [[dontavious-ladro-mezzelfo-25]] riesce a sentire una voce magica che gli fa sapere che appena sarà pronto gli basterà pronunciare "avvia tutorial" e riceverà un'illusione magica in cui [[malrythosar]] gli spiega come funziona un dominio del piano delle ombre, quali sono le responsabilità di un [[signore-delle-ombre]] e come svolgere questo suo nuovo ruolo al meglio.
+dopo essersi riposati e che [[dontavious-ladro-mezzelfo-25]] segue tutti questi insegnamenti scoprono anche della stanza del tesoro che ora è di proprietà di [[dontavious-ladro-mezzelfo-25]], una volta lì si attiva [[la-bussola]] al polso di [[vargas-paladino-nano-65]] che li conduce a un quadro che, dopo un'analisi [[vargas-paladino-nano-65|dello stesso]] si scopre essere una cassaforte segreta che contiene un pezzo abbastanza grande di [[la-chiave|chiave]].
+### XP
+nemici sconfitti: [[malrythosar]] = 1 mostro
+totale XP: 41 000 \* 1 = 41 000
+moltiplicatore numero nemici = 41 000 \* 1 (1 mostri) = 41 000
+tutti i giocatori prendono 10 250 punti esperienza

@@ -7,22 +7,23 @@
 ![[attila-slayer-guerriero-elfo-100]]
 
 # punti esperienza
-|                                                sessione                                                 | livello |   xp   |
-| :-----------------------------------------------------------------------------------------------------: | :-----: | :----: |
-|                                               sessione 0                                                |    3    |  900   |
-|        sessione di giovedì 2025 10 16![[Saga-di-GemGrave##sessione di giovedì 2025 10 16###xp]]         |    3    |  950   |
-|        sessione di giovedì 2025 11 07![[Saga-di-GemGrave##sessione di venerdì 2025 11 07###xp]]         |    3    | 1.050  |
-|       sessione di giovedì 2025 11 13![[Saga-della-magione##sessione di giovedì 2025 11 13###xp]]        |    3    | 1.380  |
-|         sessione di giovedì 2025 11 21![[Saga-di-merfolk##sessione di venerdì 2025 11 21###xp]]         |    3    | 1.480  |
-|         sessione di giovedì 2025 11 27![[Saga-di-merfolk##sessione di giovedì 2025 11 27###xp]]         |    3    | 1.730  |
-|         sessione di giovedì 2025 12 05![[Saga-di-merfolk##sessione di venerdì 2025 12 05###xp]]         |    3    | 1.930  |
-|      sessione di giovedì 2025 12 18![[Saga-della-biblioteca##sessione di giovedì 2025 12 18###xp]]      |    3    | 2.030  |
-|     sessione di giovedì 2025 01 16![[Saga-di-capodanno-1312##sessione di venerdì 2026 01 16###xp]]      |    4    | 2.930  |
-|     sessione di giovedì 2025 01 23![[Saga-di-capodanno-1312##sessione di venerdì 2026 01 23###xp]]      |    4    | 4.370  |
-|     sessione di giovedì 2026 01 30![[Saga-di-capodanno-1312##sessione di giovedì 2026 01 30###xp]]      |    4    | 5.810  |
-|     sessione di giovedì 2026 02 05![[Saga-di-capodanno-1312##sessione di giovedì 2026 02 05###xp]]      |    6    | 14.530 |
-| sessione di giovedì 2026 02 27![[saga-del-salvataggio-di-dontavious#sessione di venerdì 2026 02 27#XP]] |    6    | 15.255 |
-| sessione di giovedì 2026 03 01![[saga-del-salvataggio-di-dontavious#sessione di venerdì 2026 03 01#XP]] |    6    | 15.255 |
+|                                                 sessione                                                  | livello |   xp   |
+| :-------------------------------------------------------------------------------------------------------: | :-----: | :----: |
+|                                                sessione 0                                                 |    3    |  900   |
+|         sessione di giovedì 2025 10 16![[Saga-di-GemGrave##sessione di giovedì 2025 10 16###xp]]          |    3    |  950   |
+|         sessione di giovedì 2025 11 07![[Saga-di-GemGrave##sessione di venerdì 2025 11 07###xp]]          |    3    | 1.050  |
+|        sessione di giovedì 2025 11 13![[Saga-della-magione##sessione di giovedì 2025 11 13###xp]]         |    3    | 1.380  |
+|          sessione di giovedì 2025 11 21![[Saga-di-merfolk##sessione di venerdì 2025 11 21###xp]]          |    3    | 1.480  |
+|          sessione di giovedì 2025 11 27![[Saga-di-merfolk##sessione di giovedì 2025 11 27###xp]]          |    3    | 1.730  |
+|          sessione di giovedì 2025 12 05![[Saga-di-merfolk##sessione di venerdì 2025 12 05###xp]]          |    3    | 1.930  |
+|       sessione di giovedì 2025 12 18![[Saga-della-biblioteca##sessione di giovedì 2025 12 18###xp]]       |    3    | 2.030  |
+|      sessione di giovedì 2025 01 16![[Saga-di-capodanno-1312##sessione di venerdì 2026 01 16###xp]]       |    4    | 2.930  |
+|      sessione di giovedì 2025 01 23![[Saga-di-capodanno-1312##sessione di venerdì 2026 01 23###xp]]       |    4    | 4.370  |
+|      sessione di giovedì 2026 01 30![[Saga-di-capodanno-1312##sessione di giovedì 2026 01 30###xp]]       |    4    | 5.810  |
+|      sessione di giovedì 2026 02 05![[Saga-di-capodanno-1312##sessione di giovedì 2026 02 05###xp]]       |    6    | 14.530 |
+|  sessione di giovedì 2026 02 27![[saga-del-salvataggio-di-dontavious#sessione di venerdì 2026 02 27#XP]]  |    6    | 15.255 |
+| sessione di domenica 2026 03 01![[saga-del-salvataggio-di-dontavious#sessione di domenica 2026 03 01#XP]] |    6    | 15.255 |
+| sessione di giovedì 2026 03 12 ![[saga-del-salvataggio-di-dontavious#sessione di giovedì 2026 03 12#XP]]  |    7    | 25.505 |
 
 | Livello | PE      | bonus competenza |
 | :-----: | ------- | ---------------- |
