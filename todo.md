@@ -88,8 +88,8 @@
 - [ ] scrivere definizione [[cacodemone]]
 - [ ] scrivere definizione [[signore-dei-demoni]]
 - Rallo
-- [ ] scambio condizioni predatore dell'ombra
-- [ ] limite infusione crepuscolare pari a erosione dell'anima
-- [ ] modificare ombra di moil (togli invisibilità e dai CA)
-- [ ] modificare opportunista (quando un nemico attacca, se attacca te non puoi diventare intangibile)
+- [x] scambio condizioni predatore dell'ombra
+- [x] limite infusione crepuscolare pari a erosione dell'anima
+- [x] modificare ombra di moil (togli invisibilità e dai CA)
+- [x] modificare opportunista (quando un nemico attacca, se attacca te non puoi diventare intangibile)
 - [ ] valutare multiattacco frattura del predatore

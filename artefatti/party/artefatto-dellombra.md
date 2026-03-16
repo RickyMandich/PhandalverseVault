@@ -537,7 +537,7 @@ tabella esplicativa:
 ![[materiale/incantesimi/tutti/scurovisione]]
 ![[materiale/incantesimi/tutti/silenzio]]
 ![[materiale/incantesimi/tutti/illusione-minore]]
-![[materiale/incantesimi/tutti/ombra-di-moil]]
+![[materiale/incantesimi/dellombra/ombra-di-moil]]
 
 ___
 # visione dell'ombra
@@ -560,7 +560,7 @@ il proprietario è in grado di diventare tutt'uno con le ombre. Quando si trova 
 
 ---
 # opportunista
-il proprietario impara ad approfittare della momentanea distrazione che una creatura subisce quando è colpita da un attacco. Ogni volta che una creatura entro 1,5 metri dal proprietario è colpita da un attacco effettuato da una creatura diversa dal proprietario, quest'ultimo può usare la sua reazione per effettuare un attacco in mischia contro quella creatura.
+il proprietario impara ad approfittare della momentanea distrazione che una creatura subisce quando effettua un attacco. Ogni volta che una creatura entro 4,5 metri dal proprietario effettua un attacco, può usare la sua reazione per effettuare un attacco in mischia contro quella creatura, se il bersaglio di questo attacco è lui non può usare questo privilegio se usa anche ***Intangibilità delle Ombre***.
 
 ---
 # inventario oscuro
@@ -588,9 +588,9 @@ ___
 # predatore dell'ombra
 Quando il portatore colpisce una creatura che:
 - si trova entro 9 metri
-- non ha altre creature ostili entro 9 metri da lui
+- non ha altre creature ostili al proprietario entro 9
 Può applicare Attacco Furtivo anche senza vantaggio.
-Se la creatura è l’unico bersaglio ostile entro 9 metri, l’Attacco Furtivo infligge **+1d6 danni necrotici**.
+Se non ci sono suoi alleati entro 9 metri, l’Attacco Furtivo infligge **+1d6 danni necrotici**.
 
 Questo bonus aumenta a **+2d6** se il portatore si trova in oscurità o luce fioca.
 ___
@@ -598,16 +598,18 @@ ___
 
 Quando il portatore infligge Attacco Furtivo può spendere punti ombrocinesi per potenziarlo:
 - 1 punto → +1d6 danni necrotici
+il numero massimo di punti spendibili con questo privilegio è pari al numero di dadi accumulati con ***Erosione dell'Anima*** (vedi sotto)
 ___
 # Intangibilità delle ombre
 ***REAZIONE***
 Quando viene colpito da un attacco può spendere punti ombrocinesi:
-- 3 punti → l’attacco manca.
-- 6 punti → l’attacco manca e il portatore può teletrasportarsi fino a 9 metri in uno spazio in ombra visibile.
+- 3 punti → l’attacco gli passa attraverso.
+- 6 punti → l’attacco gli passa attraverso e il portatore può teletrasportarsi fino a 9 metri in uno spazio in ombra visibile.
 
 Se l’attacco proviene dal bersaglio della Frattura del Predatore, il costo è ridotto di 2 punti.
 Se ti trovi in oscurità il costo è ridotto di 1.
-Se ti trovi in penombra e superi un tiro salvezza su destrezza il costo è ridotto di 1, altrimenti costa normalmente
+Se ti trovi in penombra e superi un tiro salvezza su destrezza il costo è ridotto di 1, altrimenti costa normalmente.
+Questo privilegio non può venire usato per evitare un attacco su cui si va ad attivare opportunista.
 ___
 # frattura del predatore
 ***AZIONE***
