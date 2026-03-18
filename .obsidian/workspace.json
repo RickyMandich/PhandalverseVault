@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "1a556a2ef59f75f5",
+            "id": "f30834198721af38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artefatti/party/artefatto-dellombra.md",
+                "file": "saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artefatto-dellombra"
+              "title": "ritrovamento-del-portale"
             }
           }
         ],
@@ -218,24 +218,26 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "1a556a2ef59f75f5",
+  "active": "f30834198721af38",
   "lastOpenFiles": [
+    "bash/d2utmpghoKbV",
+    "bash/d2utmpdepKlG",
+    "bash/d2utmpgcD0HP",
+    "bash/d2utmpS6OpwZ",
+    "bash/d2utmpfKUXuA",
+    "bash/d2utmppnrFvF",
+    "bash/d2utmpZfP1Rs",
+    "bash/d2utmpBOidTs",
+    "bash/d2utmpkirzMX",
+    "bash/d2utmpBt3Iqg",
     "todo.md",
+    "saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md",
+    "saghe/moduli-non-usati/ritrovamento-del-portale",
     "artefatti/party/artefatto-dellombra.md",
     "materiale/incantesimi/dellombra/ombra-di-moil.md",
     "materiale/incantesimi/tutti/oscurita.md",
     "materiale/incantesimi/dellombra/oscurita.md",
     "materiale/incantesimi/tutti/ombra-di-moil.md",
-    "bash/d2utmpQR1jbG",
-    "bash/d2utmpFxDpBU",
-    "bash/d2utmpoaS7eg",
-    "bash/d2utmp0aPuim",
-    "bash/d2utmpD6LvTQ",
-    "bash/d2utmpjKpI7Q",
-    "bash/d2utmpXPlLvG",
-    "bash/d2utmpkWYLDT",
-    "bash/d2utmphgYC5G",
-    "bash/d2utmp2mBYul",
     "saghe/saga-del-salvataggio-di-dontavious.md",
     "personaggi/gruppi/la-mano-rossa.md",
     "saghe/macrosaga-della-chiave.md",
@@ -255,8 +257,6 @@
     "entita/ombra/signori-delle-ombre/signore-delle-ombre.png",
     "entita/cacombra/cacombra.md",
     "personaggi/giocanti/pet/tsevo-eynak.md",
-    "personaggi/non-giocanti/background-pg/dontavious/tinkrin-cobblegear.md",
-    "personaggi/non-giocanti/background-pg/dontavious/serena-valmorra.md",
     "entita/signori-delle-ombre/signore-delle-ombre.png",
     "eventi/scomparsa-di-dontavious.jpg",
     "personaggi/non-giocanti/gemgrave/perrin.jpg",

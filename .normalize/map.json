@@ -697,10 +697,10 @@
 					"original": "Moduli Non Usati",
 					"files": {},
 					"directories": {
-						"salvataggio-a-telmurkvadinn": {
-							"original": "Salvataggio A Tel'Murk'Vadinn",
+						"ritrovamento-del-portale": {
+							"original": "Ritrovamento Del Portale",
 							"files": {
-								"salvataggio-a-telmurkvadinn.md": "Salvataggio a Tel'Murk'Vadinn"
+								"ritrovamento-del-portale.md": "Ritrovamento Del Portale"
 							},
 							"directories": {}
 						}
@@ -716,6 +716,13 @@
 								"capodanno1-boss.md": "Capodanno1 Boss",
 								"capodanno1-minion.md": "Capodanno1 Minion",
 								"capodanno1.md": "Capodanno1"
+							},
+							"directories": {}
+						},
+						"salvataggio-a-telmurkvadinn": {
+							"original": "Salvataggio A Tel'Murk'Vadinn",
+							"files": {
+								"salvataggio-a-telmurkvadinn.md": "Salvataggio A Telmurkvadinn"
 							},
 							"directories": {}
 						}
