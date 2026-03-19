@@ -1,0 +1,20 @@
+{
+	"version": "v 0.0.241",
+	"date": "2026-03-19 21:06:48 +0100",
+	"commit_hash": "6ffb0564ca06d0befc9c438cbd91bbfdc90f8a3f",
+	"commit_message": "aggiornamento 2026 03 19 21:07 [v 0.0.241] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/macrosaga-della-chiave.md",
+			"display_name": "Macrosaga della Chiave",
+			"status": "Modified",
+			"diff": "commit f79d5fa7ac4c86133f3adff4c8d278fd31d2d38c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Mar 19 21:06:48 2026 +0100\n\n    aggiornamento 2026 03 19 21:06 [v 0.0.241] - working on saga del portale modulo\n\ndiff --git a/saghe/macrosaga-della-chiave.md b/saghe/macrosaga-della-chiave.md\nindex deeb287..ee204eb 100644\n--- a/saghe/macrosaga-della-chiave.md\n+++ b/saghe/macrosaga-della-chiave.md\n@@ -1,7 +1,9 @@\n #macrosaga\n-![[saga-di-gemgrave]]\n-![[saga-della-magione]]\n-![[saga-di-merfolk]]\n-![[saga-della-biblioteca]]\n-![[saga-di-capodanno-1312]]\n-![[saga-del-salvataggio-di-dontavious]]\n\\ No newline at end of file\n+in questa macro saga [[la-mano-rossa]] va alla ricerca dei pezzi della chiave per ricostruirla e attivare il portale per andare a [[fandalmein]] per trovare un modo per salvare entrambi gli universi.\n+è composta da:\n+[[saga-di-gemgrave]]\n+[[saga-della-magione]]\n+[[saga-di-merfolk]]\n+[[saga-della-biblioteca]]\n+[[saga-di-capodanno-1312]]\n+[[saga-del-salvataggio-di-dontavious]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md",
+			"display_name": "Ritrovamento Del Portale",
+			"status": "Modified",
+			"diff": "commit f79d5fa7ac4c86133f3adff4c8d278fd31d2d38c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Mar 19 21:06:48 2026 +0100\n\n    aggiornamento 2026 03 19 21:06 [v 0.0.241] - working on saga del portale modulo\n\ndiff --git a/saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md b/saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md\nindex e69de29..80bafe1 100644\n--- a/saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md\n+++ b/saghe/moduli-non-usati/ritrovamento-del-portale/ritrovamento-del-portale.md\n@@ -0,0 +1,11 @@\n+#dm\n+# storia\n+## atto 1 (situazione di partenza)\n+[[roshi]] fa un punto della situazione con [[la-mano-rossa]] e spiega loro che ormai possono ricomporre [[la-chiave]] in quanto hanno recuperato tutti i pezzi\n+## atto 2 (crisi iniziale)\n+\n+## atto 3 (miglioramento/riunione strategica)\n+\n+## atto 4 (scontro finale)\n+\n+## atto 5 (epilogo)\n"
+		}
+	]
+}
