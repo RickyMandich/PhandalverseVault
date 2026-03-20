@@ -1,0 +1,26 @@
+{
+	"version": "v 0.0.242",
+	"date": "2026-03-20 17:35:57 +0100",
+	"commit_hash": "0e75ac7d5a93e698b883d5493f60b9e0c57d734e",
+	"commit_message": "aggiornamento 2026 03 20 17:36 [v 0.0.242] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/saga-del-ritrovamento-del-portale.md",
+			"display_name": "Saga Del Ritrovamento Del Portale",
+			"status": "Added",
+			"diff": "commit 3a016a079dd40294e87ab59177a01394e9e7224d\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Mar 20 17:35:57 2026 +0100\n\n    aggiornamento 2026 03 20 17:35 [v 0.0.242] - aggiunto riassunto dell'ultima sessione\n\ndiff --git a/saghe/saga-del-ritrovamento-del-portale.md b/saghe/saga-del-ritrovamento-del-portale.md\nnew file mode 100644\nindex 0000000..6f171dd\n--- /dev/null\n+++ b/saghe/saga-del-ritrovamento-del-portale.md\n@@ -0,0 +1,14 @@\n+#saga\n+\n+|            saga precedente             | saga successiva |     macrosaga di appartenenza      |\n+| :------------------------------------: | :-------------: | :--------------------------------: |\n+| [[saga-del-salvataggio-di-dontavious]] |                 | [[macrosaga-della-chiave\\|chiave]] |\n+#startMaster \n+questa saga è schematizzata da [[ritrovamento-del-portale]]\n+#endMaster \n+# sessioni\n+## sessione di giovedì 2026 03 19\n+dopo che [[roshi]] spiega loro che hanno tutti i pezzi della chiave [[la-mano-rossa]] la ricostruisce e si dirige nella biblioteca (usano direttamente l'ancora per il teletrasporto che avevano preparato la prima volta che ci sono andati).\n+Lì parlano con [[giorgia-rossato]] che spiega loro che esiste una stanza piena di porte che una volta aperte diventano dei portali che li portano ovunque nel mondo, ormai è però rimasto attivo solo quello per [[atlantide]].\n+cercano di attraversarlo ma finiscono all'interno dell'oceano, per cui tornano indietro e Giorgia ne attiva uno che punta alla loro base, passano e roshi decide di andare con loro, per cui inserisce tutto ciò che è in suo possesso nell'inventario magico di [[dontavious-ladro-mezzelfo-25]] e partono.\n+### XP\n"
+		},
+		{
+			"file": "saghe/saga-del-salvataggio-di-dontavious.md",
+			"display_name": "Saga Del Salvataggio Di Dontavious",
+			"status": "Modified",
+			"diff": "commit 3a016a079dd40294e87ab59177a01394e9e7224d\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Mar 20 17:35:57 2026 +0100\n\n    aggiornamento 2026 03 20 17:35 [v 0.0.242] - aggiunto riassunto dell'ultima sessione\n\ndiff --git a/saghe/saga-del-salvataggio-di-dontavious.md b/saghe/saga-del-salvataggio-di-dontavious.md\nindex 78807bf..e0efb72 100644\n--- a/saghe/saga-del-salvataggio-di-dontavious.md\n+++ b/saghe/saga-del-salvataggio-di-dontavious.md\n@@ -1,8 +1,8 @@\n #saga\n \n-|      saga precedente       | saga successiva |     macrosaga di appartenenza      |\n-| :------------------------: | :-------------: | :--------------------------------: |\n-| [[saga-di-capodanno-1312]] |                 | [[macrosaga-della-chiave\\|chiave]] |\n+|      saga precedente       |   saga successiva    |     macrosaga di appartenenza      |\n+| :------------------------: | :------------------: | :--------------------------------: |\n+| [[saga-di-capodanno-1312]] | [[saga-del-ritrovamento-del-portale]] | [[macrosaga-della-chiave\\|chiave]] |\n #startMaster \n questa saga è schematizzata da [[salvataggio-a-telmurkvadinn]]\n #endMaster \n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 3a016a079dd40294e87ab59177a01394e9e7224d\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Mar 20 17:35:57 2026 +0100\n\n    aggiornamento 2026 03 20 17:35 [v 0.0.242] - aggiunto riassunto dell'ultima sessione\n\ndiff --git a/todo.md b/todo.md\nindex 921eec0..ba8e5db 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -93,3 +93,4 @@\n - [x] modificare ombra di moil (togli invisibilità e dai CA)\n - [x] modificare opportunista (quando un nemico attacca, se attacca te non puoi diventare intangibile)\n - [ ] valutare multiattacco frattura del predatore\n+- [ ] contestualizzare sala teletrasporto nella [[sacra-biblioteca-perduta-salvata-di-atlantide]]\n\\ No newline at end of file\n"
+		}
+	]
+}
