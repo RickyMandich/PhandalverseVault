@@ -93,3 +93,4 @@
 - [x] modificare ombra di moil (togli invisibilità e dai CA)
 - [x] modificare opportunista (quando un nemico attacca, se attacca te non puoi diventare intangibile)
 - [ ] valutare multiattacco frattura del predatore
+- [ ] contestualizzare sala teletrasporto nella [[sacra-biblioteca-perduta-salvata-di-atlantide]]

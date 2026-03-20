@@ -1,8 +1,8 @@
 #saga
 
-|      saga precedente       | saga successiva |     macrosaga di appartenenza      |
-| :------------------------: | :-------------: | :--------------------------------: |
-| [[saga-di-capodanno-1312]] |                 | [[macrosaga-della-chiave\|chiave]] |
+|      saga precedente       |   saga successiva    |     macrosaga di appartenenza      |
+| :------------------------: | :------------------: | :--------------------------------: |
+| [[saga-di-capodanno-1312]] | [[saga-del-ritrovamento-del-portale]] | [[macrosaga-della-chiave\|chiave]] |
 #startMaster 
 questa saga è schematizzata da [[salvataggio-a-telmurkvadinn]]
 #endMaster 
