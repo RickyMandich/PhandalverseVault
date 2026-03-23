@@ -1,8 +1,8 @@
 #saga
 
-| saga precedente |              saga successiva               |     macrosaga di appartenenza      |
-| :-------------: | :----------------------------------------: | :--------------------------------: |
-|     nessuna     | [[saga-della-magione\|saga della magione]] | [[macrosaga-della-chiave\|chiave]] |
+| saga precedente |      saga successiva      | macrosaga di appartenenza  |
+| :-------------: | :-----------------------: | :------------------------: |
+|     nessuna     | [[02-saga-della-magione]] | [[01-macrosaga-della-chiave]] |
 
 # sessioni
 ## sessione di giovedì 2025 10 16

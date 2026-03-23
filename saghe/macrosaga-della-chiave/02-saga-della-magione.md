@@ -1,8 +1,8 @@
 #saga
 
-|            saga precedente             |           saga successiva            |     macrosaga di appartenenza      |
-| :------------------------------------: | :----------------------------------: | :--------------------------------: |
-| [[saga-di-gemgrave\|saga di gemgrave]] | [[saga-di-merfolk\|saga di Merfolk]] | [[macrosaga-della-chiave\|chiave]] |
+|     saga precedente     |    saga successiva     |   macrosaga di appartenenza   |
+| :---------------------: | :--------------------: | :---------------------------: |
+| [[01-saga-di-gemgrave]] | [[03-saga-di-merfolk]] | [[01-macrosaga-della-chiave]] |
 
 # sessioni
 ## sessione di giovedì 2025 11 13

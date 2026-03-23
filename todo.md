@@ -16,7 +16,7 @@
 - [x] inventare ombrocinesi
 - [X] [[atos]]
 - [x] definizione di [[demone]]
-- [x] [asmodeus]]
+- [x] [[asmodeus]]
 - [x] [[la-chiave]]
 -  completare pagine minori di contesto
 	- [x] [[dark-kaia]]

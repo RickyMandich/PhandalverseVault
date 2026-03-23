@@ -8,4 +8,4 @@ quando Vargas cerca di smettere di partecipare alle missioni da mercenario (il v
 [[waukenn]], dea dell’inganno e del commercio, ha un patto con [[Asmodeus]], che ha portato vargas a seguirla come divinità
 # Campagna
 ora si è unito a [[la-mano-rossa]]
-![[macrosaga-della-chiave]]
+![[01-macrosaga-della-chiave]]

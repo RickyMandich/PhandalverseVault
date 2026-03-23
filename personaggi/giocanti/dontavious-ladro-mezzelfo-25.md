@@ -6,4 +6,4 @@ Quando aveva 24 anni arrivano in un villaggio che, a loro insaputa, è la sede d
 in questo villaggio i membri del circo muoiono e conosce [[than-warlock-tiefling-30|Than]] con cui scapperà assieme.
 # Campagna
 ora si è unito a [[la-mano-rossa]]
-![[macrosaga-della-chiave]]
+![[01-macrosaga-della-chiave]]

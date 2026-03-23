@@ -2,7 +2,7 @@
 
 |      saga precedente      |            saga successiva             |     macrosaga di appartenenza      |
 | :-----------------------: | :------------------------------------: | :--------------------------------: |
-| [[saga-della-biblioteca]] | [[saga-del-salvataggio-di-dontavious]] | [[macrosaga-della-chiave\|chiave]] |
+| [[04-saga-della-biblioteca]] | [[06-saga-del-salvataggio-di-dontavious]] | [[01-macrosaga-della-chiave\|chiave]] |
 #startMaster 
 questa saga è schematizzata da [[capodanno1]]
 #endMaster 

@@ -8,7 +8,7 @@
 		"artefatti": {
 			"original": "Artefatti",
 			"files": {
-				"fyrbrand.md": "Fyrbrand",
+				"Fyrbrand.md": "Fyrbrand",
 				"il-portale.md": "Il Portale",
 				"la-bussola.md": "La Bussola",
 				"la-chiave.md": "La Chiave"
@@ -108,7 +108,7 @@
 						"tempus.md": "Tempus",
 						"torm.md": "Torm",
 						"tyr.md": "Tyr",
-						"waukenn.md": "Waukenn"
+						"Waukenn.md": "Waukenn"
 					},
 					"directories": {}
 				},
@@ -214,7 +214,7 @@
 							},
 							"directories": {}
 						},
-						"chierico": {
+						"Chierico": {
 							"original": "Chierico",
 							"files": {
 								"blocca-persone.md": "Blocca Persone",
@@ -242,10 +242,10 @@
 							},
 							"directories": {}
 						},
-						"druido": {
+						"Druido": {
 							"original": "Druido",
 							"files": {
-								"appassire-e-fiorire.md": "Appassire e Fiorire",
+								"appassire-e-fiorire.md": "Appassire E Fiorire",
 								"blocca-persone.md": "Blocca Persone",
 								"dissolvi-magie.md": "Dissolvi Magie",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
@@ -255,10 +255,10 @@
 							},
 							"directories": {}
 						},
-						"mago": {
+						"Mago": {
 							"original": "Mago",
 							"files": {
-								"appassire-e-fiorire.md": "Appassire e Fiorire",
+								"appassire-e-fiorire.md": "Appassire E Fiorire",
 								"blocca-mostri.md": "Blocca Mostri",
 								"blocca-persone.md": "Blocca Persone",
 								"camuffare-se-stesso.md": "Camuffare Sè Stesso",
@@ -271,8 +271,8 @@
 								"dominare-mostri.md": "Dominare Mostri",
 								"dominare-persone.md": "Dominare Persone",
 								"evoca-non-morti.md": "Evoca Non Morti",
-								"finzione-di-morte.md": "Finzione di Morte",
-								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
+								"finzione-di-morte.md": "Finzione Di Morte",
+								"flusso-di-energia-negativa.md": "Flusso Di Energia Negativa",
 								"geas.md": "Geas",
 								"immagine-maggiore.md": "Immagine Maggiore",
 								"inaridire.md": "Inaridire",
@@ -286,19 +286,19 @@
 								"luci-danzanti.md": "Luci Danzanti",
 								"mano-magica.md": "Mano Magica",
 								"metamorfosi-pura.md": "Metamorfosi Pura",
-								"ombra-di-moil.md": "Ombra di Moil",
+								"ombra-di-moil.md": "Ombra Di Moil",
 								"osteourgia.md": "Osteourgia",
-								"parlare-con-i-morti.md": "Parlare Con i Morti",
+								"parlare-con-i-morti.md": "Parlare Con I Morti",
 								"presagio.md": "Presagio",
 								"puntura-indebolitrice.md": "Puntura Indebolitrice",
-								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
-								"raggio-di-infermita.md": "Raggio di Infermità",
+								"raggio-di-affaticamento.md": "Raggio Di Affaticamento",
+								"raggio-di-infermita.md": "Raggio Di Infermità",
 								"rianimare-morti.md": "Rianimare Morti",
 								"rinascita.md": "Rinascita",
 								"rintocco-dei-morti.md": "Rintocco Dei Morti",
 								"riposo-inviolato.md": "Riposo Inviolato",
 								"riposo-involato.md": "Riposo Involato",
-								"salvare-i-morenti.md": "Salvare i Morenti",
+								"salvare-i-morenti.md": "Salvare I Morenti",
 								"scagliare-maledizione.md": "Scagliare Maledizione",
 								"scudo.md": "Scudo",
 								"sfera-elastica.md": "Sfera Elastica",
@@ -370,7 +370,7 @@
 							},
 							"directories": {}
 						},
-						"paladino": {
+						"Paladino": {
 							"original": "Paladino",
 							"files": {
 								"dissolvi-magie.md": "Dissolvi Magie",
@@ -379,10 +379,10 @@
 							},
 							"directories": {}
 						},
-						"ranger": {
+						"Ranger": {
 							"original": "Ranger",
 							"files": {
-								"appassire-e-fiorire.md": "Appassire e Fiorire",
+								"appassire-e-fiorire.md": "Appassire E Fiorire",
 								"individuazione-del-magico.md": "Individuazione Del Magico"
 							},
 							"directories": {}
@@ -524,7 +524,7 @@
 							},
 							"directories": {}
 						},
-						"warlock": {
+						"Warlock": {
 							"original": "Warlock",
 							"files": {
 								"blocca-mostri.md": "Blocca Mostri",
@@ -684,16 +684,22 @@
 		"saghe": {
 			"original": "Saghe",
 			"files": {
-				"macrosaga-della-chiave.md": "Macrosaga della Chiave",
-				"saga-del-ritrovamento-del-portale.md": "Saga Del Ritrovamento Del Portale",
-				"saga-del-salvataggio-di-dontavious.md": "Saga Del Salvataggio Di Dontavious",
-				"saga-della-biblioteca.md": "Saga Della Biblioteca",
-				"saga-della-magione.md": "Saga della Magione",
-				"saga-di-capodanno-1312.md": "Saga Di Capodanno 1312",
-				"saga-di-gemgrave.md": "Saga Di Gemgrave",
-				"saga-di-merfolk.md": "Saga Di Merfolk"
+				"01-macrosaga-della-chiave.md": "Macrosaga Della Chiave"
 			},
 			"directories": {
+				"macrosaga-della-chiave": {
+					"original": "Macrosaga Della Chiave",
+					"files": {
+						"01-saga-di-gemgrave.md": "Saga Di Gemgrave",
+						"02-saga-della-magione.md": "Saga Della Magione",
+						"03-saga-di-merfolk.md": "Saga Di Merfolk",
+						"04-saga-della-biblioteca.md": "Saga Della Biblioteca",
+						"05-saga-di-capodanno-1312.md": "Saga Di Capodanno 1312",
+						"06-saga-del-salvataggio-di-dontavious.md": "Saga Del Salvataggio Di Dontavious",
+						"07-saga-del-ritrovamento-del-portale.md": "Saga Del Ritrovamento Del Portale"
+					},
+					"directories": {}
+				},
 				"moduli-non-usati": {
 					"original": "Moduli Non Usati",
 					"files": {},
@@ -748,11 +754,11 @@
 						"fandanolend": {
 							"original": "Fandanolend",
 							"files": {
-								"cristalgreiv.md": "Cristalgreiv",
+								"Cristalgreiv.md": "Cristalgreiv",
 								"fandanolend.md": "Fandanolend",
-								"nordavila.md": "Nordavila",
+								"Nordavila.md": "Nordavila",
 								"profondar.md": "Profondar",
-								"settentrionel.md": "Settentrionel"
+								"Settentrionel.md": "Settentrionel"
 							},
 							"directories": {}
 						},
@@ -760,10 +766,10 @@
 							"original": "Fandasulend",
 							"files": {
 								"fandasulend.md": "Fandasulend",
-								"gemgreiv.md": "Gemgreiv",
-								"meridionel.md": "Meridionel",
+								"GemGreiv.md": "Gemgreiv",
+								"Meridionel.md": "Meridionel",
 								"sommervil.md": "Sommervil",
-								"sudaria.md": "Sudaria"
+								"Sudaria.md": "Sudaria"
 							},
 							"directories": {}
 						}
@@ -781,20 +787,20 @@
 						"phandanoland": {
 							"original": "Phandanoland",
 							"files": {
-								"cristalgrave.md": "Cristalgrave",
+								"Cristalgrave.md": "Cristalgrave",
 								"morkhaus.md": "Morkhaus",
-								"nordavilla.md": "Nordavilla",
+								"Nordavilla.md": "Nordavilla",
 								"phandanoland.md": "Phandanoland",
 								"profondahar.md": "Profondahar",
-								"settentrionelle.md": "Settentrionelle"
+								"Settentrionelle.md": "Settentrionelle"
 							},
 							"directories": {}
 						},
 						"phandasuland": {
 							"original": "Phandasuland",
 							"files": {
-								"gemgrave.md": "Gemgrave",
-								"meridionelle.md": "Meridionelle",
+								"GemGrave.md": "Gemgrave",
+								"Meridionelle.md": "Meridionelle",
 								"phandasuland.md": "Phandasuland",
 								"sommerivel.md": "Sommerivel"
 							},
@@ -803,7 +809,7 @@
 									"original": "Suddaria",
 									"files": {
 										"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "Castello Abbandonato Sul Dirupo Vicino La Citta",
-										"suddaria.md": "Suddaria"
+										"Suddaria.md": "Suddaria"
 									},
 									"directories": {}
 								}
