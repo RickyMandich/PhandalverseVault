@@ -1,0 +1,2 @@
+un'artefatto che nell'epoca leggendaria era ritenuto di bassa lega in quanto uno dei primi creati e che era uno degli esercizi più comuni per gli apprendisti [[artefici]].
+consente di respirare sottacqua, sono monouso: uno volta attivate restano vincolate all'utilizzatore fino a che non esce dall'acqua sopra alla superficie (per cui se entra in una bolla d'aria sottomarina non si disattivano), inoltre dotano l'utilizzatore per la durate dell'utilizzo tutte quelle abilità necessarie alla vita sottomarina

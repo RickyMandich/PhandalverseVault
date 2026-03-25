@@ -7,24 +7,44 @@
 	"directories": {
 		"artefatti": {
 			"original": "Artefatti",
-			"files": {
-				"Fyrbrand.md": "Fyrbrand",
-				"il-portale.md": "Il Portale",
-				"la-bussola.md": "La Bussola",
-				"la-chiave.md": "La Chiave"
-			},
+			"files": {},
 			"directories": {
-				"party": {
-					"original": "Party",
+				"magici": {
+					"original": "Magici",
 					"files": {
-						"artefatto-artefice.md": "Tól Niðavalla (armaiolo)",
-						"artefatto-barbaro-divino.md": "Netjetheka (barbaro)",
-						"artefatto-dellombra.md": "Myrkvaðinn (ombra)",
-						"artefatto-sintonia-draconica.md": "Drakensyn (drago)",
-						"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos (gelo)",
-						"occhio-di-atos.md": "Occhio di Atos (necromante)"
+						"fyrbrand.md": "Fyrbrand",
+						"il-portale.md": "Il Portale",
+						"la-chiave.md": "La Chiave"
 					},
-					"directories": {}
+					"directories": {
+						"party": {
+							"original": "Party",
+							"files": {
+								"artefatto-barbaro-divino.md": "Netjetheka (barbaro)",
+								"artefatto-sintonia-draconica.md": "Drakensyn (drago)",
+								"artefatto-sussurratore-del-gelo.md": "Kṓkȳtos (gelo)",
+								"occhio-di-atos.md": "Occhio Di Atos"
+							},
+							"directories": {}
+						}
+					}
+				},
+				"tecnologici": {
+					"original": "Tecnologici",
+					"files": {
+						"branchie.md": "Branchie",
+						"la-bussola.md": "La Bussola"
+					},
+					"directories": {
+						"party": {
+							"original": "Party",
+							"files": {
+								"artefatto-artefice.md": "Tól Niðavalla (armaiolo)",
+								"artefatto-dellombra.md": "Myrkvaðinn (ombra)"
+							},
+							"directories": {}
+						}
+					}
 				}
 			}
 		},
@@ -214,7 +234,7 @@
 							},
 							"directories": {}
 						},
-						"Chierico": {
+						"chierico": {
 							"original": "Chierico",
 							"files": {
 								"blocca-persone.md": "Blocca Persone",
@@ -242,7 +262,7 @@
 							},
 							"directories": {}
 						},
-						"Druido": {
+						"druido": {
 							"original": "Druido",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire E Fiorire",
@@ -255,7 +275,7 @@
 							},
 							"directories": {}
 						},
-						"Mago": {
+						"mago": {
 							"original": "Mago",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire E Fiorire",
@@ -370,7 +390,7 @@
 							},
 							"directories": {}
 						},
-						"Paladino": {
+						"paladino": {
 							"original": "Paladino",
 							"files": {
 								"dissolvi-magie.md": "Dissolvi Magie",
@@ -379,7 +399,7 @@
 							},
 							"directories": {}
 						},
-						"Ranger": {
+						"ranger": {
 							"original": "Ranger",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire E Fiorire",
@@ -524,7 +544,7 @@
 							},
 							"directories": {}
 						},
-						"Warlock": {
+						"warlock": {
 							"original": "Warlock",
 							"files": {
 								"blocca-mostri.md": "Blocca Mostri",

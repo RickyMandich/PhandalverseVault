@@ -80,17 +80,18 @@
 	- 5. **Sheut** – L’ombra, vista come una parte fisica e spirituale dell’individuo. Simboleggia protezione e presenza, ed è sempre legata alla persona
 - [ ] trascrivere le infusioni da artefice (ora inserite da link della wiki) nella pagina dell'artefatto da artefice
 - ombre
-- [x] scrivere definizione [[dominio|dominio (ombre)]]
-- [x] scrivere definizione [[cacombra]]
-- [x] scrivere definizione [[signore-delle-ombre]]
+	- [x] scrivere definizione [[dominio|dominio (ombre)]]
+	- [x] scrivere definizione [[cacombra]]
+	- [x] scrivere definizione [[signore-delle-ombre]]
 - demoni
-- [ ] scrivere definizione [[dominio|dominio (demoniaco)]]
-- [ ] scrivere definizione [[cacodemone]]
-- [ ] scrivere definizione [[signore-dei-demoni]]
+	- [ ] scrivere definizione [[dominio|dominio (demoniaco)]]
+	- [ ] scrivere definizione [[cacodemone]]
+	- [ ] scrivere definizione [[signore-dei-demoni]]
 - Rallo
-- [x] scambio condizioni predatore dell'ombra
-- [x] limite infusione crepuscolare pari a erosione dell'anima
-- [x] modificare ombra di moil (togli invisibilità e dai CA)
-- [x] modificare opportunista (quando un nemico attacca, se attacca te non puoi diventare intangibile)
-- [ ] valutare multiattacco frattura del predatore
-- [ ] contestualizzare sala teletrasporto nella [[sacra-biblioteca-perduta-salvata-di-atlantide]]
+	- [x] scambio condizioni predatore dell'ombra
+	- [x] limite infusione crepuscolare pari a erosione dell'anima
+	- [x] modificare ombra di moil (togli invisibilità e dai CA)
+	- [x] modificare opportunista (quando un nemico attacca, se attacca te non puoi diventare intangibile)
+	- [ ] valutare multiattacco frattura del predatore
+- [x] contestualizzare sala teletrasporto nella [[sacra-biblioteca-perduta-salvata-di-atlantide]]
+- [x] scrivere [[branchie]]
