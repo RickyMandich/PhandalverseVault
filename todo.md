@@ -71,6 +71,7 @@
 	- [x] [[cosmo-sylvaranth]]
 - scrivere moduli futuri
 	- [x] [[salvataggio-a-telmurkvadinn]]
+	- [ ] [[ritrovamento-del-portale]]
 - [x] scrivere [[tsevo-eynak]]
 - [x] parti dell'anima
 	- 1. **Ka** – La forza vitale o "doppio" spirituale, creata alla nascita.  Rappresenta l’energia che mantiene in vita e deve essere nutrita anche dopo la morte con offerte.
@@ -95,3 +96,4 @@
 	- [ ] valutare multiattacco frattura del predatore
 - [x] contestualizzare sala teletrasporto nella [[sacra-biblioteca-perduta-salvata-di-atlantide]]
 - [x] scrivere [[branchie]]
+- [ ] scrivere [[sommerial]]

@@ -7,9 +7,9 @@
 ![[attila-slayer-guerriero-elfo-100]]
 
 # punti esperienza
-|                                                 sessione                                                  | livello |   xp   |
-| :-------------------------------------------------------------------------------------------------------: | :-----: | :----: |
-|                                                sessione 0                                                 |    3    |  900   |
+|                                                   sessione                                                   | livello |   xp   |
+| :----------------------------------------------------------------------------------------------------------: | :-----: | :----: |
+|                                                  sessione 0                                                  |    3    |  900   |
 |         sessione di giovedì 2025 10 16![[01-saga-di-gemgrave##sessione di giovedì 2025 10 16###xp]]          |    3    |  950   |
 |         sessione di giovedì 2025 11 07![[01-saga-di-gemgrave##sessione di venerdì 2025 11 07###xp]]          |    3    | 1.050  |
 |        sessione di giovedì 2025 11 13![[02-saga-della-magione##sessione di giovedì 2025 11 13###xp]]         |    3    | 1.380  |
@@ -24,6 +24,8 @@
 |  sessione di giovedì 2026 02 27![[06-saga-del-salvataggio-di-dontavious#sessione di venerdì 2026 02 27#XP]]  |    6    | 15.255 |
 | sessione di domenica 2026 03 01![[06-saga-del-salvataggio-di-dontavious#sessione di domenica 2026 03 01#XP]] |    6    | 15.255 |
 | sessione di giovedì 2026 03 12 ![[06-saga-del-salvataggio-di-dontavious#sessione di giovedì 2026 03 12#XP]]  |    7    | 25.505 |
+|  sessione di giovedì 2026 03 19 ![[07-saga-del-ritrovamento-del-portale#sessione di giovedì 2026 03 19#XP]]  |    7    | 25.505 |
+|  sessione di venerdì 2026 04 03 ![[07-saga-del-ritrovamento-del-portale#sessione di venerdì 2026 04 03#XP]]  |    7    | 25.905 |
 
 | Livello | PE      | bonus competenza |
 | :-----: | ------- | ---------------- |
