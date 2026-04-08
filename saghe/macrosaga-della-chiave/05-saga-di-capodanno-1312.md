@@ -21,7 +21,6 @@ dopo averli salvati [[roshi|roshi]] consegna a tutti i membri de [[la-mano-rossa
 - a [[morbiarum-paladino-dragonide-24]] consegna [[artefatto-barbaro-divino]]
 - a [[dontavious-ladro-mezzelfo-25]] consegna [[artefatto-dellombra]]
 - a [[than-warlock-tiefling-30]] consegna [[occhio-di-atos]]
-- a [[attila-slayer-guerriero-elfo-100]] consegna [[artefatto-sussurratore-del-gelo.md]]
 
 ## sessione di giovedì 2026 01 30
 dopo che tutti hanno ricevuto gli artefatti [[kanye-ovest]] si offende per essere rimasto escluso per cui [[roshi|roshi]] da un artefatto anche a lui: [[artefatto-sintonia-draconica]].
@@ -32,7 +31,6 @@ totale XP: 12 \* 200 = 2400
 moltiplicatore numero nemici = 2400 \* 3 (11-14 mostri) = 7200
 tutti i giocatori prendono 1440 punti esperienza
 ## sessione di giovedì 2026 02 05
-sperimentando con il suo nuovo artefatto [[attila-slayer-guerriero-elfo-100]] si congela per errore e per salvargli la vita [[morbiarum-paladino-dragonide-24]] resta fuori con lui a curarlo e nessuno dei due partecipa al combattimento
 Le luci erano scarse per via del cambio di anno che si avvicinava, e abbiamo optato per un approccio a sorpresa per attaccare la caverna dove si trovava il [[capodanno1-boss|BOSS]].
 [[dontavious-ladro-mezzelfo-25]] è entrato nella grotta diventando invisibile e generando una nube di oscurità molto fitta, all'interno della quale si sono mossi anche [[than-warlock-tiefling-30]] e [[vargas-paladino-nano-65]] per attaccare i nemici, che [[dontavious-ladro-mezzelfo-25]]  aveva informato i suoi compagni essere un enorme costrutto, il boss, e quindici minion.
 [[dontavious-ladro-mezzelfo-25]] ha ammazzato uno dei Minion all'interno della nube oscura, e [[vargas-paladino-nano-65]] ne ha attaccato uno lasciandolo in fin di vita, che [[than-warlock-tiefling-30]] ha poi ucciso, per poi far entrare anche tutti i Minion resuscitati all'interno della caverna per aiutare nella battaglia

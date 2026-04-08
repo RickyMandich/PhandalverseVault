@@ -4,7 +4,6 @@
 ![[than-warlock-tiefling-30]]
 ![[dontavious-ladro-mezzelfo-25]]
 ![[morbiarum-paladino-dragonide-24]]
-![[attila-slayer-guerriero-elfo-100]]
 
 # punti esperienza
 |                                                   sessione                                                   | livello |   xp   |

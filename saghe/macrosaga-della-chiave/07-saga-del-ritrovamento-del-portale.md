@@ -17,7 +17,7 @@ totale XP: 0 \* 0 = 0
 moltiplicatore numero nemici = 0 * 0 (0 mostri) = 0  
 tutti i giocatori prendono 0 punti esperienza
 ## sessione di venerdì 2026 04 03
-quando arrivano ad [[Atlantide]] trovano una città finita sul fondo del mare [[sommerial]], i cui palazzi sono ormai tutti in rovina.
+quando arrivano ad [[Atlantide]] trovano una città finita sul fondo del mare [[sommeriale]], i cui palazzi sono ormai tutti in rovina.
 procedendo verso il centro della città incontrano prima delle trappole che si attivano ma vista la loro età non gli causano problemi considerevoli, poi incontrano 4 golem di pietra che li attaccano e che [[la-mano-rossa]] sconfigge prontamente.
 continuando lungo il centro della città trovano una torre provvista di una protezione che tiene fuori l'acqua, da qui poi [[roshi]] li guida fino al portale e usano [[la-chiave]] per attivare [[il-portale]] ma, mentre questo si attiva, il vulcano subacqueo vicino la città si attiva e sta per distruggere lo scudo protettivo della città quando [[roshi]] e [[vargas-paladino-nano-65]] riescono a creare una bomba congelante che [[dontavious-ladro-mezzelfo-25]] riesce a far finire sulla lava e salvano la situazione.
 ### XP

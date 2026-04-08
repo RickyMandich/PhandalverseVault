@@ -568,6 +568,7 @@
 				"stat-block": {
 					"original": "Stat Block",
 					"files": {
+						"dark-nidave-stat.md": "Dark Nidave Stat",
 						"malrythosar-stat.md": "Malrythosar",
 						"mind-flayer.md": "Mind Flayer",
 						"spirito-mietitore.md": "Spirito Mietitore",
@@ -591,7 +592,6 @@
 				"giocanti": {
 					"original": "Giocanti",
 					"files": {
-						"attila-slayer-guerriero-elfo-100.md": "Attila Slayer (Guerriero Elfo 100)",
 						"dontavious-ladro-mezzelfo-25.md": "Dontavious (Ladro Mezzelfo 25)",
 						"morbiarum-paladino-dragonide-24.md": "Morbiarum (Paladino Dragonide 24)",
 						"than-warlock-tiefling-30.md": "Than (Warlock Tiefling 30)",
@@ -673,7 +673,11 @@
 						"macrotrama": {
 							"original": "Macrotrama",
 							"files": {
+								"dark-kaelen-vos.md": "Dark Kaelen Vos",
 								"dark-kaia.md": "Dark Kaia",
+								"dark-malakor.md": "Dark Malakor",
+								"dark-nidave.md": "Dark Nidave",
+								"dark-selyne.md": "Dark Selyne",
 								"giorgia-rossato.md": "Giorgia Rossato",
 								"roshi.md": "Roshi"
 							},
@@ -724,10 +728,10 @@
 					"original": "Moduli Non Usati",
 					"files": {},
 					"directories": {
-						"arrivo-a-fandalmein": {
-							"original": "Arrivo A Fandalmein",
+						"fandalmein": {
+							"original": "Fandalmein",
 							"files": {
-								"arrivo-a-fandalmein.md": "Arrivo A Fandalmein"
+								"fandalmein.md": "Fandalmein"
 							},
 							"directories": {}
 						}
@@ -775,7 +779,8 @@
 					"original": "Fandalmein",
 					"files": {
 						"atalantide.md": "Atalantide",
-						"fandalmein.md": "Fandalmein"
+						"fandalmein.md": "Fandalmein",
+						"somerial.md": "Somerial"
 					},
 					"directories": {
 						"fandanolend": {
@@ -809,7 +814,7 @@
 						"fossa-delle-marie.md": "Fossa Delle Marie",
 						"phandalmain.md": "Phandalmain",
 						"sacra-biblioteca-perduta-salvata-di-atlantide.md": "Sacra Biblioteca Perduta Salvata di Atlantide",
-						"sommerial.md": "Sommerial"
+						"sommeriale.md": "Sommeriale"
 					},
 					"directories": {
 						"phandanoland": {
