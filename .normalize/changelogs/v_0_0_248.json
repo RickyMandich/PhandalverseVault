@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.248",
+	"date": "2026-04-08 14:10:59 +0200",
+	"commit_hash": "63d7f09a38c03e8b38d84fa47aba2183f776d700",
+	"commit_message": "aggiornamento 2026 04 08 14:11 [v 0.0.248] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/arrivo-a-fandalmein/arrivo-a-fandalmein.md",
+			"display_name": "Arrivo A Fandalmein",
+			"status": "Modified",
+			"diff": "commit dbfb04b34477e7641f7c82d5f57862b435b85a65\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Apr 8 14:10:59 2026 +0200\n\n    aggiornamento 2026 04 08 14:10 [v 0.0.248] - testing new notification system\n\ndiff --git a/saghe/moduli-non-usati/arrivo-a-fandalmein/arrivo-a-fandalmein.md b/saghe/moduli-non-usati/arrivo-a-fandalmein/arrivo-a-fandalmein.md\nindex ee4038c..a1b4490 100644\n--- a/saghe/moduli-non-usati/arrivo-a-fandalmein/arrivo-a-fandalmein.md\n+++ b/saghe/moduli-non-usati/arrivo-a-fandalmein/arrivo-a-fandalmein.md\n@@ -1,6 +1,7 @@\n #dm \n # storia\n ## atto 1 (situazione di partenza)\n+\n ___\n ## atto 2 (crisi iniziale)\n ___\n"
+		}
+	]
+}
