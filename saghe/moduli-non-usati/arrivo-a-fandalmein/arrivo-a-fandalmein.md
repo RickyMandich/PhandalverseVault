@@ -1,6 +1,7 @@
 #dm 
 # storia
 ## atto 1 (situazione di partenza)
+
 ___
 ## atto 2 (crisi iniziale)
 ___
