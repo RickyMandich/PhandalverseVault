@@ -1,3 +1,4 @@
+#dm 
 language: italiano
 
 # Phandalverse Vault
@@ -60,3 +61,10 @@ Il sistema traccia automaticamente tutte le modifiche ai file `.md` per ogni ver
 I file di changelog sono in formato JSON e pronti per essere integrati nella web app.
 
 Per la documentazione completa e l'integrazione backend, vedi `bash/CHANGELOG_SYSTEM.md`.
+
+# sessioni mancanti
+1. [ ] 2026 04 10
+2. [ ] 2026 04 16
+3. [ ] 2026 04 24
+4. [ ] 2026 05 01
+5. [ ] 2026 05 08

@@ -724,10 +724,10 @@
 					"original": "Moduli Non Usati",
 					"files": {},
 					"directories": {
-						"ritrovamento-del-portale": {
-							"original": "Ritrovamento Del Portale",
+						"arrivo-a-fandalmein": {
+							"original": "Arrivo A Fandalmein",
 							"files": {
-								"ritrovamento-del-portale.md": "Ritrovamento Del Portale"
+								"arrivo-a-fandalmein.md": "Arrivo A Fandalmein"
 							},
 							"directories": {}
 						}
@@ -743,6 +743,13 @@
 								"capodanno1-boss.md": "Capodanno1 Boss",
 								"capodanno1-minion.md": "Capodanno1 Minion",
 								"capodanno1.md": "Capodanno1"
+							},
+							"directories": {}
+						},
+						"ritrovamento-del-portale": {
+							"original": "Ritrovamento Del Portale",
+							"files": {
+								"ritrovamento-del-portale.md": "Ritrovamento Del Portale"
 							},
 							"directories": {}
 						},
