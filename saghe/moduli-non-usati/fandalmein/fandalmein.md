@@ -25,6 +25,7 @@ Nidave invia il gruppo a recuperare dei "Nuclei di Sincronia" nelle fonderie sto
         *   **Droni di Scarto**: Piccoli e numerosi, esplodono se distrutti.
     *   **Puzzle: La Sinfonia delle Valvole**: Per aprire il caveau dei Nuclei, tre PG devono ruotare delle valvole in sincronia seguendo il ritmo di un pistone gigante che batte a terra. Ogni errore causa un'esplosione di gas.
 *   **Indizio**: [[dark-kaelen-vos]] si lascia sfuggire che questi Nuclei alimentano anche la Guglia Personale di Nidave.
+![[fonderia-centrale.png]]
 
 ___
 

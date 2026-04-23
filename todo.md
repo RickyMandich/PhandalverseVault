@@ -96,5 +96,5 @@
 	- [ ] valutare multiattacco frattura del predatore
 - [x] contestualizzare sala teletrasporto nella [[sacra-biblioteca-perduta-salvata-di-atlantide]]
 - [x] scrivere [[branchie]]
-- [ ] scrivere [[sommeriale]]
-- [x] scrivere stat block per [[dark-nidave]] basandosi su *Iron Golem* potenziato con Scrutinio Magico
+- [X] scrivere [[sommeriale]]
+- [x] scrivere stat block per [[dark-nidave]] basandosi su *Iron Golem*
