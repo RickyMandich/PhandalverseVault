@@ -53,7 +53,8 @@
 			"files": {
 				"calendario.md": "Calendario",
 				"universo.md": "Universo",
-				"villaggio.md": "Villaggio"
+				"villaggio.md": "Villaggio",
+				"warforged.md": "Warforged"
 			},
 			"directories": {
 				"anima": {
@@ -614,7 +615,8 @@
 					"files": {
 						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
-						"la-mano-rossa.md": "La Mano Rossa"
+						"la-mano-rossa.md": "La Mano Rossa",
+						"prescelti-di-fandalmain.md": "Prescelti Di Fandalmain"
 					},
 					"directories": {}
 				},
@@ -683,6 +685,13 @@
 							},
 							"directories": {}
 						},
+						"saga-di-fandalmain": {
+							"original": "Saga Di Fandalmain",
+							"files": {
+								"milo-thatch.md": "Milo Thatch"
+							},
+							"directories": {}
+						},
 						"saga-di-merfolk": {
 							"original": "Saga Di Merfolk",
 							"files": {
@@ -708,10 +717,11 @@
 		"saghe": {
 			"original": "Saghe",
 			"files": {
-				"01-macrosaga-della-chiave.md": "Macrosaga Della Chiave"
+				"01-macrosaga-della-chiave.md": "Macrosaga Della Chiave",
+				"02-macrosaga-di-fandalmain.md": "Macrosaga Di Fandalmain"
 			},
 			"directories": {
-				"macrosaga-della-chiave": {
+				"01-macrosaga-della-chiave": {
 					"original": "Macrosaga Della Chiave",
 					"files": {
 						"01-saga-di-gemgrave.md": "Saga Di Gemgrave",
@@ -721,6 +731,13 @@
 						"05-saga-di-capodanno-1312.md": "Saga Di Capodanno 1312",
 						"06-saga-del-salvataggio-di-dontavious.md": "Saga Del Salvataggio Di Dontavious",
 						"07-saga-del-ritrovamento-del-portale.md": "Saga Del Ritrovamento Del Portale"
+					},
+					"directories": {}
+				},
+				"02-macrosaga-di-fandalmain": {
+					"original": "Macrosaga Di Fandalmain",
+					"files": {
+						"01-saga-di-fandalmain.md": "Saga Di Fandalmain"
 					},
 					"directories": {}
 				},

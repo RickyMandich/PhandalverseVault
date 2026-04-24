@@ -6,6 +6,6 @@ l'anima è composta da 5 parti:
 ## ib
 ![[ib]]
 ## ren
-![[definizioni/anima/ren|ren]]
+![[ren]]
 ## sheut
 ![[sheut]]

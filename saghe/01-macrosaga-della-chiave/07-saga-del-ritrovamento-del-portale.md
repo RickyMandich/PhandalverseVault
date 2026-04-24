@@ -1,8 +1,8 @@
 #saga
 
-|            saga precedente             | saga successiva |     macrosaga di appartenenza      |
-| :------------------------------------: | :-------------: | :--------------------------------: |
-| [[06-saga-del-salvataggio-di-dontavious]] |                 | [[01-macrosaga-della-chiave\|chiave]] |
+|              saga precedente              |      saga successiva      |       macrosaga di appartenenza       |
+| :---------------------------------------: | :-----------------------: | :-----------------------------------: |
+| [[06-saga-del-salvataggio-di-dontavious]] | [[01-saga-di-fandalmain]] | [[01-macrosaga-della-chiave\|chiave]] |
 #startMaster 
 questa saga è schematizzata da [[ritrovamento-del-portale]]
 #endMaster 

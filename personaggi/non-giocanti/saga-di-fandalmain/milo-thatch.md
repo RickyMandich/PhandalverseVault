@@ -1,0 +1,1 @@
+uno studente dell'università di [[universi/fandalmein/fandalmein|fandalmein]] che sta finendo il suo dottorato di ricerca di fine magistrale studiando a fondo il portale, come i suoi antenati prima di lui.
