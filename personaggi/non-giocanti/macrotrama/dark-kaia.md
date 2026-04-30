@@ -7,10 +7,8 @@ in realtà l'ordine arrivava direttamente da [[nidave]], capo supremo di qualsia
 #endMaster 
 ## Descrizione
 Una umana bassa (abbastanza più alta di un nano ma se si china può essere scambiata per uno di loro), ha dedicato la sua vita allo studio di tutte le arti marziali conosciute, con e senza armi
-#startMaster 
 ## Situazione Attuale
 Ora si trova ad [[atalantide]]. [[nidave]] l'ha assegnata al party come guida per tenerli d'occhio. Nutre un forte senso di vergogna per la sconfitta passata, ma inizia a dubitare della versione dei fatti fornita dal suo leader.
 ## Indizi per l'Alleanza
 *   **Onore ferito**: Riconosce la forza del party. Se trattata con rispetto professionale anziché come nemica, la sua lealtà a [[Nidave]] vacilla.
 *   **Verità nascosta**: Sospetta che [[Nidave]] non le abbia detto tutta the verità sulla "pericolosità" di Phandalmain.
-#endMaster 
