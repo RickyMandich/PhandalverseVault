@@ -27,6 +27,7 @@
 |  sessione di venerdì 2026 04 03 ![[07-saga-del-ritrovamento-del-portale#sessione di venerdì 2026 04 03#XP]]  |    7    | 25.905 |
 |     sessione di giovedì 2026 04 16 ![[01-saga-di-fandalmain#sessioni#sessione di giovedì 2026 04 16#XP]]     |    7    | 25.905 |
 |         sessione di giovedì 2026 04 23 ![[01-saga-di-fandalmain#sessione di venerdì 2026 04 23#XP]]          |    7    | 26.455 |
+|         sessione di giovedì 2026 04 30 ![[01-saga-di-fandalmain#sessione di giovedì 2026 04 30#XP]]          |    7    | 26.455 |
 
 | Livello | PE      | bonus competenza |
 | :-----: | ------- | ---------------- |

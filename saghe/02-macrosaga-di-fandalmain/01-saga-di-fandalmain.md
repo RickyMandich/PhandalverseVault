@@ -31,3 +31,11 @@ nemici sconfitti: 2 Automi operai (2), 4 Droni di scarto (1/4) = 4 mostri
 totale XP: 2 \* 450 + 4 \* 50 = 1 100
 moltiplicatore numero nemici = 1 100 \* 2 (3-6 mostri) = 2 200
 tutti i giocatori prendono 550 punti esperienza
+## sessione di giovedì 2026 04 30
+al ritorno dalla `Fonderia Centrale` consegnano a [[dark-nidave]] 8 `Nuclei di Sintonia` e poi vanno a riposarsi nella stanze che gli sono state assegnate, qui [[dontavious-ladro-mezzelfo-25]] apre un portale per il [[telmurkvadinn]] dove poter parlare indisturbati e qui pianificano di andare a esplorare gli `Archivi di Platino`, la biblioteca privata di [[dark-nidave]], dove scoprono che lui sta controllando tutti per cercare di piegarli ai suoi scopi e che in realtà non ha intenzione di eseguire il rituale che salva entrambi gli universi, ma lui vuole salvare solo [[universi/fandalmein/fandalmein|fandalmein]] distruggendo [[phandalmain]].
+dopo aver scoperto tutto ciò decidono di usare le informazioni che hanno scoperto sui [[prescelti-di-fandalmain]] per convincerli ad aiutarli e tradire [[dark-nidave]], iniziano da [[dark-kaelen-vos]].
+### XP
+nemici sconfitti: nessuno = 0 mostro  
+totale XP: 0 \* 0 = 0  
+moltiplicatore numero nemici = 0 * 0 (0 mostri) = 0  
+tutti i giocatori prendono 0 punti esperienza
