@@ -569,7 +569,11 @@
 				"stat-block": {
 					"original": "Stat Block",
 					"files": {
+						"dark-kaelen-vos-stat.md": "Dark Kaelen",
+						"dark-kaia-stat.md": "Dark Kaia",
+						"dark-malakor-stat.md": "Dark Malakor",
 						"dark-nidave-stat.md": "Dark Nidave Stat",
+						"dark-selyne-stat.md": "Dark Selyne",
 						"malrythosar-stat.md": "Malrythosar",
 						"mind-flayer.md": "Mind Flayer",
 						"spirito-mietitore.md": "Spirito Mietitore",
