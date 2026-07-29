@@ -19,14 +19,13 @@ PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 VERSION_MAJOR=false
 VERSION_PATCH=false
 COMMIT_MESSAGE=""
-FORCE_EXECUTION=false
 
 # Parsing delle opzioni
 while getopts "fvpm:h" opt; do
     case $opt in
-        f)
-            FORCE_EXECUTION=true
-            ;;
+	f)
+	    FORCE_EXECUTION=true
+	    ;;
         v)
             VERSION_MAJOR=true
             ;;
@@ -38,11 +37,11 @@ while getopts "fvpm:h" opt; do
             echo "Messaggio personalizzato: $COMMIT_MESSAGE"
             ;;
         h)
-            echo "Uso: $0 [-v] [-p] [-m messaggio] [-f]"
+            echo "Uso: $0 [-v] [-p] [-m messaggio]"
             echo "  -v  (versione): Incrementa VERSION_PRIMARY e resetta VERSION_SECONDARY a 0"
             echo "  -p  (patch): Incrementa VERSION_SECONDARY e resetta VERSION_TERTIARY a 0"
             echo "  -m  (messaggio): Aggiungi un messaggio personale al commit"
-            echo "  -f  (force): salta la conferma manuale prima del push"
+	    echo "  -f  (force): lo script non viene bloccato per consentire di spegnere la vpn"
             echo "  (default): Incrementa solo VERSION_TERTIARY"
             echo ""
             echo "La versione viene letta dall'ultimo messaggio di commit (formato: [tipo X.Y.Z])"
@@ -51,7 +50,11 @@ while getopts "fvpm:h" opt; do
             ;;
         \?)
             echo "Opzione non valida: -$OPTARG" >&2
-            echo "Uso: $0 [-v] [-p] [-m messaggio] [-f]"
+            echo "Uso: $0 [-v] [-p] [-m messaggio]"
+            echo "  -v  (versione): Incrementa VERSION_PRIMARY e resetta VERSION_SECONDARY a 0"
+            echo "  -p  (patch): Incrementa VERSION_SECONDARY e resetta VERSION_TERTIARY a 0"
+            echo "  -m  (messaggio): Aggiungi un messaggio personale al commit"
+            echo "Le opzioni -v e -p non possono essere usate insieme"
             exit 1
             ;;
     esac
@@ -92,22 +95,30 @@ increment_version() {
     current_tertiary=${current_tertiary:-0}
 
     if [ "$VERSION_MAJOR" = true ]; then
+        # Incrementa VERSION_PRIMARY e resetta VERSION_SECONDARY e TERTIARY a 0
         new_primary=$((current_primary + 1))
         new_secondary=0
         new_tertiary=0
+
         echo "VERSION_PRIMARY incrementato da $current_primary a $new_primary"
         echo "VERSION_SECONDARY resettato a 0"
         echo "VERSION_TERTIARY resettato a 0"
+
     elif [ "$VERSION_PATCH" = true ]; then
+        # Incrementa VERSION_SECONDARY e resetta TERTIARY a 0
         new_primary=$current_primary
         new_secondary=$((current_secondary + 1))
         new_tertiary=0
+
         echo "VERSION_SECONDARY incrementato da $current_secondary a $new_secondary"
         echo "VERSION_TERTIARY resettato a 0"
+
     else
+        # Comportamento predefinito: incrementa solo VERSION_TERTIARY
         new_primary=$current_primary
         new_secondary=$current_secondary
         new_tertiary=$((current_tertiary + 1))
+
         echo "VERSION_TERTIARY incrementato da $current_tertiary a $new_tertiary"
     fi
 
@@ -135,19 +146,16 @@ fi
 echo "map.json aggiornato con successo"
 echo ""
 
-# Esegui il commit (senza push, arriva dopo il changelog)
+# Esegui gli script usando il percorso completo
+# Passa il messaggio personalizzato a cmt.sh se presente
 if [ -n "$COMMIT_MESSAGE" ]; then
     "$SCRIPT_DIR/cmt.sh" -m "$COMMIT_MESSAGE"
 else
     "$SCRIPT_DIR/cmt.sh"
 fi
+bash "$SCRIPT_DIR/onlyFtpOfLastCmt.sh"
 
-# NOTA: rimosso onlyFtpOfLastCmt.sh — nella nuova architettura non c'è
-# più upload FTP: il deploy avviene tramite git pull automatico sul
-# server (GitHub Actions -> SSH -> pull-vault.sh), triggerato dal push
-# più in basso in questo script.
-
-# Genera il changelog per questa versione PRIMA del commit finale
+# Genera il changelog per questa versione PRIMA del commit
 echo ""
 echo "=========================================="
 echo "Generazione changelog..."
@@ -177,15 +185,11 @@ if [ $? -ne 0 ]; then
 fi
 
 echo ""
-# NOTA: rimossa la pausa "disattiva il tunnel di cloudflare", non più
-# rilevante: il sito ora è servito direttamente da Traefik+Let's Encrypt
-# sulla VM, non serve più un tunnel locale. Resta comunque una conferma
-# manuale opzionale prima del push, salta con -f.
-if [ "$FORCE_EXECUTION" = true ]; then
-    echo "esecuzione senza blocco (-f)"
+if [ -n "FORCE_EXECUTION" ]; then
+	echo "esecuzione senza blocco"
 else
-    read -n 1 -s -r -p "Premi un tasto per confermare il push (attiverà il deploy automatico sul server)"
-    echo ""
+	echo "ricorda di disattivare il tunnel di clouflare"
+	read -n 1 -s -r -p "Press any key to continue"
 fi
 
 # Esegui il push sul repository remoto
@@ -200,5 +204,10 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "Push completato con successo"
-echo "Il pull sul server partirà automaticamente via GitHub Actions."
+echo ""
+
+"$SCRIPT_DIR/onlyFtpOfLastCmt.sh"
+
+TOKEN=$(grep "^JOB_TOKEN=" /mnt/c/Users/RickyMandich/PROJECT/Phandalverse/Phandalverse/.env | cut -d '=' -f2-)
+curl "https://phandalverse.altervista.org/api/notify-update?token=$TOKEN"
 echo ""
