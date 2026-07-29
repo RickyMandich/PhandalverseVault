@@ -1,3 +1,4 @@
+#dm 
 questo artefatto serve ad accendere [[il-portale|il Portale]]
 # origine
 questo artefatto esiste fin dall'inizio dei tempi e ha una magia che impedisce che si rovini con il tempo

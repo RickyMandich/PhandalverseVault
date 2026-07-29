@@ -26,8 +26,9 @@ in ogni mese ci sono esattamente 4 settimane composte da:
 - giovedì
 - venerdì
 - sabato (giorno di riposo)
-- domenica (secondo giorno di riposo)
+- domenica (secondo giorno di riposo, questo è il giorno in cui si svolgono, mediamente, i riti religiosi)
 ogni mese inizia di lunedì
 # festività
 - Capodanno: 28 Ao’thar
 - Catamystra: 14 Mystarael (equivalente alla nostra pasqua)
+- **esiste un'equivalente per ogni nostra festività principale, semplicemente non ho ancora avuto tempo di scriverle**

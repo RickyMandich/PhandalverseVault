@@ -1,1 +1,0 @@
-è il servitore che fa tutti i lavori più sporchi e pericolosi per conto di [[asmodeus]]

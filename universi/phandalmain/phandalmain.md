@@ -1,4 +1,4 @@
-[[universo]] codipendente di [[Fandalmein]]
+[[universo]] codipendente di [[universi/fandalmein/fandalmein]]
 # regni
 - [[phandanoland]]
 - [[phandasuland]]

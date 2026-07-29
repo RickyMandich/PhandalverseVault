@@ -1,2 +1,0 @@
-# fondazione
-vengono fondati all'inizio della [[la-purga|purga]] per trovare e giustiziare tutti gli [[artefici]] e eliminare o usare per i loro scopi. tutte le invenzione che verranno requisite per dare la caccia agli [[artefici]] andranno distrutte alla morte dell'ultimo artefice
