@@ -5,17 +5,6 @@
 		"todo.md": "TODO"
 	},
 	"directories": {
-		".github": {
-			"original": ".github",
-			"files": {},
-			"directories": {
-				"workflows": {
-					"original": "Workflows",
-					"files": {},
-					"directories": {}
-				}
-			}
-		},
 		"artefatti": {
 			"original": "Artefatti",
 			"files": {},
