@@ -1,1 +1,0 @@
-![[materiale/incantesimi/tutti/evoca-pioggia-di-armi]]

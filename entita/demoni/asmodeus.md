@@ -1,3 +1,4 @@
+#dm
 Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni
 # storia
 da umano lui era [[nidave]].

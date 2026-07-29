@@ -1,3 +1,4 @@
+#md
 è una creatura che ha completo controllo nel suo [[dominio]] è che dal punto di vista di scala di potere è allo stesso livello di un [[signore-dei-demoni]].
 coltiva il suo potere aumentando le persone che vivono nel suo [[dominio]]. questo può succedere in due modi:
 - crea nuovi "figli" ([[cacombra|cacombre]]) usando lo [[sheut]] di creature che glielo hanno ceduto tramite dei patti

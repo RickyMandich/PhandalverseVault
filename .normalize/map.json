@@ -5,6 +5,17 @@
 		"todo.md": "TODO"
 	},
 	"directories": {
+		".github": {
+			"original": ".github",
+			"files": {},
+			"directories": {
+				"workflows": {
+					"original": "Workflows",
+					"files": {},
+					"directories": {}
+				}
+			}
+		},
 		"artefatti": {
 			"original": "Artefatti",
 			"files": {},
@@ -236,14 +247,7 @@
 						},
 						"dellombra": {
 							"original": "Myrkvaðinn (ombra)",
-							"files": {
-								"illusione-minore.md": "Illusione Minore",
-								"ombra-di-moil.md": "Ombra di Moil",
-								"oscurita.md": "Oscurità",
-								"passare-senza-tracce.md": "Passare Senza Tracce",
-								"scurovisione.md": "Scurovisione",
-								"silenzio.md": "Silenzio"
-							},
+							"files": {},
 							"directories": {}
 						},
 						"druido": {
@@ -324,54 +328,7 @@
 						},
 						"necromante": {
 							"original": "Occhio di Atos (Necromante)",
-							"files": {
-								"animare-morti.md": "Animare Morti",
-								"appassire-e-fiorire.md": "Appassire e Fiorire",
-								"barriera-ossea.md": "Barriera Ossea",
-								"blocca-mostri.md": "Blocca Mostri",
-								"blocca-persone.md": "Blocca Persone",
-								"contagio.md": "Contagio",
-								"danza-macabra.md": "Danza Macabra",
-								"deprivazione-sensoriale.md": "Deprivazione Sensoriale",
-								"esoscheletro-transitorio.md": "Esoscheletro Transitorio",
-								"esplosione-cadaverica.md": "Esplosione Cadaverica",
-								"evoca-non-morti.md": "Evoca Non Morti",
-								"falce-di-ade.md": "Falce di Ade",
-								"finzione-di-morte.md": "Finzione di Morte",
-								"flusso-di-energia-negativa.md": "Flusso di Energia Negativa",
-								"inaridire.md": "Inaridire",
-								"incuti-paura.md": "Incuti Paura",
-								"infliggi-ferite.md": "Infliggi Ferite",
-								"lama-dosso.md": "Lama Dosso",
-								"ombra-di-moil.md": "Ombra di Moil",
-								"osteourgia.md": "Osteourgia",
-								"parlare-con-i-morti.md": "Parlare Con i Morti",
-								"peste-putrida.md": "Peste Putrida",
-								"pioggia-di-frammenti.md": "Pioggia di Frammenti",
-								"presagio.md": "Presagio",
-								"puntura-indebolitrice.md": "Puntura Indebolitrice",
-								"radar-osseo.md": "Radar Osseo",
-								"raggio-di-affaticamento.md": "Raggio di Affaticamento",
-								"raggio-di-infermita.md": "Raggio di Infermità",
-								"rianimare-morti.md": "Rianimare Morti",
-								"ricrescita-scheletrica.md": "Ricrescita Scheletrica",
-								"rinascita.md": "Rinascita",
-								"rintocco-dei-morti.md": "Rintocco dei Morti",
-								"riposo-inviolato.md": "Riposo Inviolato",
-								"riposo-involato.md": "Riposo Involato",
-								"salvare-i-morenti.md": "Salvare i Morenti",
-								"scagliare-maledizione.md": "Scagliare Maledizione",
-								"sciame-di-parassiti.md": "Sciame di Parassiti",
-								"sfera-elastica.md": "Sfera Elastica",
-								"snervamento.md": "Snervamento",
-								"spine-ossee.md": "Spine Ossee",
-								"spirito-della-morte.md": "Spirito Della Morte",
-								"sudario-spirituale.md": "Sudario Spirituale",
-								"tocco-del-vampiro-occultista.md": "Tocco Del Vampiro Occultista",
-								"tocco-gelido.md": "Tocco Gelido",
-								"trasferimento-vitale.md": "Trasferimento Vitale",
-								"vita-falsata.md": "Vita Falsata"
-							},
+							"files": {},
 							"directories": {}
 						},
 						"paladino": {
@@ -422,13 +379,7 @@
 						},
 						"sussurratore-del-gelo": {
 							"original": "Kṓkȳtos (Gelo)",
-							"files": {
-								"evoca-pioggia-di-armi.md": "Evoca Pioggia di Armi",
-								"folata-di-vento.md": "Folata Di Vento",
-								"silenzio.md": "Silenzio",
-								"tempesta-di-ghiaccio.md": "Tempesta di Ghiaccio",
-								"tempesta-di-nevischio.md": "Tempesta di Nevischio"
-							},
+							"files": {},
 							"directories": {}
 						},
 						"tutti": {
@@ -610,8 +561,7 @@
 						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
 						"la-coalizione.md": "La Coalizione",
-						"la-mano-rossa.md": "La Mano Rossa",
-						"prescelti-di-fandalmain.md": "Prescelti Di Fandalmain"
+						"la-mano-rossa.md": "La Mano Rossa"
 					},
 					"directories": {}
 				}

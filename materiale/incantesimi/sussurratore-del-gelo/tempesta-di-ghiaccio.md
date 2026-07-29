@@ -1,1 +1,0 @@
-![[materiale/incantesimi/tutti/tempesta-di-ghiaccio]]

@@ -1,3 +1,4 @@
+#dm
 Tel'Murk'vadinn è il Piano delle Ombre, una struttura cosmica antichissima che si estende come un albero di tenebra attraverso tutti i mondi.  
 Non è un luogo da attraversare in senso orizzontale, ma una rete verticale di rami, nodi e radici, invisibili ma sempre presenti.
 
