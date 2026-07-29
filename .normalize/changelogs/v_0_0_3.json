@@ -1,0 +1,446 @@
+{
+	"version": "v 0.0.3",
+	"date": "2026-07-29 16:09:45 +0200",
+	"commit_hash": "463774e16fc49f288456b5e5e5c1471df41c4af5",
+	"commit_message": "aggiornamento 2026 07 29 16:10 [v 0.0.3] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "entita/demoni/asmodeus.md",
+			"display_name": "Asmodeus",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/entita/demoni/asmodeus.md b/entita/demoni/asmodeus.md\nindex 06a1426..ff47da3 100644\n--- a/entita/demoni/asmodeus.md\n+++ b/entita/demoni/asmodeus.md\n@@ -1,3 +1,4 @@\n+#dm\n Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni\n # storia\n da umano lui era [[nidave]].\n@@ -7,4 +8,4 @@ molti demoni superiori sono suoi figli anche se non c'è propriamente un legame\n soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.\n di base la famiglia per lui è puramente una questione gerarchica e di potere.\n ## gerarchia interna\n-diversamente da quel che sarebbe semplice dedurre il primogenito non è il primo figlio generato dal sovrano ma il più potente e questo ordine cambia continuamente in un complicato sistema di pura potenza e proprietà (considerando territorio amministrato, oggetti magici e sottoposti)\n\\ No newline at end of file\n+diversamente da quel che sarebbe semplice dedurre il primogenito non è il primo figlio generato dal sovrano ma il più potente e questo ordine cambia continuamente in un complicato sistema di pura potenza e proprietà (considerando territorio amministrato, oggetti magici e sottoposti)\n"
+		},
+		{
+			"file": "entita/ombra/cacombra/cacombra.md",
+			"display_name": "Cacombra",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/entita/ombra/cacombra/cacombra.md b/entita/ombra/cacombra/cacombra.md\nindex 6f7e5ac..e50429b 100644\n--- a/entita/ombra/cacombra/cacombra.md\n+++ b/entita/ombra/cacombra/cacombra.md\n@@ -1,2 +1,3 @@\n+#dm\r\n queste creature sono fatte completamente di ombra e non hanno una forma fisica definita, anche se solitamente ne hanno una a cui tendono.\r\n-non si possono riprodurre tra loro ma vengono creati a partire dallo [[sheut|sheut (ombra)]] da un [[signore-delle-ombre]]. solitamente quest'ultimo ricava l'ombra da un patto fatto con qualcuno.\n\\ No newline at end of file\n+non si possono riprodurre tra loro ma vengono creati a partire dallo [[sheut|sheut (ombra)]] da un [[signore-delle-ombre]]. solitamente quest'ultimo ricava l'ombra da un patto fatto con qualcuno.\r\n"
+		},
+		{
+			"file": "entita/ombra/dominio-delle-ombre.md",
+			"display_name": "Dominio Delle Ombre",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/entita/ombra/dominio-delle-ombre.md b/entita/ombra/dominio-delle-ombre.md\nindex 8d52a2f..1dd89c6 100644\n--- a/entita/ombra/dominio-delle-ombre.md\n+++ b/entita/ombra/dominio-delle-ombre.md\n@@ -1 +1,2 @@\n-un dominio delle ombre è una zona di [[telmurkvadinn]] che viene governata da un [[signore-delle-ombre]] in cui esso può fare tutto ciò che vuole con le ombre e ne ha completo controllo (i più potenti possono arrivare a modificare, creare e/o distruggere interi edifici con un singolo gesto) a eccezione dell'albero in sé, che può venire leggermente alterato ma non modificato in alcun modo in maniera permanente da alcuna forza conosciuta\n\\ No newline at end of file\n+#dm\n+un dominio delle ombre è una zona di [[telmurkvadinn]] che viene governata da un [[signore-delle-ombre]] in cui esso può fare tutto ciò che vuole con le ombre e ne ha completo controllo (i più potenti possono arrivare a modificare, creare e/o distruggere interi edifici con un singolo gesto) a eccezione dell'albero in sé, che può venire leggermente alterato ma non modificato in alcun modo in maniera permanente da alcuna forza conosciuta\n"
+		},
+		{
+			"file": "entita/ombra/signori-delle-ombre/signore-delle-ombre.md",
+			"display_name": "Signore Delle Ombre",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/entita/ombra/signori-delle-ombre/signore-delle-ombre.md b/entita/ombra/signori-delle-ombre/signore-delle-ombre.md\nindex 2795156..617e889 100644\n--- a/entita/ombra/signori-delle-ombre/signore-delle-ombre.md\n+++ b/entita/ombra/signori-delle-ombre/signore-delle-ombre.md\n@@ -1,5 +1,6 @@\n+#md\r\n è una creatura che ha completo controllo nel suo [[dominio]] è che dal punto di vista di scala di potere è allo stesso livello di un [[signore-dei-demoni]].\r\n coltiva il suo potere aumentando le persone che vivono nel suo [[dominio]]. questo può succedere in due modi:\r\n - crea nuovi \"figli\" ([[cacombra|cacombre]]) usando lo [[sheut]] di creature che glielo hanno ceduto tramite dei patti\r\n - accoglie nel suo dominio creature in fuga o che non si sono sentite a casa in nessun'altro posto\r\n-inoltre, in maniera indipendente da lui, esistono anche delle creature native di questo piano che appartengono a razze vere e proprie che finché sono nel suo dominio e/o gli prestano un giuramento di fedeltà risultano come suoi sudditi\n\\ No newline at end of file\n+inoltre, in maniera indipendente da lui, esistono anche delle creature native di questo piano che appartengono a razze vere e proprie che finché sono nel suo dominio e/o gli prestano un giuramento di fedeltà risultano come suoi sudditi\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/illusione-minore.md",
+			"display_name": "illusione-minore",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/dellombra/illusione-minore.md b/materiale/incantesimi/dellombra/illusione-minore.md\ndeleted file mode 100644\nindex 8e1973c..0000000\n--- a/materiale/incantesimi/dellombra/illusione-minore.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/illusione-minore]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/ombra-di-moil.md",
+			"display_name": "ombra-di-moil",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/dellombra/ombra-di-moil.md b/materiale/incantesimi/dellombra/ombra-di-moil.md\ndeleted file mode 100644\nindex 09d7ca3..0000000\n--- a/materiale/incantesimi/dellombra/ombra-di-moil.md\n+++ /dev/null\n@@ -1,18 +0,0 @@\n-# Ombra di Moil\r\n-*4° livello, Necromanzia*\r\n-\r\n-- **Tempo di lancio:** 1 azione\r\n-- **Raggio d'azione:** Incantatore\r\n-- **Componenti:** V, S, M (un bulbo oculare di non morto racchiuso in una gemma del valore di almeno 150 mo)\r\n-- **Durata:** Concentrazione, fino a 1 minuto\r\n-\r\n-Ombre simili a fiamme avvolgono il tuo corpo fino al termine dell'incantesimo, dandoti un bonus di CA pari a 2. Le ombre trasformano la luce fioca entro 3 metri da te in oscurità, e la luce intensa nella stessa area in luce fioca\r\n-Fino al termine dell'incantesimo, hai resistenza ai danni radianti. Inoltre, ogni volta che una creatura entro 3 metri da te ti colpisce con un attacco, le ombre si scagliano contro quella creatura, infliggendole 2d8 danni necrotici.\r\n-\r\n-**Ai livelli superiori:** quando questo incantesimo viene lanciato con uno slot di 5 livello o superiore la CA aumenta di 1 ogni due livelli sopra al 4 (per cui diventa 3 al 5, 4 al 7 e 5 al 9)\r\n-\r\n-**Classi:** Mago, Necromante, dellombra\r\n-\r\n-**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\r\n-\r\n----\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/oscurita.md",
+			"display_name": "oscurita",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/dellombra/oscurita.md b/materiale/incantesimi/dellombra/oscurita.md\ndeleted file mode 100644\nindex a13fb43..0000000\n--- a/materiale/incantesimi/dellombra/oscurita.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/oscurita]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/passare-senza-tracce.md",
+			"display_name": "passare-senza-tracce",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/dellombra/passare-senza-tracce.md b/materiale/incantesimi/dellombra/passare-senza-tracce.md\ndeleted file mode 100644\nindex b9c36e0..0000000\n--- a/materiale/incantesimi/dellombra/passare-senza-tracce.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/passare-senza-tracce]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/scurovisione.md",
+			"display_name": "scurovisione",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/dellombra/scurovisione.md b/materiale/incantesimi/dellombra/scurovisione.md\ndeleted file mode 100644\nindex 6969489..0000000\n--- a/materiale/incantesimi/dellombra/scurovisione.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/scurovisione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/dellombra/silenzio.md",
+			"display_name": "silenzio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/dellombra/silenzio.md b/materiale/incantesimi/dellombra/silenzio.md\ndeleted file mode 100644\nindex 525e7d4..0000000\n--- a/materiale/incantesimi/dellombra/silenzio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/silenzio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/animare-morti.md",
+			"display_name": "animare-morti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/animare-morti.md b/materiale/incantesimi/necromante/animare-morti.md\ndeleted file mode 100644\nindex 942bed3..0000000\n--- a/materiale/incantesimi/necromante/animare-morti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/animare-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/appassire-e-fiorire.md",
+			"display_name": "appassire-e-fiorire",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/appassire-e-fiorire.md b/materiale/incantesimi/necromante/appassire-e-fiorire.md\ndeleted file mode 100644\nindex 6a708d8..0000000\n--- a/materiale/incantesimi/necromante/appassire-e-fiorire.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/appassire-e-fiorire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/barriera-ossea.md",
+			"display_name": "barriera-ossea",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/barriera-ossea.md b/materiale/incantesimi/necromante/barriera-ossea.md\ndeleted file mode 100644\nindex e211584..0000000\n--- a/materiale/incantesimi/necromante/barriera-ossea.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/barriera-ossea]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/blocca-mostri.md",
+			"display_name": "blocca-mostri",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/blocca-mostri.md b/materiale/incantesimi/necromante/blocca-mostri.md\ndeleted file mode 100644\nindex 16a9d36..0000000\n--- a/materiale/incantesimi/necromante/blocca-mostri.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/blocca-mostri]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/blocca-persone.md",
+			"display_name": "blocca-persone",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/blocca-persone.md b/materiale/incantesimi/necromante/blocca-persone.md\ndeleted file mode 100644\nindex e596a35..0000000\n--- a/materiale/incantesimi/necromante/blocca-persone.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/blocca-persone]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/contagio.md",
+			"display_name": "contagio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/contagio.md b/materiale/incantesimi/necromante/contagio.md\ndeleted file mode 100644\nindex 3c8917d..0000000\n--- a/materiale/incantesimi/necromante/contagio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/contagio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/danza-macabra.md",
+			"display_name": "danza-macabra",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/danza-macabra.md b/materiale/incantesimi/necromante/danza-macabra.md\ndeleted file mode 100644\nindex 3b24f84..0000000\n--- a/materiale/incantesimi/necromante/danza-macabra.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/danza-macabra]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/deprivazione-sensoriale.md",
+			"display_name": "deprivazione-sensoriale",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/deprivazione-sensoriale.md b/materiale/incantesimi/necromante/deprivazione-sensoriale.md\ndeleted file mode 100644\nindex 0f4a8df..0000000\n--- a/materiale/incantesimi/necromante/deprivazione-sensoriale.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/deprivazione-sensoriale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/esoscheletro-transitorio.md",
+			"display_name": "esoscheletro-transitorio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/esoscheletro-transitorio.md b/materiale/incantesimi/necromante/esoscheletro-transitorio.md\ndeleted file mode 100644\nindex 9490209..0000000\n--- a/materiale/incantesimi/necromante/esoscheletro-transitorio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/esoscheletro-transitorio]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/esplosione-cadaverica.md",
+			"display_name": "esplosione-cadaverica",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/esplosione-cadaverica.md b/materiale/incantesimi/necromante/esplosione-cadaverica.md\ndeleted file mode 100644\nindex 42bc4ed..0000000\n--- a/materiale/incantesimi/necromante/esplosione-cadaverica.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/esplosione-cadaverica]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/evoca-non-morti.md",
+			"display_name": "evoca-non-morti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/evoca-non-morti.md b/materiale/incantesimi/necromante/evoca-non-morti.md\ndeleted file mode 100644\nindex 68c4f6a..0000000\n--- a/materiale/incantesimi/necromante/evoca-non-morti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/evoca-non-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/falce-di-ade.md",
+			"display_name": "falce-di-ade",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/falce-di-ade.md b/materiale/incantesimi/necromante/falce-di-ade.md\ndeleted file mode 100644\nindex 4bb6479..0000000\n--- a/materiale/incantesimi/necromante/falce-di-ade.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/falce-di-ade]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/finzione-di-morte.md",
+			"display_name": "finzione-di-morte",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/finzione-di-morte.md b/materiale/incantesimi/necromante/finzione-di-morte.md\ndeleted file mode 100644\nindex 67f8ae2..0000000\n--- a/materiale/incantesimi/necromante/finzione-di-morte.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/finzione-di-morte]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/flusso-di-energia-negativa.md",
+			"display_name": "flusso-di-energia-negativa",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/flusso-di-energia-negativa.md b/materiale/incantesimi/necromante/flusso-di-energia-negativa.md\ndeleted file mode 100644\nindex 00a5eb6..0000000\n--- a/materiale/incantesimi/necromante/flusso-di-energia-negativa.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/flusso-di-energia-negativa]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/inaridire.md",
+			"display_name": "inaridire",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/inaridire.md b/materiale/incantesimi/necromante/inaridire.md\ndeleted file mode 100644\nindex c05a38b..0000000\n--- a/materiale/incantesimi/necromante/inaridire.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/inaridire]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/incuti-paura.md",
+			"display_name": "incuti-paura",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/incuti-paura.md b/materiale/incantesimi/necromante/incuti-paura.md\ndeleted file mode 100644\nindex 2735d3c..0000000\n--- a/materiale/incantesimi/necromante/incuti-paura.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/incuti-paura]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/infliggi-ferite.md",
+			"display_name": "infliggi-ferite",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/infliggi-ferite.md b/materiale/incantesimi/necromante/infliggi-ferite.md\ndeleted file mode 100644\nindex 1f62bac..0000000\n--- a/materiale/incantesimi/necromante/infliggi-ferite.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/infliggi-ferite]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/lama-dosso.md",
+			"display_name": "lama-dosso",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/lama-dosso.md b/materiale/incantesimi/necromante/lama-dosso.md\ndeleted file mode 100644\nindex 76becfd..0000000\n--- a/materiale/incantesimi/necromante/lama-dosso.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/lama-dosso]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/ombra-di-moil.md",
+			"display_name": "ombra-di-moil",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/ombra-di-moil.md b/materiale/incantesimi/necromante/ombra-di-moil.md\ndeleted file mode 100644\nindex a74cb8e..0000000\n--- a/materiale/incantesimi/necromante/ombra-di-moil.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/ombra-di-moil]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/osteourgia.md",
+			"display_name": "osteourgia",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/osteourgia.md b/materiale/incantesimi/necromante/osteourgia.md\ndeleted file mode 100644\nindex 7f633e5..0000000\n--- a/materiale/incantesimi/necromante/osteourgia.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/osteourgia]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/parlare-con-i-morti.md",
+			"display_name": "parlare-con-i-morti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/parlare-con-i-morti.md b/materiale/incantesimi/necromante/parlare-con-i-morti.md\ndeleted file mode 100644\nindex ae045b9..0000000\n--- a/materiale/incantesimi/necromante/parlare-con-i-morti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/parlare-con-i-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/peste-putrida.md",
+			"display_name": "peste-putrida",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/peste-putrida.md b/materiale/incantesimi/necromante/peste-putrida.md\ndeleted file mode 100644\nindex 3a033f5..0000000\n--- a/materiale/incantesimi/necromante/peste-putrida.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/peste-putrida]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/pioggia-di-frammenti.md",
+			"display_name": "pioggia-di-frammenti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/pioggia-di-frammenti.md b/materiale/incantesimi/necromante/pioggia-di-frammenti.md\ndeleted file mode 100644\nindex e36c1e7..0000000\n--- a/materiale/incantesimi/necromante/pioggia-di-frammenti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/pioggia-di-frammenti]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/presagio.md",
+			"display_name": "presagio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/presagio.md b/materiale/incantesimi/necromante/presagio.md\ndeleted file mode 100644\nindex 0227b84..0000000\n--- a/materiale/incantesimi/necromante/presagio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/presagio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/puntura-indebolitrice.md",
+			"display_name": "puntura-indebolitrice",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/puntura-indebolitrice.md b/materiale/incantesimi/necromante/puntura-indebolitrice.md\ndeleted file mode 100644\nindex 5c91d93..0000000\n--- a/materiale/incantesimi/necromante/puntura-indebolitrice.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/puntura-indebolitrice]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/radar-osseo.md",
+			"display_name": "radar-osseo",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/radar-osseo.md b/materiale/incantesimi/necromante/radar-osseo.md\ndeleted file mode 100644\nindex 8d7af57..0000000\n--- a/materiale/incantesimi/necromante/radar-osseo.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/radar-osseo]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/raggio-di-affaticamento.md",
+			"display_name": "raggio-di-affaticamento",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/raggio-di-affaticamento.md b/materiale/incantesimi/necromante/raggio-di-affaticamento.md\ndeleted file mode 100644\nindex 5390f64..0000000\n--- a/materiale/incantesimi/necromante/raggio-di-affaticamento.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/raggio-di-affaticamento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/raggio-di-infermita.md",
+			"display_name": "raggio-di-infermita",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/raggio-di-infermita.md b/materiale/incantesimi/necromante/raggio-di-infermita.md\ndeleted file mode 100644\nindex f64a4f7..0000000\n--- a/materiale/incantesimi/necromante/raggio-di-infermita.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/raggio-di-infermita]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rianimare-morti.md",
+			"display_name": "rianimare-morti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/rianimare-morti.md b/materiale/incantesimi/necromante/rianimare-morti.md\ndeleted file mode 100644\nindex 9ae7912..0000000\n--- a/materiale/incantesimi/necromante/rianimare-morti.md\n+++ /dev/null\n@@ -1,15 +0,0 @@\n-# Rianimare Morti\r\n-*5° livello, necromanzia*\r\n-\r\n-- **Tempo di lancio:** 1 azione\r\n-- **Raggio d'azione:** contatto\r\n-- **Componenti:** V, S, M (un diamante del valore di almeno 500 mo, che l'incantesimo consuma)\r\n-- **Durata:** Istantaneo\r\n-\r\n-L'incantatore riporta in vita una creatura morta da lui toccata, purché non sia morta da più di 10 giorni. Se l'anima della creatura è consenziente ed è libera di riunirsi al corpo, la creatura torna in vita con 1 punto ferita.\\nQuesto incantesimo neutralizza inoltre qualsiasi veleno e cura le malattie non magiche che influenzavano la creatura al momento della morte. Tuttavia, questo incantesimo non rimuove le malattie magiche, le maledizioni e le altre afflizioni analoghe; se non vengono rimossi prima del lancio dell'incantesimo, il bersaglio ne sarà afflitto quando tornerà in vita. Questo incantesimo non può riportare in vita una creatura non morta.\\nQuesto incantesimo richiude tutte le ferite mortali, ma non ripristina le parti del corpo mancanti. Se una creatura è priva di parti del corpo o di organi essenziali per la sua sopravvivenza (come per esempio la testa), l'incantesimo fallisce automaticamente.\\nIl ritorno dalla morte è una vera e propria ordalia. Il bersaglio subisce una penalità di -4 a tutti i tiri per colpire, ai tiri salvezza e alle prove di caratteristica. Ogni volta che il bersaglio completa un riposo lungo, la penalità viene ridotta di 1 finché non sparisce del tutto.\r\n-\r\n-**Classi:** Mago, Chierico\r\n-\r\n-**Sorgente:** [https://dnd5e.wikidot.com/spells:necromancy](https://dnd5e.wikidot.com/spells:necromancy)\r\n-\r\n----\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/ricrescita-scheletrica.md",
+			"display_name": "ricrescita-scheletrica",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/ricrescita-scheletrica.md b/materiale/incantesimi/necromante/ricrescita-scheletrica.md\ndeleted file mode 100644\nindex 49f4880..0000000\n--- a/materiale/incantesimi/necromante/ricrescita-scheletrica.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/ricrescita-scheletrica]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rinascita.md",
+			"display_name": "rinascita",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/rinascita.md b/materiale/incantesimi/necromante/rinascita.md\ndeleted file mode 100644\nindex 6dd006a..0000000\n--- a/materiale/incantesimi/necromante/rinascita.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/rinascita]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/rintocco-dei-morti.md",
+			"display_name": "rintocco-dei-morti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/rintocco-dei-morti.md b/materiale/incantesimi/necromante/rintocco-dei-morti.md\ndeleted file mode 100644\nindex 614c2bf..0000000\n--- a/materiale/incantesimi/necromante/rintocco-dei-morti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/rintocco-dei-morti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/riposo-inviolato.md",
+			"display_name": "riposo-inviolato",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/riposo-inviolato.md b/materiale/incantesimi/necromante/riposo-inviolato.md\ndeleted file mode 100644\nindex 11bc9c2..0000000\n--- a/materiale/incantesimi/necromante/riposo-inviolato.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/riposo-inviolato]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/riposo-involato.md",
+			"display_name": "riposo-involato",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/riposo-involato.md b/materiale/incantesimi/necromante/riposo-involato.md\ndeleted file mode 100644\nindex 478f084..0000000\n--- a/materiale/incantesimi/necromante/riposo-involato.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/riposo-involato]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/salvare-i-morenti.md",
+			"display_name": "salvare-i-morenti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/salvare-i-morenti.md b/materiale/incantesimi/necromante/salvare-i-morenti.md\ndeleted file mode 100644\nindex 4c5814d..0000000\n--- a/materiale/incantesimi/necromante/salvare-i-morenti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/salvare-i-morenti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/scagliare-maledizione.md",
+			"display_name": "scagliare-maledizione",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/scagliare-maledizione.md b/materiale/incantesimi/necromante/scagliare-maledizione.md\ndeleted file mode 100644\nindex 7f95f82..0000000\n--- a/materiale/incantesimi/necromante/scagliare-maledizione.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/scagliare-maledizione]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sciame-di-parassiti.md",
+			"display_name": "sciame-di-parassiti",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/sciame-di-parassiti.md b/materiale/incantesimi/necromante/sciame-di-parassiti.md\ndeleted file mode 100644\nindex 41597c3..0000000\n--- a/materiale/incantesimi/necromante/sciame-di-parassiti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[incantesimi/tutti/sciame-di-parassiti]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sfera-elastica.md",
+			"display_name": "sfera-elastica",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/sfera-elastica.md b/materiale/incantesimi/necromante/sfera-elastica.md\ndeleted file mode 100644\nindex 9f535a8..0000000\n--- a/materiale/incantesimi/necromante/sfera-elastica.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/sfera-elastica]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/snervamento.md",
+			"display_name": "snervamento",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/snervamento.md b/materiale/incantesimi/necromante/snervamento.md\ndeleted file mode 100644\nindex 1cd03df..0000000\n--- a/materiale/incantesimi/necromante/snervamento.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/snervamento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/spine-ossee.md",
+			"display_name": "spine-ossee",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/spine-ossee.md b/materiale/incantesimi/necromante/spine-ossee.md\ndeleted file mode 100644\nindex 1995ccb..0000000\n--- a/materiale/incantesimi/necromante/spine-ossee.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/spine-ossee]]\r\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/spirito-della-morte.md",
+			"display_name": "spirito-della-morte",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/spirito-della-morte.md b/materiale/incantesimi/necromante/spirito-della-morte.md\ndeleted file mode 100644\nindex f8a0e85..0000000\n--- a/materiale/incantesimi/necromante/spirito-della-morte.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/spirito-della-morte]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/sudario-spirituale.md",
+			"display_name": "sudario-spirituale",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/sudario-spirituale.md b/materiale/incantesimi/necromante/sudario-spirituale.md\ndeleted file mode 100644\nindex 2941fd9..0000000\n--- a/materiale/incantesimi/necromante/sudario-spirituale.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/sudario-spirituale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/tocco-del-vampiro-occultista.md",
+			"display_name": "tocco-del-vampiro-occultista",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/tocco-del-vampiro-occultista.md b/materiale/incantesimi/necromante/tocco-del-vampiro-occultista.md\ndeleted file mode 100644\nindex b74ad65..0000000\n--- a/materiale/incantesimi/necromante/tocco-del-vampiro-occultista.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/tocco-del-vampiro-occultista]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/tocco-gelido.md",
+			"display_name": "tocco-gelido",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/tocco-gelido.md b/materiale/incantesimi/necromante/tocco-gelido.md\ndeleted file mode 100644\nindex 1a5790d..0000000\n--- a/materiale/incantesimi/necromante/tocco-gelido.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/tocco-gelido]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/trasferimento-vitale.md",
+			"display_name": "trasferimento-vitale",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/trasferimento-vitale.md b/materiale/incantesimi/necromante/trasferimento-vitale.md\ndeleted file mode 100644\nindex c34f5f3..0000000\n--- a/materiale/incantesimi/necromante/trasferimento-vitale.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/trasferimento-vitale]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/necromante/vita-falsata.md",
+			"display_name": "vita-falsata",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/necromante/vita-falsata.md b/materiale/incantesimi/necromante/vita-falsata.md\ndeleted file mode 100644\nindex 64ec131..0000000\n--- a/materiale/incantesimi/necromante/vita-falsata.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/vita-falsata]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/sussurratore-del-gelo/evoca-pioggia-di-armi.md",
+			"display_name": "evoca-pioggia-di-armi",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/sussurratore-del-gelo/evoca-pioggia-di-armi.md b/materiale/incantesimi/sussurratore-del-gelo/evoca-pioggia-di-armi.md\ndeleted file mode 100644\nindex 7adfe6a..0000000\n--- a/materiale/incantesimi/sussurratore-del-gelo/evoca-pioggia-di-armi.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/evoca-pioggia-di-armi]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/sussurratore-del-gelo/folata-di-vento.md",
+			"display_name": "folata-di-vento",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/sussurratore-del-gelo/folata-di-vento.md b/materiale/incantesimi/sussurratore-del-gelo/folata-di-vento.md\ndeleted file mode 100644\nindex 167ffce..0000000\n--- a/materiale/incantesimi/sussurratore-del-gelo/folata-di-vento.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/folata-di-vento]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/sussurratore-del-gelo/silenzio.md",
+			"display_name": "silenzio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/sussurratore-del-gelo/silenzio.md b/materiale/incantesimi/sussurratore-del-gelo/silenzio.md\ndeleted file mode 100644\nindex 525e7d4..0000000\n--- a/materiale/incantesimi/sussurratore-del-gelo/silenzio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/silenzio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/sussurratore-del-gelo/tempesta-di-ghiaccio.md",
+			"display_name": "tempesta-di-ghiaccio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/sussurratore-del-gelo/tempesta-di-ghiaccio.md b/materiale/incantesimi/sussurratore-del-gelo/tempesta-di-ghiaccio.md\ndeleted file mode 100644\nindex e9c1894..0000000\n--- a/materiale/incantesimi/sussurratore-del-gelo/tempesta-di-ghiaccio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/tempesta-di-ghiaccio]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/sussurratore-del-gelo/tempesta-di-nevischio.md",
+			"display_name": "tempesta-di-nevischio",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/materiale/incantesimi/sussurratore-del-gelo/tempesta-di-nevischio.md b/materiale/incantesimi/sussurratore-del-gelo/tempesta-di-nevischio.md\ndeleted file mode 100644\nindex d4362cb..0000000\n--- a/materiale/incantesimi/sussurratore-del-gelo/tempesta-di-nevischio.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/tempesta-di-nevischio]]\r\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/atos.md",
+			"display_name": "Atos",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/non-giocanti/atos.md b/personaggi/non-giocanti/atos.md\nindex d6787f5..525b521 100644\n--- a/personaggi/non-giocanti/atos.md\n+++ b/personaggi/non-giocanti/atos.md\n@@ -1,3 +1,4 @@\n+#dm\n #startMaster\n # Origini\n \n@@ -61,4 +62,4 @@ La leggenda vuole che abbia trovato modi proibiti di studiare le forze arcane, t\n Molti narrano che la sua torre ad [[atlantide]] sia ancora in piedi tra le rovine dell’isola, circondata da servitori non morti e misteriose protezioni.  \n Si dice che chi osi avvicinarsi possa percepire la sua presenza, lucida e inesorabile, anche se nessuno sa chi o cosa lo abbia davvero sconfitto.\n \n-Per il popolo, Atos è una storia per spaventare i bambini, un nome che evoca timore e rispetto: il lich che sfidò i confini della magia e che, anche imprigionato, continua a osservare il mondo da dietro il suo occhio.\n\\ No newline at end of file\n+Per il popolo, Atos è una storia per spaventare i bambini, un nome che evoca timore e rispetto: il lich che sfidò i confini della magia e che, anche imprigionato, continua a osservare il mondo da dietro il suo occhio.\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/nidave.md",
+			"display_name": "Nidave",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/non-giocanti/nidave.md b/personaggi/non-giocanti/nidave.md\nindex 7b2d1d1..63949f0 100644\n--- a/personaggi/non-giocanti/nidave.md\n+++ b/personaggi/non-giocanti/nidave.md\n@@ -1,3 +1,4 @@\n+#dm\r\n è un umano che nasce nel 50 [[calendario|AP]].\r\n durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]].\r\n-durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\n\\ No newline at end of file\n+durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un mezzo secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\r\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/roshi.md",
+			"display_name": "Roshi",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/non-giocanti/roshi.md b/personaggi/non-giocanti/roshi.md\nindex ae53745..a4ebd86 100644\n--- a/personaggi/non-giocanti/roshi.md\n+++ b/personaggi/non-giocanti/roshi.md\n@@ -1,3 +1,4 @@\n+#dm\n #phandalmain \n # Origini\n ## [[epoca-leggendaria|epoca leggendaria]]\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/gli-asmodeici.md",
+			"display_name": "Gli Asmodeici",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/organizzazioni-gruppi/gli-asmodeici.md b/personaggi/organizzazioni-gruppi/gli-asmodeici.md\nindex 8f6131a..e1111ea 100644\n--- a/personaggi/organizzazioni-gruppi/gli-asmodeici.md\n+++ b/personaggi/organizzazioni-gruppi/gli-asmodeici.md\n@@ -1,3 +1,4 @@\n+#dm\n è un gruppo di cultisti fanatici che venera [[Asmodeus]], per seguire le indicazioni del loro demone preferito inizialmente facevano governare il loro villaggio dallo stesso, dopo che è stato esorcizzato per l'ennesima volta hanno capito che non è praticabile mantenerlo nel loro villaggio e avere una vita comoda senza attirare troppo le attenzioni di varie chiese e cacciatori di demoni, per cui ormai è secoli che quando necessario evocano il demone per una notte così che possa giacere con una delle cultiste che poi partorirà il futuro capovillaggio (un tiefling).\n \n-vivono nel villaggio [[morkhaus]].\n\\ No newline at end of file\n+vivono nel villaggio [[morkhaus]].\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/la-coalizione.md",
+			"display_name": "La Coalizione",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/organizzazioni-gruppi/la-coalizione.md b/personaggi/organizzazioni-gruppi/la-coalizione.md\nindex 7387ec8..6698d3d 100644\n--- a/personaggi/organizzazioni-gruppi/la-coalizione.md\n+++ b/personaggi/organizzazioni-gruppi/la-coalizione.md\n@@ -1,10 +1,9 @@\n-#dm \n è il consiglio che si occupava di organizzare e gestire le faccende che riguardavano [[phandalmain]] e [[universi/fandalmein/fandalmein]] e aveva sede ad [[atalantide]]\n \n-# dopo la frattura\n+# dopo le purghe\n ## [[phandalmain]]\n-approfittano dell'occasione per liberarsi degli artefici che negli ultimi secoli avevano fin troppo potere dando il via alla [[la-purga|Purga]]\n+danno il via loro alle purghe\n #startMaster \n ## [[universi/fandalmein/fandalmein]]\n anche qui erano preoccupati per il potere degli artefici però, riconoscendone l'importanza e l'abilità, decidono di rendere [[atalantide]] la capitale e, tramite una serie di leggi e decreti per la \"sicurezza pubblica\", mettono gli [[artefici]] sotto il completo controllo della coalizione che ai tempi era diventato un consiglio che doveva gestire in maniera pacifica ciò che non riguardava esclusivamente un solo regno, durante gli anni [[dark-nidave]] arriva a comandarla e trasforma il continente in un impero governato dalla stessa coalizione, in realtà comandava lui e trasforma l'impero in una dittatura militare \n-#endMaster \n\\ No newline at end of file\n+#endMaster \n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/la-mano-rossa.md",
+			"display_name": "La Mano Rossa",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/organizzazioni-gruppi/la-mano-rossa.md b/personaggi/organizzazioni-gruppi/la-mano-rossa.md\nindex 7c0fc98..5fc85a1 100644\n--- a/personaggi/organizzazioni-gruppi/la-mano-rossa.md\n+++ b/personaggi/organizzazioni-gruppi/la-mano-rossa.md\n@@ -1,33 +1,10 @@\n #gruppo \n-è il gruppo dei protagonisti, sono i prescelti provenienti da [[phandalmain]].\n-![[vargas-paladino-nano-65]]\n-![[than-warlock-tiefling-30]]\n-![[dontavious-ladro-mezzelfo-25]]\n-![[morbiarum-paladino-dragonide-24]]\n+il party\n \n # punti esperienza\n |                                                   sessione                                                   | livello |   xp   |\n | :----------------------------------------------------------------------------------------------------------: | :-----: | :----: |\n-|                                                  sessione 0                                                  |    3    |  900   |\n-|         sessione di giovedì 2025 10 16![[01-saga-di-gemgrave##sessione di giovedì 2025 10 16###xp]]          |    3    |  950   |\n-|         sessione di giovedì 2025 11 07![[01-saga-di-gemgrave##sessione di venerdì 2025 11 07###xp]]          |    3    | 1.050  |\n-|        sessione di giovedì 2025 11 13![[02-saga-della-magione##sessione di giovedì 2025 11 13###xp]]         |    3    | 1.380  |\n-|          sessione di giovedì 2025 11 21![[03-saga-di-merfolk##sessione di venerdì 2025 11 21###xp]]          |    3    | 1.480  |\n-|          sessione di giovedì 2025 11 27![[03-saga-di-merfolk##sessione di giovedì 2025 11 27###xp]]          |    3    | 1.730  |\n-|          sessione di giovedì 2025 12 05![[03-saga-di-merfolk##sessione di venerdì 2025 12 05###xp]]          |    3    | 1.930  |\n-|       sessione di giovedì 2025 12 18![[04-saga-della-biblioteca##sessione di giovedì 2025 12 18###xp]]       |    3    | 2.030  |\n-|      sessione di giovedì 2025 01 16![[05-saga-di-capodanno-1312##sessione di venerdì 2026 01 16###xp]]       |    4    | 2.930  |\n-|      sessione di giovedì 2025 01 23![[05-saga-di-capodanno-1312##sessione di venerdì 2026 01 23###xp]]       |    4    | 4.370  |\n-|      sessione di giovedì 2026 01 30![[05-saga-di-capodanno-1312##sessione di giovedì 2026 01 30###xp]]       |    4    | 5.810  |\n-|      sessione di giovedì 2026 02 05![[05-saga-di-capodanno-1312##sessione di giovedì 2026 02 05###xp]]       |    6    | 14.530 |\n-|  sessione di giovedì 2026 02 27![[06-saga-del-salvataggio-di-dontavious#sessione di venerdì 2026 02 27#XP]]  |    6    | 15.255 |\n-| sessione di domenica 2026 03 01![[06-saga-del-salvataggio-di-dontavious#sessione di domenica 2026 03 01#XP]] |    6    | 15.255 |\n-| sessione di giovedì 2026 03 12 ![[06-saga-del-salvataggio-di-dontavious#sessione di giovedì 2026 03 12#XP]]  |    7    | 25.505 |\n-|  sessione di giovedì 2026 03 19 ![[07-saga-del-ritrovamento-del-portale#sessione di giovedì 2026 03 19#XP]]  |    7    | 25.505 |\n-|  sessione di venerdì 2026 04 03 ![[07-saga-del-ritrovamento-del-portale#sessione di venerdì 2026 04 03#XP]]  |    7    | 25.905 |\n-|     sessione di giovedì 2026 04 16 ![[01-saga-di-fandalmain#sessioni#sessione di giovedì 2026 04 16#XP]]     |    7    | 25.905 |\n-|         sessione di giovedì 2026 04 23 ![[01-saga-di-fandalmain#sessione di venerdì 2026 04 23#XP]]          |    7    | 26.455 |\n-|         sessione di giovedì 2026 04 30 ![[01-saga-di-fandalmain#sessione di giovedì 2026 04 30#XP]]          |    7    | 26.455 |\n+|                                                  sessione 0                                                  |    5    | 5.500  |\n \n | Livello | PE      | bonus competenza |\n | :-----: | ------- | ---------------- |\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/prescelti-di-fandalmain.md",
+			"display_name": "prescelti-di-fandalmain",
+			"status": "Deleted",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/personaggi/organizzazioni-gruppi/prescelti-di-fandalmain.md b/personaggi/organizzazioni-gruppi/prescelti-di-fandalmain.md\ndeleted file mode 100644\nindex b47c45b..0000000\n--- a/personaggi/organizzazioni-gruppi/prescelti-di-fandalmain.md\n+++ /dev/null\n@@ -1,6 +0,0 @@\n-#gruppo \n-Sono i prescelti provenienti da [[phandalmain]].\n-![[dark-kaelen-vos]]\n-![[dark-kaia]]\n-![[dark-malakor]]\n-![[dark-selyne]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/profondar.md",
+			"display_name": "Profondar",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/universi/fandalmein/fandanolend/profondar.md b/universi/fandalmein/fandanolend/profondar.md\nindex f2da0b0..f78f836 100644\n--- a/universi/fandalmein/fandanolend/profondar.md\n+++ b/universi/fandalmein/fandanolend/profondar.md\n@@ -1,2 +1,2 @@\n-#citta  \r\n-è un [[villaggio]] ibrido situato nel nord est della costa interna\n\\ No newline at end of file\n+#dm #citta  \r\n+è un [[villaggio]] ibrido situato nel nord est della costa interna\r\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/sommervil.md",
+			"display_name": "Sommervil",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/universi/fandalmein/fandasulend/sommervil.md b/universi/fandalmein/fandasulend/sommervil.md\nindex c1c1ffe..6b8c113 100644\n--- a/universi/fandalmein/fandasulend/sommervil.md\n+++ b/universi/fandalmein/fandasulend/sommervil.md\n@@ -1,2 +1,2 @@\n-#citta  \r\n-è un [[villaggio]] ibrido situato nel sud ovest della costa interna\n\\ No newline at end of file\n+#dm #citta  \r\n+è un [[villaggio]] ibrido situato nel sud ovest della costa interna\r\n"
+		},
+		{
+			"file": "universi/fandalmein/somerial.md",
+			"display_name": "Somerial",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/universi/fandalmein/somerial.md b/universi/fandalmein/somerial.md\nindex bbc9a61..c4c2e81 100644\n--- a/universi/fandalmein/somerial.md\n+++ b/universi/fandalmein/somerial.md\n@@ -1 +1,2 @@\n-è il lago al centro del continente di [[universi/fandalmein/fandalmein]]\n\\ No newline at end of file\n+#dm\n+è il lago al centro del continente di [[universi/fandalmein/fandalmein]]\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide.md",
+			"display_name": "Atlantide",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/universi/phandalmain/atlantide.md b/universi/phandalmain/atlantide.md\nindex 9bf12bd..0b59b5e 100644\n--- a/universi/phandalmain/atlantide.md\n+++ b/universi/phandalmain/atlantide.md\n@@ -1,14 +1,14 @@\n-#startMaster \r\n unica città presente sull'isola al centro del lago continentale di [[Phandalmain]].\r\n l'isola si chiama come la città e, durante l'[[epoca-leggendaria]] ricopriva tutta l'isola.\r\n-#endMaster \r\n # storia\r\n ## [[epoca-leggendaria]]\r\n era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua.\r\n ## [[epoca-terza]]\r\n ### anno 0\r\n durante [[la-purga]], [[i-purgatori]] (per ordine della [[la-coalizione|coalizione]]), fecero in modo che tutti i più importanti edifici fossero distrutti e che non ci fosse più nessuno e per qualche decennio fecero anche in modo che nessuno ci andasse (dopo questo tempo non era più ritenuto un luogo da controllare in quanto ormai gli artefici erano sconfitti)\r\n+#startMaster\r\n ### anno 5\r\n [[Atos]] va sull'isola senza farsi scoprire dai [[i-purgatori|purgatori]] e ci si insedia per vivere\r\n ### anno 215\r\n-[[roshi]] si reca sull'isola per uccidere [[Atos]] e il loro scontro finisce con il far affondare l'isola (per altri effetti guardare la pagina di [[Atos]])\n\\ No newline at end of file\n+[[roshi]] si reca sull'isola per uccidere [[Atos]] e il loro scontro finisce con il far affondare l'isola (per altri effetti guardare la pagina di [[Atos]])\r\n+#endMaster\r\n"
+		},
+		{
+			"file": "universi/telmurkvadinn.md",
+			"display_name": "Tel'Murk'Vadinn",
+			"status": "Modified",
+			"diff": "commit 3d6b3ed39bd2576c11d721100758833de3b18cef\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Jul 29 16:09:45 2026 +0200\n\n    aggiornamento 2026 07 29 16:09 [v 0.0.3] - fixed note visibility\n\ndiff --git a/universi/telmurkvadinn.md b/universi/telmurkvadinn.md\nindex 879fc2e..0d56593 100644\n--- a/universi/telmurkvadinn.md\n+++ b/universi/telmurkvadinn.md\n@@ -1,3 +1,4 @@\n+#dm\r\n Tel'Murk'vadinn è il Piano delle Ombre, una struttura cosmica antichissima che si estende come un albero di tenebra attraverso tutti i mondi.  \r\n Non è un luogo da attraversare in senso orizzontale, ma una rete verticale di rami, nodi e radici, invisibili ma sempre presenti.\r\n \r\n@@ -21,4 +22,4 @@ Il piano è silenzioso, ma mai inerte.\n     Ogni attraversamento lascia una traccia; il piano riconosce chi lo usa spesso.\r\n 3. **La profondità è pericolosa**  \r\n     Scendere troppo a fondo può portare alla pazzia e una risalita troppo rapida può causare cecità\r\n-#endMaster \n\\ No newline at end of file\n+#endMaster \r\n"
+		}
+	]
+}
