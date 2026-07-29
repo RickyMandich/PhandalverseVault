@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"version": "v 0.0.1",
+			"date": "2026-07-29 15:17:19 +0200",
+			"commit_hash": "4dd7fd422e6ec3c012f3730831eac51e98ee255f",
+			"changes_count": 82
+		},
+		{
 			"version": "v 0.0.255",
 			"date": "2026-07-29 12:46:10 +0200",
 			"commit_hash": "e9c5632068b951c215cb5053331345c0f55f5d95",
@@ -1523,12 +1529,6 @@
 			"date": "2026-01-07 15:45:09 +0100",
 			"commit_hash": "d4a172e4d1a5bfbbb71826ec4212c40a56da4d09",
 			"changes_count": 48
-		},
-		{
-			"version": "v 0.0.1",
-			"date": "2026-01-07 12:51:16 +0100",
-			"commit_hash": "aa0285d583b9dde7173980dc6e19bac92883fb2e",
-			"changes_count": 0
 		}
 	]
 }
