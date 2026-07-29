@@ -1,0 +1,19 @@
+name: Pull Vault on VM
+
+on:
+  push:
+    branches:
+      - newCampain
+
+jobs:
+  pull-vault:
+    runs-on: ubuntu-latest
+    steps:
+      - name: SSH e pull
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VAULT_SSH_HOST }}
+          username: ${{ secrets.VAULT_SSH_USER }}
+          key: ${{ secrets.VAULT_SSH_KEY }}
+          script: |
+            ~/scripts/pull-vault.sh
