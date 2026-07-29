@@ -176,18 +176,6 @@ if [ $? -ne 0 ]; then
     echo "Continuando comunque..."
 fi
 
-echo ""
-# NOTA: rimossa la pausa "disattiva il tunnel di cloudflare", non più
-# rilevante: il sito ora è servito direttamente da Traefik+Let's Encrypt
-# sulla VM, non serve più un tunnel locale. Resta comunque una conferma
-# manuale opzionale prima del push, salta con -f.
-if [ "$FORCE_EXECUTION" = true ]; then
-    echo "esecuzione senza blocco (-f)"
-else
-    read -n 1 -s -r -p "Premi un tasto per confermare il push (attiverà il deploy automatico sul server)"
-    echo ""
-fi
-
 # Esegui il push sul repository remoto
 echo "=========================================="
 echo "Push su repository remoto..."
