@@ -1,0 +1,20 @@
+{
+	"version": "v 0.1.0",
+	"date": "2026-08-04 12:20:08 +0200",
+	"commit_hash": "0567d120d00441c46fd70ca143103acfe2bbc581",
+	"commit_message": "aggiornamento 2026 08 04 12:20 [v 0.1.0] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/giocanti/Kalpa (bardo forma astrale - drow).md",
+			"display_name": "Kalpa (bardo Forma Astrale - Drow)",
+			"status": "Added",
+			"diff": "commit c2afaf5303e21e03fec3e9b97cfbeaaf57d2a0fe\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 12:20:08 2026 +0200\n\n    aggiornamento 2026 08 04 12:20 [v 0.1.0] - aggiunti todo e personaggio di andrea\n\ndiff --git a/personaggi/giocanti/Kalpa (bardo forma astrale - drow).md b/personaggi/giocanti/Kalpa (bardo forma astrale - drow).md\nnew file mode 100644\nindex 0000000..ba94df9\n--- /dev/null\n+++ b/personaggi/giocanti/Kalpa (bardo forma astrale - drow).md\t\n@@ -0,0 +1,5 @@\n+[Andrea Di Martino]\n+\n+# Background\n+è orfano e cresce in un tempio del culto di **[divinità da decidere]** fino a che non scopre (a circa **[da decidere]** anni) che i monaci anziani sono corrotti e non seguono più veramente i dettami della loro religione\n+# Campagna\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit c2afaf5303e21e03fec3e9b97cfbeaaf57d2a0fe\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 12:20:08 2026 +0200\n\n    aggiornamento 2026 08 04 12:20 [v 0.1.0] - aggiunti todo e personaggio di andrea\n\ndiff --git a/todo.md b/todo.md\nindex 241ec31..186a203 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -2,4 +2,11 @@\n - demoni\n \t- [ ] scrivere definizione [[dominio|dominio (demoniaco)]]\n \t- [ ] scrivere definizione [[cacodemone]]\n-\t- [ ] scrivere definizione [[signore-dei-demoni]]\n\\ No newline at end of file\n+\t- [ ] scrivere definizione [[signore-dei-demoni]]\n+- party\n+\t- [ ] Marco Totaro\n+\t- [ ] Enrico Stevanato\n+\t- [ ] [[Kalpa (bardo forma astrale - drow)|Andrea Di Martino]]\n+\t\t- decidere divinità del tempio in cui cresce\n+\t\t- decidere età attuale e eta quando abbandona il tempio\n+\t- [ ] [[Riccardo Berti]]\n\\ No newline at end of file\n"
+		}
+	]
+}
