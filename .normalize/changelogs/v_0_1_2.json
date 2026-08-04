@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.2",
+	"date": "2026-08-04 15:30:58 +0200",
+	"commit_hash": "fd0facbd67d65ce0b703a68fbc43926240be3871",
+	"commit_message": "aggiornamento 2026 08 04 15:31 [v 0.1.2] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md",
+			"display_name": "Kalpa (Monaco Forma Astrale - Drow)",
+			"status": "Modified",
+			"diff": "commit fba68e2a540fe3d86082861f2d8b63e7591d4876\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 15:30:58 2026 +0200\n\n    aggiornamento 2026 08 04 15:30 [v 0.1.2] - edited help info of all script and added link to andrea sheet character\n\ndiff --git a/personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md b/personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md\nindex ba94df9..b6e5485 100644\n--- a/personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md\n+++ b/personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md\n@@ -1,4 +1,4 @@\n-[Andrea Di Martino]\n+[Andrea Di Martino](https://www.dndbeyond.com/characters/169332122)\n \n # Background\n è orfano e cresce in un tempio del culto di **[divinità da decidere]** fino a che non scopre (a circa **[da decidere]** anni) che i monaci anziani sono corrotti e non seguono più veramente i dettami della loro religione\n"
+		}
+	]
+}
