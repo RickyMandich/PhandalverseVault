@@ -1,0 +1,68 @@
+{
+	"version": "v 0.1.5",
+	"date": "2026-08-04 17:39:15 +0200",
+	"commit_hash": "d46a65acfa33da96071524fbdcec5513c0665b4a",
+	"commit_message": "aggiornamento 2026 08 04 17:39 [v 0.1.5] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "materiale/incantesimi/artefice/dardo-incantato.md",
+			"display_name": "dardo-incantato",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/dardo-incantato.md b/materiale/incantesimi/artefice/dardo-incantato.md\ndeleted file mode 100644\nindex 79adfc8..0000000\n--- a/materiale/incantesimi/artefice/dardo-incantato.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/artefice/dardo-incantato]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/frantumare.md",
+			"display_name": "frantumare",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/frantumare.md b/materiale/incantesimi/artefice/frantumare.md\ndeleted file mode 100644\nindex a87154b..0000000\n--- a/materiale/incantesimi/artefice/frantumare.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/frantumare]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/fulmine.md",
+			"display_name": "fulmine",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/fulmine.md b/materiale/incantesimi/artefice/fulmine.md\ndeleted file mode 100644\nindex 6da5f30..0000000\n--- a/materiale/incantesimi/artefice/fulmine.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/fulmine]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/immagine-speculare.md",
+			"display_name": "immagine-speculare",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/immagine-speculare.md b/materiale/incantesimi/artefice/immagine-speculare.md\ndeleted file mode 100644\nindex 207386a..0000000\n--- a/materiale/incantesimi/artefice/immagine-speculare.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/immagine-speculare]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/invisibilita-superiore.md",
+			"display_name": "invisibilita-superiore",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/invisibilita-superiore.md b/materiale/incantesimi/artefice/invisibilita-superiore.md\ndeleted file mode 100644\nindex d99cd56..0000000\n--- a/materiale/incantesimi/artefice/invisibilita-superiore.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/invisibilita-superiore]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/muro-di-forza.md",
+			"display_name": "muro-di-forza",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/muro-di-forza.md b/materiale/incantesimi/artefice/muro-di-forza.md\ndeleted file mode 100644\nindex 2ce89eb..0000000\n--- a/materiale/incantesimi/artefice/muro-di-forza.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/muro-di-forza]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/onda-tonante.md",
+			"display_name": "onda-tonante",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/onda-tonante.md b/materiale/incantesimi/artefice/onda-tonante.md\ndeleted file mode 100644\nindex ddf0462..0000000\n--- a/materiale/incantesimi/artefice/onda-tonante.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/onda-tonante]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/passapareti.md",
+			"display_name": "passapareti",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/passapareti.md b/materiale/incantesimi/artefice/passapareti.md\ndeleted file mode 100644\nindex e100b44..0000000\n--- a/materiale/incantesimi/artefice/passapareti.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/passapareti]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/scudo-di-fuoco.md",
+			"display_name": "scudo-di-fuoco",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/scudo-di-fuoco.md b/materiale/incantesimi/artefice/scudo-di-fuoco.md\ndeleted file mode 100644\nindex a336d39..0000000\n--- a/materiale/incantesimi/artefice/scudo-di-fuoco.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/scudo-di-fuoco]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "materiale/incantesimi/artefice/trama-ipnotica.md",
+			"display_name": "trama-ipnotica",
+			"status": "Deleted",
+			"diff": "commit 7048a868cdf5df4ccd9651fbc34e10a03cdd6882\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Aug 4 17:39:15 2026 +0200\n\n    aggiornamento 2026 08 04 17:39 [v 0.1.5] - modified normalize.sh\n\ndiff --git a/materiale/incantesimi/artefice/trama-ipnotica.md b/materiale/incantesimi/artefice/trama-ipnotica.md\ndeleted file mode 100644\nindex 8f60050..0000000\n--- a/materiale/incantesimi/artefice/trama-ipnotica.md\n+++ /dev/null\n@@ -1 +0,0 @@\n-![[materiale/incantesimi/tutti/trama-ipnotica]]\n\\ No newline at end of file\n"
+		}
+	]
+}
