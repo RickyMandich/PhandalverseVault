@@ -45,7 +45,7 @@ while getopts "fvpm:h" opt; do
             echo "  -f  (force): salta la conferma manuale prima del push"
             echo "  (default): Incrementa solo VERSION_TERTIARY"
             echo ""
-            echo "La versione viene letta dall'ultimo messaggio di commit (formato: [tipo X.Y.Z])"
+	    echo "La versione viene letta dall'ultimo messaggio di commit (formato: [tipo V(ersion).P(atch).T(ertiary)])"
             echo "Le opzioni -v e -p non possono essere usate insieme"
             exit 0
             ;;
