@@ -6,7 +6,7 @@
 - party
 	- [ ] Marco Totaro
 	- [ ] Enrico Stevanato
-	- [ ] [[Kalpa (bardo forma astrale - drow)|Andrea Di Martino]]
+	- [x] [[kalpa-monaco-forma-astrale-drow|Andrea Di Martino]]
 		- decidere divinità del tempio in cui cresce
-		- decidere età attuale e eta quando abbandona il tempio
-	- [ ] [[Riccardo Berti]]
+		- decidere età attuale e età quando abbandona il tempio
+	- [ ] [[-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]
