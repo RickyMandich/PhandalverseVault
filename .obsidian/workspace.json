@@ -36,31 +36,31 @@
             }
           },
           {
-            "id": "10e5e7cd1a807966",
+            "id": "aa18a75193713d83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definizioni/calendario.md",
+                "file": "personaggi/giocanti/Kalpa (bardo forma astrale - drow).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calendario"
+              "title": "Kalpa (bardo forma astrale - drow)"
             }
           },
           {
-            "id": "cc7e1040a889b17e",
+            "id": "45cf777e515fe20c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "mezzi/skiblandir.md",
-                "mode": "source",
-                "source": false
+                "url": "https://github.com/RickyMandich/PhandalverseVault/blob/main/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md",
+                "title": "PhandalverseVault/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md at main · RickyMandich/PhandalverseVault · GitHub",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "skiblandir"
+              "icon": "globe-2",
+              "title": "PhandalverseVault/personaggi/giocanti/dontavious-ladro-mezzelfo-25.md at main · RickyMandich/PhandalverseVault · GitHub"
             }
           }
         ],
@@ -232,19 +232,21 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "4a0168f4c436222b",
+  "active": "45cf777e515fe20c",
   "lastOpenFiles": [
-    "bash/d2utmpmp1JYI",
-    "bash/d2utmpWtRtX1",
-    "bash/d2utmpe5ZnLL",
-    "bash/d2utmpfk2U7H",
-    "bash/d2utmp2vV9Ge",
-    "bash/d2utmpGwVw8D",
-    "bash/d2utmp7wTnOI",
-    "bash/d2utmpvxPnn5",
-    "bash/d2utmpDRAmM2",
-    "bash/d2utmp7se0oh",
-    "bash/d2utmpPbNrSt",
+    "todo.md",
+    "bash/d2utmpDfVrGY",
+    "bash/d2utmpGtL0oM",
+    "bash/d2utmp07ZzeJ",
+    "bash/d2utmpOtczSZ",
+    "bash/d2utmpWH5bp0",
+    "bash/d2utmp6YmrBe",
+    "bash/d2utmp3UTA3i",
+    "bash/d2utmppO6tL5",
+    "personaggi/giocanti/Kalpa (bardo forma astrale - drow).md",
+    "mezzi/skiblandir.md",
+    "bash/d2utmpSMDm9p",
+    "bash/d2utmprcWn3v",
     "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
     "universi/phandalmain/atlantide.md",
     "dungeon/castello-abbandonato-sul-dirupo-vicino-la-citta/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
@@ -274,9 +276,6 @@
     "entita/demoni/asmodeus.md",
     "entita/demoni/anubius.md",
     "definizioni/warforged.md",
-    "definizioni/villaggio.md",
-    "definizioni/universo.md",
-    "definizioni/anima/anima.md",
     "artefatti/tecnologici/party/myrkvathinn.webp",
     "artefatti/tecnologici/party/myrkvathinn.png",
     "artefatti/tecnologici/party/artefice.jpeg",

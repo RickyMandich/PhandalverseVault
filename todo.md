@@ -3,3 +3,10 @@
 	- [ ] scrivere definizione [[dominio|dominio (demoniaco)]]
 	- [ ] scrivere definizione [[cacodemone]]
 	- [ ] scrivere definizione [[signore-dei-demoni]]
+- party
+	- [ ] Marco Totaro
+	- [ ] Enrico Stevanato
+	- [ ] [[Kalpa (bardo forma astrale - drow)|Andrea Di Martino]]
+		- decidere divinità del tempio in cui cresce
+		- decidere età attuale e eta quando abbandona il tempio
+	- [ ] [[Riccardo Berti]]

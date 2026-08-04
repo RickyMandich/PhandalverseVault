@@ -5,17 +5,6 @@
 		"todo.md": "TODO"
 	},
 	"directories": {
-		".github": {
-			"original": ".github",
-			"files": {},
-			"directories": {
-				"workflows": {
-					"original": "Workflows",
-					"files": {},
-					"directories": {}
-				}
-			}
-		},
 		"artefatti": {
 			"original": "Artefatti",
 			"files": {},
@@ -65,34 +54,6 @@
 						"incantesimi.md": "Incantesimi",
 						"stat-block.md": "Stat Block"
 					},
-					"directories": {}
-				}
-			}
-		},
-		"dungeon": {
-			"original": "Dungeon",
-			"files": {},
-			"directories": {
-				"castello-abbandonato-sul-dirupo-vicino-la-citta": {
-					"original": "Castello Abbandonato Sul Dirupo Vicino La Citta",
-					"files": {
-						"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "Castello Abbandonato Sul Dirupo Vicino La Citta"
-					},
-					"directories": {}
-				},
-				"dungeon-scrawl": {
-					"original": "Dungeon Scrawl",
-					"files": {},
-					"directories": {}
-				},
-				"immagini": {
-					"original": "Immagini",
-					"files": {},
-					"directories": {}
-				},
-				"incontri-5e-tools-encounter-builder": {
-					"original": "Incontri 5e Tools Encounter Builder",
-					"files": {},
 					"directories": {}
 				}
 			}
@@ -524,7 +485,9 @@
 			"directories": {
 				"giocanti": {
 					"original": "Giocanti",
-					"files": {},
+					"files": {
+						"Kalpa (bardo forma astrale - drow).md": "Kalpa (bardo Forma Astrale - Drow)"
+					},
 					"directories": {}
 				},
 				"gruppi-magici": {
