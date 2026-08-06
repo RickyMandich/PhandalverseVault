@@ -1,0 +1,20 @@
+{
+	"version": "v 0.1.6",
+	"date": "2026-08-06 15:58:51 +0200",
+	"commit_hash": "4bd412905a1c737196257c114182c4ef3926aa12",
+	"commit_message": "aggiornamento 2026 08 06 15:59 [v 0.1.6] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/giocanti/-bardo-collegio-della-creazione-kalashtar.md",
+			"display_name": "-bardo-collegio-della-creazione-kalashtar",
+			"status": "Renamed",
+			"diff": "commit ea3e31c271976ad9f54e3ff1dd70a3d33bef534c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Aug 6 15:58:51 2026 +0200\n\n    aggiornamento 2026 08 06 15:58 [v 0.1.6] - added berts character name\n\ndiff --git a/personaggi/giocanti/-bardo-collegio-della-creazione-kalashtar.md b/personaggi/giocanti/-bardo-collegio-della-creazione-kalashtar.md\ndeleted file mode 100644\nindex a368dd0..0000000\n--- a/personaggi/giocanti/-bardo-collegio-della-creazione-kalashtar.md\n+++ /dev/null\n@@ -1,6 +0,0 @@\n-[Riccardo Berti]\n-\n-# Background\n-è un [[bibliotecari|bibliotecario]] sopravvissuto alla sua organizzazione e che ora ha come obbiettivo la ricostituzione dei [[bibliotecari]]\n-\n-# Campagna\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit ea3e31c271976ad9f54e3ff1dd70a3d33bef534c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Aug 6 15:58:51 2026 +0200\n\n    aggiornamento 2026 08 06 15:58 [v 0.1.6] - added berts character name\n\ndiff --git a/todo.md b/todo.md\nindex 007052d..6af1ebf 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -5,8 +5,11 @@\n \t- [ ] scrivere definizione [[signore-dei-demoni]]\n - party\n \t- [ ] Marco Totaro\n+\t\t- manca scheda pg\n \t- [ ] Enrico Stevanato\n+\t\t- manca scheda pg\n \t- [x] [[kalpa-monaco-forma-astrale-drow|Andrea Di Martino]]\n \t\t- decidere divinità del tempio in cui cresce\n \t\t- decidere età attuale e età quando abbandona il tempio\n-\t- [ ] [[-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]\n\\ No newline at end of file\n+\t- [ ] [[vala-khad-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]\n+\t\t- manca scheda pg\n\\ No newline at end of file\n"
+		}
+	]
+}
