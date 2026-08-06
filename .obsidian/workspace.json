@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "72259b71868d5d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personaggi/giocanti/vala-khad-bardo-collegio-della-creazione-kalashtar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vala-khad-bardo-collegio-della-creazione-kalashtar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,11 +220,12 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "3e6228d859635414",
+  "active": "72259b71868d5d65",
   "lastOpenFiles": [
-    "personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md",
+    "bash/d2utmpIqG9Py",
     "todo.md",
-    "personaggi/giocanti/-bardo-collegio-della-creazione-kalashtar.md",
+    "personaggi/giocanti/vala-khad-bardo-collegio-della-creazione-kalashtar.md",
+    "personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md",
     "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
     "personaggi/organizzazioni-gruppi/bibliotecari.md",
     "personaggi/non-giocanti/giorgia-rossato.md",
@@ -250,7 +265,6 @@
     "epoche/epoca-terza.md",
     "epoche/epoca-leggendaria.md",
     "personaggi/organizzazioni-gruppi/artefici.md",
-    "epoche/epoca-dargento.md",
     "artefatti/tecnologici/party/myrkvathinn.webp",
     "artefatti/tecnologici/party/myrkvathinn.png",
     "artefatti/tecnologici/party/artefice.jpeg",
