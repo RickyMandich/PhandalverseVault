@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.10",
+	"date": "2026-08-19 11:50:25 +0200",
+	"commit_hash": "64e3adf73a8adca0d35a667f1f38e91af464f056",
+	"commit_message": "aggiornamento 2026 08 19 11:50 [v 0.1.10] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "universi/telaranrhiod.md",
+			"display_name": "Tel'aran'rhiod",
+			"status": "Modified",
+			"diff": "commit b7037d56baa8edd04166a83d6bc3437303514d32\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Aug 19 11:50:25 2026 +0200\n\n    aggiornamento 2026 08 19 11:50 [v 0.1.10] - inserted missing endAccess\n\ndiff --git a/universi/telaranrhiod.md b/universi/telaranrhiod.md\nindex c9ebe53..9fd88f9 100644\n--- a/universi/telaranrhiod.md\n+++ b/universi/telaranrhiod.md\n@@ -4,12 +4,12 @@ In Tel'Aran'Rhiod esistono solo due categorie di presenze:\n \n - **i sognatori inconsapevoli**, che credo di star facendo un sogno normale, inconsapevoli dei rischio.\n - **i camminatori**, individui capaci di entrarvi vigili e consapevoli.\n-#startAccess:bibliotecari \n+#startAccess-bibliotecari \n tra i sognatori possiamo trovare sia i fratelli dei lupi (consci di quello che fanno ma non di tutto quello che è il Tel'Aran'Rhiod sia studiosi/ricercatori che la studiano che altri)\n \n Il tempo non scorre in modo uniforme: può rallentare, accelerare o spezzarsi.  \n Le leggi fisiche sono deboli e possono essere piegate dal pensiero, ma chi tenta di intervenire senza disciplina rischia di destabilizzare la propria forma, venendo trascinato nel caos del reame.\n-#endMaster \n+#endAccess \n \n Chi vi cammina deve imparare tre regole fondamentali:\n \n"
+		}
+	]
+}
