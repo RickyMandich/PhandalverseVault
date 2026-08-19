@@ -4,12 +4,12 @@ In Tel'Aran'Rhiod esistono solo due categorie di presenze:
 
 - **i sognatori inconsapevoli**, che credo di star facendo un sogno normale, inconsapevoli dei rischio.
 - **i camminatori**, individui capaci di entrarvi vigili e consapevoli.
-#startAccess:bibliotecari 
+#startAccess-bibliotecari 
 tra i sognatori possiamo trovare sia i fratelli dei lupi (consci di quello che fanno ma non di tutto quello che è il Tel'Aran'Rhiod sia studiosi/ricercatori che la studiano che altri)
 
 Il tempo non scorre in modo uniforme: può rallentare, accelerare o spezzarsi.  
 Le leggi fisiche sono deboli e possono essere piegate dal pensiero, ma chi tenta di intervenire senza disciplina rischia di destabilizzare la propria forma, venendo trascinato nel caos del reame.
-#endMaster 
+#endAccess 
 
 Chi vi cammina deve imparare tre regole fondamentali:
 
