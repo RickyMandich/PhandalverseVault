@@ -1,4 +1,4 @@
-#dm #startAccess-enrico
+#startAccess-enrico
 # Origini
 
 Atos visse a cavallo tra l'[[epoca-leggendaria]] e l'[[epoca-terza]].  
@@ -32,6 +32,7 @@ Chi lo minacciava, semplicemente cessava di essere un problema.
 tutto questo accumulando potere in maniera sempre più avida, al punto da rivaleggiare con le Divinità
 ___
 #endAccess 
+#startMaster 
 # La Caduta (215 DP)
 
 Intorno al 215 [[calendario|DP]], Atos era divenuto troppo potente per un mondo privo di grandi potenze votate alla conoscenza, capaci di fermare chi si spingeva troppo oltre.
@@ -55,3 +56,4 @@ Non promette potere.
 Osserva. Analizza. Calcola.
 
 Chiunque impugni l’**Occhio di Atos** non tiene solo un artefatto: tiene tra le mani una mente che ha dedicato la propria esistenza a non essere mai più impotente e rischia, sempre più ad ogni utilizzo, che Atos prenda possesso del suo corpo e torni tra noi.
+#endMaster 

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "82d7c6100967a16e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personaggi/non-giocanti/atos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "atos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,25 +220,26 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "3e6228d859635414",
+  "active": "82d7c6100967a16e",
   "lastOpenFiles": [
+    "bash/d2utmpufZLDA",
+    "bash/d2utmp51kLal",
+    "bash/d2utmpX4wWq9",
+    "bash/d2utmp9SHxw7",
+    "bash/d2utmpCyecOl",
+    "bash/d2utmp7xpfTz",
+    "bash/d2utmpFuDi4P",
+    "bash/d2utmpCv4WIs",
+    "bash/d2utmpxTo1gp",
+    "bash/d2utmpYmSgxi",
+    "bash/d2utmpZ4NsXC",
+    "todo.md",
     "personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md",
     "personaggi/giocanti/vala-khad-bardo-collegio-della-creazione-kalashtar.md",
     "universi/telaranrhiod.md",
-    "todo.md",
     "personaggi/non-giocanti/atos.md",
     "definizioni/lich.md",
     "definizioni/warforged.md",
-    "bash/d2utmpR9cPqm",
-    "bash/d2utmpb5IEZ8",
-    "bash/d2utmp9T71wh",
-    "bash/d2utmpkexkYM",
-    "bash/d2utmpC8MGjX",
-    "bash/d2utmpiBdcpC",
-    "bash/d2utmptWIEO8",
-    "bash/d2utmpSzsgBf",
-    "bash/d2utmper2yIf",
-    "bash/d2utmpqneKUG",
     "personaggi/gruppi-magici/fratelli-dei-lupi.md",
     "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
     "personaggi/organizzazioni-gruppi/bibliotecari.md",
@@ -250,7 +265,6 @@
     "saghe/moduli-usati/moduli-non-usati/fandalmein/fandalmein.md",
     "saghe/moduli-non-usati/fandalmein/fonderia-centrale.png",
     "saghe/moduli-non-usati/fandalmein/fandalmein.md",
-    "eventi/la-purga.md",
     "artefatti/tecnologici/party/myrkvathinn.webp",
     "artefatti/tecnologici/party/myrkvathinn.png",
     "artefatti/tecnologici/party/artefice.jpeg",
