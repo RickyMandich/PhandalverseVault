@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.12",
+	"date": "2026-08-26 15:20:23 +0200",
+	"commit_hash": "b5c207079265c205e0fcfade74e5bc7c0dd83919",
+	"commit_message": "aggiornamento 2026 08 26 15:20 [v 0.1.12] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "universi/telaranrhiod.md",
+			"display_name": "Tel'aran'rhiod",
+			"status": "Modified",
+			"diff": "commit c9a9c57b97995b79a3a4d04bd223caab25dfc299\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Aug 26 15:20:23 2026 +0200\n\n    aggiornamento 2026 08 26 15:20 [v 0.1.12] - edited access level for telaranriod extended info\n\ndiff --git a/universi/telaranrhiod.md b/universi/telaranrhiod.md\nindex f5b1477..40994fd 100644\n--- a/universi/telaranrhiod.md\n+++ b/universi/telaranrhiod.md\n@@ -4,7 +4,7 @@ In Tel'Aran'Rhiod esistono solo due categorie di presenze:\n \n - **i sognatori inconsapevoli**, che credo di star facendo un sogno normale, inconsapevoli dei rischio.\n - **i camminatori**, individui capaci di entrarvi vigili e consapevoli.\n-#startAccess-bibliotecari_fratelliDeiLupi \n+#startAccess-artefici_fratelliDeiLupi \n tra i sognatori possiamo trovare sia i fratelli dei lupi (consci di quello che fanno ma non di tutto quello che è il Tel'Aran'Rhiod sia studiosi/ricercatori che la studiano che altri)\n \n Il tempo non scorre in modo uniforme: può rallentare, accelerare o spezzarsi.  \n"
+		}
+	]
+}
