@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.15",
+	"date": "2026-08-27 01:08:08 +0200",
+	"commit_hash": "3fe94879b69286b5803e35937d780e6fb62ac0d0",
+	"commit_message": "aggiornamento 2026 08 27 01:08 [v 0.1.15] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/non-giocanti/atos.md",
+			"display_name": "Atos",
+			"status": "Modified",
+			"diff": "commit fe7e03ef9fddb90ea825834ac4f3a5cdbd352850\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Aug 27 01:08:08 2026 +0200\n\n    aggiornamento 2026 08 27 01:08 [v 0.1.15] - some filter fix for some change\n\ndiff --git a/personaggi/non-giocanti/atos.md b/personaggi/non-giocanti/atos.md\nindex ee64a34..095ead0 100644\n--- a/personaggi/non-giocanti/atos.md\n+++ b/personaggi/non-giocanti/atos.md\n@@ -1,4 +1,4 @@\n-#dm #startAccess-enrico\n+#startAccess-enrico\n # Origini\n \n Atos visse a cavallo tra l'[[epoca-leggendaria]] e l'[[epoca-terza]].  \n@@ -32,6 +32,7 @@ Chi lo minacciava, semplicemente cessava di essere un problema.\n tutto questo accumulando potere in maniera sempre più avida, al punto da rivaleggiare con le Divinità\n ___\n #endAccess \n+#startMaster \n # La Caduta (215 DP)\n \n Intorno al 215 [[calendario|DP]], Atos era divenuto troppo potente per un mondo privo di grandi potenze votate alla conoscenza, capaci di fermare chi si spingeva troppo oltre.\n@@ -54,4 +55,5 @@ Non promette potere.\n \n Osserva. Analizza. Calcola.\n \n-Chiunque impugni l’**Occhio di Atos** non tiene solo un artefatto: tiene tra le mani una mente che ha dedicato la propria esistenza a non essere mai più impotente e rischia, sempre più ad ogni utilizzo, che Atos prenda possesso del suo corpo e torni tra noi.\n\\ No newline at end of file\n+Chiunque impugni l’**Occhio di Atos** non tiene solo un artefatto: tiene tra le mani una mente che ha dedicato la propria esistenza a non essere mai più impotente e rischia, sempre più ad ogni utilizzo, che Atos prenda possesso del suo corpo e torni tra noi.\n+#endMaster \n\\ No newline at end of file\n"
+		}
+	]
+}
