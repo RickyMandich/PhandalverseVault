@@ -1,1 +1,1 @@
-un warforged è un'essere vivente provvisto di [[anima]] (anche se alle volte [[ba]] e/o [[ib]] possono mancare) costruito tendenzialmente in materiale metallico (anche se ne esistono anche fatti di legno)
+un warforged è un costrutto vivente provvisto di [[anima]] (anche se alle volte [[ba]] e/o [[ib]] possono mancare) costruito tendenzialmente in materiale metallico (anche se ne esistono anche fatti di legno o altri materiali)

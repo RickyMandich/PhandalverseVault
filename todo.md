@@ -5,11 +5,13 @@
 	- [ ] scrivere definizione [[signore-dei-demoni]]
 - party
 	- [ ] Marco Totaro
-		- manca scheda pg
+		- [ ] manca background
+		- [ ] manca scheda pg
 	- [ ] Enrico Stevanato
-		- manca scheda pg
+		- [ ] manca background
+		- [ ] manca scheda pg
 	- [x] [[kalpa-monaco-forma-astrale-drow|Andrea Di Martino]]
-		- decidere divinità del tempio in cui cresce
-		- decidere età attuale e età quando abbandona il tempio
-	- [ ] [[vala-khad-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]
-		- manca scheda pg
+		- [x] decidere divinità del tempio in cui cresce
+		- [x] decidere età attuale e età quando abbandona il tempio
+	- [x] [[vala-khad-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]
+		- [ ] manca scheda pg
