@@ -1,5 +1,4 @@
-#dm
-#startMaster
+#access-enrico
 # Origini
 
 Atos visse a cavallo tra l'[[epoca-leggendaria]] e l'[[epoca-terza]].  
@@ -54,12 +53,3 @@ Non promette potere.
 Osserva. Analizza. Calcola.
 
 Chiunque impugni l’[[Occhio-di-Atos]] non tiene solo un artefatto: tiene tra le mani una mente che ha dedicato la propria esistenza a non essere mai più impotente e rischia, sempre più ad ogni utilizzo, che Atos prenda possesso del suo corpo e torni tra noi.
-## Versione Pubblica
-#endMaster 
-Si dice che Atos fosse un mago ossessionato dalla conoscenza e dal potere, che visse durante la caduta degli [[artefici]].  
-La leggenda vuole che abbia trovato modi proibiti di studiare le forze arcane, tanto che alla fine la sua vita e la sua mente furono trasportate in un singolo occhio, oggi noto come [[Occhio-di-Atos]].
-
-Molti narrano che la sua torre ad [[atlantide]] sia ancora in piedi tra le rovine dell’isola, circondata da servitori non morti e misteriose protezioni.  
-Si dice che chi osi avvicinarsi possa percepire la sua presenza, lucida e inesorabile, anche se nessuno sa chi o cosa lo abbia davvero sconfitto.
-
-Per il popolo, Atos è una storia per spaventare i bambini, un nome che evoca timore e rispetto: il lich che sfidò i confini della magia e che, anche imprigionato, continua a osservare il mondo da dietro il suo occhio.
