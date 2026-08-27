@@ -94,7 +94,7 @@
 				"ombra": {
 					"original": "Ombra",
 					"files": {
-						"dominio-delle-ombre.md": "Dominio Delle Ombre"
+						"dominio-umbrico.md": "Dominio Umbrico"
 					},
 					"directories": {
 						"cacombra": {
@@ -104,10 +104,10 @@
 							},
 							"directories": {}
 						},
-						"signori-delle-ombre": {
-							"original": "Signori Delle Ombre",
+						"signori-umbrico": {
+							"original": "Signori Umbrico",
 							"files": {
-								"signore-delle-ombre.md": "Signore Delle Ombre"
+								"signore-umbrico.md": "Signore Umbrico"
 							},
 							"directories": {}
 						}
@@ -472,6 +472,7 @@
 					"original": "Non Giocanti",
 					"files": {
 						"atos.md": "Atos",
+						"dark-nidave.md": "Dark Nidave",
 						"giorgia-rossato.md": "Giorgia Rossato",
 						"nidave.md": "Nidave",
 						"roshi.md": "Roshi"
@@ -507,41 +508,10 @@
 			"original": "Saghe",
 			"files": {},
 			"directories": {
-				"moduli-usati": {
-					"original": "Moduli Usati",
+				"moduli-non-usati": {
+					"original": "Moduli Non Usati",
 					"files": {},
-					"directories": {
-						"capodanno1": {
-							"original": "Capodanno1",
-							"files": {
-								"capodanno1-boss.md": "Capodanno1 Boss",
-								"capodanno1-minion.md": "Capodanno1 Minion",
-								"capodanno1.md": "Capodanno1"
-							},
-							"directories": {}
-						},
-						"fandalmein": {
-							"original": "Fandalmein",
-							"files": {
-								"fandalmein.md": "Fandalmein"
-							},
-							"directories": {}
-						},
-						"ritrovamento-del-portale": {
-							"original": "Ritrovamento Del Portale",
-							"files": {
-								"ritrovamento-del-portale.md": "Ritrovamento Del Portale"
-							},
-							"directories": {}
-						},
-						"salvataggio-a-telmurkvadinn": {
-							"original": "Salvataggio A Telmurkvadinn",
-							"files": {
-								"salvataggio-a-telmurkvadinn.md": "Salvataggio A Telmurkvadinn"
-							},
-							"directories": {}
-						}
-					}
+					"directories": {}
 				}
 			}
 		},

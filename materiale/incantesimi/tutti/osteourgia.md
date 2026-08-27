@@ -13,6 +13,6 @@ gli oggetti creati in questo modo sono magici
 
 **Classi:** Mago, Necromante
 
-**Sorgente:** [phandalverse.altervista.org/vault/materiale/incantesimi/osteourgia](phandalverse.altervista.org/vault/materiale/incantesimi/osteourgia)
+**Sorgente:** [phandalverse.altervista.org/vault/materiale/incantesimi/osteourgia](https://phandalverse.altervista.org/vault/materiale/incantesimi/osteourgia)
 
 ---
