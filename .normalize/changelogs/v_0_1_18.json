@@ -1,0 +1,26 @@
+{
+	"version": "v 0.1.18",
+	"date": "2026-08-31 23:17:47 +0200",
+	"commit_hash": "f0a25c4ca2fdf7d4a1969a6035688d70c06bf926",
+	"commit_message": "aggiornamento 2026 08 31 23:17 [v 0.1.18] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "entita/divinita/il-simulacro.md",
+			"display_name": "Il Simulacro",
+			"status": "Added",
+			"diff": "commit 1f6c9f451268196a2d49a2be56a8c9a5c2389ce6\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Aug 31 23:17:47 2026 +0200\n\n    aggiornamento 2026 08 31 23:17 [v 0.1.18] - aggiunta divinità esterna per enrico (il suo patrono)\n\ndiff --git a/entita/divinita/il-simulacro.md b/entita/divinita/il-simulacro.md\nnew file mode 100644\nindex 0000000..f24ded6\n--- /dev/null\n+++ b/entita/divinita/il-simulacro.md\n@@ -0,0 +1,14 @@\n+# dominio\n+guerra\n+# allineamento\n+neutrale malvagio\n+# simbolo sacro\n+cinque strumenti sporchi di sangue\n+# dogma\n+nella furia violenta si rivela il vero io\n+# rapporti\n+-\n+# culto\n+-\n+# festività\n+-\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "entita/divinita/kelemvor.md",
+			"display_name": "Kelemvor",
+			"status": "Modified",
+			"diff": "commit 1f6c9f451268196a2d49a2be56a8c9a5c2389ce6\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Aug 31 23:17:47 2026 +0200\n\n    aggiornamento 2026 08 31 23:17 [v 0.1.18] - aggiunta divinità esterna per enrico (il suo patrono)\n\ndiff --git a/entita/divinita/kelemvor.md b/entita/divinita/kelemvor.md\nindex be96037..be2f81f 100644\n--- a/entita/divinita/kelemvor.md\n+++ b/entita/divinita/kelemvor.md\n@@ -1,14 +1,14 @@\n-# dominio\r\n-morte, giudizio equo\r\n-# allineamento\r\n-legale neutrale\r\n-# simbolo sacro\r\n-bilancia con teschio\r\n-# dogma\r\n-la morte è parte dell’ordine naturale\r\n-# rapporti\r\n-opposizione a culti necromantici\r\n-# culto\r\n-becchini, giudici, chierici funebri\r\n-# festività\r\n+# dominio\n+morte, giudizio equo\n+# allineamento\n+legale neutrale\n+# simbolo sacro\n+bilancia con teschio\n+# dogma\n+la morte è parte dell’ordine naturale\n+# rapporti\n+opposizione a culti necromantici\n+# culto\n+becchini, giudici, chierici funebri\n+# festività\n 28 Kelemvoris – giorno del Ricordo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/-warlock-umano-variante.md",
+			"display_name": "(Warlock - Umano Variante)",
+			"status": "Modified",
+			"diff": "commit 1f6c9f451268196a2d49a2be56a8c9a5c2389ce6\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Aug 31 23:17:47 2026 +0200\n\n    aggiornamento 2026 08 31 23:17 [v 0.1.18] - aggiunta divinità esterna per enrico (il suo patrono)\n\ndiff --git a/personaggi/giocanti/-warlock-umano-variante.md b/personaggi/giocanti/-warlock-umano-variante.md\nindex cb0903d..7fd7bd0 100644\n--- a/personaggi/giocanti/-warlock-umano-variante.md\n+++ b/personaggi/giocanti/-warlock-umano-variante.md\n@@ -3,7 +3,7 @@\n # Background\n #startAccess-enrico  \n ## in realtà:\n-dopo che la sua famiglia (attendo almeno qualche nome da mettere qua) e il suo villaggio vengono uccisi giura vendetta contro i loro assassini e si vota a [[]] una divinità esterna per ottenere il potere necessario per compiere la sua vendetta\n+dopo che la sua famiglia (attendo almeno qualche nome da mettere qua) e il suo villaggio vengono uccisi giura vendetta contro i loro assassini e si vota a [[il-simulacro]] una divinità esterna per ottenere il potere necessario per compiere la sua vendetta\n ## per gli altri giocatori:\n #endAccess \n \n"
+		}
+	]
+}
