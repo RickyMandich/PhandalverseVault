@@ -193,23 +193,25 @@ process_directory() {
 
             process_directory "$item_path" "$new_rel_path"
 
-            local original_dir_name=$(get_original_dir_from_map "$rel_path" "$item_name")
-
-            if [ -n "${CUSTOM_NAMES_MAP[$new_rel_path]}" ]; then
-                original_dir_name="${CUSTOM_NAMES_MAP[$new_rel_path]}"
-                log_message "Using custom name for directory '$item_name': '$original_dir_name'"
-            elif [ -z "$original_dir_name" ]; then
-                original_dir_name=$(kebab_to_title "$item_name")
-                log_message "New directory found: '$item_name' -> '$original_dir_name'"
-                NEW_DIRS_MAP["$new_rel_path"]="$original_dir_name"
-            fi
-
             local child_map_file="$item_path/.node.json"
             if [ -f "$child_map_file" ]; then
+                local original_dir_name=$(get_original_dir_from_map "$rel_path" "$item_name")
+
+                if [ -n "${CUSTOM_NAMES_MAP[$new_rel_path]}" ]; then
+                    original_dir_name="${CUSTOM_NAMES_MAP[$new_rel_path]}"
+                    log_message "Using custom name for directory '$item_name': '$original_dir_name'"
+                elif [ -z "$original_dir_name" ]; then
+                    original_dir_name=$(kebab_to_title "$item_name")
+                    log_message "New directory found: '$item_name' -> '$original_dir_name'"
+                    NEW_DIRS_MAP["$new_rel_path"]="$original_dir_name"
+                fi
+
                 local child_content=$(cat "$child_map_file")
                 child_content=$(echo "$child_content" | jq --arg orig "$original_dir_name" '.original = $orig')
                 dirs_json=$(echo "$dirs_json" | jq --arg k "$item_name" --argjson v "$child_content" '.[$k] = $v')
                 rm "$child_map_file"
+            else
+                log_message "Skipping empty directory (no .md content): '$item_name'"
             fi
 
         elif [ -f "$item_path" ]; then
@@ -240,6 +242,14 @@ process_directory() {
             files_json=$(echo "$files_json" | jq --arg k "$item_name" --arg v "$original_name" '.[$k] = $v')
         fi
     done
+
+    # Se la cartella non contiene file .md né sottocartelle non vuote,
+    # non viene indicizzata: git non traccia le cartelle vuote, quindi
+    # includerla in map.json creerebbe una discrepanza col deploy.
+    if [ "$files_json" == "{}" ] && [ "$dirs_json" == "{}" ]; then
+        log_message "Directory vuota, non indicizzata: '$rel_path'"
+        return
+    fi
 
     local my_original_name=$(basename "$current_dir")
 

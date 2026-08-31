@@ -456,6 +456,7 @@
 				"giocanti": {
 					"original": "Giocanti",
 					"files": {
+						"-warlock-umano-variante.md": "(Warlock - Umano Variante)",
 						"kalpa-monaco-forma-astrale-drow.md": "Kalpa (Monaco Forma Astrale - Drow)",
 						"vala-khad-bardo-collegio-della-creazione-kalashtar.md": "Vala Khad (Bardo Collegio Della Creazione - Kalashtar)"
 					},
@@ -477,21 +478,10 @@
 						"nidave.md": "Nidave",
 						"roshi.md": "Roshi"
 					},
-					"directories": {
-						"background-pg": {
-							"original": "Background Pg",
-							"files": {},
-							"directories": {}
-						},
-						"macrotrama": {
-							"original": "Macrotrama",
-							"files": {},
-							"directories": {}
-						}
-					}
+					"directories": {}
 				},
 				"organizzazioni-gruppi": {
-					"original": "Organizzazioni/Gruppi",
+					"original": "Organizzazioni e Gruppi",
 					"files": {
 						"artefici.md": "Artefici",
 						"bibliotecari.md": "Bibliotecari",
@@ -500,17 +490,6 @@
 						"la-coalizione.md": "La Coalizione",
 						"la-mano-rossa.md": "La Mano Rossa"
 					},
-					"directories": {}
-				}
-			}
-		},
-		"saghe": {
-			"original": "Saghe",
-			"files": {},
-			"directories": {
-				"moduli-non-usati": {
-					"original": "Moduli Non Usati",
-					"files": {},
 					"directories": {}
 				}
 			}

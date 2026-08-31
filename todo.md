@@ -7,7 +7,7 @@
 	- [ ] Marco Totaro
 		- [ ] manca background
 		- [ ] manca scheda pg
-	- [ ] Enrico Stevanato
+	- [ ] [[-warlock-umano-variante|Enrico Stevanato]]
 		- [ ] manca background
 		- [ ] manca scheda pg
 	- [x] [[kalpa-monaco-forma-astrale-drow|Andrea Di Martino]]
