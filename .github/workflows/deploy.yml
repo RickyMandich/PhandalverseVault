@@ -1,10 +1,8 @@
 name: Pull Vault on VM
-
 on:
   push:
     branches:
-      - newCampain
-
+      - '**'
 jobs:
   pull-vault:
     runs-on: ubuntu-latest
@@ -16,4 +14,4 @@ jobs:
           username: ${{ secrets.VAULT_SSH_USER }}
           key: ${{ secrets.VAULT_SSH_KEY }}
           script: |
-            ~/scripts/pull-vault.sh
+            ~/scripts/pull-vault.sh ${{ github.ref_name }}
