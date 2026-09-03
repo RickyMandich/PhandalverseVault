@@ -27,6 +27,13 @@
 				}
 			}
 		},
+		"bash": {
+			"original": "Bash",
+			"files": {
+				"normalizeREADME.md": "Normalizereadme"
+			},
+			"directories": {}
+		},
 		"definizioni": {
 			"original": "Definizioni",
 			"files": {
@@ -54,6 +61,19 @@
 					"files": {
 						"incantesimi.md": "Incantesimi",
 						"stat-block.md": "Stat Block"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"dungeon": {
+			"original": "Dungeon",
+			"files": {},
+			"directories": {
+				"castello-abbandonato-sul-dirupo-vicino-la-citta": {
+					"original": "Castello Abbandonato sul Dirupo Vicino la Citta",
+					"files": {
+						"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "Castello Abbandonato sul Dirupo Vicino la Città"
 					},
 					"directories": {}
 				}
@@ -176,7 +196,7 @@
 							},
 							"directories": {}
 						},
-						"chierico": {
+						"Chierico": {
 							"original": "Chierico",
 							"files": {
 								"blocca-persone.md": "Blocca Persone",
@@ -192,10 +212,10 @@
 							},
 							"directories": {}
 						},
-						"druido": {
+						"Druido": {
 							"original": "Druido",
 							"files": {
-								"appassire-e-fiorire.md": "Appassire E Fiorire",
+								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"blocca-persone.md": "Blocca Persone",
 								"dissolvi-magie.md": "Dissolvi Magie",
 								"individuazione-del-magico.md": "Individuazione Del Magico",
@@ -205,10 +225,10 @@
 							},
 							"directories": {}
 						},
-						"mago": {
+						"Mago": {
 							"original": "Mago",
 							"files": {
-								"appassire-e-fiorire.md": "Appassire E Fiorire",
+								"appassire-e-fiorire.md": "Appassire e Fiorire",
 								"blocca-mostri.md": "Blocca Mostri",
 								"blocca-persone.md": "Blocca Persone",
 								"camuffare-se-stesso.md": "Camuffare Sè Stesso",
@@ -268,7 +288,7 @@
 							},
 							"directories": {}
 						},
-						"paladino": {
+						"Paladino": {
 							"original": "Paladino",
 							"files": {
 								"dissolvi-magie.md": "Dissolvi Magie",
@@ -277,7 +297,7 @@
 							},
 							"directories": {}
 						},
-						"ranger": {
+						"Ranger": {
 							"original": "Ranger",
 							"files": {
 								"appassire-e-fiorire.md": "Appassire E Fiorire",
@@ -411,7 +431,7 @@
 							},
 							"directories": {}
 						},
-						"warlock": {
+						"Warlock": {
 							"original": "Warlock",
 							"files": {
 								"blocca-mostri.md": "Blocca Mostri",
@@ -454,15 +474,6 @@
 			"original": "Personaggi",
 			"files": {},
 			"directories": {
-				"giocanti": {
-					"original": "Giocanti",
-					"files": {
-						"-warlock-umano-variante.md": "(Warlock - Umano Variante)",
-						"kalpa-monaco-forma-astrale-drow.md": "Kalpa (Monaco Forma Astrale - Drow)",
-						"vala-khad-bardo-collegio-della-creazione-kalashtar.md": "Vala Khad (Bardo Collegio Della Creazione - Kalashtar)"
-					},
-					"directories": {}
-				},
 				"gruppi-magici": {
 					"original": "Gruppi Magici",
 					"files": {
