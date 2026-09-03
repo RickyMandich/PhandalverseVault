@@ -1,0 +1,20 @@
+{
+	"version": "v 0.1.19",
+	"date": "2026-09-03 15:15:59 +0200",
+	"commit_hash": "93d8df884f40fe15c4b800438747e5dd485cdae5",
+	"commit_message": "aggiornamento 2026 09 03 15:16 [v 0.1.19] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/non-giocanti/darkhen-rahl.md",
+			"display_name": "Darkhen Rahl",
+			"status": "Added",
+			"diff": "commit 1ca268baebba9c118e5f08a092fc462354474d69\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Sep 3 15:15:59 2026 +0200\n\n    aggiornamento 2026 09 03 15:15 [v 0.1.19] - aggiunto darkhen rahl\n\ndiff --git a/personaggi/non-giocanti/darkhen-rahl.md b/personaggi/non-giocanti/darkhen-rahl.md\nnew file mode 100644\nindex 0000000..7e54f07\n--- /dev/null\n+++ b/personaggi/non-giocanti/darkhen-rahl.md\n@@ -0,0 +1,5 @@\n+#dm\n+è un elfo che nasce nel 150 [[calendario|AP]].\n+durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]] e da alcuni viene ritenuto addirittura troppo ardito negli esperimenti perfino per essere un epimeteico.\n+durante tutta la sua carriera da artefice studia la magia oscura fino a che nel 20 [[calendario|AP]] non viene cacciato dagli artefici perché troppo estremo e non gli viene lasciato nulla delle sue ricerche.\n+successivamente riesce in qualche modo a continuare le sue ricerche anche senza il supporto degli artefici e comincia a accumulare potere fino a trasformarsi in un [[lich]] per poi cominciare un tentativo di processo di apoteosi per diventare dio e avere abbastanza potere per vendicare degli artefici, però nel 5 [[calendario|AP]] viene fermato dagli artefici che, non trovando il suo filatterio, lo imprigionano in una particolare prigione che funziona grazie allo scambio di energia tra i due universi e dividono il suo corpo tra i due universi, così anche se la prigione cede lui non possa comunque fare nulla finché non riunisce il suo corpo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/nidave.md",
+			"display_name": "Nidave",
+			"status": "Modified",
+			"diff": "commit 1ca268baebba9c118e5f08a092fc462354474d69\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Sep 3 15:15:59 2026 +0200\n\n    aggiornamento 2026 09 03 15:15 [v 0.1.19] - aggiunto darkhen rahl\n\ndiff --git a/personaggi/non-giocanti/nidave.md b/personaggi/non-giocanti/nidave.md\nindex 63949f0..2426254 100644\n--- a/personaggi/non-giocanti/nidave.md\n+++ b/personaggi/non-giocanti/nidave.md\n@@ -1,4 +1,4 @@\n-#dm\r\n-è un umano che nasce nel 50 [[calendario|AP]].\r\n-durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]].\r\n-durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un mezzo secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\r\n+#dm\n+è un umano che nasce nel 50 [[calendario|AP]].\n+durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]].\n+durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un mezzo secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\n"
+		}
+	]
+}
