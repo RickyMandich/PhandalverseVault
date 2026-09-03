@@ -27,13 +27,6 @@
 				}
 			}
 		},
-		"bash": {
-			"original": "Bash",
-			"files": {
-				"normalizeREADME.md": "Normalizereadme"
-			},
-			"directories": {}
-		},
 		"definizioni": {
 			"original": "Definizioni",
 			"files": {
@@ -61,19 +54,6 @@
 					"files": {
 						"incantesimi.md": "Incantesimi",
 						"stat-block.md": "Stat Block"
-					},
-					"directories": {}
-				}
-			}
-		},
-		"dungeon": {
-			"original": "Dungeon",
-			"files": {},
-			"directories": {
-				"castello-abbandonato-sul-dirupo-vicino-la-citta": {
-					"original": "Castello Abbandonato sul Dirupo Vicino la Citta",
-					"files": {
-						"castello-abbandonato-sul-dirupo-vicino-la-citta.md": "Castello Abbandonato sul Dirupo Vicino la Città"
 					},
 					"directories": {}
 				}
