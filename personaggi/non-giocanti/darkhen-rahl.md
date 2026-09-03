@@ -1,0 +1,5 @@
+#dm
+è un elfo che nasce nel 150 [[calendario|AP]].
+durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]] e da alcuni viene ritenuto addirittura troppo ardito negli esperimenti perfino per essere un epimeteico.
+durante tutta la sua carriera da artefice studia la magia oscura fino a che nel 20 [[calendario|AP]] non viene cacciato dagli artefici perché troppo estremo e non gli viene lasciato nulla delle sue ricerche.
+successivamente riesce in qualche modo a continuare le sue ricerche anche senza il supporto degli artefici e comincia a accumulare potere fino a trasformarsi in un [[lich]] per poi cominciare un tentativo di processo di apoteosi per diventare dio e avere abbastanza potere per vendicare degli artefici, però nel 5 [[calendario|AP]] viene fermato dagli artefici che, non trovando il suo filatterio, lo imprigionano in una particolare prigione che funziona grazie allo scambio di energia tra i due universi e dividono il suo corpo tra i due universi, così anche se la prigione cede lui non possa comunque fare nulla finché non riunisce il suo corpo
