@@ -1,0 +1,37 @@
+- [X] Barbaro Berserker 3 (Moccicoso)
+    - [X] scheda
+    - dettagli
+        - [X] abilità
+        - [X] incantesimi
+- [X] Barbaro Magia Selvaggia (gas) 3 (gemelli)
+    - [X] scheda
+    - dettagli
+        - [X] abilità
+        - [X] incantesimi
+- [X] Barbaro Magia Selvaggia (scintilla) 3 (gemelli)
+    - [X] scheda
+    - dettagli
+        - [X] abilità
+        - [X] incantesimi
+- [X] Druido 2 (Hiccup)
+    - [X] scheda
+    - dettagli
+        - [X] abilità
+        - [X] incantesimi
+- [X] Guerriero Campione 3 (Astrid)
+    - [X] scheda
+    - dettagli
+        - [X] abilità
+        - [X] incantesimi
+- [X] Ranger Cacciatore 3 (Gamba di pesce)
+    - [X] scheda
+    - dettagli
+        - [X] abilità
+        - [X] incantesimi
+- scheda generica
+    - [X] background
+    - [X] warlock
+- trama
+    - i pg sono in prigione per aver collaborato con i draghi (ora imprigionati anch'essi)
+    - il villaggio è sotto attacco di un gruppo di vikinghi criminali esiliati
+    - ai pg viene offerta la grazia se salvano il villaggio

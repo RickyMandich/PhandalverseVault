@@ -496,6 +496,70 @@
 				}
 			}
 		},
+		"saghe": {
+			"original": "Saghe",
+			"files": {},
+			"directories": {
+				"moduli-non-usati": {
+					"original": "Moduli Non Usati",
+					"files": {},
+					"directories": {
+						"dragons": {
+							"original": "Dragons",
+							"files": {
+								"boss.md": "Boss",
+								"README.md": "README",
+								"trama.md": "Trama"
+							},
+							"directories": {
+								"barbaro-berserker": {
+									"original": "Barbaro Berserker",
+									"files": {
+										"barbaro-berserker-dettagli.md": "Barbaro Berserker Dettagli"
+									},
+									"directories": {}
+								},
+								"barbaro-magia-selvaggia-gas": {
+									"original": "Barbaro Magia Selvaggia Gas",
+									"files": {
+										"barbaro-magia-selvaggia-gas-dettagli.md": "Barbaro Magia Selvaggia Gas Dettagli"
+									},
+									"directories": {}
+								},
+								"barbaro-magia-selvaggia-scintilla": {
+									"original": "Barbaro Magia Selvaggia Scintilla",
+									"files": {
+										"barbaro-magia-selvaggia-scintilla-dettagli.md": "Barbaro Magia Selvaggia Scintilla Dettagli"
+									},
+									"directories": {}
+								},
+								"druido-draconico": {
+									"original": "Druido Draconico",
+									"files": {
+										"druido-draconico-dettagli.md": "Druido Draconico Dettagli"
+									},
+									"directories": {}
+								},
+								"guerriero-campione": {
+									"original": "Guerriero Campione",
+									"files": {
+										"guerriero-campione-dettagli.md": "Guerriero Campione Dettagli"
+									},
+									"directories": {}
+								},
+								"ranger-cacciatore": {
+									"original": "Ranger Cacciatore",
+									"files": {
+										"ranger-cacciatore-dettagli.md": "Ranger Cacciatore Dettagli"
+									},
+									"directories": {}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
 		"universi": {
 			"original": "Universi",
 			"files": {
