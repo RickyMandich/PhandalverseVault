@@ -1,3 +1,4 @@
+#dm
 # abilità
 >## Tenacia Implacabile
 >Quando siete ridotti a 0 punti ferita ma non uccisi sul colpo, potete invece tornare ad 1 punto ferita. Non potete usare questo privilegio nuovamente finché non completate un riposo lungo.
