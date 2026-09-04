@@ -515,42 +515,54 @@
 								"barbaro-berserker": {
 									"original": "Barbaro Berserker",
 									"files": {
-										"barbaro-berserker-dettagli.md": "Barbaro Berserker Dettagli"
+										"barbaro-berserker-dettagli.md": "Barbaro Berserker Dettagli",
+										"barbaro-berserker-dettagli.pdf": "Barbaro Berserker Dettagli",
+										"barbaro-berserker.pdf": "Barbaro Berserker"
 									},
 									"directories": {}
 								},
 								"barbaro-magia-selvaggia-gas": {
 									"original": "Barbaro Magia Selvaggia Gas",
 									"files": {
-										"barbaro-magia-selvaggia-gas-dettagli.md": "Barbaro Magia Selvaggia Gas Dettagli"
+										"barbaro-magia-selvaggia-gas-dettagli.md": "Barbaro Magia Selvaggia Gas Dettagli",
+										"barbaro-magia-selvaggia-gas-dettagli.pdf": "Barbaro Magia Selvaggia Gas Dettagli",
+										"barbaro-magia-selvaggia-gas.pdf": "Barbaro Magia Selvaggia Gas"
 									},
 									"directories": {}
 								},
 								"barbaro-magia-selvaggia-scintilla": {
 									"original": "Barbaro Magia Selvaggia Scintilla",
 									"files": {
-										"barbaro-magia-selvaggia-scintilla-dettagli.md": "Barbaro Magia Selvaggia Scintilla Dettagli"
+										"barbaro-magia-selvaggia-scintilla-dettagli.md": "Barbaro Magia Selvaggia Scintilla Dettagli",
+										"barbaro-magia-selvaggia-scintilla-dettagli.pdf": "Barbaro Magia Selvaggia Scintilla Dettagli",
+										"barbaro-magia-selvaggia-scintilla.pdf": "Barbaro Magia Selvaggia Scintilla"
 									},
 									"directories": {}
 								},
 								"druido-draconico": {
 									"original": "Druido Draconico",
 									"files": {
-										"druido-draconico-dettagli.md": "Druido Draconico Dettagli"
+										"druido-draconico-dettagli.md": "Druido Draconico Dettagli",
+										"druido-draconico-dettagli.pdf": "Druido Draconico Dettagli",
+										"druido-draconico.pdf": "Druido Draconico"
 									},
 									"directories": {}
 								},
 								"guerriero-campione": {
 									"original": "Guerriero Campione",
 									"files": {
-										"guerriero-campione-dettagli.md": "Guerriero Campione Dettagli"
+										"guerriero-campione-dettagli.md": "Guerriero Campione Dettagli",
+										"guerriero-campione-dettagli.pdf": "Guerriero Campione Dettagli",
+										"guerriero-campione.pdf": "Guerriero Campione"
 									},
 									"directories": {}
 								},
 								"ranger-cacciatore": {
 									"original": "Ranger Cacciatore",
 									"files": {
-										"ranger-cacciatore-dettagli.md": "Ranger Cacciatore Dettagli"
+										"ranger-cacciatore-dettagli.md": "Ranger Cacciatore Dettagli",
+										"ranger-cacciatore-dettagli.pdf": "Ranger Cacciatore Dettagli",
+										"ranger-cacciatore.pdf": "Ranger Cacciatore"
 									},
 									"directories": {}
 								}
