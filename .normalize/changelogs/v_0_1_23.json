@@ -1,0 +1,44 @@
+{
+	"version": "v 0.1.23",
+	"date": "2026-09-04 19:01:07 +0200",
+	"commit_hash": "113269e542622c6d930d09134c1e0dc205a155ab",
+	"commit_message": "aggiornamento 2026 09 04 19:01 [v 0.1.23] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/dragons/barbaro-berserker/barbaro-berserker-dettagli.md",
+			"display_name": "Barbaro Berserker Dettagli",
+			"status": "Modified",
+			"diff": "commit de8161d44e21d3e00a225e60c1de82105efc0743\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 4 19:01:07 2026 +0200\n\n    aggiornamento 2026 09 04 19:01 [v 0.1.23]\n\ndiff --git a/saghe/moduli-non-usati/dragons/barbaro-berserker/barbaro-berserker-dettagli.md b/saghe/moduli-non-usati/dragons/barbaro-berserker/barbaro-berserker-dettagli.md\nindex ee76882..7a96093 100644\n--- a/saghe/moduli-non-usati/dragons/barbaro-berserker/barbaro-berserker-dettagli.md\n+++ b/saghe/moduli-non-usati/dragons/barbaro-berserker/barbaro-berserker-dettagli.md\n@@ -1,3 +1,4 @@\n+#dm\n # abilità\n >## Tenacia Implacabile\n >Quando siete ridotti a 0 punti ferita ma non uccisi sul colpo, potete invece tornare ad 1 punto ferita. Non potete usare questo privilegio nuovamente finché non completate un riposo lungo.\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-gas/barbaro-magia-selvaggia-gas-dettagli.md",
+			"display_name": "Barbaro Magia Selvaggia Gas Dettagli",
+			"status": "Modified",
+			"diff": "commit de8161d44e21d3e00a225e60c1de82105efc0743\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 4 19:01:07 2026 +0200\n\n    aggiornamento 2026 09 04 19:01 [v 0.1.23]\n\ndiff --git a/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-gas/barbaro-magia-selvaggia-gas-dettagli.md b/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-gas/barbaro-magia-selvaggia-gas-dettagli.md\nindex b6eb301..61bbf2a 100644\n--- a/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-gas/barbaro-magia-selvaggia-gas-dettagli.md\n+++ b/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-gas/barbaro-magia-selvaggia-gas-dettagli.md\n@@ -1,3 +1,4 @@\n+#dm\n # abilità\n >## classe\n >### Armatura del Draghetto\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-scintilla/barbaro-magia-selvaggia-scintilla-dettagli.md",
+			"display_name": "Barbaro Magia Selvaggia Scintilla Dettagli",
+			"status": "Modified",
+			"diff": "commit de8161d44e21d3e00a225e60c1de82105efc0743\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 4 19:01:07 2026 +0200\n\n    aggiornamento 2026 09 04 19:01 [v 0.1.23]\n\ndiff --git a/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-scintilla/barbaro-magia-selvaggia-scintilla-dettagli.md b/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-scintilla/barbaro-magia-selvaggia-scintilla-dettagli.md\nindex f612926..aed0b17 100644\n--- a/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-scintilla/barbaro-magia-selvaggia-scintilla-dettagli.md\n+++ b/saghe/moduli-non-usati/dragons/barbaro-magia-selvaggia-scintilla/barbaro-magia-selvaggia-scintilla-dettagli.md\n@@ -1,3 +1,4 @@\n+#dm \n # abilità\n >## classe\n >### Armatura del Draghetto\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/dragons/druido-draconico/druido-draconico-dettagli.md",
+			"display_name": "Druido Draconico Dettagli",
+			"status": "Modified",
+			"diff": "commit de8161d44e21d3e00a225e60c1de82105efc0743\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 4 19:01:07 2026 +0200\n\n    aggiornamento 2026 09 04 19:01 [v 0.1.23]\n\ndiff --git a/saghe/moduli-non-usati/dragons/druido-draconico/druido-draconico-dettagli.md b/saghe/moduli-non-usati/dragons/druido-draconico/druido-draconico-dettagli.md\nindex 7b212d0..f61f04a 100644\n--- a/saghe/moduli-non-usati/dragons/druido-draconico/druido-draconico-dettagli.md\n+++ b/saghe/moduli-non-usati/dragons/druido-draconico/druido-draconico-dettagli.md\n@@ -1,3 +1,4 @@\n+#dm \n # Abilità\n >## Classe\n >### Armatura del Draghetto\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/dragons/guerriero-campione/guerriero-campione-dettagli.md",
+			"display_name": "Guerriero Campione Dettagli",
+			"status": "Modified",
+			"diff": "commit de8161d44e21d3e00a225e60c1de82105efc0743\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 4 19:01:07 2026 +0200\n\n    aggiornamento 2026 09 04 19:01 [v 0.1.23]\n\ndiff --git a/saghe/moduli-non-usati/dragons/guerriero-campione/guerriero-campione-dettagli.md b/saghe/moduli-non-usati/dragons/guerriero-campione/guerriero-campione-dettagli.md\nindex f33a773..498caa9 100644\n--- a/saghe/moduli-non-usati/dragons/guerriero-campione/guerriero-campione-dettagli.md\n+++ b/saghe/moduli-non-usati/dragons/guerriero-campione/guerriero-campione-dettagli.md\n@@ -1,3 +1,4 @@\n+#dm \n # Abilità\n >## Razza\n >### Arma a Soffio\n"
+		},
+		{
+			"file": "saghe/moduli-non-usati/dragons/ranger-cacciatore/ranger-cacciatore-dettagli.md",
+			"display_name": "Ranger Cacciatore Dettagli",
+			"status": "Modified",
+			"diff": "commit de8161d44e21d3e00a225e60c1de82105efc0743\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 4 19:01:07 2026 +0200\n\n    aggiornamento 2026 09 04 19:01 [v 0.1.23]\n\ndiff --git a/saghe/moduli-non-usati/dragons/ranger-cacciatore/ranger-cacciatore-dettagli.md b/saghe/moduli-non-usati/dragons/ranger-cacciatore/ranger-cacciatore-dettagli.md\nindex 9feea40..b1cf42f 100644\n--- a/saghe/moduli-non-usati/dragons/ranger-cacciatore/ranger-cacciatore-dettagli.md\n+++ b/saghe/moduli-non-usati/dragons/ranger-cacciatore/ranger-cacciatore-dettagli.md\n@@ -1,3 +1,4 @@\n+#dm \n # Abilità\n >## Classe\n >### Armatura del Draghetto\n"
+		}
+	]
+}
