@@ -1,4 +1,4 @@
-#dm 
+
 # Abilità
 >## Classe
 >### Armatura del Draghetto
