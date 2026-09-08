@@ -66,16 +66,16 @@ fi
 
 log_message "Starting map.json update process (Read-Only Filesystem Mode)..."
 
-# Check if git work tree is clean (only .md files matter)
+# Check if git work tree is clean (only .md and .pdf files matter)
 if command -v git &> /dev/null; then
-    MD_CHANGES=$(git status --porcelain | grep '\.md$' || true)
+    MD_CHANGES=$(git status --porcelain | grep -E '\.(md|pdf)$' || true)
 
     #if [ -z "$MD_CHANGES" ]; then
-    #    log_message "No .md file changes detected in git work tree. Skipping map update."
-    #    echo "No .md file changes detected. Skipping map update."
+    #    log_message "No .md/.pdf file changes detected in git work tree. Skipping map update."
+    #    echo "No .md/.pdf file changes detected. Skipping map update."
     #    exit 0
     #else
-        log_message "Detected .md file changes in work tree:"
+        log_message "Detected .md/.pdf file changes in work tree:"
         echo "$MD_CHANGES" | while read line; do
             log_message "  $line"
         done
@@ -217,7 +217,7 @@ process_directory() {
         elif [ -f "$item_path" ]; then
             local extension="${item_name##*.}"
 
-            if [ "$extension" != "md" ]; then
+            if [ "$extension" != "md" ] && [ "$extension" != "pdf" ]; then
                 continue
             fi
 
@@ -243,7 +243,7 @@ process_directory() {
         fi
     done
 
-    # Se la cartella non contiene file .md né sottocartelle non vuote,
+    # Se la cartella non contiene file .md/.pdf né sottocartelle non vuote,
     # non viene indicizzata: git non traccia le cartelle vuote, quindi
     # includerla in map.json creerebbe una discrepanza col deploy.
     if [ "$files_json" == "{}" ] && [ "$dirs_json" == "{}" ]; then
