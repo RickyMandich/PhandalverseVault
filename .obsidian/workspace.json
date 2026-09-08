@@ -70,10 +70,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Esplora file"
             }
           },
           {
@@ -203,11 +205,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
       "bases:Crea nuova Base": false,
       "graph:Apri vista grafo": false,
-      "switcher:Apri selezione rapida": false,
       "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
@@ -218,8 +220,10 @@
       "cmdr:Shell commands: Execute: ftp": false
     }
   },
-  "active": "3ba235194dbd66f9",
+  "active": "4a0168f4c436222b",
   "lastOpenFiles": [
+    "manuali/ED 5.0 Manuale dei mostri.pdf",
+    "manuali",
     "saghe/moduli-non-usati/fandalmein/fandalmein.md",
     "personaggi/gruppi/la-mano-rossa.md",
     "saghe/02-macrosaga-di-fandalmain/01-saga-di-fandalmain.md",
@@ -248,14 +252,12 @@
     "saghe/02-macrosaga-di-fandalmain",
     "universi/phandalmain/sommeriale.md",
     "universi/fandalmein/somerial.md",
-    "materiale/stat-block/dark-nidave-stat.md",
     "bash/d2utmpI67xZa",
     "bash/d2utmpmoxI4u",
     "bash/d2utmpEFg6FF",
     "bash/d2utmp9xfkyK",
     "bash/d2utmpTjH7cg",
     "bash/d2utmpNvA9Sr",
-    "bash/d2utmpycArpD",
     "artefatti/tecnologici/party/myrkvathinn.webp",
     "artefatti/tecnologici/party/myrkvathinn.png",
     "artefatti/tecnologici/party/artefice.jpeg",
