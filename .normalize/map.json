@@ -79,27 +79,6 @@
 				}
 			}
 		},
-		"dungeon": {
-			"original": "Dungeon",
-			"files": {},
-			"directories": {
-				"dungeon-scrawl": {
-					"original": "Dungeon Scrawl",
-					"files": {},
-					"directories": {}
-				},
-				"immagini": {
-					"original": "Immagini",
-					"files": {},
-					"directories": {}
-				},
-				"incontri-5e-tools-encounter-builder": {
-					"original": "Incontri 5e Tools Encounter Builder",
-					"files": {},
-					"directories": {}
-				}
-			}
-		},
 		"entita": {
 			"original": "Entità",
 			"files": {},
@@ -178,7 +157,9 @@
 		},
 		"manuali": {
 			"original": "Manuali",
-			"files": {},
+			"files": {
+				"ED 5.0 Manuale dei mostri.pdf": "Ed 5.0 Manuale Dei Mostri"
+			},
 			"directories": {}
 		},
 		"materiale": {

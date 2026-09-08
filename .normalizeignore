@@ -1,0 +1,9 @@
+# cartelle di sistema e cartelle tecniche per i miei script
+bash
+.git
+.github
+.obsidian
+.trash
+.normalize
+# cartelle con util master non markdown
+dungeon
