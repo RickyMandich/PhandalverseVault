@@ -2,9 +2,9 @@
 	"versions": [
 		{
 			"version": "v 0.1.25",
-			"date": "2026-09-08 10:18:08 +0200",
-			"commit_hash": "2cc14b8a9f0c8484839f7f2d986db45f69da7970",
-			"changes_count": 10
+			"date": "2026-09-08 10:18:20 +0200",
+			"commit_hash": "ff4654341555e3446ce51513828ae69d47d613ec",
+			"changes_count": 0
 		},
 		{
 			"version": "v 0.1.24",
