@@ -1,0 +1,24 @@
+2026-09-09 11:41:42 Nessun .normalizeignore trovato, uso esclusioni di default (5 pattern)
+2026-09-09 11:41:42 Starting map.json update process (Read-Only Filesystem Mode)...
+2026-09-09 11:41:44 Detected .md/.pdf file changes in work tree:
+2026-09-09 11:41:44   
+2026-09-09 11:41:44 Loaded existing map.json
+2026-09-09 11:41:44 First pass: Scanning filesystem...
+2026-09-09 11:41:44 Directory vuota, non indicizzata: '.github/workflows'
+2026-09-09 11:41:44 Skipping empty directory (no .md content): 'workflows'
+2026-09-09 11:41:44 Directory vuota, non indicizzata: '.github'
+2026-09-09 11:41:44 Skipping empty directory (no .md content): '.github'
+2026-09-09 11:41:46 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/barbaro-berserker-(pdf.io)'
+2026-09-09 11:41:46 Skipping empty directory (no .md content): 'barbaro-berserker-(pdf.io)'
+2026-09-09 11:41:46 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/bardo-della-sapienza-(pdf.io)'
+2026-09-09 11:41:46 Skipping empty directory (no .md content): 'bardo-della-sapienza-(pdf.io)'
+2026-09-09 11:41:46 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/chierico-della-vita-(pdf.io)'
+2026-09-09 11:41:46 Skipping empty directory (no .md content): 'chierico-della-vita-(pdf.io)'
+2026-09-09 11:41:46 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/paladino-della-vendetta-(pdf.io)'
+2026-09-09 11:41:46 Skipping empty directory (no .md content): 'paladino-della-vendetta-(pdf.io)'
+2026-09-09 11:41:46 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/worlock-patto-della-lama-(pdf.io)'
+2026-09-09 11:41:46 Skipping empty directory (no .md content): 'worlock-patto-della-lama-(pdf.io)'
+2026-09-09 11:41:48 Directory vuota, non indicizzata: 'profondo-blu'
+2026-09-09 11:41:48 Skipping empty directory (no .md content): 'profondo-blu'
+2026-09-09 11:41:48 Map updated at /mnt/c/Users/RickyMandich/PROJECT/oneshot/.normalize/map.json
+2026-09-09 11:41:48 Map update complete. No files were renamed.
