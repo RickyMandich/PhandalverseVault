@@ -1,0 +1,179 @@
+{
+	"original": "ROOT",
+	"files": {},
+	"directories": {
+		"aracockra": {
+			"original": "Aracockra",
+			"files": {
+				"città.md": "Città"
+			},
+			"directories": {
+				"originale": {
+					"original": "Originale",
+					"files": {
+						"boss.md": "Boss",
+						"boss.pdf": "Boss",
+						"originale.md": "Originale"
+					},
+					"directories": {}
+				},
+				"sequel": {
+					"original": "Sequel",
+					"files": {
+						"sequel.md": "Sequel"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"dragons": {
+			"original": "Dragons",
+			"files": {
+				"boss.md": "Boss",
+				"README.md": "Readme",
+				"trama.md": "Trama"
+			},
+			"directories": {
+				"barbaro-berserker": {
+					"original": "Barbaro Berserker",
+					"files": {
+						"barbaro-berserker-dettagli.md": "Barbaro Berserker Dettagli",
+						"barbaro-berserker-dettagli.pdf": "Barbaro Berserker Dettagli",
+						"barbaro-berserker.pdf": "Barbaro Berserker"
+					},
+					"directories": {}
+				},
+				"barbaro-magia-selvaggia-gas": {
+					"original": "Barbaro Magia Selvaggia Gas",
+					"files": {
+						"barbaro-magia-selvaggia-gas-dettagli.md": "Barbaro Magia Selvaggia Gas Dettagli",
+						"barbaro-magia-selvaggia-gas-dettagli.pdf": "Barbaro Magia Selvaggia Gas Dettagli",
+						"barbaro-magia-selvaggia-gas.pdf": "Barbaro Magia Selvaggia Gas"
+					},
+					"directories": {}
+				},
+				"barbaro-magia-selvaggia-scintilla": {
+					"original": "Barbaro Magia Selvaggia Scintilla",
+					"files": {
+						"barbaro-magia-selvaggia-scintilla-dettagli.md": "Barbaro Magia Selvaggia Scintilla Dettagli",
+						"barbaro-magia-selvaggia-scintilla-dettagli.pdf": "Barbaro Magia Selvaggia Scintilla Dettagli",
+						"barbaro-magia-selvaggia-scintilla.pdf": "Barbaro Magia Selvaggia Scintilla"
+					},
+					"directories": {}
+				},
+				"druido-draconico": {
+					"original": "Druido Draconico",
+					"files": {
+						"druido-draconico-dettagli.md": "Druido Draconico Dettagli",
+						"druido-draconico-dettagli.pdf": "Druido Draconico Dettagli",
+						"druido-draconico.pdf": "Druido Draconico"
+					},
+					"directories": {}
+				},
+				"guerriero-campione": {
+					"original": "Guerriero Campione",
+					"files": {
+						"guerriero-campione-dettagli.md": "Guerriero Campione Dettagli",
+						"guerriero-campione-dettagli.pdf": "Guerriero Campione Dettagli",
+						"guerriero-campione.pdf": "Guerriero Campione"
+					},
+					"directories": {}
+				},
+				"ranger-cacciatore": {
+					"original": "Ranger Cacciatore",
+					"files": {
+						"ranger-cacciatore-dettagli.md": "Ranger Cacciatore Dettagli",
+						"ranger-cacciatore-dettagli.pdf": "Ranger Cacciatore Dettagli",
+						"ranger-cacciatore.pdf": "Ranger Cacciatore"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"personaggi-prefatti-di-3": {
+			"original": "Personaggi Prefatti Di 3",
+			"files": {},
+			"directories": {
+				"inglese": {
+					"original": "Inglese",
+					"files": {},
+					"directories": {
+						"editabili": {
+							"original": "Editabili",
+							"files": {
+								"barbaro-berserker.pdf": "Barbaro Berserker",
+								"bardo-della-sapienza.pdf": "Bardo Della Sapienza",
+								"chierico-della-vita.pdf": "Chierico Della Vita",
+								"paladino-della-vendetta.pdf": "Paladino Della Vendetta",
+								"worlock-patto-della-lama.pdf": "Worlock Patto Della Lama"
+							},
+							"directories": {}
+						},
+						"non-editabili": {
+							"original": "Non Editabili",
+							"files": {
+								"barbaro-berserker.pdf": "Barbaro Berserker",
+								"bardo-della-sapienza.pdf": "Bardo Della Sapienza",
+								"chierico-della-vita.pdf": "Chierico Della Vita",
+								"paladino-della-vendetta.pdf": "Paladino Della Vendetta",
+								"worlock-patto-della-lama.pdf": "Worlock Patto Della Lama"
+							},
+							"directories": {}
+						}
+					}
+				},
+				"italiano": {
+					"original": "Italiano",
+					"files": {
+						"scheda-essenziale.pdf": "Scheda Essenziale"
+					},
+					"directories": {
+						"barbaro": {
+							"original": "Barbaro",
+							"files": {
+								"barbaro.pdf": "Barbaro"
+							},
+							"directories": {}
+						},
+						"bardo": {
+							"original": "Bardo",
+							"files": {
+								"bardo+incantesimi.pdf": "Bardo+incantesimi",
+								"bardo-della-sapienza.pdf": "Bardo Della Sapienza",
+								"incantesimi-bardo.pdf": "Incantesimi Bardo"
+							},
+							"directories": {}
+						},
+						"chierico": {
+							"original": "Chierico",
+							"files": {
+								"chierico+incantesimi.pdf": "Chierico+incantesimi",
+								"chierico.pdf": "Chierico",
+								"incantesimi-chierico.pdf": "Incantesimi Chierico"
+							},
+							"directories": {}
+						},
+						"paladino": {
+							"original": "Paladino",
+							"files": {
+								"incantesimi-paladino.pdf": "Incantesimi Paladino",
+								"paladino+incantesimi.pdf": "Paladino+incantesimi",
+								"paladino.pdf": "Paladino"
+							},
+							"directories": {}
+						},
+						"worlock": {
+							"original": "Worlock",
+							"files": {
+								"incantesimi-worlok.pdf": "Incantesimi Worlok",
+								"warlock+incantesimi.pdf": "Warlock+incantesimi",
+								"warlock.pdf": "Warlock"
+							},
+							"directories": {}
+						}
+					}
+				}
+			}
+		}
+	}
+}
