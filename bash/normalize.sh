@@ -3,6 +3,7 @@ VAULT_ROOT=$(pwd)
 NORMALIZE_DIR="$VAULT_ROOT/.normalize"
 FINAL_MAP_FILE="$NORMALIZE_DIR/map.json"
 OLD_MAP_FILE="$NORMALIZE_DIR/map.json"
+PDF_MAP_FILE="$NORMALIZE_DIR/pdf-map.json"
 NEW_FILES_LIST="$NORMALIZE_DIR/new_files.txt"
 IGNORE_FILE="$VAULT_ROOT/.normalizeignore"
 
@@ -91,10 +92,19 @@ else
     log_message "No existing map.json found, creating new one"
 fi
 
+# Load existing pdf-map.json if it exists (tag di accesso per i pdf: '', '#dm', '#access-gruppo1_gruppo2')
+OLD_PDF_MAP="{}"
+if [ -f "$PDF_MAP_FILE" ]; then
+    OLD_PDF_MAP=$(cat "$PDF_MAP_FILE")
+    log_message "Loaded existing pdf-map.json"
+fi
+
 # Initialize new files tracking
 declare -A NEW_FILES_MAP
 declare -A NEW_DIRS_MAP
 declare -A CUSTOM_NAMES_MAP
+declare -A NEW_PDFS_MAP
+declare -A PDF_TAGS_MAP
 
 # Helper: Check if item is excluded (supporta pattern glob, es. "*.tmp")
 is_excluded() {
@@ -162,6 +172,12 @@ get_original_dir_from_map() {
     local original_name=$(echo "$OLD_MAP" | jq -r "$jq_path // empty" 2>/dev/null)
 
     echo "$original_name"
+}
+
+# Helper: Get pdf access tag from old pdf-map (mappa piatta path -> tag)
+get_pdf_tag_from_map() {
+    local rel_path="$1"
+    echo "$OLD_PDF_MAP" | jq -r --arg k "$rel_path" '.[$k] // empty' 2>/dev/null
 }
 
 # Recursive Function
@@ -237,6 +253,15 @@ process_directory() {
                 original_name=$(kebab_to_title "$name_no_ext")
                 log_message "New file found: '$item_name' -> '$original_name'"
                 NEW_FILES_MAP["$file_rel_path"]="$original_name"
+            fi
+
+            if [ "$extension" == "pdf" ]; then
+                if echo "$OLD_PDF_MAP" | jq -e --arg k "$file_rel_path" 'has($k)' > /dev/null 2>&1; then
+                    PDF_TAGS_MAP["$file_rel_path"]=$(get_pdf_tag_from_map "$file_rel_path")
+                else
+                    NEW_PDFS_MAP["$file_rel_path"]=""
+                    PDF_TAGS_MAP["$file_rel_path"]=""
+                fi
             fi
 
             files_json=$(echo "$files_json" | jq --arg k "$item_name" --arg v "$original_name" '.[$k] = $v')
@@ -344,12 +369,60 @@ EOF
 
         declare -A NEW_FILES_MAP
         declare -A NEW_DIRS_MAP
+        declare -A NEW_PDFS_MAP
 
         log_message "Second pass: Rebuilding map with custom names..."
         process_directory "." "."
     else
         log_message "Non-interactive mode: using auto-generated names"
     fi
+fi
+
+# PDF Access Levels: prompt interattivo per i soli pdf nuovi (tag non ancora presente in pdf-map.json)
+NEW_PDFS_COUNT=${#NEW_PDFS_MAP[@]}
+if [ $NEW_PDFS_COUNT -gt 0 ] && [ "$INTERACTIVE_MODE" = true ]; then
+    PDF_ACCESS_LIST="$NORMALIZE_DIR/new_pdfs_access.txt"
+    cat > "$PDF_ACCESS_LIST" << 'EOF'
+# Nuovi PDF trovati: imposta il livello di accesso a destra della pipe (|)
+# Valori validi:
+#   (vuoto)                        -> pubblico
+#   #dm                            -> solo master
+#   #access-gruppo1_gruppo2        -> uno o piu' gruppi (stessa sintassi dei tag nelle note)
+# Salva e chiudi per applicare, riga malformata = trattata come pubblica.
+#
+EOF
+    for pdfpath in "${!NEW_PDFS_MAP[@]}"; do
+        echo "$pdfpath|" >> "$PDF_ACCESS_LIST"
+    done
+
+    log_message "Opening editor for PDF access levels..."
+    echo ""
+    echo "=========================================="
+    echo "Found $NEW_PDFS_COUNT new PDF(s)"
+    echo "Opening vim to set access levels..."
+    echo "=========================================="
+    echo ""
+
+    vim "$PDF_ACCESS_LIST"
+
+    while IFS='|' read -r path tag; do
+        [[ "$path" =~ ^#.*$ ]] && continue
+        [[ -z "$path" ]] && continue
+        path=$(echo "$path" | xargs)
+        tag=$(echo "$tag" | xargs)
+
+        if [ -n "$tag" ] && ! [[ "$tag" =~ ^#dm$|^#access-[a-z0-9]+(_[a-z0-9]+)*$ ]]; then
+            log_message "WARNING: tag non valido per '$path' ('$tag'), impostato come pubblico"
+            tag=""
+        fi
+
+        PDF_TAGS_MAP["$path"]="$tag"
+        log_message "Access tag impostato per '$path': '${tag:-<pubblico>}'"
+    done < "$PDF_ACCESS_LIST"
+
+    rm "$PDF_ACCESS_LIST"
+elif [ $NEW_PDFS_COUNT -gt 0 ]; then
+    log_message "Modalita' non interattiva: $NEW_PDFS_COUNT nuovo/i pdf lasciato/i pubblico/i di default (rivedere manualmente pdf-map.json)"
 fi
 
 # Move Result and format with tab indentation
@@ -361,5 +434,13 @@ if [ -f ".node.json" ]; then
 else
     log_message "Error: No map generated."
 fi
+
+# Scrittura di pdf-map.json (solo le chiavi effettivamente scansionate in questo run)
+pdf_map_json="{}"
+for pdfpath in "${!PDF_TAGS_MAP[@]}"; do
+    pdf_map_json=$(echo "$pdf_map_json" | jq --arg k "$pdfpath" --arg v "${PDF_TAGS_MAP[$pdfpath]}" '.[$k] = $v')
+done
+echo "$pdf_map_json" | jq --tab '.' > "$PDF_MAP_FILE"
+log_message "pdf-map.json updated at $PDF_MAP_FILE"
 
 log_message "Map update complete. No files were renamed."

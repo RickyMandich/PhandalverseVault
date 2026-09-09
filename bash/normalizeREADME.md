@@ -21,9 +21,10 @@ The normalization script solves this by maintaining a **mapping file** (`map.jso
 
 The script performs a **recursive, depth-first traversal** of the vault to update the `map.json` file:
 
-1. **Scans Only `.md` Files**: Only Markdown files are tracked in the map
+1. **Scans `.md` and `.pdf` Files**: Both Markdown notes and PDF documents are tracked in `map.json`
    - Other file types (`.png`, `.jpg`, `.ds`, etc.) are ignored
    - Directories are tracked to maintain the hierarchical structure
+   - PDFs are additionally tracked in a separate `pdf-map.json` for access-level tagging (see below)
 
 2. **Preserves Existing Mappings**:
    - If a file already exists in `map.json`, its original display name is preserved
@@ -74,7 +75,38 @@ A **hierarchical tree structure** that maps normalized filenames to original dis
 - For **files**, the map stores the **original name WITHOUT extension** (e.g., `"La Ruota"` not `"La Ruota.md"`)
 - For **directories**, the map stores the full structure with an `"original"` key for the display name
 
-#### 2. `.normalize/YYYY-MM-DD_HH-MM-SS/execution.log`
+#### 2. `.normalize/pdf-map.json`
+Una mappa **piatta** (non gerarchica come `map.json`) che associa ogni PDF normalizzato al suo **livello di accesso**, con la stessa sintassi di tag usata nel corpo delle note Markdown:
+
+```json
+{
+  "artefatti/manuale-arcano.pdf": "#dm",
+  "regole/manuale-cavalieri.pdf": "#access-artefici_bibliotecari",
+  "regole/regolamento-base.pdf": ""
+}
+```
+
+- Valore vuoto (`""`) = pdf pubblico.
+- `"#dm"` = riservato ai soli Master.
+- `"#access-gruppo1_gruppo2"` = riservato a uno o più gruppi (logica OR, stessa gerarchia dei gruppi usata nelle note).
+
+Questo file viene letto lato Laravel da `App\Helpers\VaultHelper::getPdfAccessTag()` e applicato da `App\Services\AccessControlService::pdfIsVisibleTo()`. Un pdf assente da questa mappa è considerato pubblico.
+
+**Quando compare il prompt per i PDF**: ogni volta che lo script trova un pdf **non ancora presente** in `pdf-map.json` (pdf nuovo, mai processato prima), in modalità interattiva apre un secondo editor `vim` (dopo quello dei nomi visualizzati) con un elenco `path|tag` da compilare:
+
+```
+# Nuovi PDF trovati: imposta il livello di accesso a destra della pipe (|)
+# Valori validi:
+#   (vuoto)                        -> pubblico
+#   #dm                            -> solo master
+#   #access-gruppo1_gruppo2        -> uno o piu' gruppi (stessa sintassi dei tag nelle note)
+
+artefatti/manuale-arcano.pdf|
+```
+
+I pdf già presenti in `pdf-map.json` (anche con tag vuoto salvato esplicitamente) **non vengono ripresentati** nel prompt: il loro tag è preservato tra un run e l'altro, esattamente come già avviene per i nomi in `map.json`. In modalità `--no-edit`, i pdf nuovi vengono lasciati pubblici di default e viene loggato quanti ne sono stati lasciati così, da rivedere manualmente in un secondo momento.
+
+#### 3. `.normalize/YYYY-MM-DD_HH-MM-SS/execution.log`
 A timestamped log of every operation:
 - New files discovered
 - New directories discovered
@@ -112,6 +144,17 @@ luoghi/nuova-citta|Nuova Citta
 
 **Edit the display names**, save (`:wq`), and the script will apply your changes.
 
+Se tra i file nuovi ci sono dei PDF, subito dopo si apre un **secondo** editor `vim` per impostare il livello di accesso di ciascuno (vedi sezione `.normalize/pdf-map.json` sopra):
+```
+# Nuovi PDF trovati: imposta il livello di accesso a destra della pipe (|)
+# Valori validi:
+#   (vuoto)                        -> pubblico
+#   #dm                            -> solo master
+#   #access-gruppo1_gruppo2        -> uno o piu' gruppi (stessa sintassi dei tag nelle note)
+
+artefatti/nuovo-manuale.pdf|
+```
+
 #### Non-Interactive Mode (For Automation)
 ```bash
 cd PhandalverseVault
@@ -145,6 +188,7 @@ $title = VaultHelper::getOriginalName('personaggi/non-giocanti/thraal.md');
 
 ### Modified:
 - ✅ `.normalize/map.json` (updated to reflect current filesystem state)
+- ✅ `.normalize/pdf-map.json` (aggiornato con i tag di accesso dei pdf presenti)
 - ✅ `.normalize/YYYY-MM-DD_HH-MM-SS/execution.log` (new log created each run)
 
 ### NOT Modified:
