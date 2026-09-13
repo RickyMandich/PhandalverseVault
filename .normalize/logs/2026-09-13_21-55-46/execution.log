@@ -1,0 +1,49 @@
+2026-09-13 21:55:46 Nessun .normalizeignore trovato, uso esclusioni di default (5 pattern)
+2026-09-13 21:55:46 Starting map.json update process (Read-Only Filesystem Mode)...
+2026-09-13 21:55:46 Detected .md/.pdf file changes in work tree:
+2026-09-13 21:55:46   ?? todo.md
+2026-09-13 21:55:46 Loaded existing map.json
+2026-09-13 21:55:46 Loaded existing pdf-map.json
+2026-09-13 21:55:46 First pass: Scanning filesystem...
+2026-09-13 21:55:46 Directory vuota, non indicizzata: '.github/workflows'
+2026-09-13 21:55:46 Skipping empty directory (no .md content): 'workflows'
+2026-09-13 21:55:46 Directory vuota, non indicizzata: '.github'
+2026-09-13 21:55:46 Skipping empty directory (no .md content): '.github'
+2026-09-13 21:55:48 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/barbaro-berserker-(pdf.io)'
+2026-09-13 21:55:48 Skipping empty directory (no .md content): 'barbaro-berserker-(pdf.io)'
+2026-09-13 21:55:48 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/bardo-della-sapienza-(pdf.io)'
+2026-09-13 21:55:48 Skipping empty directory (no .md content): 'bardo-della-sapienza-(pdf.io)'
+2026-09-13 21:55:48 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/chierico-della-vita-(pdf.io)'
+2026-09-13 21:55:48 Skipping empty directory (no .md content): 'chierico-della-vita-(pdf.io)'
+2026-09-13 21:55:48 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/paladino-della-vendetta-(pdf.io)'
+2026-09-13 21:55:48 Skipping empty directory (no .md content): 'paladino-della-vendetta-(pdf.io)'
+2026-09-13 21:55:48 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/worlock-patto-della-lama-(pdf.io)'
+2026-09-13 21:55:48 Skipping empty directory (no .md content): 'worlock-patto-della-lama-(pdf.io)'
+2026-09-13 21:55:49 Directory vuota, non indicizzata: 'profondo-blu'
+2026-09-13 21:55:49 Skipping empty directory (no .md content): 'profondo-blu'
+2026-09-13 21:55:49 New file found: 'todo.md' -> 'Todo'
+2026-09-13 21:55:49 Found 1 new file(s) and 0 new directory(ies)
+2026-09-13 21:55:49 Opening editor for customization...
+2026-09-13 21:55:57 Custom name set: 'todo.md' -> 'TODO'
+2026-09-13 21:55:57 Applying customized names...
+2026-09-13 21:55:58 Second pass: Rebuilding map with custom names...
+2026-09-13 21:55:58 Directory vuota, non indicizzata: '.github/workflows'
+2026-09-13 21:55:58 Skipping empty directory (no .md content): 'workflows'
+2026-09-13 21:55:58 Directory vuota, non indicizzata: '.github'
+2026-09-13 21:55:58 Skipping empty directory (no .md content): '.github'
+2026-09-13 21:55:59 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/barbaro-berserker-(pdf.io)'
+2026-09-13 21:55:59 Skipping empty directory (no .md content): 'barbaro-berserker-(pdf.io)'
+2026-09-13 21:55:59 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/bardo-della-sapienza-(pdf.io)'
+2026-09-13 21:55:59 Skipping empty directory (no .md content): 'bardo-della-sapienza-(pdf.io)'
+2026-09-13 21:55:59 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/chierico-della-vita-(pdf.io)'
+2026-09-13 21:55:59 Skipping empty directory (no .md content): 'chierico-della-vita-(pdf.io)'
+2026-09-13 21:55:59 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/paladino-della-vendetta-(pdf.io)'
+2026-09-13 21:55:59 Skipping empty directory (no .md content): 'paladino-della-vendetta-(pdf.io)'
+2026-09-13 21:55:59 Directory vuota, non indicizzata: 'personaggi-prefatti-di-3/inglese/non-editabili/worlock-patto-della-lama-(pdf.io)'
+2026-09-13 21:55:59 Skipping empty directory (no .md content): 'worlock-patto-della-lama-(pdf.io)'
+2026-09-13 21:56:00 Directory vuota, non indicizzata: 'profondo-blu'
+2026-09-13 21:56:00 Skipping empty directory (no .md content): 'profondo-blu'
+2026-09-13 21:56:00 Using custom name for 'todo.md': 'TODO'
+2026-09-13 21:56:00 Map updated at /mnt/c/Users/RickyMandich/PROJECT/oneshot/.normalize/map.json
+2026-09-13 21:56:00 pdf-map.json updated at /mnt/c/Users/RickyMandich/PROJECT/oneshot/.normalize/pdf-map.json
+2026-09-13 21:56:00 Map update complete. No files were renamed.

@@ -1,6 +1,8 @@
 {
 	"original": "ROOT",
-	"files": {},
+	"files": {
+		"todo.md": "TODO"
+	},
 	"directories": {
 		"aracockra": {
 			"original": "Aracockra",
