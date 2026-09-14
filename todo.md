@@ -4,3 +4,18 @@
 	- [ ] scrivere definizione [[cacodemone]]
 	- [ ] scrivere definizione [[signore-dei-demoni]]
 - party
+	- [ ] Cesar Romero
+		- [ ] manca background
+		- [ ] manca scheda pg
+	- [ ] Giuseppe Matranga
+		- [ ] manca background
+		- [ ] manca scheda pg
+	- [ ] Marco Filippini
+		- [ ] manca scheda pg
+		- [ ] manca background
+	- [ ] Giovanni Paneghal
+		- [ ] manca scheda pg
+		- [ ] manca background
+	- [ ] Riccardo Berti
+		- [ ] manca scheda pg
+		- [ ] manca background

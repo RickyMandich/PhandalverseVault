@@ -1,4 +1,7 @@
-clear
+git fetch --all
+echo "_____________"
+git status
+echo "_____________"
 git pull
-echo "last commit:"
-git log -1 --pretty=%s HEAD~1
+echo "_____________"
+echo "last commit:    $(git log -1 --pretty=%s)"
