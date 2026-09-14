@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.25",
+	"date": "2026-09-14 20:18:52 +0200",
+	"commit_hash": "ef1cea1c6a39b9366e5a2222955e4eb5eaf8b1dd",
+	"commit_message": "aggiornamento 2026 09 14 20:19 [v 0.1.25] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 952d6ce263e021256ffd8250a271ff5f7ff37aba\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Mon Sep 14 20:18:52 2026 +0200\n\n    aggiornamento 2026 09 14 20:18 [v 0.1.25] - aggiunto todo iniziale\n\ndiff --git a/todo.md b/todo.md\nindex b745536..6276986 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -3,4 +3,19 @@\n \t- [ ] scrivere definizione [[dominio-demoniaco]]\n \t- [ ] scrivere definizione [[cacodemone]]\n \t- [ ] scrivere definizione [[signore-dei-demoni]]\n-- party\n\\ No newline at end of file\n+- party\n+\t- [ ] Cesar Romero\n+\t\t- [ ] manca background\n+\t\t- [ ] manca scheda pg\n+\t- [ ] Giuseppe Matranga\n+\t\t- [ ] manca background\n+\t\t- [ ] manca scheda pg\n+\t- [ ] Marco Filippini\n+\t\t- [ ] manca scheda pg\n+\t\t- [ ] manca background\n+\t- [ ] Giovanni Paneghal\n+\t\t- [ ] manca scheda pg\n+\t\t- [ ] manca background\n+\t- [ ] Riccardo Berti\n+\t\t- [ ] manca scheda pg\n+\t\t- [ ] manca background\n\\ No newline at end of file\n"
+		}
+	]
+}
