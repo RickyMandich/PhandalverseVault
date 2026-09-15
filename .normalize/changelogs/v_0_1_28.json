@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.28",
+	"date": "2026-09-15 19:33:08 +0200",
+	"commit_hash": "9a4946f75e64fd92944785dcfa27220f134578fa",
+	"commit_message": "aggiornamento 2026 09 15 19:33 [v 0.1.28] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit c8759769135659cac35b29d8e2daaaa51d3cccfa\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 15 19:33:08 2026 +0200\n\n    aggiornamento 2026 09 15 19:33 [v 0.1.28] - update todo\n\ndiff --git a/todo.md b/todo.md\nindex f057692..e872cf2 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -14,4 +14,5 @@\n \t\t- [x] decidere divinità del tempio in cui cresce\n \t\t- [x] decidere età attuale e età quando abbandona il tempio\n \t- [x] [[vala-khad-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]\n+\t\t- [X] manca background\n \t\t- [ ] manca scheda pg\n\\ No newline at end of file\n"
+		}
+	]
+}
