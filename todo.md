@@ -14,4 +14,5 @@
 		- [x] decidere divinità del tempio in cui cresce
 		- [x] decidere età attuale e età quando abbandona il tempio
 	- [x] [[vala-khad-bardo-collegio-della-creazione-kalashtar|Riccardo Berti]]
+		- [X] manca background
 		- [ ] manca scheda pg
