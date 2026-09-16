@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.30",
+	"date": "2026-09-16 17:28:50 +0200",
+	"commit_hash": "5ebbb8e854de79aa8eb3b3ca324d7819b4e25969",
+	"commit_message": "aggiornamento 2026 09 16 17:28 [v 0.1.30] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/non-giocanti/nidave.md",
+			"display_name": "Nidave",
+			"status": "Modified",
+			"diff": "commit cc32aa58ef636798a70ee5d74cb1ddac41e0e5e0\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 16 17:28:50 2026 +0200\n\n    aggiornamento 2026 09 16 17:28 [v 0.1.30] - fixed access group for nidave\n\ndiff --git a/personaggi/non-giocanti/nidave.md b/personaggi/non-giocanti/nidave.md\nindex 701f212..bb112ca 100644\n--- a/personaggi/non-giocanti/nidave.md\n+++ b/personaggi/non-giocanti/nidave.md\n@@ -1,4 +1,4 @@\n-#dm #marco\n+#dm #access-marco\n è un umano che nasce nel 50 [[calendario|AP]].\n durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]].\n durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un mezzo secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\n"
+		}
+	]
+}
