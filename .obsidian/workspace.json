@@ -48,37 +48,9 @@
               "icon": "lucide-file",
               "title": "missione-ad-atlantide"
             }
-          },
-          {
-            "id": "811976141f8dd1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/giocanti/un0-3-guerriero-maestro-della-battaglia-warforged.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un0-3-guerriero-maestro-della-battaglia-warforged"
-            }
-          },
-          {
-            "id": "528cd8c86d068501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personaggi/non-giocanti/nidave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nidave"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,19 +220,19 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "528cd8c86d068501",
+  "active": "5df04be12bc0f754",
   "lastOpenFiles": [
-    "bash/d2utmpDzuDLh",
-    "bash/d2utmpdg2x7o",
-    "bash/d2utmprwX2uo",
-    "bash/d2utmpFp5tYS",
-    "bash/d2utmpQ4FfQK",
-    "bash/d2utmpwwpD4G",
-    "bash/d2utmpkv7o2m",
-    "bash/d2utmpXSBtfu",
-    "bash/d2utmppDjjgJ",
-    "bash/d2utmp4QXRRp",
-    "bash/d2utmpsI3hUo",
+    "bash/d2utmpOHSGrL",
+    "bash/d2utmpR85VP2",
+    "bash/d2utmpUFhjiN",
+    "bash/d2utmpK3x4pP",
+    "bash/d2utmp0b9oCC",
+    "bash/d2utmprFC4qa",
+    "bash/d2utmpkvPYRI",
+    "bash/d2utmpYor6Fq",
+    "bash/d2utmpXLa1iS",
+    "bash/d2utmp8Vrr0m",
+    "bash/d2utmplm4eyB",
     "personaggi/giocanti/un0-3-guerriero-maestro-della-battaglia-warforged.md",
     "personaggi/non-giocanti/nidave.md",
     "saghe/moduli-usati/missione-ad-atlantide/missione-ad-atlantide.md",
