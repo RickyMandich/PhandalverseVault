@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.34",
+	"date": "2026-09-16 19:13:01 +0200",
+	"commit_hash": "b87f56539a220360f0e21f9a0f32617f89dfde46",
+	"commit_message": "aggiornamento 2026 09 16 19:13 [v 0.1.34] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md",
+			"display_name": "Missione Ad Atlantide",
+			"status": "Modified",
+			"diff": "commit 5c60baf5c708d73045022937d8e1619be34ea44b\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 16 19:13:01 2026 +0200\n\n    aggiornamento 2026 09 16 19:12 [v 0.1.34] - fixed typo in access group\n\ndiff --git a/saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md b/saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md\nindex 26d8bed..096fc8c 100644\n--- a/saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md\n+++ b/saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md\n@@ -2,7 +2,7 @@\n \n i membri del party stanno andando tutti ad [[atlantide]] per motivi diversi e ancora non si conoscono:\n - [[un0-3-guerriero-maestro-della-battaglia-warforged]] vuole tornare dagli [[artefici]] e non ha ancora capito appieno che di loro non è rimasto nulla\n-- [[vala-khad-bardo-collegio-della-creazione-kalashtar]] sta andando per vedere se riesce a raccogliere antichi testi poetici #startAccess-bibiliotecari in realtà ci sta andando per indagare sull'arrivo di una divinità proveniente da un altro piano dell'esistenza rilevata nella [[sacra-biblioteca-perduta-salvata-di-atlantide]] da [[giorgia-rossato]] #endAccess \n+- [[vala-khad-bardo-collegio-della-creazione-kalashtar]] sta andando per vedere se riesce a raccogliere antichi testi poetici #startAccess-bibliotecari in realtà ci sta andando per indagare sull'arrivo di una divinità proveniente da un altro piano dell'esistenza rilevata nella [[sacra-biblioteca-perduta-salvata-di-atlantide]] da [[giorgia-rossato]] #endAccess \n - [[kalpa-monaco-forma-astrale-drow]] vuole andare a toccare con mano dove vivevano gli artefici, protagonisti delle leggende che gli raccontavano al monastero, visto che ora sta cominciando a darsi all'avventura ora che è scappato dai monaci\n \n quando arrivano trovano rispettivamente:\n"
+		}
+	]
+}
