@@ -5,7 +5,7 @@
 	- [ ] scrivere definizione [[signore-dei-demoni]]
 - party
 	- [ ] Marco Totaro
-		- [ ] manca background
+		- [x] manca background
 		- [ ] manca scheda pg
 	- [ ] [[-warlock-umano-variante|Enrico Stevanato]]
 		- [ ] manca background

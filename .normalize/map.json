@@ -480,7 +480,21 @@
 						"nidave.md": "Nidave",
 						"roshi.md": "Roshi"
 					},
-					"directories": {}
+					"directories": {
+						"background-pg": {
+							"original": "Background PG",
+							"files": {},
+							"directories": {
+								"un0": {
+									"original": "UN0",
+									"files": {
+										"golett.md": "Golett"
+									},
+									"directories": {}
+								}
+							}
+						}
+					}
 				},
 				"organizzazioni-gruppi": {
 					"original": "Organizzazioni e Gruppi",
@@ -500,8 +514,8 @@
 			"original": "Saghe",
 			"files": {},
 			"directories": {
-				"moduli-non-usati": {
-					"original": "Moduli Non Usati",
+				"moduli-usati": {
+					"original": "Moduli Usati",
 					"files": {},
 					"directories": {
 						"missione-ad-atlantide": {

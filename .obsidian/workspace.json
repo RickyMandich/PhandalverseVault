@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "d7f8017b0f60d5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "missione-ad-atlantide"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,23 +206,27 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "d7f8017b0f60d5b2",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
-    "todo.md",
-    "bash/d2utmpbF8gqE",
-    "bash/d2utmpfbkAU2",
-    "bash/d2utmpABN6o1",
-    "bash/d2utmp1XqeFW",
-    "bash/d2utmpnb5DrQ",
-    "bash/d2utmphpl2Vy",
-    "bash/d2utmpnetdoc",
-    "bash/d2utmpYZ1JUz",
-    "bash/d2utmpuWIVup",
-    "bash/d2utmpap3wkz",
-    "saghe/moduli-usati/missione-ad-atlantide/missione-ad-atlantide.md",
-    "saghe/moduli-non-usati/missione-ad-atlantide/missione-ad-atlantide.md",
+    "bash/d2utmpkbxSGo",
+    "bash/d2utmpw3x9Ht",
+    "bash/d2utmpamcWl3",
+    "bash/d2utmpiu8zQn",
+    "bash/d2utmpVHxSPK",
+    "bash/d2utmpiqK2yA",
+    "bash/d2utmp1K65Ci",
+    "bash/d2utmp46pCRz",
+    "bash/d2utmp4QXbRq",
+    "bash/d2utmpPjlHd1",
+    "bash/d2utmpoggWM0",
     "personaggi/giocanti/un0-3-guerriero-maestro-della-battaglia-warforged.md",
+    "personaggi/non-giocanti/background-pg/un0/golett.md",
     "personaggi/non-giocanti/nidave.md",
+    "todo.md",
+    "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+    "personaggi/non-giocanti/giorgia-rossato.md",
+    "saghe/moduli-usati/missione-ad-atlantide/missione-ad-atlantide.md",
+    "saghe/moduli-usati/missione-ad-atlantide/missione-ad-atlantide.md",
     "personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md",
     "universi/phandalmain/phandalmain.md",
     "personaggi/giocanti/un0-3-guerriero-maestro-della-battaglia-warforged.jpeg",
@@ -256,9 +246,6 @@
     "saghe/01-macrosaga-della-chiave/04-saga-della-biblioteca.md",
     "saghe/01-macrosaga-della-chiave/03-saga-di-merfolk.md",
     "saghe/01-macrosaga-della-chiave/02-saga-della-magione.md",
-    "saghe/01-macrosaga-della-chiave/01-saga-di-gemgrave.md",
-    "saghe/moduli-non-usati/dragons/trama.md",
-    "saghe/moduli-non-usati/dragons/boss.md",
     "dungeon/castello-abbandonato-sul-dirupo-vicino-la-citta/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "dungeon/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
