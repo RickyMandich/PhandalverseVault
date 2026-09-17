@@ -1,0 +1,2 @@
+è un castello al centro della [[pianura-orientale]] che in realtà non è abitato da nessuno ed è stato creato solo per prendere in giro i potenziali invasori facendogli credere che esista un luogo da conquistare per poi sconfiggerli in battaglia.
+il castello viene usato a questo scopo da tutte le tribù che non litigano per esso, anzi, fanno a gara a chi ci costruisce la torre più alta alzando di alcuni metri alla volta la loro rispettiva torre

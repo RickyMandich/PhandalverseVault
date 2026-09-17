@@ -78,13 +78,13 @@
 						"auril.md": "Auril",
 						"chauntea.md": "Chauntea",
 						"gond.md": "Gond",
-						"il-simulacro.md": "Il Simulacro",
 						"kelemvor.md": "Kelemvor",
 						"lathander.md": "Lathander",
 						"mystra.md": "Mystra",
 						"oghma.md": "Oghma",
 						"selune.md": "Selune",
 						"shar.md": "Shar",
+						"simulacro.md": "Simulacro",
 						"tempus.md": "Tempus",
 						"torm.md": "Torm",
 						"tyr.md": "Tyr",
@@ -499,12 +499,13 @@
 				"organizzazioni-gruppi": {
 					"original": "Organizzazioni e Gruppi",
 					"files": {
+						"algariani.md": "Algariani",
 						"artefici.md": "Artefici",
 						"bibliotecari.md": "Bibliotecari",
 						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
-						"la-coalizione.md": "La Coalizione",
-						"la-mano-rossa.md": "La Mano Rossa"
+						"il-party.md": "Il Party",
+						"la-coalizione.md": "La Coalizione"
 					},
 					"directories": {}
 				}
@@ -512,8 +513,17 @@
 		},
 		"saghe": {
 			"original": "Saghe",
-			"files": {},
+			"files": {
+				"01-macrosaga-del-filatterio.md": "Macrosaga del Filatterio"
+			},
 			"directories": {
+				"01-macrosaga-del-filatterio": {
+					"original": "Macrosaga",
+					"files": {
+						"01-prima-saga-di-atlantide.md": "Saga Di Atlantide"
+					},
+					"directories": {}
+				},
 				"moduli-usati": {
 					"original": "Moduli Usati",
 					"files": {},
@@ -581,10 +591,12 @@
 						"phandanoland": {
 							"original": "Phandanoland",
 							"files": {
+								"algaria.md": "Algaria",
 								"Cristalgrave.md": "Cristalgrave",
 								"morkhaus.md": "Morkhaus",
 								"Nordavilla.md": "Nordavilla",
 								"phandanoland.md": "Phandanoland",
+								"pianura-orientale.md": "Pianura Orientale",
 								"profondahar.md": "Profondahar",
 								"Settentrionelle.md": "Settentrionelle"
 							},
@@ -593,6 +605,7 @@
 						"phandasuland": {
 							"original": "Phandasuland",
 							"files": {
+								"deserto-occidentale.md": "Deserto Occidentale",
 								"GemGrave.md": "Gemgrave",
 								"Meridionelle.md": "Meridionelle",
 								"phandasuland.md": "Phandasuland",

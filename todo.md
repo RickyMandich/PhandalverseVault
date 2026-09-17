@@ -4,7 +4,7 @@
 	- [ ] scrivere definizione [[cacodemone]]
 	- [ ] scrivere definizione [[signore-dei-demoni]]
 - party
-	- [ ] Marco Totaro
+	- [ ] [[un0-3-guerriero-maestro-della-battaglia-warforged|Marco Totaro]]
 		- [x] manca background
 		- [ ] manca scheda pg
 	- [ ] [[-warlock-umano-variante|Enrico Stevanato]]

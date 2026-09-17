@@ -19,5 +19,5 @@ porta nel sobborgo cittadino dell'antica città di [[atlantide]]
 #### Phandanoland
 porta nel sobborgo della capitale del nord, [[phandanoland]]
 #### Phandasuland
-porta nel sobborgo della capitale del nord, [[phandasuland]]
+porta nel sobborgo della capitale del sud, [[phandasuland]]
 #endAccess  
