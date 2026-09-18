@@ -1,0 +1,20 @@
+{
+	"version": "v 0.1.26",
+	"date": "2026-09-18 23:31:40 +0200",
+	"commit_hash": "dadbf6d83506a38ba0378203bbb7d0c013a2ad49",
+	"commit_message": "aggiornamento 2026 09 18 23:31 [v 0.1.26] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "entita/demoni/asmodeus.md",
+			"display_name": "Asmodeus",
+			"status": "Modified",
+			"diff": "commit c882d7d61f79ad4b7a63d9fd03eafe6dfb2a4878\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 18 23:31:40 2026 +0200\n\n    aggiornamento 2026 09 18 23:31 [v 0.1.26] - added access visibility for marco at asmodeus\n\ndiff --git a/entita/demoni/asmodeus.md b/entita/demoni/asmodeus.md\nindex ff47da3..6a82c74 100644\n--- a/entita/demoni/asmodeus.md\n+++ b/entita/demoni/asmodeus.md\n@@ -1,8 +1,8 @@\n-#dm\n+#access-marcoFilippini\n Il più potente fra tutti i [[demone|demoni]] e signore di 9 inferni\n # storia\n da umano lui era [[nidave]].\n-il suo processo di demonizzazione dura solamente 55 anni (termina nel 57 [[calendario|DP]]), dopodichè comincia la sua scalata dell'inferno #startMaster  fino ad arrivare in cima alla catena alimentare infernale nel 357 [[calendario|DP]]. #endMaster \n+il suo processo di demonizzazione dura solamente 55 anni (termina nel 57 [[calendario|DP]]), dopo di che comincia la sua scalata dell'inferno fino ad arrivare in cima alla catena alimentare infernale nel 357 [[calendario|DP]].\n # famiglia\n molti demoni superiori sono suoi figli anche se non c'è propriamente un legame familiare all'interno di questa famiglia.\n soltanto alcuni figli nati dalla stessa madre (tendenzialmente se una demone minore) hanno un rapporto di fratellanza tra loro.\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/nidave.md",
+			"display_name": "Nidave",
+			"status": "Modified",
+			"diff": "commit c882d7d61f79ad4b7a63d9fd03eafe6dfb2a4878\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Sep 18 23:31:40 2026 +0200\n\n    aggiornamento 2026 09 18 23:31 [v 0.1.26] - added access visibility for marco at asmodeus\n\ndiff --git a/personaggi/non-giocanti/nidave.md b/personaggi/non-giocanti/nidave.md\nindex 2426254..bca3c79 100644\n--- a/personaggi/non-giocanti/nidave.md\n+++ b/personaggi/non-giocanti/nidave.md\n@@ -1,4 +1,4 @@\n-#dm\n+#access-marcoFilippini\n è un umano che nasce nel 50 [[calendario|AP]].\n durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]].\n durante tutta la sua vita negli artefici esplora tutto ciò che è legato al mondo dei demoni fino a che, quando muore nel 1 AP passa un mezzo secolo all'inferno in un processo di trasformazione in demone, dopodichè prende il nome di [[asmodeus]]\n"
+		}
+	]
+}
