@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.27",
+	"date": "2026-09-19 12:13:57 +0200",
+	"commit_hash": "4469824ea32c39ebfb12809f408ed5ab06ff3860",
+	"commit_message": "aggiornamento 2026 09 19 12:14 [v 0.1.27] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "sessione-0.md",
+			"display_name": "Sessione 0",
+			"status": "Added",
+			"diff": "commit 65379e060db3782bb8e3c88c85e50de439d72cdf\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sat Sep 19 12:13:57 2026 +0200\n\n    aggiornamento 2026 09 19 12:13 [v 0.1.27] - added summary of session 0\n\ndiff --git a/sessione-0.md b/sessione-0.md\nnew file mode 100644\nindex 0000000..4e1b162\n--- /dev/null\n+++ b/sessione-0.md\n@@ -0,0 +1,24 @@\n+# odg\n+- presentazione del mondo\n+\t- chi sono gli artefici\n+\t- spiegazione della frattura\n+\t- spiegazione delle purghe\n+\t- spiegazione del riunire i due universi alla fine della scorsa campagna\n+- decisione del livello di partenza\n+\t- 5°\n+- composizione del party:\n+\t- Cesar: guerriero samurai\n+\t- Giuseppe: barbaro via del gigante\n+\t- Marco: Warlock abissale patto della lama\n+\t- Giovanni: warlock con patrono in disgrazia\n+\t- Riccardo: Monaco fatto ???\n+- i pg vengono creati con [dnd 2024](https://media.dndbeyond.com/compendium-images/srd/5.2/IT_SRD_CC_v5.2.1.pdf) e non con il manuale 2014\n+\t- le caratteristiche sono fatte distribuendo 27 punti e partendo con tutte le caratteristiche a 8 senza costi aggiuntivi per i punteggi di caratteristica alti\n+\t- tutto il materiale compatibile è accettabile, basta che me lo sottoponiate prima e che chiedendomi se va bene mi facciate avere una fonte (che può essere il link al materiale homebrew o il nome del manuale da cui lo avete tirato fuori e la pagina del manuale in cui è spiegato)\n+- la storia girerà intorno a impedire a [[darkhen-rahl|Darkhen]] di risvegliarsi\n+- il tono della campagna è serio con vene ilari (tipo blockbuster/film MCU)\n+# obbiettivi che ci siamo dati:\n+## entro martedì/mercoledì di questa settimana\n+- fare la scheda del proprio pg\n+- mandarmi il background scritto bene\n+\t- restiamo elastici nel rapporto background reale del personaggio e il background scelto per i benefici durante la creazione del personaggio\n\\ No newline at end of file\n"
+		}
+	]
+}
