@@ -22,3 +22,9 @@
 - fare la scheda del proprio pg
 - mandarmi il background scritto bene
 	- restiamo elastici nel rapporto background reale del personaggio e il background scelto per i benefici durante la creazione del personaggio
+# house rule (ossia regole non di D&D ma che uso al mio tavolo)
+- `vantaggio cumulabile`: per ogni cosa che ti da vantaggio aggiungi un d20 e poi prendi il più alto, ignorando il limite di 2 d20
+- `svantaggio cumulabile`: per ogni cosa che ti da vantaggio aggiungi un d20 e poi prendi il più alto, ignorando il limite di 2 d20
+- `vulnerabilità cumulabile`: se più fonti ti rendono vulnerabile a un tipo di danno il danno viene moltiplicato per 2 per ogni fonte, non massimo una volta
+- `resistenza cumulabile`: se più fonti ti rendono resistente a un tipo di danno il danno viene diviso per 2 per ogni fonte, non massimo una volta
+- `All-In`: una volta per riposo lungo prima di tirare un d20 per una prova potete dichiarare `All-In`, quando lo fate al posto di tirare per la prova che dovreste fare tirate un d20 puro e si considererà come risultato il più vicino al risultato tra 1 e 20, per cui il risultato del tiro sarà o un successo epico o un fallimento incredibile
