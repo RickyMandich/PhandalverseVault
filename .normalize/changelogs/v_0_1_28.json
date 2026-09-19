@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.28",
+	"date": "2026-09-19 14:37:50 +0200",
+	"commit_hash": "7b3227aaa2555c4f263746460a19c379b6ff1e28",
+	"commit_message": "aggiornamento 2026 09 19 14:38 [v 0.1.28] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "sessione-0.md",
+			"display_name": "Sessione 0",
+			"status": "Modified",
+			"diff": "commit f81fb6350e8160d6fb463875a6bdfb7aba15e309\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Sat Sep 19 14:37:50 2026 +0200\n\n    aggiornamento 2026 09 19 14:37 [v 0.1.28] - added missing house rule to session 0 note\n\ndiff --git a/sessione-0.md b/sessione-0.md\nindex 4e1b162..45f6eea 100644\n--- a/sessione-0.md\n+++ b/sessione-0.md\n@@ -21,4 +21,10 @@\n ## entro martedì/mercoledì di questa settimana\n - fare la scheda del proprio pg\n - mandarmi il background scritto bene\n-\t- restiamo elastici nel rapporto background reale del personaggio e il background scelto per i benefici durante la creazione del personaggio\n\\ No newline at end of file\n+\t- restiamo elastici nel rapporto background reale del personaggio e il background scelto per i benefici durante la creazione del personaggio\n+# house rule (ossia regole non di D&D ma che uso al mio tavolo)\n+- `vantaggio cumulabile`: per ogni cosa che ti da vantaggio aggiungi un d20 e poi prendi il più alto, ignorando il limite di 2 d20\n+- `svantaggio cumulabile`: per ogni cosa che ti da vantaggio aggiungi un d20 e poi prendi il più alto, ignorando il limite di 2 d20\n+- `vulnerabilità cumulabile`: se più fonti ti rendono vulnerabile a un tipo di danno il danno viene moltiplicato per 2 per ogni fonte, non massimo una volta\n+- `resistenza cumulabile`: se più fonti ti rendono resistente a un tipo di danno il danno viene diviso per 2 per ogni fonte, non massimo una volta\n+- `All-In`: una volta per riposo lungo prima di tirare un d20 per una prova potete dichiarare `All-In`, quando lo fate al posto di tirare per la prova che dovreste fare tirate un d20 puro e si considererà come risultato il più vicino al risultato tra 1 e 20, per cui il risultato del tiro sarà o un successo epico o un fallimento incredibile\n\\ No newline at end of file\n"
+		}
+	]
+}
