@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "332b6e4c4f2bbdb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessione-0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sessione-0"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,20 +206,26 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "332b6e4c4f2bbdb6",
+  "active": "3e6228d859635414",
   "lastOpenFiles": [
+    "bash/d2utmpD7bw40",
+    "bash/d2utmpNaONUV",
+    "bash/d2utmp2UgMPR",
+    "bash/d2utmpuYTo3a",
+    "bash/d2utmppPC0rB",
+    "bash/d2utmp24pJ3B",
+    "bash/d2utmp3F85Ie",
+    "bash/d2utmpVT8J5m",
+    "bash/d2utmpTGck64",
+    "bash/d2utmpo3Y1tf",
+    "bash/d2utmpMgrdqj",
+    "definizioni/razze/tiefling.md",
+    "personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md",
+    "personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md",
     "todo.md",
     "sessione-0.md",
-    "bash/d2utmpuIvVRA",
-    "bash/d2utmpkfA45F",
-    "bash/d2utmpEIRZ8Z",
-    "bash/d2utmpIgsTod",
-    "bash/d2utmpTxpakS",
-    "bash/d2utmpRVZ3Y9",
     "entita/demoni/asmodeus.md",
     "personaggi/non-giocanti/nidave.md",
-    "bash/pull.sh~",
-    "bash/4913",
     "personaggi/non-giocanti/darkhen-rahl.md",
     "personaggi/organizzazioni-gruppi/artefici.md",
     "personaggi/giocanti/-warlock-umano-variante.md",
@@ -242,22 +234,16 @@
     "personaggi/giocanti/vala-khad-bardo-collegio-della-creazione-kalashtar.md",
     "personaggi/organizzazioni-gruppi/la-coalizione.md",
     "personaggi/non-giocanti/dark-nidave.md",
-    "personaggi/non-giocanti/dark-nidave.md.crdownload",
     "entita/ombra/signori-umbrico/signore-umbrico.md",
     "dominio.md",
     "saghe/moduli-non-usati/fandalmein/fandalmein.md",
     "personaggi/non-giocanti/atos.md",
     "materiale/incantesimi/tutti/osteourgia.md",
     "phandalverse.altervista.org/vault/materiale/incantesimi/osteourgia.md",
-    "phandalverse.altervista.org/vault/materiale/incantesimi",
     "personaggi/giocanti/kalpa-monaco-forma-astrale-drow.md",
     "universi/telaranrhiod.md",
     "definizioni/lich.md",
-    "definizioni/warforged.md",
-    "personaggi/gruppi-magici/fratelli-dei-lupi.md",
-    "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
-    "personaggi/organizzazioni-gruppi/bibliotecari.md",
-    "personaggi/non-giocanti/giorgia-rossato.md",
+    "definizioni/razze/warforged.md",
     "dungeon/castello-abbandonato-sul-dirupo-vicino-la-citta/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "dungeon/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",
     "universi/phandalmain/phandasuland/suddaria/castello-abbandonato-sul-dirupo-vicino-la-citta.png",

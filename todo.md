@@ -3,16 +3,21 @@
 	- [ ] scrivere definizione [[dominio-demoniaco]]
 	- [ ] scrivere definizione [[cacodemone]]
 	- [ ] scrivere definizione [[signore-dei-demoni]]
+- [x] scrivere [[tiefling]]
+- [x] organizzare definizioni in sottocartelle
 - party
 	- [ ] Cesar Romero
 		- [ ] manca background
 		- [ ] manca scheda pg
 	- [ ] Giuseppe Matranga
-		- [ ] manca background
+		- [x] manca background
+			- [ ] [[thurim]]
+			- [ ] [[yhun]]
+			- [ ] [[runna]]
 		- [ ] manca scheda pg
 	- [ ] Marco Filippini
-		- [ ] manca scheda pg
-		- [ ] manca background
+		- [x] manca scheda pg
+		- [x] manca background
 	- [ ] Giovanni Paneghal
 		- [ ] manca scheda pg
 		- [ ] manca background

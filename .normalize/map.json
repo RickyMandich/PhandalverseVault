@@ -34,8 +34,7 @@
 				"calendario.md": "Calendario",
 				"lich.md": "Lich",
 				"universo.md": "Universo",
-				"villaggio.md": "Villaggio",
-				"warforged.md": "Warforged"
+				"villaggio.md": "Villaggio"
 			},
 			"directories": {
 				"anima": {
@@ -47,6 +46,14 @@
 						"ka.md": "Ka",
 						"ren.md": "Ren",
 						"sheut.md": "Sheut"
+					},
+					"directories": {}
+				},
+				"razze": {
+					"original": "Razze",
+					"files": {
+						"tiefling.md": "Tiefling",
+						"warforged.md": "Warforged"
 					},
 					"directories": {}
 				},
@@ -145,6 +152,15 @@
 			"original": "Personaggi",
 			"files": {},
 			"directories": {
+				"giocanti": {
+					"original": "Giocanti",
+					"files": {
+						"sigil-quest-warlock-patto-della-lama-tiefling.md": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
+						"sigil-quest-warlock-patto-della-lama-tiefling.pdf": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
+						"tik-rok-barbaro-cammino-dei-giganti-halfling.md": "Tik Rok (Barbaro - Cammino Dei Giganti, Halfling)"
+					},
+					"directories": {}
+				},
 				"gruppi-magici": {
 					"original": "Gruppi Magici",
 					"files": {

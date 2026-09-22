@@ -1,0 +1,16 @@
+# background
+Nato nel quartiere più povero di una grande città, Sigil è un giovane [[tiefling]], agile e carismatico. Ha gli occhi rossi, i capelli viola e la carnagione scura. Le corna che caratterizzano la sua razza gli sono valse da bambino l'epiteto di "Caprone". Invece di offendersi, l'ha usato a lungo proprio come simbolo per firmare le proprie malefatte.
+
+Crescere in un grande polo mercantile gli ha dato ampie possibilità di affinare le sue abilità: ingannando e rubando frequentemente ai più benestanti, il cibo nello stomaco non è mai mancato, così come le storie – forse leggermente ingigantite – da raccontare ad amici e colleghi. 
+
+Tuttavia, nonostante le sue indiscutibili doti carismatiche, ha vissuto da reietto per tutta la vita, costretto a sopportare le occhiate torve della gente comune, la quale vedeva in lui non solo un furfante, ma anche e soprattutto un mostro dal quale stare alla larga. I pochi che non lo fissavano con disprezzo lo bollavano semplicemente come “stranezza”, vista la rarità della sua razza maledetta. Nessuno gli ha mai teso la mano per aiutarlo, nemmeno nei momenti di maggior bisogno. Se non altro, l'essere cresciuto escluso dalla società gli ha insegnato bene a badare a sé stesso e ad ignorare – o quanto meno a sopportare con malcelato fastidio – gli sguardi ostili altrui. 
+
+In cuor suo, Sigil ha sempre desiderato trovare un luogo dove sentirsi davvero a casa, camminando per strada con libertà e orgoglio, senza dover più rubare e ingannare per sopravvivere. Ha sempre voluto dimostrare – agli altri ma in primis a sé stesso – di essere degno di una vita migliore, e che non sono le condizioni della tua nascita a dire chi sei davvero. 
+
+E fu proprio una notte, dopo essersi addormentato con questi pensieri, che gli apparve in sogno Asmodeus, il Signore dei Nove Inferi. Questi, facendo leva sia sui suoi desideri che soprattutto sul suo retaggio infernale, mostrò al giovane l'unico luogo di tutto il multiverso dove non si sarebbe mai sentito fuori posto: un luogo misterioso e pericoloso, dove però ogni razza si mescola liberamente alle altre, in una cornucopia di usi, costumi e lingue diverse. Quel luogo è Sigil, la Città delle Porte, il cui nome il tiefling prese come proprio, unito alla virtù “Quest” ad indicare la centralità della sua missione, e abbandonando completamente la sua vecchia identità. 
+
+Non è chiaro per quale motivo il Principe del Male dovrebbe essere interessato ad aiutare un ladruncolo a raggiungere un luogo tanto leggendario e difficilmente accessibile. Forse vuole solo aiutare uno sfortunato reietto, macchiato dal sangue infernale. O forse, più probabilmente, nutre delle mire segrete sulla città governata dalla terribile Signora del Dolore, e gli farebbe molto comodo avere un proprio uomo all’interno che possa vedere e sentire ciò che a lui è precluso e, soprattutto, eseguire i suoi ordini alla lettera.
+
+Quali che siano gli scopi di Asmodeus, la tentazione è troppo forte perché Sigil possa ignorarla. La Città delle Porte è esattamente il luogo che egli aveva sempre sognato, e non si darà pace finché non l’avrà raggiunta. Fino a quel giorno, eseguirà tutte le volontà del proprio Patrono Immondo, con il cuore già fisso sull’obiettivo. Nulla è più importante della sua missione. 
+
+# campagna
