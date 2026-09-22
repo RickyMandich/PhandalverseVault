@@ -1,0 +1,74 @@
+{
+	"version": "v 0.1.31",
+	"date": "2026-09-22 20:29:20 +0200",
+	"commit_hash": "df3e6c4ed62016f6a9ba9da430cdb3847338b221",
+	"commit_message": "aggiornamento 2026 09 22 20:29 [v 0.1.31] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md",
+			"display_name": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
+			"status": "Modified",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md b/personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md\nindex 13a883f..9ca288e 100644\n--- a/personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md\n+++ b/personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md\n@@ -1,3 +1,4 @@\n+[[sigil-quest-warlock-patto-della-lama-tiefling.pdf|Marco Filippini]]\n # background\n Nato nel quartiere più povero di una grande città, Sigil è un giovane [[tiefling]], agile e carismatico. Ha gli occhi rossi, i capelli viola e la carnagione scura. Le corna che caratterizzano la sua razza gli sono valse da bambino l'epiteto di \"Caprone\". Invece di offendersi, l'ha usato a lungo proprio come simbolo per firmare le proprie malefatte.\n \n"
+		},
+		{
+			"file": "personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md",
+			"display_name": "Tik Rok (Barbaro - Cammino Dei Giganti, Halfling)",
+			"status": "Modified",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md b/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md\nindex a491d1c..9830657 100644\n--- a/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md\n+++ b/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md\n@@ -1,3 +1,4 @@\n+[[|Giuseppe Matranga]]\n # Background \n ## 1334 [[calendario|DP]]\n [[yhun]] e [[thurim]], due giganti di fuoco, trovano tik quando era ancora in fasce ai bordi della strada che portava al loro villaggio, senza nulla di scritto o altro, tranne per un piccolo ciondolo inciso con il simbolo del dio TYR e con dietro un nome: TIK ROK. \n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/tik-rok/runna.md",
+			"display_name": "Runna",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/personaggi/non-giocanti/background-pg/tik-rok/runna.md b/personaggi/non-giocanti/background-pg/tik-rok/runna.md\nnew file mode 100644\nindex 0000000..c873471\n--- /dev/null\n+++ b/personaggi/non-giocanti/background-pg/tik-rok/runna.md\n@@ -0,0 +1 @@\n+è un'umana\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/tik-rok/thurim.md",
+			"display_name": "Thurim",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/personaggi/non-giocanti/background-pg/tik-rok/thurim.md b/personaggi/non-giocanti/background-pg/tik-rok/thurim.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/tik-rok/yhun.md",
+			"display_name": "Yhun",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/personaggi/non-giocanti/background-pg/tik-rok/yhun.md b/personaggi/non-giocanti/background-pg/tik-rok/yhun.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/algariani.md",
+			"display_name": "Algariani",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/personaggi/organizzazioni-gruppi/algariani.md b/personaggi/organizzazioni-gruppi/algariani.md\nnew file mode 100644\nindex 0000000..1da82dc\n--- /dev/null\n+++ b/personaggi/organizzazioni-gruppi/algariani.md\n@@ -0,0 +1,2 @@\n+sono una serie di tribù nomadi che ha centrato la loro società intorno ai cavalli e al combattimento che vive nella [[pianura-orientale]] e che è sempre riuscito a evitare che chiunque riuscisse a stanziarsi sul loro territorio anche senza loro essere un vero e proprio regno.\n+al centro della pianura hanno costruito il castello di [[algaria]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/todo.md b/todo.md\nindex ddbf1f7..3033385 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -9,13 +9,14 @@\n \t- [ ] Cesar Romero\n \t\t- [ ] manca background\n \t\t- [ ] manca scheda pg\n-\t- [ ] Giuseppe Matranga\n+\t- [ ] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]\n \t\t- [x] manca background\n \t\t\t- [ ] [[thurim]]\n \t\t\t- [ ] [[yhun]]\n \t\t\t- [ ] [[runna]]\n+\t\t\t- [ ] scrivere [[runa-dell-adattamento]]\n \t\t- [ ] manca scheda pg\n-\t- [ ] Marco Filippini\n+\t- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]\n \t\t- [x] manca scheda pg\n \t\t- [x] manca background\n \t- [ ] Giovanni Paneghal\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/algaria.md",
+			"display_name": "Algaria",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/universi/phandalmain/phandanoland/algaria.md b/universi/phandalmain/phandanoland/algaria.md\nnew file mode 100644\nindex 0000000..2b5ef06\n--- /dev/null\n+++ b/universi/phandalmain/phandanoland/algaria.md\n@@ -0,0 +1,2 @@\n+è un castello al centro della [[pianura-orientale]] che in realtà non è abitato da nessuno ed è stato creato solo per prendere in giro i potenziali invasori facendogli credere che esista un luogo da conquistare per poi sconfiggerli in battaglia.\n+il castello viene usato a questo scopo da tutte le tribù che non litigano per esso, anzi, fanno a gara a chi ci costruisce la torre più alta alzando di alcuni metri alla volta la loro rispettiva torre\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandanoland/pianura-orientale.md",
+			"display_name": "Pianura Orientale",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/universi/phandalmain/phandanoland/pianura-orientale.md b/universi/phandalmain/phandanoland/pianura-orientale.md\nnew file mode 100644\nindex 0000000..9ccec06\n--- /dev/null\n+++ b/universi/phandalmain/phandanoland/pianura-orientale.md\n@@ -0,0 +1,2 @@\n+è una vastissima pianura che si trova a nordest del continente, ufficialmente non fa parte di nessun regno in quanto vi abitano le tribù nomadi degli [[algariani]] che hanno fatto dei cavalli il centro della loro società e che non sono mai state conquistate in quanto non posseggono veri villaggi da conquistare e a ogni tentativo di creazione di insediamenti nelle loro pianure hanno reagito violentemente rendendone di fatto impossibile la colonizzazione e rifiutano ti avere qualsiasi forma di comunicazione non violenta con chiunque non abbia scopi esclusivamente commerciali\n+non è un regno a sé stante solo perché vi sono molte tribù diverse che non sono mai riuscite a restare d'accordo abbastanza a lungo da instaurare una forma di governo.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/phandasuland/deserto-occidentale.md",
+			"display_name": "Deserto Occidentale",
+			"status": "Added",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/universi/phandalmain/phandasuland/deserto-occidentale.md b/universi/phandalmain/phandasuland/deserto-occidentale.md\nnew file mode 100644\nindex 0000000..5e9e32a\n--- /dev/null\n+++ b/universi/phandalmain/phandasuland/deserto-occidentale.md\n@@ -0,0 +1,2 @@\n+è un deserto che si trova a sudovest del continente, ufficialmente fa parte del regno di [[phandasuland]] ma non essendoci nulla rilevante non ha mai fatto valere i suoi diritti di proprietà.\n+non è un regno a sé stante solo perché non c'è nessuno di così pazzo da viverci in pianta stabile.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+			"display_name": "Sacra Biblioteca Perduta Salvata Di Atlantide",
+			"status": "Modified",
+			"diff": "commit b383ae2055aaedf5353e57413b5015bc9ec60421\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 22 20:29:20 2026 +0200\n\n    aggiornamento 2026 09 22 20:29 [v 0.1.31] - done some change for pg and png and retconned map adding desert and plains, added context for plains and desert\n\ndiff --git a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\nindex 8cef307..7ae7258 100644\n--- a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n+++ b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n@@ -1,20 +1,23 @@\n+#access-bibliotecari\n una biblioteca magica che contiene almeno una copia di almeno una versione di ogni libro scritto in ogni mondo di questo universo\n La sua esistenza è un segreto ben custodito e ad ora conosciuto a pochi e tra chi sapeva dalle sua esistenza molti ora credono sia andata distrutta con la distruzione di [[Atlantide]], invece si è solo spostata.\n-#startMaster \n+#startAccess-bibliotecari   \n Ora esiste fisicamente solo il suo ingresso, la biblioteca in sé si trova in uno spazio extradimensionale\n sede storica dei [[bibliotecari]]\n-#endMaster \n+#endAccess  \n la custode della biblioteca è [[giorgia-rossato]].\n Alle stanze della biblioteca piace cambiare, per cui non è possibile fare una mappa reale della biblioteca.\n # stanze\n-#startMaster \n+#startAccess-bibliotecari  \n ## teleroom\n è una stanza che ha come forma un poligono con troppi lati per poterli contare tutti, ognuno di questi lati è lungo circa 4m e si compone in questo modo: circa mezzo metro tra i due angoli della stanza alla parte più alta dell'inizio dell'arco gotico da ogni lato, poi l'arco si alza per circa 4 metri (per cui la base dell'arco è di 3 metri) e, nel caso in cui il portale di quella parete è attivo, dall'arco, verso l'esterno, c'è una luce bluastra (tipo i neon sotto le macchine da corsa anni 2000) e una striscia di pergamena che sembra volare immobile nella parte alta dell'arco con i due estremi arrotolati e con su scritto la destinazione di quel portale, sulla sinistra di ogni portale si alza un supporto della stessa pietra magica che compone tutti i muri della biblioteca e i portali che finisce con una superficie piana larga quanto la mano di una creatura umanoide di taglia grande che serve per attivare il portale.\n nel corso dei secoli (soprattutto durante l'[[epoca-leggendaria]]) i portali attivi sono arrivati ad essere tanti quanti i portali totali di quella stanza\n ### portali attivi\n-ora i portali attivi sono 2\n+ora i portali attivi sono 3\n #### Atlantide\n porta nel sobborgo cittadino dell'antica città di [[atlantide]]\n-#### Laboratorio di [[Roshi]]\n-porta nel laboratorio di [[roshi]], dove [[la-mano-rossa]] ha stabilito la sua base operativa\n-#endMaster \n\\ No newline at end of file\n+#### Phandanoland\n+porta nel sobborgo della capitale del nord, [[phandanoland]]\n+#### Phandasuland\n+porta nel sobborgo della capitale del sud, [[phandasuland]]\n+#endAccess  \n\\ No newline at end of file\n"
+		}
+	]
+}
