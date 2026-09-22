@@ -1,0 +1,2 @@
+sono una serie di tribù nomadi che ha centrato la loro società intorno ai cavalli e al combattimento che vive nella [[pianura-orientale]] e che è sempre riuscito a evitare che chiunque riuscisse a stanziarsi sul loro territorio anche senza loro essere un vero e proprio regno.
+al centro della pianura hanno costruito il castello di [[algaria]]

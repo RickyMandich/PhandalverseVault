@@ -178,11 +178,28 @@
 						"nidave.md": "Nidave",
 						"roshi.md": "Roshi"
 					},
-					"directories": {}
+					"directories": {
+						"background-pg": {
+							"original": "Background Pg",
+							"files": {},
+							"directories": {
+								"tik-rok": {
+									"original": "Tik Rok",
+									"files": {
+										"runna.md": "Runna",
+										"thurim.md": "Thurim",
+										"yhun.md": "Yhun"
+									},
+									"directories": {}
+								}
+							}
+						}
+					}
 				},
 				"organizzazioni-gruppi": {
 					"original": "Organizzazioni e Gruppi",
 					"files": {
+						"algariani.md": "Algariani",
 						"artefici.md": "Artefici",
 						"bibliotecari.md": "Bibliotecari",
 						"gli-asmodeici.md": "Gli Asmodeici",
@@ -246,10 +263,12 @@
 						"phandanoland": {
 							"original": "Phandanoland",
 							"files": {
+								"algaria.md": "Algaria",
 								"Cristalgrave.md": "Cristalgrave",
 								"morkhaus.md": "Morkhaus",
 								"Nordavilla.md": "Nordavilla",
 								"phandanoland.md": "Phandanoland",
+								"pianura-orientale.md": "Pianura Orientale",
 								"profondahar.md": "Profondahar",
 								"Settentrionelle.md": "Settentrionelle"
 							},
@@ -258,6 +277,7 @@
 						"phandasuland": {
 							"original": "Phandasuland",
 							"files": {
+								"deserto-occidentale.md": "Deserto Occidentale",
 								"GemGrave.md": "Gemgrave",
 								"Meridionelle.md": "Meridionelle",
 								"phandasuland.md": "Phandasuland",

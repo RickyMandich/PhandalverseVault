@@ -1,3 +1,4 @@
+[[sigil-quest-warlock-patto-della-lama-tiefling.pdf|Marco Filippini]]
 # background
 Nato nel quartiere più povero di una grande città, Sigil è un giovane [[tiefling]], agile e carismatico. Ha gli occhi rossi, i capelli viola e la carnagione scura. Le corna che caratterizzano la sua razza gli sono valse da bambino l'epiteto di "Caprone". Invece di offendersi, l'ha usato a lungo proprio come simbolo per firmare le proprie malefatte.
 

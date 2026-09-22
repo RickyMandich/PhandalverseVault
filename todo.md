@@ -9,13 +9,14 @@
 	- [ ] Cesar Romero
 		- [ ] manca background
 		- [ ] manca scheda pg
-	- [ ] Giuseppe Matranga
+	- [ ] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]
 		- [x] manca background
 			- [ ] [[thurim]]
 			- [ ] [[yhun]]
 			- [ ] [[runna]]
+			- [ ] scrivere [[runa-dell-adattamento]]
 		- [ ] manca scheda pg
-	- [ ] Marco Filippini
+	- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]
 		- [x] manca scheda pg
 		- [x] manca background
 	- [ ] Giovanni Paneghal

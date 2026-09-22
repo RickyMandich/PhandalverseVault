@@ -1,3 +1,4 @@
+[[|Giuseppe Matranga]]
 # Background 
 ## 1334 [[calendario|DP]]
 [[yhun]] e [[thurim]], due giganti di fuoco, trovano tik quando era ancora in fasce ai bordi della strada che portava al loro villaggio, senza nulla di scritto o altro, tranne per un piccolo ciondolo inciso con il simbolo del dio TYR e con dietro un nome: TIK ROK. 

@@ -1,0 +1,2 @@
+è un deserto che si trova a sudovest del continente, ufficialmente fa parte del regno di [[phandasuland]] ma non essendoci nulla rilevante non ha mai fatto valere i suoi diritti di proprietà.
+non è un regno a sé stante solo perché non c'è nessuno di così pazzo da viverci in pianta stabile.
