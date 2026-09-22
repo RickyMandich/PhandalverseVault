@@ -1,1 +1,0 @@
-![[materiale/incantesimi/tutti/muro-di-forza]]

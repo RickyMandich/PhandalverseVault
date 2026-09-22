@@ -1,1 +1,0 @@
-![[materiale/incantesimi/artefice/dardo-incantato]]
