@@ -1,7 +1,0 @@
-| saga precedente | saga successiva |    macrosaga di appartenenza    |
-| :-------------: | :-------------: | :-----------------------------: |
-|     nessuna     | nessuna         | [[01-macrosaga-del-filatterio]] |
-# sessioni
-## sessione di mercoledì 2026 09 16
-i membri de [[il-party]] si dirigono separatamente a [[atlantide]] (ancora non si conoscono) e qui si trovano ognuno in una delle 3 torri degli artefici e esplorando si ritrovano a superare degli ostacoli, alcuni con successo, altri senza, per poi trovarsi davanti a [[atos]], unico abitante di [[atlantide]] che sta accumulando potere e che è sulla strada per diventare un [[lich]], infatti cerca di catturarli per usare le loro anime per creare il suo [[filatterio]]. dopo che i tre riescono a evadere dalle celle in cui erano stati messi scappano perchè si rendono conto che al momento non potrebbero mai affrontare atos.
-quando riescono ad arrivare ai confini dell'isola e cominciano a prendere un po' di respiro presentandosi l'un l'altro e capendo perchè erano lì [[simulacro]] li preleva e si presenta loro proponendogli di collaborare per vendicarsi di Atos, e accettando il party si fa portare alla [[sacra-biblioteca-perduta-salvata-di-atlantide]], dimora di [[vala-khad-bardo-collegio-della-creazione-kalashtar]], unico membro del gruppo ad avere una dimora che non sia una locanda

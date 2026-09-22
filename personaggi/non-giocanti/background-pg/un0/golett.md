@@ -1,1 +1,0 @@
-è un nano [[artefici|artefice]] che vive a nord durante l'ultimo periodo di esistenza della sua organizzazione, l'ultima cosa che fa quando era in vita è accendere per la prima volta [[un0-3-guerriero-maestro-della-battaglia-warforged]] e dargli l'ordine di "proteggere gli artefici"

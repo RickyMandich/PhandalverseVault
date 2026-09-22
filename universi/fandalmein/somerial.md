@@ -1,2 +1,0 @@
-#dm
-è il lago al centro del continente di [[universi/fandalmein/fandalmein]]

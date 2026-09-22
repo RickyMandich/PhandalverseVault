@@ -1,1 +1,0 @@
-è la fossa oceanica più profonda di questo mondo

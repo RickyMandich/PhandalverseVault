@@ -1,1 +1,0 @@
-Il cuore, sede della coscienza, delle emozioni e della moralità. É la parte dell'anima presa in considerazione quando si fanno ragionamenti relativi a moralità e purezza di cuore

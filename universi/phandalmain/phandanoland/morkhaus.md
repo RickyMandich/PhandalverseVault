@@ -1,1 +1,0 @@
-villaggio dove vivono [[gli-asmodeici]], si trova tra le montagne che coprono la parte nord del continente
