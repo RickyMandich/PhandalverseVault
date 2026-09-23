@@ -13,7 +13,7 @@
 		- [x] manca background
 			- [ ] [[thurim]]
 			- [ ] [[yhun]]
-			- [ ] [[runna]]
+			- [x] [[runna]]
 			- [ ] scrivere [[runa-dell-adattamento]]
 		- [ ] manca scheda pg
 	- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]

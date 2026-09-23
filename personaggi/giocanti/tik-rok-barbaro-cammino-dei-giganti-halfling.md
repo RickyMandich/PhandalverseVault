@@ -17,8 +17,8 @@ Dai suoi 35 anni cominciò ad andare all'avventura assieme alla sua maestra e i 
 - una borsa carica della magia dei giganti, che riusciva a contenere
 
 durante i primi 15 anni di avventura esplorano il mondo in lungo in largo entrando in contatto con molte razze e culture diverse e resta affascinato dagli elfi, infatti negli anni cerca sempre di farsene amici il più possibile
-## 1384 [[calendario|DP]]
-Quando raggiunge i cinquant’anni, la sua maestra gli dice che ormai aveva imparato tutto quello che gli poteva insegnare e gli dice di continuare da solo che lei avrebbe appeso l'ascia al chiodo per un po'. Tik continua a vivere come avventuriero, ma tornava frequentemente a casa dai suoi genitori. 
+## 1385 [[calendario|DP]]
+Quando raggiunge i cinquantun anni, la sua maestra gli dice che ormai aveva imparato tutto quello che gli poteva insegnare e gli dice di continuare da solo che lei avrebbe appeso l'ascia al chiodo per un po'. Tik continua a vivere come avventuriero, ma tornava frequentemente a casa dai suoi genitori. 
 ## 1395 [[calendario|DP]]
 Quando compì il suo sessantunesimo compleanno, ricevette una lettera da Runna in cui gli diceva che qualcosa di grave stava per accadere e di non cercarla, ma di stare attento a quello che succedeva intorno a lui e soprattutto di trovare alleati che lo potessero supportare per quello che stava per arrivare.
 
