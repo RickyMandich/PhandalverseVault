@@ -1,0 +1,32 @@
+{
+	"version": "v 0.1.33",
+	"date": "2026-09-23 08:05:45 +0200",
+	"commit_hash": "1ee591ac6447a5d5582b8fb13c2fe8ba44825350",
+	"commit_message": "aggiornamento 2026 09 23 08:05 [v 0.1.33] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "artefatti/magici/runa-dell-adattamento.md",
+			"display_name": "Runa",
+			"status": "Added",
+			"diff": "commit c6acbe20290d22782596754ee6c313bf9bb4fd51\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 08:05:45 2026 +0200\n\n    aggiornamento 2026 09 23 08:05 [v 0.1.33] - aggiunti pezzi mancanti per tik (genitori e artefatto)\n\ndiff --git a/artefatti/magici/runa-dell-adattamento.md b/artefatti/magici/runa-dell-adattamento.md\nnew file mode 100644\nindex 0000000..92f8d5f\n--- /dev/null\n+++ b/artefatti/magici/runa-dell-adattamento.md\n@@ -0,0 +1,2 @@\n+è un ciondolo in pietra che fa in modo che tutto ciò che viene indossato o toccato da chi lo indossa adatti le sue dimensioni a quelle del proprietario\n+![[runa-dell-adattamento.jpg]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/tik-rok/thurim.md",
+			"display_name": "Thurim",
+			"status": "Modified",
+			"diff": "commit c6acbe20290d22782596754ee6c313bf9bb4fd51\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 08:05:45 2026 +0200\n\n    aggiornamento 2026 09 23 08:05 [v 0.1.33] - aggiunti pezzi mancanti per tik (genitori e artefatto)\n\ndiff --git a/personaggi/non-giocanti/background-pg/tik-rok/thurim.md b/personaggi/non-giocanti/background-pg/tik-rok/thurim.md\nindex e69de29..08be49a 100644\n--- a/personaggi/non-giocanti/background-pg/tik-rok/thurim.md\n+++ b/personaggi/non-giocanti/background-pg/tik-rok/thurim.md\n@@ -0,0 +1 @@\n+è un gigante del fuoco di [[musphel]] e padre adottivo di [[tik-rok-barbaro-cammino-dei-giganti-halfling]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/tik-rok/yhun.md",
+			"display_name": "Yhun",
+			"status": "Modified",
+			"diff": "commit c6acbe20290d22782596754ee6c313bf9bb4fd51\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 08:05:45 2026 +0200\n\n    aggiornamento 2026 09 23 08:05 [v 0.1.33] - aggiunti pezzi mancanti per tik (genitori e artefatto)\n\ndiff --git a/personaggi/non-giocanti/background-pg/tik-rok/yhun.md b/personaggi/non-giocanti/background-pg/tik-rok/yhun.md\nindex e69de29..fc1b9f0 100644\n--- a/personaggi/non-giocanti/background-pg/tik-rok/yhun.md\n+++ b/personaggi/non-giocanti/background-pg/tik-rok/yhun.md\n@@ -0,0 +1 @@\n+è una gigantessa del fuoco di [[musphel]] e madre adottiva di [[tik-rok-barbaro-cammino-dei-giganti-halfling]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit c6acbe20290d22782596754ee6c313bf9bb4fd51\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 08:05:45 2026 +0200\n\n    aggiornamento 2026 09 23 08:05 [v 0.1.33] - aggiunti pezzi mancanti per tik (genitori e artefatto)\n\ndiff --git a/todo.md b/todo.md\nindex d3c3f29..7aeec83 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -11,10 +11,10 @@\n \t\t- [ ] manca scheda pg\n \t- [ ] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]\n \t\t- [x] manca background\n-\t\t\t- [ ] [[thurim]]\n-\t\t\t- [ ] [[yhun]]\n+\t\t\t- [x] [[thurim]]\n+\t\t\t- [x] [[yhun]]\n \t\t\t- [x] [[runna]]\n-\t\t\t- [ ] scrivere [[runa-dell-adattamento]]\n+\t\t\t- [x] scrivere [[runa-dell-adattamento]]\n \t\t- [ ] manca scheda pg\n \t- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]\n \t\t- [x] manca scheda pg\n"
+		}
+	]
+}
