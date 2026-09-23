@@ -11,10 +11,10 @@
 		- [ ] manca scheda pg
 	- [ ] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]
 		- [x] manca background
-			- [ ] [[thurim]]
-			- [ ] [[yhun]]
+			- [x] [[thurim]]
+			- [x] [[yhun]]
 			- [x] [[runna]]
-			- [ ] scrivere [[runa-dell-adattamento]]
+			- [x] scrivere [[runa-dell-adattamento]]
 		- [ ] manca scheda pg
 	- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]
 		- [x] manca scheda pg

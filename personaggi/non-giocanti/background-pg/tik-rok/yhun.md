@@ -1,0 +1,1 @@
+è una gigantessa del fuoco di [[musphel]] e madre adottiva di [[tik-rok-barbaro-cammino-dei-giganti-halfling]]

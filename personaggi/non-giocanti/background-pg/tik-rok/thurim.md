@@ -1,0 +1,1 @@
+è un gigante del fuoco di [[musphel]] e padre adottivo di [[tik-rok-barbaro-cammino-dei-giganti-halfling]]
