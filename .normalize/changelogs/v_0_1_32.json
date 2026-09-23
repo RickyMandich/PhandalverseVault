@@ -1,0 +1,26 @@
+{
+	"version": "v 0.1.32",
+	"date": "2026-09-23 07:45:50 +0200",
+	"commit_hash": "aab35bd0f112e8dd2ceedab8dd9b9ce0c0c12bb1",
+	"commit_message": "aggiornamento 2026 09 23 07:45 [v 0.1.32] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md",
+			"display_name": "Tik Rok (Barbaro - Cammino Dei Giganti, Halfling)",
+			"status": "Modified",
+			"diff": "commit 9617eccdb61df7c664d28ce8354d7216ea55af54\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 07:45:50 2026 +0200\n\n    aggiornamento 2026 09 23 07:45 [v 0.1.32] - added runna content, updated Tik for some year fix, updated todo\n\ndiff --git a/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md b/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md\nindex 9830657..30477be 100644\n--- a/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md\n+++ b/personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md\n@@ -17,8 +17,8 @@ Dai suoi 35 anni cominciò ad andare all'avventura assieme alla sua maestra e i\n - una borsa carica della magia dei giganti, che riusciva a contenere\n \n durante i primi 15 anni di avventura esplorano il mondo in lungo in largo entrando in contatto con molte razze e culture diverse e resta affascinato dagli elfi, infatti negli anni cerca sempre di farsene amici il più possibile\n-## 1384 [[calendario|DP]]\n-Quando raggiunge i cinquant’anni, la sua maestra gli dice che ormai aveva imparato tutto quello che gli poteva insegnare e gli dice di continuare da solo che lei avrebbe appeso l'ascia al chiodo per un po'. Tik continua a vivere come avventuriero, ma tornava frequentemente a casa dai suoi genitori. \n+## 1385 [[calendario|DP]]\n+Quando raggiunge i cinquantun anni, la sua maestra gli dice che ormai aveva imparato tutto quello che gli poteva insegnare e gli dice di continuare da solo che lei avrebbe appeso l'ascia al chiodo per un po'. Tik continua a vivere come avventuriero, ma tornava frequentemente a casa dai suoi genitori. \n ## 1395 [[calendario|DP]]\n Quando compì il suo sessantunesimo compleanno, ricevette una lettera da Runna in cui gli diceva che qualcosa di grave stava per accadere e di non cercarla, ma di stare attento a quello che succedeva intorno a lui e soprattutto di trovare alleati che lo potessero supportare per quello che stava per arrivare.\n \n"
+		},
+		{
+			"file": "personaggi/non-giocanti/background-pg/tik-rok/runna.md",
+			"display_name": "Runna",
+			"status": "Modified",
+			"diff": "commit 9617eccdb61df7c664d28ce8354d7216ea55af54\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 07:45:50 2026 +0200\n\n    aggiornamento 2026 09 23 07:45 [v 0.1.32] - added runna content, updated Tik for some year fix, updated todo\n\ndiff --git a/personaggi/non-giocanti/background-pg/tik-rok/runna.md b/personaggi/non-giocanti/background-pg/tik-rok/runna.md\nindex c873471..ef9475c 100644\n--- a/personaggi/non-giocanti/background-pg/tik-rok/runna.md\n+++ b/personaggi/non-giocanti/background-pg/tik-rok/runna.md\n@@ -1 +1,11 @@\n-è un'umana\n\\ No newline at end of file\n+è un'[[algariani|algariana]] umana che nasce nel 1325 [[calendario|DP]] e che appena raggiunge i vent'anni comincia a viaggiare per il mondo conducendo una vita da avventuriera vagando ogni volta dove pagavano meglio e dove c'era bisogno di lei.\n+# 1355 [[calendario|DP]]\n+Compie una missione per conto di alcuni giganti che quindi la riconoscono al pari loro e come membra onoraria della tribù e in questo modo acquisisce la capacità di gigantificarsi.\n+# 1364 [[calendario|DP]]\n+prende [[tik-rok-barbaro-cammino-dei-giganti-halfling]] come allievo e lo addestra nelle arti della spada e della gigantificazione\n+# 1385 [[calendario|DP]]\n+avendo ormai raggiunto i suoi 60 anni e avendo insegnato tutto quello che poteva a Tik decide di appendere l'ascia al chiodo e vedere cosa volesse dire vivere una vita normale\n+#startMaster \n+# 1395 [[calendario|DP]]\n+un artefatto che gli era stato dato come parte di ricompensa per aver aiutato un [[artefici|artefice]] e che aveva la capacità di rilevare quando una minaccia di livello globale si sarebbe presentata e di che tipo è la avverte che un [[lich]] molto potente si sta cominciando a svegliare per cui lei decide di mandare una lettera di avvertimento a Tik e di riprendere in mano l'ascia per l'ultima volta per salvare il mondo da questo pericolo\n+#endMaster \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 9617eccdb61df7c664d28ce8354d7216ea55af54\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 23 07:45:50 2026 +0200\n\n    aggiornamento 2026 09 23 07:45 [v 0.1.32] - added runna content, updated Tik for some year fix, updated todo\n\ndiff --git a/todo.md b/todo.md\nindex 3033385..d3c3f29 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -13,7 +13,7 @@\n \t\t- [x] manca background\n \t\t\t- [ ] [[thurim]]\n \t\t\t- [ ] [[yhun]]\n-\t\t\t- [ ] [[runna]]\n+\t\t\t- [x] [[runna]]\n \t\t\t- [ ] scrivere [[runa-dell-adattamento]]\n \t\t- [ ] manca scheda pg\n \t- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]\n"
+		}
+	]
+}
