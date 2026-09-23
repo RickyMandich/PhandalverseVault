@@ -6,9 +6,11 @@
 - [x] scrivere [[tiefling]]
 - [x] organizzare definizioni in sottocartelle
 - party
-	- [ ] Cesar Romero
-		- [ ] manca background
-		- [ ] manca scheda pg
+	- [x] [[kurnos-guerriero-samurai-elfo-silvano|Cesar Romero]]
+		- [x] manca background
+			- [x] [[silviridhe]]
+			- [x] [[eda]]
+		- [x] manca scheda pg
 	- [ ] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]
 		- [x] manca background
 			- [x] [[thurim]]
@@ -16,7 +18,7 @@
 			- [x] [[runna]]
 			- [x] scrivere [[runa-dell-adattamento]]
 		- [ ] manca scheda pg
-	- [ ] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]
+	- [x] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]
 		- [x] manca scheda pg
 		- [x] manca background
 	- [ ] Giovanni Paneghal

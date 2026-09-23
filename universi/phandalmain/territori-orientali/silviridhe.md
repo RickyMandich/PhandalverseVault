@@ -1,0 +1,1 @@
+è un [[villaggio]] elfico che si trova nella foresta tra le montagne dei territori orientali, il territorio controllato dalle tribù di [[algariani]] e la costa orientale del continente

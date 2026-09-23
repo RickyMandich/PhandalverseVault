@@ -3,7 +3,9 @@
 ## 1334 [[calendario|DP]]
 [[yhun]] e [[thurim]], due giganti di fuoco, trovano tik quando era ancora in fasce ai bordi della strada che portava al loro villaggio, senza nulla di scritto o altro, tranne per un piccolo ciondolo inciso con il simbolo del dio TYR e con dietro un nome: TIK ROK. 
 
-Crebbero Tik facendolo sempre sentire a casa e amato, limitando la loro natura focosa e rendendo ciò che li circondava alla sua portata anche se lui non si sentì mai veramente interato nel villaggio vista la notevole differenza di dimensioni con gli altri abitanti, anche se non lo fa mai notare a nessuno  
+Crebbero Tik facendolo sempre sentire a casa e amato, limitando la loro natura focosa e rendendo ciò che li circondava alla sua portata anche se lui non si sentì mai veramente interato nel villaggio vista la notevole differenza di dimensioni con gli altri abitanti, anche se non lo fa mai notare a nessuno
+## 1337 [[calendario|DP]]
+dei giganti amici di famiglia con molti tesori frutto di grandi avventure in gioventù regalano a Tik per il 3° compleanno una [[runa-dell-adattamento]], così che possa vivere più facilmente al villaggio
 ## 1364 [[calendario|DP]]
 Tutto cambiò all’età di trent'anni, quando apparve [[runna]] che secondo quanto gli era stato detto era stata talmente valorosa da essere considerata dai giganti come una di loro. 
 
@@ -11,10 +13,10 @@ Non era la prima umanoide non gigante che incontrava, però per lei sviluppò pr
 
 Tik si fece addestrare da lei per poter imparare a ingigantirsi a sua volta, assieme passarono anni ad allenarsi duramente e, con il tempo, rinforzò il corpo e lo spirito, che già era forte e gentile, cosa che Runna apprezzava molto di lui, in fondo le ricordava sé stessa 
 ## 1369 [[calendario|DP]]
-Dai suoi 35 anni cominciò ad andare all'avventura assieme alla sua maestra e i suoi genitorigli regalarono delle armi forgiate da loro:
+Dai suoi 35 anni cominciò ad andare all'avventura assieme alla sua maestra e i suoi genitori gli regalarono delle armi forgiate da loro:
 - Una spada lunga con simboli runici che gli ricordasse casa
 - uno scudo corazzato per difendersi dal mondo. 
-- una borsa carica della magia dei giganti, che riusciva a contenere
+- una borsa in cui tenere le cose più preziose: quelle che gli ricordano casa
 
 durante i primi 15 anni di avventura esplorano il mondo in lungo in largo entrando in contatto con molte razze e culture diverse e resta affascinato dagli elfi, infatti negli anni cerca sempre di farsene amici il più possibile
 ## 1385 [[calendario|DP]]

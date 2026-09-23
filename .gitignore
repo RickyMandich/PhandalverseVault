@@ -1,3 +1,4 @@
 .normalize/logs
 *.log*
+.obsidian/workspace.json
 

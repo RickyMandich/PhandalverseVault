@@ -15,7 +15,7 @@
 					"files": {
 						"il-portale.md": "Il Portale",
 						"la-chiave.md": "La Chiave",
-						"runa-dell-adattamento.md": "Runa"
+						"runa-dell-adattamento.md": "Runa dell'Adattamento"
 					},
 					"directories": {}
 				},
@@ -156,6 +156,7 @@
 				"giocanti": {
 					"original": "Giocanti",
 					"files": {
+						"kurnos-guerriero-samurai-elfo-silvano.md": "Kurnos (Guerriero - Samurai, Elfo Silvano)",
 						"sigil-quest-warlock-patto-della-lama-tiefling.md": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
 						"sigil-quest-warlock-patto-della-lama-tiefling.pdf": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
 						"tik-rok-barbaro-cammino-dei-giganti-halfling.md": "Tik Rok (Barbaro - Cammino Dei Giganti, Halfling)"
@@ -184,6 +185,13 @@
 							"original": "Background Pg",
 							"files": {},
 							"directories": {
+								"kurnos": {
+									"original": "Kurnos",
+									"files": {
+										"eda.md": "Eda"
+									},
+									"directories": {}
+								},
 								"tik-rok": {
 									"original": "Tik Rok",
 									"files": {
@@ -261,15 +269,20 @@
 						"sommeriale.md": "Sommeriale"
 					},
 					"directories": {
+						"algaria": {
+							"original": "Algaria",
+							"files": {
+								"algaria.md": "Algaria",
+								"pianura-orientale.md": "Pianura Orientale"
+							},
+							"directories": {}
+						},
 						"phandanoland": {
 							"original": "Phandanoland",
 							"files": {
-								"algaria.md": "Algaria",
-								"Cristalgrave.md": "Cristalgrave",
 								"morkhaus.md": "Morkhaus",
 								"Nordavilla.md": "Nordavilla",
 								"phandanoland.md": "Phandanoland",
-								"pianura-orientale.md": "Pianura Orientale",
 								"profondahar.md": "Profondahar",
 								"Settentrionelle.md": "Settentrionelle"
 							},
@@ -279,11 +292,25 @@
 							"original": "Phandasuland",
 							"files": {
 								"deserto-occidentale.md": "Deserto Occidentale",
-								"GemGrave.md": "Gemgrave",
 								"Meridionelle.md": "Meridionelle",
 								"phandasuland.md": "Phandasuland",
 								"sommerivel.md": "Sommerivel",
 								"suddaria.md": "Suddaria"
+							},
+							"directories": {}
+						},
+						"territori-occidentali": {
+							"original": "Territori Occidentali",
+							"files": {
+								"Cristalgrave.md": "Cristalgrave"
+							},
+							"directories": {}
+						},
+						"territori-orientali": {
+							"original": "Territori Orientali",
+							"files": {
+								"GemGrave.md": "Gemgrave",
+								"silviridhe.md": "Silviridhe"
 							},
 							"directories": {}
 						}
