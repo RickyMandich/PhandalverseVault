@@ -74,6 +74,7 @@
 				"divinita": {
 					"original": "Divinità",
 					"files": {
+						"Waukenn.md": "Waukenn",
 						"ao.md": "Ao",
 						"auril.md": "Auril",
 						"chauntea.md": "Chauntea",
@@ -87,8 +88,7 @@
 						"simulacro.md": "Simulacro",
 						"tempus.md": "Tempus",
 						"torm.md": "Torm",
-						"tyr.md": "Tyr",
-						"Waukenn.md": "Waukenn"
+						"tyr.md": "Tyr"
 					},
 					"directories": {}
 				},
@@ -248,21 +248,21 @@
 							"original": "Fandanolend",
 							"files": {
 								"Cristalgreiv.md": "Cristalgreiv",
-								"fandanolend.md": "Fandanolend",
 								"Nordavila.md": "Nordavila",
-								"profondar.md": "Profondar",
-								"Settentrionel.md": "Settentrionel"
+								"Settentrionel.md": "Settentrionel",
+								"fandanolend.md": "Fandanolend",
+								"profondar.md": "Profondar"
 							},
 							"directories": {}
 						},
 						"fandasulend": {
 							"original": "Fandasulend",
 							"files": {
-								"fandasulend.md": "Fandasulend",
 								"GemGreiv.md": "Gemgreiv",
 								"Meridionel.md": "Meridionel",
-								"sommervil.md": "Sommervil",
-								"Sudaria.md": "Sudaria"
+								"Sudaria.md": "Sudaria",
+								"fandasulend.md": "Fandasulend",
+								"sommervil.md": "Sommervil"
 							},
 							"directories": {}
 						}
@@ -281,23 +281,23 @@
 						"phandanoland": {
 							"original": "Phandanoland",
 							"files": {
-								"algaria.md": "Algaria",
 								"Cristalgrave.md": "Cristalgrave",
-								"morkhaus.md": "Morkhaus",
 								"Nordavilla.md": "Nordavilla",
+								"Settentrionelle.md": "Settentrionelle",
+								"algaria.md": "Algaria",
+								"morkhaus.md": "Morkhaus",
 								"phandanoland.md": "Phandanoland",
 								"pianura-orientale.md": "Pianura Orientale",
-								"profondahar.md": "Profondahar",
-								"Settentrionelle.md": "Settentrionelle"
+								"profondahar.md": "Profondahar"
 							},
 							"directories": {}
 						},
 						"phandasuland": {
 							"original": "Phandasuland",
 							"files": {
-								"deserto-occidentale.md": "Deserto Occidentale",
 								"GemGrave.md": "Gemgrave",
 								"Meridionelle.md": "Meridionelle",
+								"deserto-occidentale.md": "Deserto Occidentale",
 								"phandasuland.md": "Phandasuland",
 								"sommerivel.md": "Sommerivel",
 								"suddaria.md": "Suddaria"

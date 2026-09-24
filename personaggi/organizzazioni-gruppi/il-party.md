@@ -1,4 +1,4 @@
-![[un0-3-guerriero-maestro-della-battaglia-warforged]]
+![[un0-3-guerriero-maestro-della-battaglia-warforged.md]]
 ![[vala-khad-bardo-collegio-della-creazione-kalashtar]]
 ![[kalpa-monaco-forma-astrale-drow]]
 
