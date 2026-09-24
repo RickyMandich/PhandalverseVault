@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.39",
+	"date": "2026-09-24 20:07:41 +0200",
+	"commit_hash": "0dafe757731b9fe0e5fb9054163077a5fccb59eb",
+	"commit_message": "aggiornamento 2026 09 24 20:07 [v 0.1.39] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "personaggi/organizzazioni-gruppi/il-party.md",
+			"display_name": "Il Party",
+			"status": "Modified",
+			"diff": "commit 1cd42da192593a6d368d94feff6c236f0a5b599c\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Sep 24 20:07:41 2026 +0200\n\n    aggiornamento 2026 09 24 20:07 [v 0.1.39] - updated party\n\ndiff --git a/personaggi/organizzazioni-gruppi/il-party.md b/personaggi/organizzazioni-gruppi/il-party.md\nindex 1c7b276..5666a03 100644\n--- a/personaggi/organizzazioni-gruppi/il-party.md\n+++ b/personaggi/organizzazioni-gruppi/il-party.md\n@@ -1,4 +1,4 @@\n-![[un0-3-guerriero-maestro-della-battaglia-warforged]]\n+![[un0-3-guerriero-maestro-della-battaglia-warforged.md]]\n ![[vala-khad-bardo-collegio-della-creazione-kalashtar]]\n ![[kalpa-monaco-forma-astrale-drow]]\n \n"
+		}
+	]
+}
