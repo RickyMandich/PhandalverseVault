@@ -1,0 +1,9 @@
+| saga precedente | saga successiva |   macrosaga di appartenenza    |
+| :-------------: | :-------------: | :----------------------------: |
+|     nessuna     | nessuna         | [[01-macrosaga-della-ricerca]] |
+# sessioni
+## sessione di mercoledì 2026 09 24
+[[kurnos-guerriero-samurai-elfo-silvano]] riceve una lettera magica da parte di [[vargas-l-artefice]] che chiede la sua presenza ad [[atlantide]] per ingaggiare [[il-party]] in quanto avventuriere, chiama lui a causa della raccomandazione di [[eda]].
+quando si teletrasportano ad [[atlantide]] (grazie alla pergamena magica con cui è arrivato il messaggio) vengono accolti da un servitore che li porta subito da [[vargas-l-artefice]] che spiega loro che [[darkhen-rahl|Darkhen]] si sta risvegliato e che per fermarlo dall'ottenere un corpo fisico (unico motivo per cui non ha ancora fatto cosino per tutto [[phandalmain]] e [[fandalmein]]) bisogna fare in modo che i suoi cultisti non riescano a recuperare il suo corpo (attualmente sparpagliato per i due universi) e i materiali rari necessari a aggiustare il filatterio che nel corso del millennio di assenza del lich si è rovinato. poi dice loro di parlare con [[than-atos-il-necromante-bicefalo]] che conosce molto bene la magia necromantica e che potrebbe avere consigli da dare loro su come affrontarlo e sconfiggerlo e che nel frattempo [[roshi]] avrebbe fatto delle ricerche nella [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide]].
+[[il-party]] non lo ascolta e va dritto da roshi che quando li vedi insulta loro e vargas visto che non ha ancora fatto in tempo a trovare nulla e che andare prima da than era un modo per lasciargli il tempo di fare quello che doveva fare
+usano uno dei portali della [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide#stanze#teleroom|teleroom]] per arrivare da atos e quando arrivano lo trovano nel bel mezzo di uno dei suoi esperimenti con i non morti.

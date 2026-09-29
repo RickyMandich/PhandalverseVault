@@ -156,7 +156,9 @@
 				"giocanti": {
 					"original": "Giocanti",
 					"files": {
+						"-stregone-orco.md": "(Stregone, Orco)",
 						"kurnos-guerriero-samurai-elfo-silvano.md": "Kurnos (Guerriero - Samurai, Elfo Silvano)",
+						"pane.md": "Pane",
 						"sigil-quest-warlock-patto-della-lama-tiefling.md": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
 						"sigil-quest-warlock-patto-della-lama-tiefling.pdf": "Sigil Quest (Warlock - Patto Della Lama, Tiefling)",
 						"tik-rok-barbaro-cammino-dei-giganti-halfling.md": "Tik Rok (Barbaro - Cammino Dei Giganti, Halfling)"
@@ -175,10 +177,8 @@
 					"files": {
 						"atos.md": "Atos",
 						"dark-nidave.md": "Dark Nidave",
-						"darkhen-rahl.md": "Darkhen Rahl",
 						"giorgia-rossato.md": "Giorgia Rossato",
-						"nidave.md": "Nidave",
-						"roshi.md": "Roshi"
+						"nidave.md": "Nidave"
 					},
 					"directories": {
 						"background-pg": {
@@ -202,6 +202,17 @@
 									"directories": {}
 								}
 							}
+						},
+						"macrotrama": {
+							"original": "Macrotrama",
+							"files": {
+								"darkhen-rahl.md": "Darkhen Rahl",
+								"dontavious-il-signore-delle-ombre.md": "Dontavious - Il Signore Delle Ombre",
+								"roshi.md": "Roshi",
+								"than-atos-il-necromante-bicefalo.md": "Than-Atos - Il Necromante Bicefalo",
+								"vargas-l-artefice.md": "Vargas -"
+							},
+							"directories": {}
 						}
 					}
 				},
@@ -213,8 +224,24 @@
 						"bibliotecari.md": "Bibliotecari",
 						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
+						"il-party.md": "Il Party",
 						"la-coalizione.md": "La Coalizione",
 						"la-mano-rossa.md": "La Mano Rossa"
+					},
+					"directories": {}
+				}
+			}
+		},
+		"saghe": {
+			"original": "Saghe",
+			"files": {
+				"01-macrosaga-della-ricerca.md": "Macrosaga Della Ricerca"
+			},
+			"directories": {
+				"01-macrosaga-della-ricerca": {
+					"original": "Macrosaga Della Ricerca",
+					"files": {
+						"01-arrivo-ad-atlantide.md": "Arrivo Ad Atlantide"
 					},
 					"directories": {}
 				}
@@ -239,7 +266,7 @@
 							"original": "Fandanolend",
 							"files": {
 								"Cristalgreiv.md": "Cristalgreiv",
-								"fandanolend.md": "Fandanolend",
+								"fandanoland.md": "Fandanoland",
 								"Nordavila.md": "Nordavila",
 								"profondar.md": "Profondar",
 								"Settentrionel.md": "Settentrionel"
@@ -249,7 +276,7 @@
 						"fandasulend": {
 							"original": "Fandasulend",
 							"files": {
-								"fandasulend.md": "Fandasulend",
+								"fandasuland.md": "Fandasuland",
 								"GemGreiv.md": "Gemgreiv",
 								"Meridionel.md": "Meridionel",
 								"sommervil.md": "Sommervil",
@@ -262,10 +289,8 @@
 				"phandalmain": {
 					"original": "Phandalmain",
 					"files": {
-						"atlantide.md": "Atlantide",
 						"fossa-delle-marie.md": "Fossa Delle Marie",
 						"phandalmain.md": "Phandalmain",
-						"sacra-biblioteca-perduta-salvata-di-atlantide.md": "Sacra Biblioteca Perduta Salvata Di Atlantide",
 						"sommeriale.md": "Sommeriale"
 					},
 					"directories": {
@@ -274,6 +299,16 @@
 							"files": {
 								"algaria.md": "Algaria",
 								"pianura-orientale.md": "Pianura Orientale"
+							},
+							"directories": {}
+						},
+						"atlantide": {
+							"original": "Atlantide",
+							"files": {
+								"atlantide.md": "Atlantide",
+								"sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide.md": "Sacra Biblioteca Ormai Non Più Perduta E Tornata Ad Atlantide",
+								"torre-bianca.md": "Torre Bianca",
+								"torre-nera.md": "Torre Nera"
 							},
 							"directories": {}
 						},

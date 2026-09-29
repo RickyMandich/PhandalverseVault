@@ -3,5 +3,5 @@
 [[universo]] codipendente di [[phandalmain]]
 #endMaster 
 # regni
-- [[fandanolend]]
-- [[fandasulend]]
+- [[fandanoland]]
+- [[fandasuland]]

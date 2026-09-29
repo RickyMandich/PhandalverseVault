@@ -5,6 +5,11 @@
 	- [ ] scrivere definizione [[signore-dei-demoni]]
 - [x] scrivere [[tiefling]]
 - [x] organizzare definizioni in sottocartelle
+- [ ] [[than-atos-il-necromante-bicefalo]]
+- [ ] [[vargas-l-artefice]]
+- [ ] [[dontavious-il-signore-delle-ombre]]
+- [ ] [[torre-bianca]]
+- [ ] [[torre-nera]]
 - party
 	- [x] [[kurnos-guerriero-samurai-elfo-silvano|Cesar Romero]]
 		- [x] manca background
