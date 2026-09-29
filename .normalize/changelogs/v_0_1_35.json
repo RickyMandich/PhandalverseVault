@@ -1,0 +1,176 @@
+{
+	"version": "v 0.1.35",
+	"date": "2026-09-29 12:40:07 +0200",
+	"commit_hash": "076c66172befaa1f5039c6f277f8f9a1c4c68a7a",
+	"commit_message": "aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "artefatti/magici/il-portale.md",
+			"display_name": "Il Portale",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/artefatti/magici/il-portale.md b/artefatti/magici/il-portale.md\nindex 4b1a8c6..7658d0b 100644\n--- a/artefatti/magici/il-portale.md\n+++ b/artefatti/magici/il-portale.md\n@@ -1,7 +1,7 @@\n #dm \n il portale che collega [[phandalmain]] e [[universi/fandalmein/fandalmein]]\n \n-si trova ad [[universi/phandalmain/atlantide|atlantide]] a [[phandalmain]] e ad [[universi/fandalmein/atalantide|atalantide]] a [[universi/fandalmein/fandalmein]]\n+si trova ad [[atlantide|atlantide]] a [[phandalmain]] e ad [[universi/fandalmein/atalantide|atalantide]] a [[universi/fandalmein/fandalmein]]\n \n # origine\n questo artefatto esiste fin dall'inizio dei tempi e ha una magia che impedisce che si rovini con il tempo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "artefatti/magici/la-chiave.md",
+			"display_name": "La Chiave",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/artefatti/magici/la-chiave.md b/artefatti/magici/la-chiave.md\nindex e3691a6..9dc362b 100644\n--- a/artefatti/magici/la-chiave.md\n+++ b/artefatti/magici/la-chiave.md\n@@ -4,4 +4,4 @@ questo artefatto serve ad accendere [[il-portale|il Portale]]\n questo artefatto esiste fin dall'inizio dei tempi e ha una magia che impedisce che si rovini con il tempo\n # [[epoca-terza]]\n all'inizio dell'epoca terza viene spezzata in 4 parti e ogni artefice sopravvissuto alla purga si è premurato di nascondere un pezzo.\n-nel 1312 [[calendario|DP]] [[la-mano-rossa]] comincia a raccoglierne i pezzi per riaccendere il portale\n\\ No newline at end of file\n+nel 1312 [[calendario|DP]] [[il-party]] comincia a raccoglierne i pezzi per riaccendere il portale\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/-stregone-orco.md",
+			"display_name": "(Stregone, Orco)",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/giocanti/-stregone-orco.md b/personaggi/giocanti/-stregone-orco.md\nnew file mode 100644\nindex 0000000..9495cad\n--- /dev/null\n+++ b/personaggi/giocanti/-stregone-orco.md\n@@ -0,0 +1,3 @@\n+[[|Riccardo Berti]]\n+# background\n+# campagna\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/giocanti/pane.md",
+			"display_name": "Pane",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/giocanti/pane.md b/personaggi/giocanti/pane.md\nnew file mode 100644\nindex 0000000..ca1a160\n--- /dev/null\n+++ b/personaggi/giocanti/pane.md\n@@ -0,0 +1,4 @@\n+[[|Giovanni Paneghal]]\n+# background\n+\n+# campagna\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/darkhen-rahl.md",
+			"display_name": "darkhen-rahl",
+			"status": "Renamed",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/non-giocanti/darkhen-rahl.md b/personaggi/non-giocanti/darkhen-rahl.md\ndeleted file mode 100644\nindex da2d910..0000000\n--- a/personaggi/non-giocanti/darkhen-rahl.md\n+++ /dev/null\n@@ -1,5 +0,0 @@\n-#dm\n-è un elfo che nasce nel 150 [[calendario|AP]].\n-durante la sua vita entra negli [[artefici]], più precisamente fa parte degli [[artefici#Epimeteici|Epimeteici]] e da alcuni viene ritenuto addirittura troppo ardito negli esperimenti perfino per essere un epimeteico.\n-durante tutta la sua carriera da artefice studia la magia oscura fino a che nel 20 [[calendario|AP]] non viene cacciato dagli artefici perché troppo estremo e non gli viene lasciato nulla delle sue ricerche.\n-successivamente riesce in qualche modo a continuare le sue ricerche anche senza il supporto degli artefici e comincia a accumulare potere fino a trasformarsi in un [[lich]] per poi cominciare un tentativo di processo di apoteosi per diventare dio e avere abbastanza potere per vendicarsi degli artefici, però nel 5 [[calendario|AP]] viene fermato dagli artefici che, non trovando il suo filatterio, lo imprigionano in una particolare prigione che funziona grazie allo scambio di energia tra i due universi e dividono il suo corpo tra i due universi, così anche se la prigione cede lui non possa comunque fare nulla finché non riunisce il suo corpo\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/dontavious-il-signore-delle-ombre.md",
+			"display_name": "Dontavious - Il Signore Delle Ombre",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/non-giocanti/macrotrama/dontavious-il-signore-delle-ombre.md b/personaggi/non-giocanti/macrotrama/dontavious-il-signore-delle-ombre.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/roshi.md",
+			"display_name": "roshi",
+			"status": "Renamed",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/non-giocanti/roshi.md b/personaggi/non-giocanti/roshi.md\ndeleted file mode 100644\nindex b3d0588..0000000\n--- a/personaggi/non-giocanti/roshi.md\n+++ /dev/null\n@@ -1,20 +0,0 @@\n-#dm\n-#phandalmain \n-# Origini\n-## [[epoca-leggendaria|epoca leggendaria]]\n-è un nano nato nel **200 [[calendario|AP]]**. al momento della [[la-frattura|frattura]] aveva circa **70 anni umani**, trovandosi già nella fase iniziale della vecchiaia.\n-\n-era un **[[artefici#Prometeici|artefice prometeico]]**, specializzato nella modellazione teorica dei fenomeni magici e nello studio dei limiti operativi delle forze primordiali dell’[[universo]]. roshi riteneva che la conoscenza disponibile sulla magia fosse ancora insufficiente per manipolarla su larga scala, soprattutto in combinazione con la tecnologia.\n-\n-pur condividendo queste riserve, non credeva che il progresso potesse essere arrestato tramite il rifiuto o l’imposizione dell’autorità. quando gli [[artefici#Epimeteici|Epimeteici]] decisero di procedere con l’esperimento di creazione di nuovi portali tra [[phandalmain]] e [[universi/fandalmein/fandalmein]], roshi tentò inizialmente di convincerli a rimandare l’iniziativa.\n-\n-fallito il tentativo, fu **lui stesso a chiedere di partecipare all’esperimento**, non come promotore, ma come **testimone e , anche se non manifesta questa motivazione agli Epimeteici, garante del contenimento**, convinto che la presenza di un prometeico fosse necessaria per limitare i danni nel caso in cui qualcosa fosse andato storto.\n-\n-l’esperimento fallì in modo catastrofico, causando la frattura. come effetto collaterale diretto dell’evento, roshi smise di invecchiare, diventando **virtualmente immortale**: il suo corpo non subisce più il decadimento del tempo, pur rimanendo vulnerabile alla morte violenta.\n-\n-non si aspettava minimamente l’entità dei danni causati dalla frattura, né le conseguenze politiche che ne sarebbero derivate. sopravvisse alla successiva [[la-purga|purga]] unicamente per circostanza e posizione, diventando uno dei pochissimi testimoni diretti dell’epoca leggendaria e della fine degli [[artefici]].\n-\n-## [[epoca-terza|epoca terza]]\n-durante i 2 secoli successivi si nascose per evitare [[i-purgatori|i purgatori]] e allo stesso tempo fece indagini e piccoli esperimenti per analizzare la situazione e capire quanto critica fosse e se ci fosse un pericolo di strutturalità dell'[[universo]]. ai tempi sembrò tutto a posto per cui dopo il primo secolo smise di indagare.\n-dal R|III| secolo DP (subito dopo aver sconfitto [[atos]]) ricominciò a crearsi una vita nella sua città natale, [[GemGrave]].\n-lì si costruì un negozio in cui vende un po' di tutto, soprattutto cose che ai tempi dell'[[epoca-leggendaria|epoca leggendaria]] erano di poco conto mentre ora sono abbastanza prodigiose, in quella che ai tempi era la parte più profonda della città e che ora si trova ai 2/3 della città\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/than-atos-il-necromante-bicefalo.md",
+			"display_name": "Than-Atos - Il Necromante Bicefalo",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/non-giocanti/macrotrama/than-atos-il-necromante-bicefalo.md b/personaggi/non-giocanti/macrotrama/than-atos-il-necromante-bicefalo.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "personaggi/non-giocanti/macrotrama/vargas-l-artefice.md",
+			"display_name": "Vargas -",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/non-giocanti/macrotrama/vargas-l-artefice.md b/personaggi/non-giocanti/macrotrama/vargas-l-artefice.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/bibliotecari.md",
+			"display_name": "Bibliotecari",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/organizzazioni-gruppi/bibliotecari.md b/personaggi/organizzazioni-gruppi/bibliotecari.md\nindex c00395d..3d1896c 100644\n--- a/personaggi/organizzazioni-gruppi/bibliotecari.md\n+++ b/personaggi/organizzazioni-gruppi/bibliotecari.md\n@@ -1,6 +1,6 @@\n I bibliotecari sono una gilda serata votata alla tutela di ogni conoscenza mai scoperta, la conservano ma non per forza la condividono con il mondo.\n tendenzialmente li si può considerare in un certo qual modo un'organizzazione di supporto a [[giorgia-rossato]]\n \n-principalmente hanno come sede la [[sacra-biblioteca-perduta-salvata-di-atlantide]] (originariamente era solo la Biblioteca di [[atlantide]], che è diventata quello che conosciamo ora come conseguenza delle purghe)\n+principalmente hanno come sede la [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide]] (originariamente era solo la Biblioteca di [[atlantide]], che è diventata quello che conosciamo ora come conseguenza delle purghe)\n \n attualmente restano pochi bibliotecari ancora in vita\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/il-party.md",
+			"display_name": "Il Party",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/organizzazioni-gruppi/il-party.md b/personaggi/organizzazioni-gruppi/il-party.md\nnew file mode 100644\nindex 0000000..3de42f7\n--- /dev/null\n+++ b/personaggi/organizzazioni-gruppi/il-party.md\n@@ -0,0 +1,6 @@\n+![[sigil-quest-warlock-patto-della-lama-tiefling]]\n+#startMaster \n+![[tik-rok-barbaro-cammino-dei-giganti-halfling]]\n+#endMaster \n+![[kurnos-guerriero-samurai-elfo-silvano]]\n+![[-stregone-orco]]\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/la-mano-rossa.md",
+			"display_name": "La Mano Rossa",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/personaggi/organizzazioni-gruppi/la-mano-rossa.md b/personaggi/organizzazioni-gruppi/la-mano-rossa.md\nindex 5fc85a1..04e5789 100644\n--- a/personaggi/organizzazioni-gruppi/la-mano-rossa.md\n+++ b/personaggi/organizzazioni-gruppi/la-mano-rossa.md\n@@ -1,30 +1,5 @@\n-#gruppo \n-il party\n-\n-# punti esperienza\n-|                                                   sessione                                                   | livello |   xp   |\n-| :----------------------------------------------------------------------------------------------------------: | :-----: | :----: |\n-|                                                  sessione 0                                                  |    5    | 5.500  |\n-\n-| Livello | PE      | bonus competenza |\n-| :-----: | ------- | ---------------- |\n-|    1    | 0       | 2                |\n-|    2    | 300     | 2                |\n-|    3    | 900     | 2                |\n-|    4    | 2 700   | 2                |\n-|    5    | 6 500   | 3                |\n-|    6    | 14 000  | 3                |\n-|    7    | 23 000  | 3                |\n-|    8    | 34 000  | 3                |\n-|    9    | 48 000  | 4                |\n-|   10    | 64 000  | 4                |\n-|   11    | 85 000  | 4                |\n-|   12    | 100 000 | 4                |\n-|   13    | 120 000 | 5                |\n-|   14    | 140 000 | 5                |\n-|   15    | 165 000 | 5                |\n-|   16    | 195 000 | 5                |\n-|   17    | 225 000 | 6                |\n-|   18    | 265 000 | 6                |\n-|   19    | 305 000 | 6                |\n-|   20    | 355 000 | 6                |\n+è un gruppo di avventurieri che nel 1313 [[calendario|DP]] ha salvato gli universi dalla distruzione ripristinando l'equilibrio tra gli stessi, era composto da:\n+- [[vargas-l-artefice]]\n+- [[than-atos-il-necromante-bicefalo]]\n+- Morbiarum il Paladino\n+- [[dontavious-il-signore-delle-ombre]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/01-macrosaga-della-ricerca.md",
+			"display_name": "Macrosaga Della Ricerca",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/saghe/01-macrosaga-della-ricerca.md b/saghe/01-macrosaga-della-ricerca.md\nnew file mode 100644\nindex 0000000..2d25e5c\n--- /dev/null\n+++ b/saghe/01-macrosaga-della-ricerca.md\n@@ -0,0 +1,4 @@\n+#dm \n+in questa macro saga [[il-party]] ha come obbiettivo quello di impedire a [[darkhen-rahl|Darkhen]] di risvegliarsi\n+è composta da:\n+- [[01-arrivo-ad-atlantide]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md",
+			"display_name": "Arrivo Ad Atlantide",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md b/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md\nnew file mode 100644\nindex 0000000..07fd79d\n--- /dev/null\n+++ b/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md\n@@ -0,0 +1,9 @@\n+| saga precedente | saga successiva |   macrosaga di appartenenza    |\n+| :-------------: | :-------------: | :----------------------------: |\n+|     nessuna     | nessuna         | [[01-macrosaga-della-ricerca]] |\n+# sessioni\n+## sessione di mercoledì 2026 09 24\n+[[kurnos-guerriero-samurai-elfo-silvano]] riceve una lettera magica da parte di [[vargas-l-artefice]] che chiede la sua presenza ad [[atlantide]] per ingaggiare [[il-party]] in quanto avventuriere, chiama lui a causa della raccomandazione di [[eda]].\n+quando si teletrasportano ad [[atlantide]] (grazie alla pergamena magica con cui è arrivato il messaggio) vengono accolti da un servitore che li porta subito da [[vargas-l-artefice]] che spiega loro che [[darkhen-rahl|Darkhen]] si sta risvegliato e che per fermarlo dall'ottenere un corpo fisico (unico motivo per cui non ha ancora fatto cosino per tutto [[phandalmain]] e [[fandalmein]]) bisogna fare in modo che i suoi cultisti non riescano a recuperare il suo corpo (attualmente sparpagliato per i due universi) e i materiali rari necessari a aggiustare il filatterio che nel corso del millennio di assenza del lich si è rovinato. poi dice loro di parlare con [[than-atos-il-necromante-bicefalo]] che conosce molto bene la magia necromantica e che potrebbe avere consigli da dare loro su come affrontarlo e sconfiggerlo e che nel frattempo [[roshi]] avrebbe fatto delle ricerche nella [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide]].\n+[[il-party]] non lo ascolta e va dritto da roshi che quando li vedi insulta loro e vargas visto che non ha ancora fatto in tempo a trovare nulla e che andare prima da than era un modo per lasciargli il tempo di fare quello che doveva fare\n+usano uno dei portali della [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide#stanze#teleroom|teleroom]] per arrivare da atos e quando arrivano lo trovano nel bel mezzo di uno dei suoi esperimenti con i non morti.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "todo.md",
+			"display_name": "TODO",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/todo.md b/todo.md\nindex 3fec5bb..0abd31d 100644\n--- a/todo.md\n+++ b/todo.md\n@@ -5,6 +5,11 @@\n \t- [ ] scrivere definizione [[signore-dei-demoni]]\n - [x] scrivere [[tiefling]]\n - [x] organizzare definizioni in sottocartelle\n+- [ ] [[than-atos-il-necromante-bicefalo]]\n+- [ ] [[vargas-l-artefice]]\n+- [ ] [[dontavious-il-signore-delle-ombre]]\n+- [ ] [[torre-bianca]]\n+- [ ] [[torre-nera]]\n - party\n \t- [x] [[kurnos-guerriero-samurai-elfo-silvano|Cesar Romero]]\n \t\t- [x] manca background\n"
+		},
+		{
+			"file": "universi/fandalmein/fandalmein.md",
+			"display_name": "Fandalmein",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandalmein.md b/universi/fandalmein/fandalmein.md\nindex 6ea54fa..a201556 100644\n--- a/universi/fandalmein/fandalmein.md\n+++ b/universi/fandalmein/fandalmein.md\n@@ -3,5 +3,5 @@\n [[universo]] codipendente di [[phandalmain]]\n #endMaster \n # regni\n-- [[fandanolend]]\n-- [[fandasulend]]\n\\ No newline at end of file\n+- [[fandanoland]]\n+- [[fandasuland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Cristalgreiv.md",
+			"display_name": "Cristalgreiv",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandanolend/Cristalgreiv.md b/universi/fandalmein/fandanolend/Cristalgreiv.md\nindex 748cc82..80953d7 100644\n--- a/universi/fandalmein/fandanolend/Cristalgreiv.md\n+++ b/universi/fandalmein/fandanolend/Cristalgreiv.md\n@@ -1,3 +1,3 @@\n #dm\n #citta  \n-è un [[villaggio]] ibrido nanico situato nel ovest-nord ovest del continente, leggermente più a sud di [[fandanolend]] ma molto più a ovest.\n\\ No newline at end of file\n+è un [[villaggio]] ibrido nanico situato nel ovest-nord ovest del continente, leggermente più a sud di [[fandanoland]] ma molto più a ovest.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Nordavila.md",
+			"display_name": "Nordavila",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandanolend/Nordavila.md b/universi/fandalmein/fandanolend/Nordavila.md\nindex 09816cb..044702d 100644\n--- a/universi/fandalmein/fandanolend/Nordavila.md\n+++ b/universi/fandalmein/fandanolend/Nordavila.md\n@@ -1,3 +1,3 @@\n #dm\n #citta  \n-è un [[villaggio]] ibrido umano situato nel nord ovest del continente, un po' più a ovest di [[fandanolend]]\n\\ No newline at end of file\n+è un [[villaggio]] ibrido umano situato nel nord ovest del continente, un po' più a ovest di [[fandanoland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/Settentrionel.md",
+			"display_name": "Settentrionel",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandanolend/Settentrionel.md b/universi/fandalmein/fandanolend/Settentrionel.md\nindex ce7d181..61a13d9 100644\n--- a/universi/fandalmein/fandanolend/Settentrionel.md\n+++ b/universi/fandalmein/fandanolend/Settentrionel.md\n@@ -1,3 +1,3 @@\n #dm\n #citta  \n-è un [[villaggio]] ibrido elfico situato nel nord est del continente, un po' più a est di [[fandanolend]]\n\\ No newline at end of file\n+è un [[villaggio]] ibrido elfico situato nel nord est del continente, un po' più a est di [[fandanoland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandanolend/fandanolend.md",
+			"display_name": "fandanolend",
+			"status": "Renamed",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandanolend/fandanolend.md b/universi/fandalmein/fandanolend/fandanolend.md\ndeleted file mode 100644\nindex 46d6d7d..0000000\n--- a/universi/fandalmein/fandanolend/fandanolend.md\n+++ /dev/null\n@@ -1,6 +0,0 @@\n-#dm\n-#provincia-imperiale  \n-# città\n-- [[Nordavila]]\n-- [[Settentrionel]]\n-- [[Cristalgreiv]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/GemGreiv.md",
+			"display_name": "Gemgreiv",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandasulend/GemGreiv.md b/universi/fandalmein/fandasulend/GemGreiv.md\nindex 50e4e69..e72bcdb 100644\n--- a/universi/fandalmein/fandasulend/GemGreiv.md\n+++ b/universi/fandalmein/fandasulend/GemGreiv.md\n@@ -1,3 +1,3 @@\n #dm\n #citta \n-è un [[villaggio]] ibrido nanico situato nel est-sud est del continente, leggermente più a nord di [[fandasulend]] ma molto più a est.\n\\ No newline at end of file\n+è un [[villaggio]] ibrido nanico situato nel est-sud est del continente, leggermente più a nord di [[fandasuland]] ma molto più a est.\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/Meridionel.md",
+			"display_name": "Meridionel",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandasulend/Meridionel.md b/universi/fandalmein/fandasulend/Meridionel.md\nindex ad01996..3c72aac 100644\n--- a/universi/fandalmein/fandasulend/Meridionel.md\n+++ b/universi/fandalmein/fandasulend/Meridionel.md\n@@ -1,3 +1,3 @@\n #dm\n #citta  \n-è un [[villaggio]] ibrido elfico situato nel sud ovest del continente, un po' più a ovest di [[fandasulend]]\n\\ No newline at end of file\n+è un [[villaggio]] ibrido elfico situato nel sud ovest del continente, un po' più a ovest di [[fandasuland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/Sudaria.md",
+			"display_name": "Sudaria",
+			"status": "Modified",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandasulend/Sudaria.md b/universi/fandalmein/fandasulend/Sudaria.md\nindex 133eef6..032ba31 100644\n--- a/universi/fandalmein/fandasulend/Sudaria.md\n+++ b/universi/fandalmein/fandasulend/Sudaria.md\n@@ -1,3 +1,3 @@\n #dm\n #citta  \n-è un [[villaggio]] ibrido umano situato nel sud est del continente, un po' più a est di [[fandanolend]]\n\\ No newline at end of file\n+è un [[villaggio]] ibrido umano situato nel sud est del continente, un po' più a est di [[fandanoland]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/fandalmein/fandasulend/fandasulend.md",
+			"display_name": "fandasulend",
+			"status": "Renamed",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/fandalmein/fandasulend/fandasulend.md b/universi/fandalmein/fandasulend/fandasulend.md\ndeleted file mode 100644\nindex 8c24c1f..0000000\n--- a/universi/fandalmein/fandasulend/fandasulend.md\n+++ /dev/null\n@@ -1,6 +0,0 @@\n-#dm\n-#provincia-imperiale\n-# città\n-- [[Sudaria]]\n-- [[Meridionel]]\n-- [[GemGreiv]]\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide.md",
+			"display_name": "atlantide",
+			"status": "Renamed",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/phandalmain/atlantide.md b/universi/phandalmain/atlantide.md\ndeleted file mode 100644\nindex 82c29b3..0000000\n--- a/universi/phandalmain/atlantide.md\n+++ /dev/null\n@@ -1,14 +0,0 @@\n-unica città presente sull'isola al centro del lago continentale di [[Phandalmain]].\n-l'isola si chiama come la città e, durante l'[[epoca-leggendaria]] ricopriva tutta l'isola.\n-# storia\n-## [[epoca-leggendaria]]\n-era la capitale della conoscenza e dello studio, tutto ciò che poteva influenzare il mondo passava di qua.\n-## [[epoca-terza]]\n-### anno 0\n-durante [[la-purga]], [[i-purgatori]] (per ordine della [[la-coalizione|coalizione]]), fecero in modo che tutti i più importanti edifici fossero distrutti e che non ci fosse più nessuno e per qualche decennio fecero anche in modo che nessuno ci andasse (dopo questo tempo non era più ritenuto un luogo da controllare in quanto ormai gli artefici erano sconfitti)\n-#startMaster\n-### anno 5\n-[[Atos]] va sull'isola senza farsi scoprire dai [[i-purgatori|purgatori]] e ci si insedia per vivere\n-### anno 215\n-[[roshi]] si reca sull'isola per uccidere [[Atos]] e il loro scontro finisce con il far affondare l'isola (per altri effetti guardare la pagina di [[Atos]])\n-#endMaster\n"
+		},
+		{
+			"file": "universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md",
+			"display_name": "sacra-biblioteca-perduta-salvata-di-atlantide",
+			"status": "Renamed",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md b/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\ndeleted file mode 100644\nindex 7ae7258..0000000\n--- a/universi/phandalmain/sacra-biblioteca-perduta-salvata-di-atlantide.md\n+++ /dev/null\n@@ -1,23 +0,0 @@\n-#access-bibliotecari\n-una biblioteca magica che contiene almeno una copia di almeno una versione di ogni libro scritto in ogni mondo di questo universo\n-La sua esistenza è un segreto ben custodito e ad ora conosciuto a pochi e tra chi sapeva dalle sua esistenza molti ora credono sia andata distrutta con la distruzione di [[Atlantide]], invece si è solo spostata.\n-#startAccess-bibliotecari   \n-Ora esiste fisicamente solo il suo ingresso, la biblioteca in sé si trova in uno spazio extradimensionale\n-sede storica dei [[bibliotecari]]\n-#endAccess  \n-la custode della biblioteca è [[giorgia-rossato]].\n-Alle stanze della biblioteca piace cambiare, per cui non è possibile fare una mappa reale della biblioteca.\n-# stanze\n-#startAccess-bibliotecari  \n-## teleroom\n-è una stanza che ha come forma un poligono con troppi lati per poterli contare tutti, ognuno di questi lati è lungo circa 4m e si compone in questo modo: circa mezzo metro tra i due angoli della stanza alla parte più alta dell'inizio dell'arco gotico da ogni lato, poi l'arco si alza per circa 4 metri (per cui la base dell'arco è di 3 metri) e, nel caso in cui il portale di quella parete è attivo, dall'arco, verso l'esterno, c'è una luce bluastra (tipo i neon sotto le macchine da corsa anni 2000) e una striscia di pergamena che sembra volare immobile nella parte alta dell'arco con i due estremi arrotolati e con su scritto la destinazione di quel portale, sulla sinistra di ogni portale si alza un supporto della stessa pietra magica che compone tutti i muri della biblioteca e i portali che finisce con una superficie piana larga quanto la mano di una creatura umanoide di taglia grande che serve per attivare il portale.\n-nel corso dei secoli (soprattutto durante l'[[epoca-leggendaria]]) i portali attivi sono arrivati ad essere tanti quanti i portali totali di quella stanza\n-### portali attivi\n-ora i portali attivi sono 3\n-#### Atlantide\n-porta nel sobborgo cittadino dell'antica città di [[atlantide]]\n-#### Phandanoland\n-porta nel sobborgo della capitale del nord, [[phandanoland]]\n-#### Phandasuland\n-porta nel sobborgo della capitale del sud, [[phandasuland]]\n-#endAccess  \n\\ No newline at end of file\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide/torre-bianca.md",
+			"display_name": "Torre Bianca",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/phandalmain/atlantide/torre-bianca.md b/universi/phandalmain/atlantide/torre-bianca.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		},
+		{
+			"file": "universi/phandalmain/atlantide/torre-nera.md",
+			"display_name": "Torre Nera",
+			"status": "Added",
+			"diff": "commit 4c814eb69101614501b4b783918b14ccb6b5cf50\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:40:07 2026 +0200\n\n    aggiornamento 2026 09 29 12:40 [v 0.1.35] - aggiunti appunti dell'ultima sessione e elementi di contesto\n\ndiff --git a/universi/phandalmain/atlantide/torre-nera.md b/universi/phandalmain/atlantide/torre-nera.md\nnew file mode 100644\nindex 0000000..e69de29\n"
+		}
+	]
+}
