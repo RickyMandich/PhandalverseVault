@@ -1,10 +1,7 @@
-#access-bibliotecari
 una biblioteca magica che contiene almeno una copia di almeno una versione di ogni libro scritto in ogni mondo di questo universo
 La sua esistenza è un segreto ben custodito e ad ora conosciuto a pochi e tra chi sapeva dalle sua esistenza molti ora credono sia andata distrutta con la distruzione di [[atlantide]], invece si è solo spostata.
-#startAccess-bibliotecari   
 Ora esiste fisicamente solo il suo ingresso, la biblioteca in sé si trova in uno spazio extradimensionale
 sede storica dei [[bibliotecari]]
-#endAccess  
 la custode della biblioteca è [[giorgia-rossato]].
 Alle stanze della biblioteca piace cambiare, per cui non è possibile fare una mappa reale della biblioteca.
 # stanze
