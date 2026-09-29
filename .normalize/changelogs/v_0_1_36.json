@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.36",
+	"date": "2026-09-29 12:55:21 +0200",
+	"commit_hash": "d61b684090f4f5b152d40dfd8c457554945106d8",
+	"commit_message": "aggiornamento 2026 09 29 12:55 [v 0.1.36] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/01-macrosaga-della-ricerca.md",
+			"display_name": "Macrosaga Della Ricerca",
+			"status": "Modified",
+			"diff": "commit a0af781a305fa1319bc5d3476cb60518edcb430b\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Tue Sep 29 12:55:21 2026 +0200\n\n    aggiornamento 2026 09 29 12:55 [v 0.1.36] - fixed visibility\n\ndiff --git a/saghe/01-macrosaga-della-ricerca.md b/saghe/01-macrosaga-della-ricerca.md\nindex 2d25e5c..46d0d1b 100644\n--- a/saghe/01-macrosaga-della-ricerca.md\n+++ b/saghe/01-macrosaga-della-ricerca.md\n@@ -1,4 +1,3 @@\n-#dm \n in questa macro saga [[il-party]] ha come obbiettivo quello di impedire a [[darkhen-rahl|Darkhen]] di risvegliarsi\n è composta da:\n-- [[01-arrivo-ad-atlantide]]\n\\ No newline at end of file\n+- [[01-arrivo-ad-atlantide]]\n"
+		}
+	]
+}
