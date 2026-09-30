@@ -1,0 +1,32 @@
+{
+	"version": "v 0.1.38",
+	"date": "2026-09-30 18:17:40 +0200",
+	"commit_hash": "b9009f21e9548dc5530a616158fb035cf70f12bf",
+	"commit_message": "aggiornamento 2026 09 30 18:17 [v 0.1.38] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "artefatti/magici/la-chiave.md",
+			"display_name": "La Chiave",
+			"status": "Modified",
+			"diff": "commit b8f185f09a83b8e312d8ac13839f15185c789ce3\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 30 18:17:40 2026 +0200\n\n    aggiornamento 2026 09 30 18:17 [v 0.1.38] - assegnato nome al party\n\ndiff --git a/artefatti/magici/la-chiave.md b/artefatti/magici/la-chiave.md\nindex 9dc362b..743136d 100644\n--- a/artefatti/magici/la-chiave.md\n+++ b/artefatti/magici/la-chiave.md\n@@ -4,4 +4,4 @@ questo artefatto serve ad accendere [[il-portale|il Portale]]\n questo artefatto esiste fin dall'inizio dei tempi e ha una magia che impedisce che si rovini con il tempo\n # [[epoca-terza]]\n all'inizio dell'epoca terza viene spezzata in 4 parti e ogni artefice sopravvissuto alla purga si è premurato di nascondere un pezzo.\n-nel 1312 [[calendario|DP]] [[il-party]] comincia a raccoglierne i pezzi per riaccendere il portale\n\\ No newline at end of file\n+nel 1312 [[calendario|DP]] [[monster-s-spankers]] comincia a raccoglierne i pezzi per riaccendere il portale\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "personaggi/organizzazioni-gruppi/il-party.md",
+			"display_name": "il-party",
+			"status": "Renamed",
+			"diff": "commit b8f185f09a83b8e312d8ac13839f15185c789ce3\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 30 18:17:40 2026 +0200\n\n    aggiornamento 2026 09 30 18:17 [v 0.1.38] - assegnato nome al party\n\ndiff --git a/personaggi/organizzazioni-gruppi/il-party.md b/personaggi/organizzazioni-gruppi/il-party.md\ndeleted file mode 100644\nindex 3de42f7..0000000\n--- a/personaggi/organizzazioni-gruppi/il-party.md\n+++ /dev/null\n@@ -1,6 +0,0 @@\n-![[sigil-quest-warlock-patto-della-lama-tiefling]]\n-#startMaster \n-![[tik-rok-barbaro-cammino-dei-giganti-halfling]]\n-#endMaster \n-![[kurnos-guerriero-samurai-elfo-silvano]]\n-![[-stregone-orco]]\n"
+		},
+		{
+			"file": "saghe/01-macrosaga-della-ricerca.md",
+			"display_name": "Macrosaga Della Ricerca",
+			"status": "Modified",
+			"diff": "commit b8f185f09a83b8e312d8ac13839f15185c789ce3\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 30 18:17:40 2026 +0200\n\n    aggiornamento 2026 09 30 18:17 [v 0.1.38] - assegnato nome al party\n\ndiff --git a/saghe/01-macrosaga-della-ricerca.md b/saghe/01-macrosaga-della-ricerca.md\nindex 46d0d1b..d3360b8 100644\n--- a/saghe/01-macrosaga-della-ricerca.md\n+++ b/saghe/01-macrosaga-della-ricerca.md\n@@ -1,3 +1,3 @@\n-in questa macro saga [[il-party]] ha come obbiettivo quello di impedire a [[darkhen-rahl|Darkhen]] di risvegliarsi\n+in questa macro saga [[monster-s-spankers]] ha come obbiettivo quello di impedire a [[darkhen-rahl|Darkhen]] di risvegliarsi\n è composta da:\n - [[01-arrivo-ad-atlantide]]\n"
+		},
+		{
+			"file": "saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md",
+			"display_name": "Arrivo Ad Atlantide",
+			"status": "Modified",
+			"diff": "commit b8f185f09a83b8e312d8ac13839f15185c789ce3\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Wed Sep 30 18:17:40 2026 +0200\n\n    aggiornamento 2026 09 30 18:17 [v 0.1.38] - assegnato nome al party\n\ndiff --git a/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md b/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md\nindex 07fd79d..a36b661 100644\n--- a/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md\n+++ b/saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md\n@@ -3,7 +3,7 @@\n |     nessuna     | nessuna         | [[01-macrosaga-della-ricerca]] |\n # sessioni\n ## sessione di mercoledì 2026 09 24\n-[[kurnos-guerriero-samurai-elfo-silvano]] riceve una lettera magica da parte di [[vargas-l-artefice]] che chiede la sua presenza ad [[atlantide]] per ingaggiare [[il-party]] in quanto avventuriere, chiama lui a causa della raccomandazione di [[eda]].\n+[[kurnos-guerriero-samurai-elfo-silvano]] riceve una lettera magica da parte di [[vargas-l-artefice]] che chiede la sua presenza ad [[atlantide]] per ingaggiare [[monster-s-spankers]] in quanto avventuriere, chiama lui a causa della raccomandazione di [[eda]].\n quando si teletrasportano ad [[atlantide]] (grazie alla pergamena magica con cui è arrivato il messaggio) vengono accolti da un servitore che li porta subito da [[vargas-l-artefice]] che spiega loro che [[darkhen-rahl|Darkhen]] si sta risvegliato e che per fermarlo dall'ottenere un corpo fisico (unico motivo per cui non ha ancora fatto cosino per tutto [[phandalmain]] e [[fandalmein]]) bisogna fare in modo che i suoi cultisti non riescano a recuperare il suo corpo (attualmente sparpagliato per i due universi) e i materiali rari necessari a aggiustare il filatterio che nel corso del millennio di assenza del lich si è rovinato. poi dice loro di parlare con [[than-atos-il-necromante-bicefalo]] che conosce molto bene la magia necromantica e che potrebbe avere consigli da dare loro su come affrontarlo e sconfiggerlo e che nel frattempo [[roshi]] avrebbe fatto delle ricerche nella [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide]].\n-[[il-party]] non lo ascolta e va dritto da roshi che quando li vedi insulta loro e vargas visto che non ha ancora fatto in tempo a trovare nulla e che andare prima da than era un modo per lasciargli il tempo di fare quello che doveva fare\n+[[monster-s-spankers]] non lo ascolta e va dritto da roshi che quando li vedi insulta loro e vargas visto che non ha ancora fatto in tempo a trovare nulla e che andare prima da than era un modo per lasciargli il tempo di fare quello che doveva fare\n usano uno dei portali della [[sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide#stanze#teleroom|teleroom]] per arrivare da atos e quando arrivano lo trovano nel bel mezzo di uno dei suoi esperimenti con i non morti.\n\\ No newline at end of file\n"
+		}
+	]
+}
