@@ -1,4 +1,4 @@
-# odg
+# cose che bisognava spiegare
 - presentazione del mondo
 	- chi sono gli artefici
 	- spiegazione della frattura
