@@ -1,0 +1,14 @@
+{
+	"version": "v 0.1.40",
+	"date": "2026-10-01 19:29:04 +0200",
+	"commit_hash": "a548af0fea562cec4c53f0d984fa50c01ef704f3",
+	"commit_message": "aggiornamento 2026 10 01 19:29 [v 0.1.40] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "sessione-0.md",
+			"display_name": "Sessione 0",
+			"status": "Modified",
+			"diff": "commit b22eda29c168256a0d726051ad355044b5f14fb1\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Oct 1 19:29:04 2026 +0200\n\n    aggiornamento 2026 10 01 19:29 [v 0.1.40] - test ssh key\n\ndiff --git a/sessione-0.md b/sessione-0.md\nindex 45f6eea..a56ccfa 100644\n--- a/sessione-0.md\n+++ b/sessione-0.md\n@@ -1,4 +1,4 @@\n-# odg\n+# cose che bisognava spiegare\n - presentazione del mondo\n \t- chi sono gli artefici\n \t- spiegazione della frattura\n@@ -27,4 +27,4 @@\n - `svantaggio cumulabile`: per ogni cosa che ti da vantaggio aggiungi un d20 e poi prendi il più alto, ignorando il limite di 2 d20\n - `vulnerabilità cumulabile`: se più fonti ti rendono vulnerabile a un tipo di danno il danno viene moltiplicato per 2 per ogni fonte, non massimo una volta\n - `resistenza cumulabile`: se più fonti ti rendono resistente a un tipo di danno il danno viene diviso per 2 per ogni fonte, non massimo una volta\n-- `All-In`: una volta per riposo lungo prima di tirare un d20 per una prova potete dichiarare `All-In`, quando lo fate al posto di tirare per la prova che dovreste fare tirate un d20 puro e si considererà come risultato il più vicino al risultato tra 1 e 20, per cui il risultato del tiro sarà o un successo epico o un fallimento incredibile\n\\ No newline at end of file\n+- `All-In`: una volta per riposo lungo prima di tirare un d20 per una prova potete dichiarare `All-In`, quando lo fate al posto di tirare per la prova che dovreste fare tirate un d20 puro e si considererà come risultato il più vicino al risultato tra 1 e 20, per cui il risultato del tiro sarà o un successo epico o un fallimento incredibile\n"
+		}
+	]
+}
