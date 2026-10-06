@@ -2,8 +2,8 @@
 	"original": "ROOT",
 	"files": {
 		"README.md": "README",
-		"todo.md": "TODO",
-		"sessione-0.md": "Sessione 0"
+		"sessione-0.md": "Sessione 0",
+		"todo.md": "TODO"
 	},
 	"directories": {
 		"artefatti": {
@@ -50,19 +50,19 @@
 					},
 					"directories": {}
 				},
-				"template": {
-					"original": "Template",
-					"files": {
-						"incantesimi.md": "Incantesimi",
-						"stat-block.md": "Stat Block"
-					},
-					"directories": {}
-				},
 				"razze": {
 					"original": "Razze",
 					"files": {
 						"tiefling.md": "Tiefling",
 						"warforged.md": "Warforged"
+					},
+					"directories": {}
+				},
+				"template": {
+					"original": "Template",
+					"files": {
+						"incantesimi.md": "Incantesimi",
+						"stat-block.md": "Stat Block"
 					},
 					"directories": {}
 				}
@@ -83,21 +83,21 @@
 				"divinita": {
 					"original": "Divinità",
 					"files": {
-						"Waukenn.md": "Waukenn",
 						"ao.md": "Ao",
 						"auril.md": "Auril",
 						"chauntea.md": "Chauntea",
 						"gond.md": "Gond",
+						"il-simulacro.md": "Il Simulacro",
 						"kelemvor.md": "Kelemvor",
 						"lathander.md": "Lathander",
 						"mystra.md": "Mystra",
 						"oghma.md": "Oghma",
 						"selune.md": "Selune",
 						"shar.md": "Shar",
-						"il-simulacro.md": "Il Simulacro",
 						"tempus.md": "Tempus",
 						"torm.md": "Torm",
-						"tyr.md": "Tyr"
+						"tyr.md": "Tyr",
+						"Waukenn.md": "Waukenn"
 					},
 					"directories": {}
 				},
@@ -225,8 +225,8 @@
 						"bibliotecari.md": "Bibliotecari",
 						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
-						"la-mano-rossa.md": "La Mano Rossa",
 						"la-coalizione.md": "La Coalizione",
+						"la-mano-rossa.md": "La Mano Rossa",
 						"monster-s-spankers.md": "Monster S Spankers"
 					},
 					"directories": {}
@@ -242,7 +242,8 @@
 				"01-macrosaga-della-ricerca": {
 					"original": "Macrosaga Della Ricerca",
 					"files": {
-						"01-arrivo-ad-atlantide.md": "Arrivo Ad Atlantide"
+						"01-arrivo-ad-atlantide.md": "Arrivo Ad Atlantide",
+						"02-tel-aran-rihod.md": "TelAranRihod"
 					},
 					"directories": {}
 				}
@@ -251,7 +252,7 @@
 		"universi": {
 			"original": "Universi",
 			"files": {
-				"telaranrhiod.md": "Tel'aran'rhiod",
+				"tel-aran-rhiod.md": "TelAranRhiod",
 				"telmurkvadinn.md": "Tel'murk'vadinn"
 			},
 			"directories": {
@@ -267,21 +268,21 @@
 							"original": "Fandanolend",
 							"files": {
 								"Cristalgreiv.md": "Cristalgreiv",
-								"Nordavila.md": "Nordavila",
-								"Settentrionel.md": "Settentrionel",
 								"fandanoland.md": "Fandanoland",
-								"profondar.md": "Profondar"
+								"Nordavila.md": "Nordavila",
+								"profondar.md": "Profondar",
+								"Settentrionel.md": "Settentrionel"
 							},
 							"directories": {}
 						},
 						"fandasulend": {
 							"original": "Fandasulend",
 							"files": {
+								"fandasuland.md": "Fandasuland",
 								"GemGreiv.md": "Gemgreiv",
 								"Meridionel.md": "Meridionel",
-								"Sudaria.md": "Sudaria",
-								"fandasuland.md": "Fandasuland",
-								"sommervil.md": "Sommervil"
+								"sommervil.md": "Sommervil",
+								"Sudaria.md": "Sudaria"
 							},
 							"directories": {}
 						}
@@ -303,28 +304,6 @@
 							},
 							"directories": {}
 						},
-						"phandanoland": {
-							"original": "Phandanoland",
-							"files": {
-								"Nordavilla.md": "Nordavilla",
-								"Settentrionelle.md": "Settentrionelle",
-								"phandanoland.md": "Phandanoland",
-								"profondahar.md": "Profondahar",
-								"morkhaus.md": "Morkhaus"
-							},
-							"directories": {}
-						},
-						"phandasuland": {
-							"original": "Phandasuland",
-							"files": {
-								"Meridionelle.md": "Meridionelle",
-								"phandasuland.md": "Phandasuland",
-								"deserto-occidentale.md": "Deserto Occidentale",
-								"sommerivel.md": "Sommerivel",
-								"suddaria.md": "Suddaria"
-							},
-							"directories": {}
-						},
 						"atlantide": {
 							"original": "Atlantide",
 							"files": {
@@ -332,6 +311,28 @@
 								"sacra-biblioteca-ormai-non-piu-perduta-e-tornata-ad-atlantide.md": "Sacra Biblioteca Ormai Non Più Perduta E Tornata Ad Atlantide",
 								"torre-bianca.md": "Torre Bianca",
 								"torre-nera.md": "Torre Nera"
+							},
+							"directories": {}
+						},
+						"phandanoland": {
+							"original": "Phandanoland",
+							"files": {
+								"morkhaus.md": "Morkhaus",
+								"Nordavilla.md": "Nordavilla",
+								"phandanoland.md": "Phandanoland",
+								"profondahar.md": "Profondahar",
+								"Settentrionelle.md": "Settentrionelle"
+							},
+							"directories": {}
+						},
+						"phandasuland": {
+							"original": "Phandasuland",
+							"files": {
+								"deserto-occidentale.md": "Deserto Occidentale",
+								"Meridionelle.md": "Meridionelle",
+								"phandasuland.md": "Phandasuland",
+								"sommerivel.md": "Sommerivel",
+								"suddaria.md": "Suddaria"
 							},
 							"directories": {}
 						},
