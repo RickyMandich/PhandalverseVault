@@ -243,7 +243,7 @@
 					"original": "Macrosaga Della Ricerca",
 					"files": {
 						"01-arrivo-ad-atlantide.md": "Arrivo Ad Atlantide",
-						"02-tel-aran-rihod.md": "TelAranRihod"
+						"02-tel-aran-rihod.md": "Tel'Aran'Rihod"
 					},
 					"directories": {}
 				}
@@ -252,7 +252,7 @@
 		"universi": {
 			"original": "Universi",
 			"files": {
-				"tel-aran-rhiod.md": "TelAranRhiod",
+				"tel-aran-rhiod.md": "Tel'Aran'Rhiod",
 				"telmurkvadinn.md": "Tel'murk'vadinn"
 			},
 			"directories": {
