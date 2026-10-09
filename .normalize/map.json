@@ -309,9 +309,18 @@
 		"stat-block": {
 			"original": "Stat Block",
 			"files": {
+				"cultista.md": "Cultista",
 				"mind-flayer.md": "Mind Flayer",
 				"spirito-mietitore.md": "Spirito Mietitore",
 				"spirito-non-morto.md": "Spirito Non Morto"
+			},
+			"directories": {}
+		},
+		"template": {
+			"original": "Template",
+			"files": {
+				"incantesimi.md": "Incantesimi",
+				"stat-block.md": "Stat Block"
 			},
 			"directories": {}
 		}
