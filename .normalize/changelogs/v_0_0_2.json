@@ -1,7 +1,20 @@
 {
 	"version": "v 0.0.2",
-	"date": "2026-07-29 15:32:52 +0200",
-	"commit_hash": "6e8737e0b502140267db189e52167db1a5b08a39",
-	"commit_message": "aggiornamento 2026 07 29 15:33 [v 0.0.2] - aggiunti file di changelog",
-	"changes": []
+	"date": "2026-10-09 22:58:44 +0200",
+	"commit_hash": "21ed7b85c1bd93f3d977de959aac6f8589342d9f",
+	"commit_message": "aggiornamento 2026 10 09 22:58 [v 0.0.2] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "definizioni/template/incantesimi.md",
+			"display_name": "incantesimi",
+			"status": "Deleted",
+			"diff": "commit 2d5f576a3f36e42c7011a6ff48b734600bdb84cd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Oct 9 22:58:44 2026 +0200\n\n    aggiornamento 2026 10 09 22:58 [v 0.0.2] - remove template\n\ndiff --git a/definizioni/template/incantesimi.md b/definizioni/template/incantesimi.md\ndeleted file mode 100644\nindex e4c87d5..0000000\n--- a/definizioni/template/incantesimi.md\n+++ /dev/null\n@@ -1,15 +0,0 @@\n-# [nome incantesimo]\n-*[livello]° livello, [scuola di magia]*\n-\n-- **Tempo di lancio:**\n-- **Gittata:**\n-- **Componenti:**\n-- **Durata:**\n-\n-[descrizione]\n-\n-**Ai livelli superiori:**\n-\n-**Classi**:\n-\n----\n"
+		},
+		{
+			"file": "definizioni/template/stat-block.md",
+			"display_name": "stat-block",
+			"status": "Deleted",
+			"diff": "commit 2d5f576a3f36e42c7011a6ff48b734600bdb84cd\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Oct 9 22:58:44 2026 +0200\n\n    aggiornamento 2026 10 09 22:58 [v 0.0.2] - remove template\n\ndiff --git a/definizioni/template/stat-block.md b/definizioni/template/stat-block.md\ndeleted file mode 100644\nindex 1056330..0000000\n--- a/definizioni/template/stat-block.md\n+++ /dev/null\n@@ -1,22 +0,0 @@\n-___\n-> ## Mostro\n-> *[specie] [Taglia], [allineamento]*\n-> ___\n-> - **Classe Armatura** [CA]\n-> - **Punti Vita** [vita media] ([formula dadi vita])\n-> - **Velocità** [velocità in metri] m\n-> ___\n-> |FOR|DES|COS|INT|SAG|CAR|\n-> |:---:|:---:|:---:|:---:|:---:|:---:|\n-> |[FOR] ([bonus FOR])|[DES] ([bonus DES])|[COS] ([bonus COS])|[INT] ([bonus INT])|[SAG] ([bonus SAG])|[CAR] ([bonus CAR])|\n-> ___\n-> - **[nome competenza]** [competenza]\n-> ___\n-> ## Azioni\n-> **[nome azione]** [descrizione azione]\n-> ___\n-> ## Azioni bonus\n-> **[nome azione bonus]** [descrizione azione bonus]\n-> ___\n-> ## Reazioni\n-> **[nome reazione]** [descrizione reazione]\n\\ No newline at end of file\n"
+		}
+	]
 }
