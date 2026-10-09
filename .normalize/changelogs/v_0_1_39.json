@@ -1,0 +1,26 @@
+{
+	"version": "v 0.1.39",
+	"date": "2026-10-09 23:00:41 +0200",
+	"commit_hash": "0f7814e84871d0081f6406a5a60aeb3fc629cd5d",
+	"commit_message": "aggiornamento 2026 10 09 23:00 [v 0.1.39] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "stat-block/cultista.md",
+			"display_name": "Cultista",
+			"status": "Added",
+			"diff": "commit 72a8457066967e6378b1288de49f55e1456f2dbc\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Oct 9 23:00:41 2026 +0200\n\n    aggiornamento 2026 10 09 23:00 [v 0.1.39] - added template and cultista\n\ndiff --git a/stat-block/cultista.md b/stat-block/cultista.md\nnew file mode 100644\nindex 0000000..e303343\n--- /dev/null\n+++ b/stat-block/cultista.md\n@@ -0,0 +1,24 @@\n+___\n+> ## Cultista\n+> *Umanoide Medio (cultista), qualsiasi allineamento*\n+> ___\n+> - **Classe Armatura** 12 (armatura di cuoio borchiato)\n+> - **Punti Vita** 9 (2d8)\n+> - **Velocità** 9 m\n+> ___\n+> |FOR|DES|COS|INT|SAG|CAR|\n+> |:---:|:---:|:---:|:---:|:---:|:---:|\n+> |11 (+0)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|12 (+1)|\n+> ___\n+> - **Abilità** Religione +2, Inganno +3\n+> - **Sensi** Percezione passiva 10\n+> - **Linguaggi** Comune\n+> - **Sfida** 1/8 (25 PE)\n+> ___\n+> **Fuggi e Disperdi.** Quando il cultista viene colpito da un attacco o fallisce un tiro salvezza, tutti gli altri cultisti entro 6 metri possono usare la propria reazione per muoversi fino a metà della propria velocità senza provocare attacchi di opportunità.\n+> ___\n+> ## Azioni\n+> **Pugnale rituale.** *Attacco con arma da mischia:* +3 al tiro per colpire, portata 1,5 m, un bersaglio. *Colpito:* 6 (2d4 + 1) danni perforanti.\n+> ___\n+> ## Reazioni\n+> **Striscia e Implora (1/giorno).** Se il cultista è <span class='condition condition-bloodied'>Sanguinante</span> e diventa bersaglio di un incantesimo, di una capacità o di un attacco, cade <span class='condition condition-prone'>Prono</span> e implora pietà in modo pietoso. Se la fonte dell'attacco, dell'incantesimo o della capacità si trova entro 9 metri, deve superare un tiro salvezza su Saggezza con CD 10. Se fallisce, deve cambiare il bersaglio dell'incantesimo, della capacità o dell'attacco. Questo conta come un effetto di <span class='condition condition-charmed'>Affascinato</span>.\n"
+		},
+		{
+			"file": "template/incantesimi.md",
+			"display_name": "Incantesimi",
+			"status": "Added",
+			"diff": "commit 72a8457066967e6378b1288de49f55e1456f2dbc\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Oct 9 23:00:41 2026 +0200\n\n    aggiornamento 2026 10 09 23:00 [v 0.1.39] - added template and cultista\n\ndiff --git a/template/incantesimi.md b/template/incantesimi.md\nnew file mode 100644\nindex 0000000..e4c87d5\n--- /dev/null\n+++ b/template/incantesimi.md\n@@ -0,0 +1,15 @@\n+# [nome incantesimo]\n+*[livello]° livello, [scuola di magia]*\n+\n+- **Tempo di lancio:**\n+- **Gittata:**\n+- **Componenti:**\n+- **Durata:**\n+\n+[descrizione]\n+\n+**Ai livelli superiori:**\n+\n+**Classi**:\n+\n+---\n"
+		},
+		{
+			"file": "template/stat-block.md",
+			"display_name": "Stat Block",
+			"status": "Added",
+			"diff": "commit 72a8457066967e6378b1288de49f55e1456f2dbc\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Oct 9 23:00:41 2026 +0200\n\n    aggiornamento 2026 10 09 23:00 [v 0.1.39] - added template and cultista\n\ndiff --git a/template/stat-block.md b/template/stat-block.md\nnew file mode 100644\nindex 0000000..1056330\n--- /dev/null\n+++ b/template/stat-block.md\n@@ -0,0 +1,22 @@\n+___\n+> ## Mostro\n+> *[specie] [Taglia], [allineamento]*\n+> ___\n+> - **Classe Armatura** [CA]\n+> - **Punti Vita** [vita media] ([formula dadi vita])\n+> - **Velocità** [velocità in metri] m\n+> ___\n+> |FOR|DES|COS|INT|SAG|CAR|\n+> |:---:|:---:|:---:|:---:|:---:|:---:|\n+> |[FOR] ([bonus FOR])|[DES] ([bonus DES])|[COS] ([bonus COS])|[INT] ([bonus INT])|[SAG] ([bonus SAG])|[CAR] ([bonus CAR])|\n+> ___\n+> - **[nome competenza]** [competenza]\n+> ___\n+> ## Azioni\n+> **[nome azione]** [descrizione azione]\n+> ___\n+> ## Azioni bonus\n+> **[nome azione bonus]** [descrizione azione bonus]\n+> ___\n+> ## Reazioni\n+> **[nome reazione]** [descrizione reazione]\n\\ No newline at end of file\n"
+		}
+	]
+}
