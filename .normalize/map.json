@@ -57,14 +57,6 @@
 						"warforged.md": "Warforged"
 					},
 					"directories": {}
-				},
-				"template": {
-					"original": "Template",
-					"files": {
-						"incantesimi.md": "Incantesimi",
-						"stat-block.md": "Stat Block"
-					},
-					"directories": {}
 				}
 			}
 		},
