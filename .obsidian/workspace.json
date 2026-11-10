@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "e2d524a213293d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "saghe/01-macrosaga-della-ricerca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-macrosaga-della-ricerca"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +198,23 @@
               "icon": "lucide-list",
               "title": "Struttura di saga-di-capodanno-1312"
             }
+          },
+          {
+            "id": "5bde23249fc99037",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,27 +230,30 @@
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e6228d859635414",
+  "active": "e2d524a213293d25",
   "lastOpenFiles": [
+    "bash/d2utmpz1ipoI",
+    "bash/d2utmpXGNoLe",
+    "bash/d2utmpbCSVN7",
+    "bash/d2utmpD54rJJ",
+    "bash/d2utmp0UlwJv",
+    "bash/d2utmp1ZUz18",
+    "bash/d2utmpuNGQlD",
+    "bash/d2utmpAbMiPP",
+    "todo.md",
+    "saghe/01-macrosaga-della-ricerca.md",
+    "saghe/01-macrosaga-della-ricerca/02-tel-aran-rihod.md",
+    "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
     "bash/d2utmpc4npxF",
     "bash/d2utmpygLhwk",
     "bash/d2utmpgf6kBD",
-    "bash/d2utmpDk3sUx",
-    "bash/d2utmpOFQORj",
-    "bash/d2utmpsYjgSn",
-    "bash/d2utmprxgN2o",
-    "bash/d2utmpyIDmNW",
-    "bash/d2utmpnC1QKr",
-    "bash/d2utmpvd9kHz",
     "artefatti/magici/ashandarei.md",
-    "todo.md",
     "personaggi/non-giocanti/background-pg/tik-rok/runna.md",
-    "saghe/01-macrosaga-della-ricerca/02-tel-aran-rihod.md",
     "saghe/01-macrosaga-della-ricerca/01-arrivo-ad-atlantide.md",
-    "bash/d2utmpVr6EKn",
     "personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md",
     "personaggi/non-giocanti/macrotrama/dontavious-il-signore-delle-ombre.md",
     "personaggi/non-giocanti/macrotrama/darkhen-rahl.md",
@@ -240,14 +267,12 @@
     "personaggi/organizzazioni-gruppi/la-mano-rossa.md",
     "personaggi/non-giocanti/macrotrama/vargas-l-artefice.md",
     "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
-    "saghe/01-macrosaga-della-ricerca.md",
     "personaggi/giocanti/pane.md",
     "personaggi/giocanti/-stregone-orco.md",
     "personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md",
     "personaggi/giocanti/kurnos-guerriero-samurai-elfo-silvano.md",
     "personaggi/giocanti/kurnos-guerriero-samurai-elfo-silvano.jpg",
     "universi/phandalmain/territori-orientali/silviridhe.md",
-    "personaggi/non-giocanti/background-pg/kurnos/eda.md",
     "Pasted image 20260923101008.png",
     "universi/phandalmain/phandalmain.jpg",
     "artefatti/magici/runa-dell-adattamento.jpg",
