@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
+                "file": "saghe/01-macrosaga-della-ricerca/02-tel-aran-rihod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monster-s-spankers"
+              "title": "02-tel-aran-rihod"
             }
           },
           {
@@ -264,17 +264,18 @@
   },
   "active": "2e55a4c383a0b2c4",
   "lastOpenFiles": [
-    "bash/d2utmp56TEth",
-    "bash/d2utmpU6IDUO",
-    "bash/d2utmpMPp5KA",
-    "bash/d2utmpK25EA1",
-    "bash/d2utmp9taHav",
-    "bash/d2utmpZRrmmS",
-    "bash/d2utmpvJNoMQ",
-    "bash/d2utmp4S8iJv",
-    "bash/d2utmpJQFnvi",
-    "bash/d2utmpFZp40d",
-    "bash/d2utmpgPp2S7",
+    "bash/d2utmpLdoInQ",
+    "bash/d2utmpC5DVCH",
+    "bash/d2utmpKO80yj",
+    "bash/d2utmpmxUbiD",
+    "bash/d2utmprEM4z0",
+    "bash/d2utmpkaGbSR",
+    "bash/d2utmpud00J5",
+    "bash/d2utmpFJFXKW",
+    "bash/d2utmpNvDGUQ",
+    "bash/d2utmpcICBEv",
+    "bash/d2utmp42p8ZP",
+    "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
     "saghe/01-macrosaga-della-ricerca/02-tel-aran-rihod.md",
     "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco.md",
@@ -298,7 +299,6 @@
     "universi/phandalmain/atlantide/atlantide.md",
     "personaggi/organizzazioni-gruppi/la-mano-rossa.md",
     "personaggi/non-giocanti/macrotrama/vargas-l-artefice.md",
-    "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
     "personaggi/giocanti/clara-warlock.md",
     "personaggi/giocanti/tik-rok-barbaro-cammino-dei-giganti-halfling.md",
     "personaggi/giocanti/kurnos-guerriero-samurai-elfo-silvano.jpg",
