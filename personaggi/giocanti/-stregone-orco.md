@@ -1,3 +1,0 @@
-[[|Riccardo Berti]]
-# background
-# campagna

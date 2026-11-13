@@ -26,9 +26,9 @@
 	- [x] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]
 		- [x] manca scheda pg
 		- [x] manca background
-	- [ ] Giovanni Paneghal
+	- [ ] [[clara-warlock|Giovanni Paneghal]]
 		- [ ] manca scheda pg
 		- [ ] manca background
-	- [ ] Riccardo Berti
+	- [ ] [[ulliptharic-stregone-aberrante-orco|Riccardo Berti]]
 		- [ ] manca scheda pg
 		- [ ] manca background

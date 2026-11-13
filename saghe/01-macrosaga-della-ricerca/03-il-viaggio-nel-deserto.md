@@ -1,8 +1,11 @@
+|    saga precedente    | saga successiva |   macrosaga di appartenenza    |
+| :-------------------: | :-------------: | :----------------------------: |
+| [[02-tel-aran-rihod]] | nessuna         | [[01-macrosaga-della-ricerca]] |
 # sessioni
 
 ## sessione di venerdì 23 ottobre 2026
 
-Dopo una settimana di riposo, i Monster's Spankers tornano da Roshi per ricevere una nuova missione. Questa volta devono recuperare l'**Electrum**, un minerale raro e unico, necessario agli Artefici per i loro scopi. Il materiale si trova nel deserto a sud-ovest del continente e non è legato al corpo di Darkhen.
+Dopo una settimana di riposo, i [[monster-s-spankers]] tornano da [[roshi]] per ricevere una nuova missione. Questa volta devono recuperare l'Electrum, un minerale più unico che raro. Il materiale si trova nel deserto a sud-ovest del continente.
 
 Roshi consegna al gruppo un foglio magico che si illumina quando un Figlio del Silenzio si trova nelle vicinanze. I Figli del Silenzio sono avventurieri che gli Artefici possono ingaggiare tramite contratto. Il gruppo chiede anche una *Bag of Holding*, ma Roshi non ne ha una a disposizione.
 

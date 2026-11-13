@@ -1,6 +1,5 @@
 ![[sigil-quest-warlock-patto-della-lama-tiefling]]
-#startMaster 
-![[tik-rok-barbaro-cammino-dei-giganti-halfling]]
-#endMaster 
+![[tik-rok-barbaro-cammino-dei-giganti-halfling]] 
 ![[kurnos-guerriero-samurai-elfo-silvano]]
-![[-stregone-orco]]
+![[ulliptharic-stregone-aberrante-orco]]
+![[clara-warlock]]
