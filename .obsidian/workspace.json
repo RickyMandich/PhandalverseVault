@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
+                "file": "saghe/moduli-non-usati/la-gara-del-collezionista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-il-viaggio-nel-deserto"
+              "title": "la-gara-del-collezionista"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,22 +262,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e55a4c383a0b2c4",
+  "active": "1dce2c025a4d0c3c",
   "lastOpenFiles": [
+    "bash/d2utmpajHrlE",
+    "bash/d2utmpKpiLJi",
+    "bash/d2utmpEVf06r",
+    "bash/d2utmpRL9CoX",
+    "bash/d2utmpkm3Gqu",
+    "bash/d2utmpVNgzzG",
+    "bash/d2utmpIHxV2K",
+    "bash/d2utmpnQBMUG",
+    "bash/d2utmpjdBZ2a",
+    "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
     "bash/d2utmpLdoInQ",
     "bash/d2utmpC5DVCH",
-    "bash/d2utmpKO80yj",
-    "bash/d2utmpmxUbiD",
-    "bash/d2utmprEM4z0",
-    "bash/d2utmpkaGbSR",
-    "bash/d2utmpud00J5",
-    "bash/d2utmpFJFXKW",
-    "bash/d2utmpNvDGUQ",
-    "bash/d2utmpcICBEv",
-    "bash/d2utmp42p8ZP",
     "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
     "saghe/01-macrosaga-della-ricerca/02-tel-aran-rihod.md",
-    "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco.md",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco-retro.jpeg",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco.jpeg",
