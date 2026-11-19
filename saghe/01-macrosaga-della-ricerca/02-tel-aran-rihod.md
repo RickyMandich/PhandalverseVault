@@ -1,6 +1,6 @@
-|saga precedente|saga successiva|macrosaga di appartenenza|
-|---|---|---|
-|[[01-arrivo-ad-atlantide]]|[[03-il-viaggio-nel-deserto]]|[[01-macrosaga-della-ricerca]]|
+| saga precedente            | saga successiva               | macrosaga di appartenenza      |
+| -------------------------- | ----------------------------- | ------------------------------ |
+| [[01-arrivo-ad-atlantide]] | [[03-il-viaggio-nel-deserto]] | [[01-macrosaga-della-ricerca]] |
 
 # sessioni
 

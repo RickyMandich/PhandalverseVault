@@ -1,0 +1,2 @@
+una borsa con all'interno uno spazio indefinito a disposizione di chi la usa, se un'altra viene messa all'interno della prima causano un'esplosione che risucchia chiunque non faccia un risultato combinato in salvezza costituzione+destrezza con cd 40 o un nat 20 in uno dei due tiri in un piano casuale (lo stesso per tutti) diverso da quello in cui si trovano
+questa esplosione non lascia tracce da seguire una volta che si chiude

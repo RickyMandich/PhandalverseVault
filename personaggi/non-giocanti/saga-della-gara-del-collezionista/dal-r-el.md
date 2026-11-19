@@ -1,0 +1,2 @@
+è un drago rosso nato nel 100 [[calendario#anni|DP]] e che ha lasciato a soli 50 anni visto che non si trovava nello stile di vita degli altri draghi con cui viveva.
+da quando è scappato di casa ha vissuto come avventuriero nella sua forma umana e sfruttando la sua grande potenza da drago in un paio di secoli è diventato ricco e ha cominciato a ingaggiare altri party di avventurieri per recuperare artefatti e altri reperti magici al posto suo

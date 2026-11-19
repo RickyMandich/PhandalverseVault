@@ -10,19 +10,25 @@
 - [ ] [[dontavious-il-signore-delle-ombre]]
 - [ ] [[torre-bianca]]
 - [ ] [[torre-nera]]
+- [x] [[pennyworth]]
+- [x] [[dal-r-el]]
+- [x] [[stivali-di-eremes]]
+- [x] [[eremes]]
+- [x] ricontrollare [[03-il-viaggio-nel-deserto]]
+- [x] ricontrollare [[04-la-gara-del-collezionista]]
 - party
 	- [x] [[kurnos-guerriero-samurai-elfo-silvano|Cesar Romero]]
 		- [x] manca background
 			- [x] [[silviridhe]]
 			- [x] [[eda]]
 		- [x] manca scheda pg
-	- [ ] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]
+	- [x] [[tik-rok-barbaro-cammino-dei-giganti-halfling|Giuseppe Matranga]]
 		- [x] manca background
 			- [x] [[thurim]]
 			- [x] [[yhun]]
 			- [x] [[runna]]
 			- [x] scrivere [[runa-dell-adattamento]]
-		- [ ] manca scheda pg
+		- [x] manca scheda pg
 	- [x] [[sigil-quest-warlock-patto-della-lama-tiefling|Marco Filippini]]
 		- [x] manca scheda pg
 		- [x] manca background

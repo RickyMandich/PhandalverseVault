@@ -1,21 +1,21 @@
-|    saga precedente    | saga successiva |   macrosaga di appartenenza    |
-| :-------------------: | :-------------: | :----------------------------: |
-| [[02-tel-aran-rihod]] | nessuna         | [[01-macrosaga-della-ricerca]] |
+|    saga precedente    |         saga successiva          |   macrosaga di appartenenza    |
+| :-------------------: | :------------------------------: | :----------------------------: |
+| [[02-tel-aran-rihod]] | [[04-la-gara-del-collezionista]] | [[01-macrosaga-della-ricerca]] |
 # sessioni
 
 ## sessione di venerdì 23 ottobre 2026
 
 Dopo una settimana di riposo, i [[monster-s-spankers]] tornano da [[roshi]] per ricevere una nuova missione. Questa volta devono recuperare l'Electrum, un minerale più unico che raro. Il materiale si trova nel deserto a sud-ovest del continente.
 
-Roshi consegna al gruppo un foglio magico che si illumina quando un Figlio del Silenzio si trova nelle vicinanze. I Figli del Silenzio sono avventurieri che gli Artefici possono ingaggiare tramite contratto. Il gruppo chiede anche una *Bag of Holding*, ma Roshi non ne ha una a disposizione.
+Roshi consegna al gruppo un foglio magico che si illumina quando un [[figli-del-silenzio]] si trova nelle vicinanze. Il gruppo chiede anche una [[borsa-conservante]], ma gli [[artefici]] non ne hanno una a disposizione.
 
-Attraverso un portale, gli avventurieri raggiungono una città di frontiera ai confini settentrionali del deserto, abitata da reietti. Tre medaglioni escono dal portale e si trasformano in cammelli, permettendo al gruppo di affrontare il viaggio. Il foglio magico comincia a indicare il nome di Runna, che Kurnos conosce.
+Attraverso un portale, gli avventurieri raggiungono una città di frontiera ai confini settentrionali del deserto, classico posto ai confini del mondo con negozi di supporto per chi vuole affrontare il deserto e abitato principalmente da persone che non hanno trovato altro posto a questo mondo. Tre amuleti escono dal portale e si trasformano in cammelli, permettendo al gruppo di affrontare il viaggio. Il foglio magico comincia a indicare il nome di [[runna]], che [[kurnos-guerriero-samurai-elfo-silvano]] già conosce: è una guerriera amica di [[eda]] e alle volte hanno fatto degli addestramenti congiunti assieme a lei e al suo apprendista [[tik-rok-barbaro-cammino-dei-giganti-halfling]].
 
-In una taverna incontrano Tik-Rok, un halfling di sessantadue anni e allievo di Runna, che si trova in città proprio per cercarla. Kurnos lo conosce già e i due si salutano. Poco dopo entra Runna. Tik le corre incontro, ma lei lo colpisce con il manico dell'ascia per aver disobbedito al suo ordine di rimanere a casa. La donna è in grado di aumentare enormemente le proprie dimensioni, tornando alla normalità quando si calma. Tik possiede una capacità simile, ma non riesce ancora a controllarla completamente.
+In una taverna incontrano Tik-Rok, che si trova in città proprio per cercarla. Kurnos lo conosce già e i due si salutano. Poco dopo entra Runna. Tik le corre incontro, ma lei lo colpisce con il manico dell'ascia per aver disobbedito al suo ordine di rimanere a casa. La donna è in grado di aumentare enormemente le proprie dimensioni, tornando alla normalità quando si calma.
 
-Durante l'incontro, Sigil Quest tenta di frugare nelle tasche di Runna, ma viene scoperto e punito. Entra quindi il borgomastro e Kurnos gli spiega il motivo della loro visita. L'Electrum è stato rubato dal villaggio di Tardad, situato nel deserto. Non è chiaro se Tardad sia propriamente un villaggio o un clan; da quanto emerge, sembra trattarsi di un accampamento organizzato secondo una struttura a cardo e decumano.
+Durante l'incontro, [[sigil-quest-warlock-patto-della-lama-tiefling]] tenta di frugare nelle tasche di Runna, ma viene scoperto e punito. Entra quindi il borgomastro e Kurnos gli spiega il motivo della loro visita. L'Electrum è stato rubato dal villaggio dei Tardad, situato nel deserto.
 
-Runna spiega di non poter accompagnare il gruppo, perché è impegnata in una missione per impedire il risveglio di un Lich. Quando comprende che anche i Monster's Spankers stanno affrontando la stessa minaccia, ordina a Tik-Rok di unirsi a loro.
+Runna spiega di non poter accompagnare il gruppo, perché è impegnata in una missione per impedire il risveglio di un Lich. Quando comprende che anche i Monster's Spankers stanno affrontando la stessa minaccia e che tik non avrebbe smesso di volerla aiutare, gli ordina di unirsi al gruppo così almeno dovrebbe riuscire a non farsi ammazzare.
 
 Prima di raggiungere l'accampamento, il gruppo viene circondato da figure chiare e incappucciate, armate di lance corte puntate contro i loro colli. Un tentativo di intimidazione peggiora la situazione, ma Kurnos riesce a disinnescare il confronto attraverso la diplomazia. Gli incappucciati riconoscono gli avventurieri come provenienti dalle «terre bagnate» e comprendono che stanno cercando i responsabili del furto dell'Electrum. Fanno anche notare che il gruppo non si era accorto dell'imboscata. Uno di loro viene mandato ad avvisare Amis, mentre gli altri scortano gli avventurieri all'accampamento, mantenendoli sotto sorveglianza.
 

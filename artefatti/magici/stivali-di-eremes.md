@@ -1,0 +1,1 @@
+sono gli stivali che secondo la leggenda appartenevano a [[eremes]] e che ora possono trasmettere parte del suo potere rendendo superveloce chiunque li indossi

@@ -14,9 +14,11 @@
 					"original": "Magici",
 					"files": {
 						"ashandarei.md": "Ashandarei",
+						"borsa-conservante.md": "Borsa Conservante",
 						"il-portale.md": "Il Portale",
 						"la-chiave.md": "La Chiave",
-						"runa-dell-adattamento.md": "Runa dell'Adattamento"
+						"runa-dell-adattamento.md": "Runa dell'Adattamento",
+						"stivali-di-eremes.md": "Stivali Di Eremes"
 					},
 					"directories": {}
 				},
@@ -79,6 +81,7 @@
 						"ao.md": "Ao",
 						"auril.md": "Auril",
 						"chauntea.md": "Chauntea",
+						"eremes.md": "Eremes",
 						"gond.md": "Gond",
 						"il-simulacro.md": "Il Simulacro",
 						"kelemvor.md": "Kelemvor",
@@ -208,6 +211,14 @@
 								"vargas-l-artefice.md": "Vargas -"
 							},
 							"directories": {}
+						},
+						"saga-della-gara-del-collezionista": {
+							"original": "Saga Della Gara Del Collezionista",
+							"files": {
+								"dal-r-el.md": "Dal",
+								"pennyworth.md": "Pennyworth"
+							},
+							"directories": {}
 						}
 					}
 				},
@@ -217,6 +228,7 @@
 						"algariani.md": "Algariani",
 						"artefici.md": "Artefici",
 						"bibliotecari.md": "Bibliotecari",
+						"figli-del-silenzio.md": "Figli Del Silenzio",
 						"gli-asmodeici.md": "Gli Asmodeici",
 						"i-purgatori.md": "I Purgatori",
 						"la-coalizione.md": "La Coalizione",
@@ -238,7 +250,8 @@
 					"files": {
 						"01-arrivo-ad-atlantide.md": "Arrivo Ad Atlantide",
 						"02-tel-aran-rihod.md": "Tel'Aran'Rihod",
-						"03-il-viaggio-nel-deserto.md": "Il Viaggio Nel Deserto"
+						"03-il-viaggio-nel-deserto.md": "Il Viaggio Nel Deserto",
+						"04-la-gara-del-collezionista.md": "Saga della Gara del Collezionista"
 					},
 					"directories": {}
 				},

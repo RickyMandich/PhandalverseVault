@@ -1,0 +1,1 @@
+sono avventurieri che vengono ingaggiati frequentemente dagli [[artefici]] quando hanno bisogno di muscoli per le loro missioni

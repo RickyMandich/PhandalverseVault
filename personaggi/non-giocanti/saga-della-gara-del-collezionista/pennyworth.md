@@ -1,0 +1,1 @@
+è un morfico canico e lavora come maggiordomo per [[dal-r-el]]
