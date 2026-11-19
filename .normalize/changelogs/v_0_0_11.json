@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.11",
+	"date": "2026-11-19 16:55:36 +0100",
+	"commit_hash": "1071222675668f3f0563d64b33c1f141b2155a4e",
+	"commit_message": "aggiornamento 2026 11 19 16:55 [v 0.0.11] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md",
+			"display_name": "Saga della Gara del Collezionista",
+			"status": "Modified",
+			"diff": "commit ca8d9aead7a97df964dc85ae9ba6089504e0842b\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Thu Nov 19 16:55:36 2026 +0100\n\n    aggiornamento 2026 11 19 16:55 [v 0.0.11] - added village in the last session\n\ndiff --git a/saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md b/saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md\nindex 5eaa500..44a22b1 100644\n--- a/saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md\n+++ b/saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md\n@@ -8,7 +8,7 @@\n \n Dopo il ritorno ad Atlantide dalla spedizione nel deserto, i [[monster-s-spankers]] si concedono alcuni giorni di riposo.\n \n-Trascorso questo periodo, [[roshi]] li contatta comunicando di aver individuato alcuni indizi sulla posizione dei restanti pezzi del corpo di [[darkhen-rahl]]. Ricostruendo gli spostamenti dei vari frammenti nel corso degli anni, sono riusciti a rintracciare la sua intera gamba sinistra (dal bacino alla caviglia) all'interno della collezione di \n+Trascorso questo periodo, [[roshi]] li contatta comunicando di aver individuato alcuni indizi sulla posizione dei restanti pezzi del corpo di [[darkhen-rahl]]. Ricostruendo gli spostamenti dei vari frammenti nel corso degli anni, sono riusciti a rintracciare la sua intera gamba sinistra (dal bacino alla caviglia) all'interno della collezione di [[dal-r-el]] che la conserva nella sua reggia a Thal'Nuk\n \n Il gruppo raggiunge quindi il palazzo del collezionista attraverso il portale. All'ingresso viene accolto da [[pennyworth]] che li accompagna all'interno spiegando che [[dal-r-el]] li attende.\n \n@@ -24,4 +24,4 @@ I due gruppi partiranno nello stesso momento e al collezionista non interessa mi\n \n Il gruppo accetta la proposta, dando così inizio alla competizione per il recupero del prezioso artefatto.\n \n-poi vengono accompagnati da [[pennyworth]] in delle stanze in cui possono passare il tempo attendendo il giorno della sfida (sono solo un paio di giorni per ricontattare l'altro gruppo e informarli degli sviluppi)\n\\ No newline at end of file\n+poi vengono accompagnati da [[pennyworth]] in delle stanze in cui possono passare il tempo attendendo il giorno della sfida (sono solo un paio di giorni per ricontattare l'altro gruppo e informarli degli sviluppi)\n"
+		}
+	]
+}
