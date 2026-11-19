@@ -212,6 +212,13 @@
 							},
 							"directories": {}
 						},
+						"nemici": {
+							"original": "Nemici",
+							"files": {
+								"selene.md": "Selene"
+							},
+							"directories": {}
+						},
 						"saga-della-gara-del-collezionista": {
 							"original": "Saga Della Gara Del Collezionista",
 							"files": {
