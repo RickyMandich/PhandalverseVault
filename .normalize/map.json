@@ -12,13 +12,6 @@
 			},
 			"directories": {}
 		},
-		"bash": {
-			"original": "Bash",
-			"files": {
-				"normalizeREADME.md": "Normalizereadme"
-			},
-			"directories": {}
-		},
 		"incantesimi": {
 			"original": "Incantesimi",
 			"files": {},
@@ -309,8 +302,10 @@
 		"stat-block": {
 			"original": "Stat Block",
 			"files": {
+				"cultista-avanzato.md": "Cultista Avanzato",
 				"cultista.md": "Cultista",
 				"mind-flayer.md": "Mind Flayer",
+				"selene.md": "Selene",
 				"spirito-mietitore.md": "Spirito Mietitore",
 				"spirito-non-morto.md": "Spirito Non Morto"
 			},
