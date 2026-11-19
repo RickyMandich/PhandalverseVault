@@ -8,7 +8,7 @@
 
 Dopo il ritorno ad Atlantide dalla spedizione nel deserto, i [[monster-s-spankers]] si concedono alcuni giorni di riposo.
 
-Trascorso questo periodo, [[roshi]] li contatta comunicando di aver individuato alcuni indizi sulla posizione dei restanti pezzi del corpo di [[darkhen-rahl]]. Ricostruendo gli spostamenti dei vari frammenti nel corso degli anni, sono riusciti a rintracciare la sua intera gamba sinistra (dal bacino alla caviglia) all'interno della collezione di 
+Trascorso questo periodo, [[roshi]] li contatta comunicando di aver individuato alcuni indizi sulla posizione dei restanti pezzi del corpo di [[darkhen-rahl]]. Ricostruendo gli spostamenti dei vari frammenti nel corso degli anni, sono riusciti a rintracciare la sua intera gamba sinistra (dal bacino alla caviglia) all'interno della collezione di [[dal-r-el]] che la conserva nella sua reggia a Thal'Nuk
 
 Il gruppo raggiunge quindi il palazzo del collezionista attraverso il portale. All'ingresso viene accolto da [[pennyworth]] che li accompagna all'interno spiegando che [[dal-r-el]] li attende.
 
