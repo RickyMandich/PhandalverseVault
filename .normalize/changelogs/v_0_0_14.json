@@ -1,0 +1,14 @@
+{
+	"version": "v 0.0.14",
+	"date": "2026-11-20 22:14:06 +0100",
+	"commit_hash": "f3820ea885d7d26dfb6584e4f71b9da6926a6346",
+	"commit_message": "aggiornamento 2026 11 20 22:14 [v 0.0.14] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md",
+			"display_name": "Il Dungeon Degli Stivali Di Eremes",
+			"status": "Modified",
+			"diff": "commit 50caaae3dce55d6f542dd10662dcfc80cdbf2aff\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Nov 20 22:14:06 2026 +0100\n\n    aggiornamento 2026 11 20 22:14 [v 0.0.14] - updated real dungeon\n\ndiff --git a/saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md b/saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md\nindex 78b39c6..2c80890 100644\n--- a/saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md\n+++ b/saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md\n@@ -1,3 +1,4 @@\n+#dm\n # Il dungeon degli Stivali di Eremes\n \n ## Panoramica\n"
+		}
+	]
+}
