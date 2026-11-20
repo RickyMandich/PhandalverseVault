@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personaggi/non-giocanti/nemici/selene.md",
+                "file": "saghe/moduli-non-usati/gara-del-collezionista/la-gara-del-collezionista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "selene"
+              "title": "la-gara-del-collezionista"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personaggi/non-giocanti/nemici/selene.md",
+                "file": "saghe/moduli-non-usati/gara-del-collezionista/la-gara-del-collezionista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -236,11 +236,17 @@
   },
   "active": "87f77e7b1dd20c83",
   "lastOpenFiles": [
+    "bash/d2utmpWqMtOj",
+    "bash/d2utmpnmleZA",
+    "bash/d2utmpRyakCM",
+    "bash/d2utmpyUrpK6",
+    "saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md",
+    "saghe/moduli-non-usati/gara-del-collezionista",
+    "personaggi/non-giocanti/nemici/selene.md",
     "personaggi/non-giocanti/nemici/selene.jpg.crdownload",
     "personaggi/non-giocanti/nemici/selene.jpg",
     "todo.md",
-    "personaggi/non-giocanti/nemici/selene.md",
-    "saghe/moduli-non-usati/la-gara-del-collezionista.md",
+    "saghe/moduli-non-usati/gara-del-collezionista/la-gara-del-collezionista.md",
     "personaggi/non-giocanti/nemici",
     "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
     "personaggi/organizzazioni-gruppi/figli-del-silenzio.md",
@@ -258,10 +264,6 @@
     "bash/d2utmprLDyFd",
     "bash/d2utmpMBSL64",
     "bash/d2utmpGiQQR7",
-    "bash/d2utmpvYjHsU",
-    "bash/d2utmpFUfzXL",
-    "bash/d2utmpOO3Ups",
-    "bash/d2utmpYCPpqk",
     "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco.md",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco-retro.jpeg",
@@ -273,7 +275,6 @@
     "personaggi/giocanti/sigil-quest-warlock-patto-della-lama-tiefling.md",
     "personaggi/non-giocanti/macrotrama/dontavious-il-signore-delle-ombre.md",
     "personaggi/non-giocanti/macrotrama/darkhen-rahl.md",
-    "personaggi/non-giocanti/macrotrama/Senza nome 1.md",
     "personaggi/giocanti/kurnos-guerriero-samurai-elfo-silvano.jpg",
     "Pasted image 20260923101008.png",
     "universi/phandalmain/phandalmain.jpg",

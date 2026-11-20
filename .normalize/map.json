@@ -264,10 +264,17 @@
 				},
 				"moduli-non-usati": {
 					"original": "Moduli Non Usati",
-					"files": {
-						"la-gara-del-collezionista.md": "La Gara Del Collezionista"
-					},
-					"directories": {}
+					"files": {},
+					"directories": {
+						"gara-del-collezionista": {
+							"original": "Gara Del Collezionista",
+							"files": {
+								"il-dungeon-degli-stivali-di-eremes.md": "Il Dungeon Degli Stivali Di Eremes",
+								"la-gara-del-collezionista.md": "La Gara Del Collezionista"
+							},
+							"directories": {}
+						}
+					}
 				}
 			}
 		},

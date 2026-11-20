@@ -106,28 +106,7 @@ Non esistono regole che vietino comportamenti scorretti.
 La vittoria si ottiene consegnando gli Stivali a Dal R'el. Non basta trovarli o raggiungere per primi una determinata stanza: bisogna riuscire a riportarli fuori dal dungeon e consegnarli al collezionista.
 
 ## 5. Struttura del dungeon
-
-Il dungeon deve essere breve e adatto a essere esplorato in una sola sessione, lasciando anche tempo per il ritorno. Non è necessario che i personaggi esplorino ogni ambiente: il percorso deve dare spazio a scelte, ostacoli e combattimenti senza trasformarsi in un'esplorazione interminabile.
-
-Non si tratta di un luogo legato a una civiltà o a una mitologia specifica. È un dungeon scoperto di recente, la cui origine può rimanere poco definita. Non aggiungere una nuova civiltà o una nuova mitologia per giustificarne la presenza.
-
-### Indicazioni per la preparazione
-
-- Prevedere alcuni ostacoli ambientali e trappole.
-    
-- Inserire combattimenti contro creature o difese presenti nel dungeon.
-    
-- Dare spazio a entrambi i gruppi per incontrarsi, intralciarsi o separarsi.
-    
-- Lasciare indizi che permettano di capire se la squadra rivale è passata da un'area.
-    
-- Prevedere un percorso ragionevole verso gli Stivali e un percorso di ritorno.
-    
-- Non prevedere riposi lunghi o brevi all'interno del dungeon: la competizione deve mantenere la pressione sui partecipanti.
-    
-
-Gli incontri devono essere distribuiti in modo che il gruppo abbia occasione di combattere, ma senza accumulare un numero eccessivo di avversari contemporaneamente. La squadra di Selene è il principale antagonista, non è necessario che ogni stanza contenga anche nemici aggiuntivi.
-
+![[il-dungeon-degli-stivali-di-eremes]]
 ## 6. Gli Stivali di Eremes
 
 Gli [[stivali-di-eremes]] sono, secondo la leggenda, gli stivali appartenuti a Eremes. Sono in grado di trasmettere parte del suo potere a chi li indossa, rendendolo superveloce.
