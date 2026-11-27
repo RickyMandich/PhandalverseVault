@@ -36,35 +36,21 @@
             }
           },
           {
-            "id": "87f77e7b1dd20c83",
+            "id": "d348fc5db08aa93e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "saghe/moduli-non-usati/gara-del-collezionista/la-gara-del-collezionista.md",
+                "file": "personaggi/giocanti/arcibaldo-stregone-draconico-tiefling-infernale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "la-gara-del-collezionista"
-            }
-          },
-          {
-            "id": "be15531a169a23c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "il-dungeon-degli-stivali-di-eremes"
+              "title": "arcibaldo-stregone-draconico-tiefling-infernale"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md",
+                "file": "personaggi/giocanti/arcibaldo-stregone-draconico-tiefling-infernale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -228,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,22 +235,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be15531a169a23c2",
+  "active": "d348fc5db08aa93e",
   "lastOpenFiles": [
+    "saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md",
+    "saghe/moduli-non-usati/gara-del-collezionista/la-gara-del-collezionista.md",
+    "todo.md",
+    "personaggi/giocanti/arcibaldo-stregone-draconico-tiefling-infernale.md",
+    "saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md",
     "bash/d2utmp1W9oSI",
     "bash/d2utmpMbGF94",
     "bash/d2utmpk4sfQt",
-    "saghe/moduli-non-usati/gara-del-collezionista/la-gara-del-collezionista.md",
     "bash/d2utmpWqMtOj",
     "bash/d2utmpnmleZA",
     "bash/d2utmpRyakCM",
     "bash/d2utmpyUrpK6",
-    "saghe/moduli-non-usati/gara-del-collezionista/il-dungeon-degli-stivali-di-eremes.md",
     "saghe/moduli-non-usati/gara-del-collezionista",
     "personaggi/non-giocanti/nemici/selene.md",
     "personaggi/non-giocanti/nemici/selene.jpg.crdownload",
     "personaggi/non-giocanti/nemici/selene.jpg",
-    "todo.md",
     "personaggi/non-giocanti/nemici",
     "saghe/01-macrosaga-della-ricerca/03-il-viaggio-nel-deserto.md",
     "personaggi/organizzazioni-gruppi/figli-del-silenzio.md",
@@ -274,9 +263,7 @@
     "personaggi/non-giocanti/saga-della-gara-del-collezionista/dal-r-el.md",
     "definizioni/calendario.md",
     "personaggi/non-giocanti/saga-della-gara-del-collezionista/pennyworth.md",
-    "saghe/01-macrosaga-della-ricerca/04-la-gara-del-collezionista.md",
     "saghe/01-macrosaga-della-ricerca.md",
-    "personaggi/non-giocanti/saga-della-gara-del-collezionista",
     "saghe/01-macrosaga-della-ricerca/02-tel-aran-rihod.md",
     "personaggi/organizzazioni-gruppi/monster-s-spankers.md",
     "personaggi/giocanti/ulliptharic-stregone-aberrante-orco.md",

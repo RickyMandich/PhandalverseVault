@@ -36,5 +36,8 @@
 		- [ ] manca scheda pg
 		- [ ] manca background
 	- [ ] [[ulliptharic-stregone-aberrante-orco|Riccardo Berti]]
+		- [x] manca scheda pg
+		- [ ] manca background
+	- [ ] [[arcibaldo-stregone-draconico-tiefling-infernale|Luca Mione]]
 		- [ ] manca scheda pg
 		- [ ] manca background
