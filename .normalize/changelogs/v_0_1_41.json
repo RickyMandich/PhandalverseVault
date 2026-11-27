@@ -1,0 +1,20 @@
+{
+	"version": "v 0.1.41",
+	"date": "2026-11-27 15:40:21 +0100",
+	"commit_hash": "915d9acb9adf3c33d1c20291d391f50a6db8a4d8",
+	"commit_message": "aggiornamento 2026 11 27 15:40 [v 0.1.41] - aggiunti file di changelog",
+	"changes": [
+		{
+			"file": "incantesimi/tutti/passo-velato.md",
+			"display_name": "Passo Velato",
+			"status": "Added",
+			"diff": "commit 23a814a291861e93d53fce8dfe6f73505ae693de\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Nov 27 15:40:21 2026 +0100\n\n    aggiornamento 2026 11 27 15:40 [v 0.1.41] - added obsidian vault, added spell passo velato, edited selene to refer the spell pages\n\ndiff --git a/incantesimi/tutti/passo-velato.md b/incantesimi/tutti/passo-velato.md\nnew file mode 100644\nindex 0000000..73afbdb\n--- /dev/null\n+++ b/incantesimi/tutti/passo-velato.md\n@@ -0,0 +1,15 @@\n+# passo velato\n+*2° livello, Evocazione*\n+\n+- **Tempo di lancio:** 1 azione bonus\n+- **Raggio d'azione:** Incantatore\n+- **Componenti:** V\n+- **Durata:** Istantaneo\n+\n+L'incantatore è avvolto per un istante da una foschia argentata e si teletrasporta di un massimo di 9 metri fino a uno spazio libero che egli sia in grado di vedere.\n+\n+**Classi:** Stregone, Mago, Warlock\n+\n+**Sorgente:** [https://dungeonsanddragons.fandom.com/it/wiki/Passo_Velato](https://dungeonsanddragons.fandom.com/it/wiki/Passo_Velato)\n+\n+---\n\\ No newline at end of file\n"
+		},
+		{
+			"file": "stat-block/selene.md",
+			"display_name": "Selene",
+			"status": "Modified",
+			"diff": "commit 23a814a291861e93d53fce8dfe6f73505ae693de\nAuthor: RickyMandich <ricky.mandich@gmail.com>\nDate:   Fri Nov 27 15:40:21 2026 +0100\n\n    aggiornamento 2026 11 27 15:40 [v 0.1.41] - added obsidian vault, added spell passo velato, edited selene to refer the spell pages\n\ndiff --git a/stat-block/selene.md b/stat-block/selene.md\nindex 00a3a97..9a136aa 100644\n--- a/stat-block/selene.md\n+++ b/stat-block/selene.md\n@@ -24,9 +24,9 @@ ___\n >\n > Può lanciare i seguenti incantesimi, senza bisogno di componenti materiali:\n >\n-> - **A volontà:** *mano magica*, *luci danzanti*\n-> - **3/giorno ciascuno:** *scudo*, *onda tonante*\n-> - **2/giorno:** *passo velato*\n+> - **A volontà:** [[incantesimi/tutti/mano-magica|mano-magica]], [[incantesimi/tutti/luci-danzanti|luci-danzanti]]\n+> - **3/giorno ciascuno:** [[incantesimi/tutti/scudo|scudo]], [[onda-tonante]]\n+> - **2/giorno:** [[passo-velato]]\n > ___\n > ## Azioni\n > **Multiattacco.** Selene effettua due attacchi con la Spada arcana.\n"
+		}
+	]
+}
