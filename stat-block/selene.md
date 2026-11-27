@@ -24,9 +24,9 @@ ___
 >
 > Può lanciare i seguenti incantesimi, senza bisogno di componenti materiali:
 >
-> - **A volontà:** *mano magica*, *luci danzanti*
-> - **3/giorno ciascuno:** *scudo*, *onda tonante*
-> - **2/giorno:** *passo velato*
+> - **A volontà:** [[incantesimi/tutti/mano-magica|mano-magica]], [[incantesimi/tutti/luci-danzanti|luci-danzanti]]
+> - **3/giorno ciascuno:** [[incantesimi/tutti/scudo|scudo]], [[onda-tonante]]
+> - **2/giorno:** [[passo-velato]]
 > ___
 > ## Azioni
 > **Multiattacco.** Selene effettua due attacchi con la Spada arcana.
